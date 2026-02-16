@@ -1,0 +1,78 @@
+Type,Label,Internal ID,Compact Display,Summary,Chronological Position,Narrative Position,Color,Parent,Ongoing,Start Date,Latest Start Date,Earliest End Date,End Date,Duration,Child Range,Tags,Blocked by,Blocks,Constraints,Links,Image (Links only),Participant,Participant (Compact display),Observer,Observer (Compact display),Story Arc,Story Arc (Compact display),Location,Location (Compact display),Relates to,Relates to (Compact display)
+"Event","Dorothy lives an ordinary life on the Kansas prairie","EV24","Dorothy lives an ordinary life",,1,,"Green",,False,1900-07-15,,,1900-07-15,"0 seconds",,"","","","","",,"Dorothy","Dorothy","","","","","","","",""
+"Event","A tornado appears and carries Dorothy and Toto away in their house","EV1","A tornado appears and carries ",,2,,"Green",,False,1900-07-15,,,1900-07-15,"1 day",,"","","","","",,"Dorothy
+Toto","Dorothy
+Toto","","","","","","","",""
+"Event","The house finally comes down. Dorothy and Toto find themselves in a strange land.","EV2","The house finally comes down. ",,3,,"Green",,False,1900-07-16,,,1900-07-16,"0 seconds",,"","","","","",,"Dorothy
+Toto","Dorothy
+Toto","","","Journey Home","Journey Home","","","",""
+"Event","Dorothy  meets the Good Witch, who guides her to visit the Wizard in the Emerald City","EV5","Dorothy  meets the Good Witch,","Dorothy discovers her house landed on an evil witch, freeing the Munchkins from her tyranny. The Good Witch gives Dorothy the Witch's silver shoes.",4,,"Green",,False,1900-07-16,,,1900-07-16,"0 seconds",,"","","","","",,"Dorothy
+The Good Witch","Dorothy
+The Good Witch","","","Journey Home
+Good vs Evil","Journey Home
+Good vs Evil","","","",""
+"Event","Dorothy meets the talking Scarecrow who wants a brain","EV29","Dorothy meets the talking Scar",,5.1,,"Green","Dorothy and her companions tra",False,1900-07-17,,,1900-07-17,"0 seconds",,"","","","","",,"Dorothy
+Scarecrow","Dorothy
+Scarecrow","Toto","Toto","","","","","",""
+"Event","Dorothy and her companions travel along the Yellow Brick Road","EV9","Dorothy and her companions tra",,5,,"Green",,False,1900-07-17,,,1900-07-23,"1 week",,"","","","","",,"","","","","Journey Home","Journey Home","","","",""
+"Event","Dorothy meets the Tin Man who wants a heart","EV30","Dorothy meets the Tin Man who ",,5.2,,"Green","Dorothy and her companions tra",False,1900-07-18,,,1900-07-18,"0 seconds",,"","","","","",,"Dorothy
+Toto
+Scarecrow
+Tin Man","Dorothy
+Toto
+Scarecrow
+Tin Man","","","","","","","",""
+"Event","Dorothy meets the Cowardly Lion who wants courage","EV13","Dorothy meets the Cowardly Lio",,5.3,,"Green","Dorothy and her companions tra",False,1900-07-19,,,1900-07-19,"0 seconds",,"","","","","",,"Dorothy
+Cowardly Lion","Dorothy
+Cowardly Lion","Toto
+Scarecrow
+Tin Man","Toto
+Scarecrow
+Tin Man","","","","","",""
+"Event","Arrival at the Emerald City. The companions make a deal with the Wizard.","EV14","Arrival at the Emerald City. T","The Wizard agrees to help them in exchange for the Wicked Witch’s broomstick.",6,,"Teal",,False,1900-07-24,,,1900-07-24,"0 seconds",,"","","","","",,"Dorothy
+Toto
+Scarecrow
+Tin Man
+Cowardly Lion
+The Wizard","Dorothy
+Toto
+Scarecrow
+Tin Man
+Cowardly Lion
+The Wizard","","","Journey Home
+Good vs Evil","Journey Home
+Good vs Evil","","","",""
+"Event","The Wicked Witch sends flying monkeys to attack","EV31","The Wicked Witch sends flying ",,7,,"Red",,False,1900-07-25,,,1900-07-25,"0 seconds",,"","","","","",,"The Wicked Witch","The Wicked Witch","","","Good vs Evil","Good vs Evil","","","",""
+"Event","Dorothy and the Lion are captured","EV32","Dorothy and the Lion are captu",,8,,"Red",,False,1900-07-26,,,1900-07-26,"1 day",,"","","","","",,"Dorothy
+Cowardly Lion","Dorothy
+Cowardly Lion","","","Good vs Evil","Good vs Evil","","","",""
+"Event","Dorothy defeats the Wicked Witch","EV16","Dorothy defeats the Wicked Wit","Dorothy spills water on the Witch, which destoys her. The winged monkeys carry the companions back to the Emerald City.",9,,"Red",,False,1900-07-27,,,1900-07-27,"0 seconds",,"","","","","",,"Dorothy
+The Wicked Witch","Dorothy
+The Wicked Witch","","","Good vs Evil","Good vs Evil","","","",""
+"Event","The Wizard is revealed to be a fraud","EV17","The Wizard is revealed to be a","Toto pulls back the Wizard’s curtain, revealing he’s an ordinary man. However, he explains the companions each already have what they desired all along.",10,,"Teal",,False,1900-07-28,,,1900-07-27,"1 hour",,"","","","","",,"Dorothy
+Toto
+Scarecrow
+Tin Man
+Cowardly Lion
+The Wizard","Dorothy
+Toto
+Scarecrow
+Tin Man
+Cowardly Lion
+The Wizard","","","Journey Home
+Good vs Evil","Journey Home
+Good vs Evil","","","",""
+"Event","Dorothy returns home to Kansas with Toto","EV18","Dorothy returns home to Kansas",,11,,"Green",,False,1900-07-29,,,1900-07-29,"1 day",,"","","","","",,"Dorothy
+Toto","Dorothy
+Toto","","","Journey Home","Journey Home","","","",""
+"Character","Dorothy","PER1","Dorothy",,,,"Purple","The Companions",False,,,,,"0 seconds",,"","","","","",,"","","","","","","","","",""
+"Character","Toto","PER2","Toto",,,,"Indigo","The Companions",False,,,,,"0 seconds",,"","","","","",,"","","","","","","","","",""
+"Character","Scarecrow","PER7","Scarecrow",,,,"Blue","The Companions",False,,,,,"0 seconds",,"","","","","",,"","","","","","","","","",""
+"Character","Tin Man","PER8","Tin Man",,,,"Blue","The Companions",False,,,,,"0 seconds",,"","","","","",,"","","","","","","","","",""
+"Character","Cowardly Lion","PER9","Cowardly Lion",,,,"Blue","The Companions",False,,,,,"0 seconds",,"","","","","",,"","","","","","","","","",""
+"Character","The Good Witch","PER4","The Good Witch",,,,"Blue",,False,,,,,"0 seconds",,"","","","","",,"","","","","","","","","",""
+"Character","The Wicked Witch","PER6","The Wicked Witch",,,,"Orange",,False,,,,,"0 seconds",,"","","","","",,"","","","","","","","","",""
+"Character","The Wizard","PER10","The Wizard",,,,"Teal",,False,,,,,"0 seconds",,"","","","","",,"","","","","","","","","",""
+"Character Group","The Companions","CG2","The Companions",,,,"Teal",,False,,,,,"0 seconds",,"","","","","",,"","","","","","","","","",""
+"Story Arc","Journey Home","ARC1","Journey Home",,,,"Red",,False,,,,,"0 seconds",,"","","","","",,"","","","","","","","","",""
+"Story Arc","Good vs Evil","ARC2","Good vs Evil",,,,"Red",,False,,,,,"0 seconds",,"","","","","",,"","","","","","","","","",""
