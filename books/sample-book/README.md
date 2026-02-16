@@ -84,7 +84,9 @@ Place cover images in `assets/covers/`:
 - **PDF layout**: Edit `assets/templates/pdf-template.latex`
 - **HTML layout**: Edit `assets/templates/html-template.html`
 
-## GitHub Actions Integration
+## Publishing
+
+### GitHub Releases (EPUB, PDF, HTML)
 
 The workflow `.github/workflows/publish-book.yml` will:
 
@@ -93,6 +95,47 @@ The workflow `.github/workflows/publish-book.yml` will:
 3. Generate EPUB, PDF, and HTML for each enabled language
 4. Create a GitHub release with all formats
 5. Upload artifacts for review
+
+### GitHub Pages (Web Reader)
+
+The workflow `.github/workflows/publish-book-to-pages.yml` publishes an online book reader:
+
+**Published URL**: `https://[username].github.io/wombat-saga/books/sample-book/`
+
+Features:
+- Beautiful web reader interface
+- Multi-language switching
+- Chapter navigation (arrow keys work!)
+- Mobile-responsive design
+- Dark mode support
+
+**To publish**:
+```bash
+# Push to main (auto-deploys)
+git push origin main
+
+# Or tag a release
+git tag book-sample-book-v1.0.0
+git push origin book-sample-book-v1.0.0
+```
+
+### Local Preview
+
+Preview the book locally before publishing:
+
+```bash
+cd books/sample-book
+
+# Preview in default language (English)
+./scripts/preview.sh
+
+# Preview specific language
+./scripts/preview.sh es    # Spanish
+./scripts/preview.sh fr    # French
+./scripts/preview.sh de    # German
+```
+
+Opens the book in your default browser with navigation.
 
 ## Translation Status Tracking
 

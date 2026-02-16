@@ -58,6 +58,29 @@ git push origin book-sample-book-v1.0.0
 
 **Manual dispatch**: Go to Actions → Publish Book → Run workflow
 
+### 5. Publish Book to GitHub Pages (`publish-book-to-pages.yml`)
+
+Publishes an interactive book reader to GitHub Pages:
+
+- **Online reader**: Beautiful web interface for reading
+- **Multi-language**: Language switcher for all translations
+- **Chapter navigation**: Previous/Next with keyboard shortcuts
+- **Mobile-friendly**: Responsive design for all devices
+
+**Published URL**: `https://[username].github.io/wombat-saga/books/[book-id]/`
+
+**Triggers:**
+- Push to `main` with changes in `books/`
+- Tag push: `book-{id}-v{version}`
+- Manual dispatch
+
+**Local preview**:
+```bash
+cd books/sample-book
+./scripts/preview.sh [language]
+# Opens browser with book preview
+```
+
 ## Usage
 
 ### Creating a Release
