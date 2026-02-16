@@ -22,7 +22,7 @@ My wings, I should mention, are still too short. This is a juvenile thing. My bo
 
 But the vine pulled.
 
-Not physically — it wasn't dragging me or anything dramatic like that. But the resonance in my skull chambers pointed southeast like a compass needle, and standing still felt increasingly wrong, like holding your breath when your body really, really wants to exhale.
+The resonance in my skull chambers pulled me southeast like a compass needle, a deep, internal wrongness that grew the longer I stood still.
 
 I looked back at Mum one last time. She was still on her Eucalyptus branch, still staring at the void where the Silver Wattle used to be, but her crest had gone up when I screamed. That was something. That was a crack in her internal sanctuary, a hairline fracture in the crystal of her grief. I wanted to say goodbye properly, to explain that I was carrying the Silver Wattle's memory to a new tree, to tell her that the Noble Noise had a return again if she would just listen for it.
 
@@ -56,7 +56,7 @@ I rose. Slowly, jerkily, like a kite being pulled by a child who hasn't quite fi
 
 The Heavy Breath got colder as I climbed. That's the thing about heart-shaped worlds — up means toward the center, toward Elen-Nico, and the center is 140 kilometres away. The air thins gradually, not all at once. You don't hit a wall; you just notice, gradually, that your wings are working harder for less result.
 
-I found a current. Not a thermal — I don't have the skill for thermals yet — but a line of air moving southeast, the Rómen-Sírë, the rare East-Flow that carries moist air from the Jacaranda territory. I locked into it, letting the current do the work while my wings rested in brief, precious glides. My Talan-Tië — my actual track across the ground — was southeast, even if my Napa-Tië — where my beak pointed — kept drifting with the Lasta, the lateral offset of crosswinds.
+I found a line of air moving southeast, the Rómen-Sírë, a rare East-Flow carrying moist air from the Jacaranda territory. I locked into it, letting the current do the work while my wings rested in brief, precious glides. My Talan-Tië — my actual track across the ground — was southeast, even if my Napa-Tië — where my beak pointed — kept drifting with the Lasta, the lateral offset of crosswinds.
 
 The vine approved. The hum steadied, became a drone, a carrier wave that my skull chambers could lock onto. It was pulling me toward the Rómen-Sírë — the East-Flow from the Jacaranda territory, a wind that shouldn't exist in the normal circulation of Hún Nico, but did. It was like having a map written directly into my nervous system. Southeast. Always southeast. If I were a better flier, I might have found a Tië-Ringa — a Cloud Street, a highway of thermals allowing for long glides without flapping. But I didn't have the skill to read the air that way. I just followed the hum.
 
@@ -159,7 +159,7 @@ IMAGE PROMPT 8: The Dive
 Cooroo folding his wings and dropping like a stone toward the Shattered Gorge below. His body is a compact pink-grey blur, the Morning Glory vine clutched tight. The Wedgies overshoot above, caught by surprise by this violation of their probability calculations - their vectors extending into empty air where the Galah should have been. The Gorge opens beneath him like a crack in the world - a jagged tear where crystal meets stone. Air rushing past, feathers flat against his body. Style: vertical action, sense of falling, desperate gamble, motion blur, vertical composition.
 -->
 
-I dropped like a stone. Not gracefully — grace was never an option — but purposefully, folding my wings tight against my body and letting gravity do what gravity does to objects with insufficient lift and excessive hope. The air rushed past. The Wedgies, caught by surprise by this sudden violation of their probability calculations, overshot.
+I dropped like a stone, a purposeful dive, folding my wings tight against my body and surrendering to gravity's pull. The air rushed past. The Wedgies, caught by surprise by this sudden violation of their probability calculations, overshot.
 
 <!--
 IMAGE PROMPT 9: The Crevice Impact
@@ -436,9 +436,7 @@ IMAGE PROMPT 22: The Jacaranda Clearing
 The clearing around the Jacaranda - alive with grass thick and soft, flowers dotting the ground in colors forgotten - yellow, white, brave red. The air thick with scent, moisture, the weight of living things. Like stepping into the past, into the Glory Days. But at the edges, the crystal still tries to push upward - hexagonal formations intruding, trying to tile and failing. The Jacaranda's roots - shallow, wide, fractal - break the lattice, create defects. The pause between beats made permanent, the concentrated sky made wood. Cooroo walks forward in wonder, claws sinking into loamy soil. Style: lush paradise, magical clearing, life vs crystal at edges, vibrant colors, sense of sanctuary.
 -->
 
-The tree was impossible.
-
-Not impossible like the Emu — that had been unexpected, unprecedented, but still within the realm of things that could exist. The Jacaranda was impossible on a structural level. It shouldn't have been here. It shouldn't have been alive. It shouldn't have been blooming.
+The Jacaranda was a heresy against the foundational logic of the Great Disconnection, a living break in the Structural Rigidity itself. It shouldn't have been here. It shouldn't have been alive. It shouldn't have been blooming.
 
 <!--
 IMAGE PROMPT 23: The Impossible Tree
@@ -459,7 +457,7 @@ The Jacaranda didn't speak as I approached. Trees don't, not in words. But it wa
 
 I reached the trunk. The bark was smooth, grey-brown, foreign. Nothing like the Silver Wattle's rough gold. I raised the Morning Glory vine — wilted now, barely alive, but the root ball was intact, still carrying the memory in its cells.
 
-"I brought you something," I said. My voice sounded small in the clearing, smaller than it should have been. "It's not much. It's a weed, actually. A parasite. The old stories say Morning Glories used to steal water from the Silver Wattle, back when there was water to steal."
+"I brought you something," I said, and my voice, though quiet, was clear. "It's the last living piece of the Silver Wattle's memory. The stories call the Morning Glory a parasite, a water-thief from the Glory Days. But this one... this one is a survivor."
 
 The Jacaranda said nothing. The wind moved through its branches, making the violet blooms sway, but that was just physics. Wasn't it?
 
@@ -476,7 +474,7 @@ I pressed the vine against the bark. The contact was electric — not painful, b
 
 The transfer wasn't immediate. It wasn't dramatic. I stood there, holding the vine against the Jacaranda's trunk, feeling the hum build between them. The vine's frequency — lilac, chaotic, fractal — meeting the tree's frequency — violet, ordered but not crystalline, organic but not native.
 
-And then it happened. Not grafting — the vine didn't sink roots into the bark, didn't become physically part of the tree. But something flowed. The memory that the Morning Glory held — two hundred years of Silver Wattle resonance, the golden Chorus, the Rosella Parliament, the Glory Days that Mum retreated into — it moved.
+And then, Samanvaya. The Arnam-Rain of memory poured forth. The Morning Glory became a living conduit, its lilac frequency resonating with the Jacaranda, releasing two hundred years of Silver Wattle resonance: the golden Chorus, the Rosella Parliament, the Glory Days that Mum retreated into. The dry code of the world drank deep.
 
 Through the Jacaranda. Into it. Through it.
 
@@ -536,8 +534,6 @@ Beyond them, at the edge of seeing, older harmonies faded — the great leaps, t
 *You are not here to fix the Song, Cooroo,* the tree vibrated. *You are here to scream the Truth.*
 
 *The map stops here. But the world doesn't.*
-
-*Assemble the team. Occupy the cracks. Heal the world.*
 
 I sat down in the grass. My wings were done. My claws were cramped. My skull chambers were ringing with frequencies I didn't have names for.
 
