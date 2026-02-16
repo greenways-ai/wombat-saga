@@ -5,7 +5,7 @@ BONUS IMAGE PROMPT: Chapter Cover Image
 Epic composition for Chapter 3: Hoebat the wombat standing in the rain of the Gray Grotto, trowel in paw, surrounded by the darkness of failing infrastructure. Behind him, the distant blue glow of the Melborow Frequency. Before him, deeper darkness where he works. Ghost images overlay: Pokero's golden eyes in firelight, the five Kappa Mu members in the Root Chamber, Cooroo screaming in the dawn. The rain falls on concrete and fur. Tagline: "The Melborow Frequency." Style: noir urban fantasy, rain effects, layered composition, blue and gray palette with touches of firelight and violet.
 -->
 
-### The Gutter
+### The Grotto
 
 <!--
 IMAGE PROMPT 1: The Gray Grotto
@@ -297,66 +297,69 @@ Lolaboo follows.
 ---
 
 
-## Chapter 4: The Click
+### The Cipher
 
-<!--
-IMAGE PROMPT 22: The Click
-Hoebat standing alone in the Gray Grotto rain, years after that first night. The realization - The Click - happening in his chest, his sternum, the architectural keystone of his body. A vibration, a resonance, understanding shifting into place like a key turning. The Haiku verses floating around him, words rearranging themselves: "Light are blind, shadows hold truth." Rain falls on his fur. Clay is still under his claws from the night's repairs. The streetlights remain smashed. The Dead Zone has spread. But he understands now. Style: revelation moment, rain atmosphere, text visualization, internal shift, solitary understanding.
--->
+We walk. The rain doesn't stop. Lolaboo's worried questions are a buzzing somewhere behind me, but I can't hear them. My mind is a grinding stone, turning over two small, hard objects, feeling their edges.
 
-The realisation comes in the rain. These things always do.
+Two haikus. Fifteen syllables each.
 
-I'm standing in the Gray Grotto. Years after that first night with Lolaboo, years after the Root Chamber, years after the exile. The streetlights are still smashed. The Dead Zone has spread — more tunnels abandoned, more neglect, more temporal cropping as the Council pulls resources back to the centre, hollowing out the periphery to feed the core, which is what empires do when they're dying: they eat their own edges.
 
-I'm thinking about Pokero's words. *Look where the Dingoes don't hunt.*
+The first is from the campfire, years ago. The one I threw back at him that earned his silence, the highest compliment a Dingo gives. My philosophy, compressed into a blade:
 
-I've been carrying those words for years. Not in my mind — in my body. The way you carry a stone in your pocket until the pocket takes the shape of the stone and the stone takes the warmth of your leg and eventually you forget which is stone and which is flesh. Pokero's words have lived in me like that. A physical weight. An unresolved mass.
+> *Shun the light*
+> *Reaping where dingoes are blind.*
+> *Shadows hold our lives.*
 
-<!--
-IMAGE PROMPT 23: The Private Frequency
-Artistic visualization of the hidden message in Pokero's words. The phrase "look where the Dingoes don't hunt" superimposed over Hoebat's haiku "Do not hunt the light / Look where the dingoes are blind / Shadows hold the truth." Words cross out, subtract, reveal the hidden message: "Light are blind, shadows hold truth." The rain continues to fall. The alley is dark. Years of carrying the weight in his body, waiting for the clay to cure, the bond to set. Pokero's game, played across time and distance. Style: typographic revelation, puzzle solving, rain atmosphere, textual art, moment of clarity.
--->
+It was a good move. Poetic. A statement of purpose.
 
-And then — standing in the rain, in the dark, with clay still under my claws from the night's repairs — I think of the campfire. The Haiku game. Our private verses. The ones nobody else ever heard.
+The second is the one he just gave me. Dropped into the alley like a spent shell casing. Not poetry. An intelligence brief.
 
-Pokero's move:
+> *Shun the rot*
+> *Seek not where dingoes do hunt.*
+> *Your walls hold your dead*
 
-> *Fat paws press dead ground,*
-> *Blind roots choke on their own depth,*
-> *Stones that call it home.*
+I hold them side-by-side in my mind. The old rhythm and the new one.
 
-My counter:
+*Shun the light* becomes *Shun the rot*.
 
-> *Do not hunt the light,*
-> *Look where the dingoes are blind,*
-> *Shadows hold the truth.*
+*Reaping where dingoes are blind* becomes *Seek not where dingoes do hunt*.
 
-Two haikus. Two creatures. A conversation compressed into thirty-four syllables that only we could read.
+*Shadows hold our lives* becomes *Your walls hold your dead*.
 
-And suddenly his parting words in the Grotto — *look where the Dingoes don't hunt* — aren't just advice. They're a move. He's playing the game. After all these years, across all this distance, he reached back to those campfire nights and made a move.
 
-My mind works slowly, methodically, the way it works when I'm packing clay into a fracture. Not rushing. Not leaping. Feeling the shape of the gap before filling it. Crossing out words. Subtracting Pokero's parting phrase from my own haiku the way you subtract the mould from the casting, the negative from the positive, the silence from the sound.
+-----
 
-*Look, where, the, dingoes, do, not, hunt.*
 
-Remove those syllables from my verse. What remains?
 
-What remains is what was always there, hiding in the negative space the way a fossil hides in rock — not added but revealed, not created but uncovered, waiting for the right erosion:
 
-> **"Light are blind, shadows hold truth."**
 
-Not just directions. A diagnosis.
 
-*The Council — the Light — is blind to the reality of the collapse. The truth of the world is hiding in the shadows, and we must go there to protect it.*
 
-The Click.
+It happens right there, in the rain, with my paws splashing through the Council's neglect. It isn't a memory resurfacing. It's a key turning. Dingoes don't just do this for effect. The Haiku battle isn't just a game.
 
-I feel it in my chest. Not my mind — my chest. The sternum. The deep bone where a wombat's centre of gravity lives, the architectural keystone of our body, the bone that holds the weight of the shoulders and transfers it downward into the legs and through the paws into the earth. The Click happens there — a vibration, a resonance, the mechanical shifting of understanding into place. Like a key turning. Like a joint settling. Like the moment when fresh clay bonds with living soil and you feel the fracture close and the weight redistribute and the tunnel — for now, for this moment — decides to hold.
+It's a cipher.
 
-Pokero was playing the game. He made his move years ago in that alley, dropped his fifteen syllables into the rain, and walked away. And I — slow, methodical, a wombat to the marrow — have been carrying those syllables in my body ever since, waiting for the clay to cure, waiting for the bond to set, waiting for the patient chemistry of understanding to complete its work.
+Pokero didn't just give me advice. He gave me a key and a lock. He took our old private language and upgraded it from philosophy to espionage. The first haiku was about *being*. The new one is about *doing*.
 
-The deepest knowing isn't intellectual. It's geological. It happens at the speed of rock. It happens in the body, in the bones, in the paws pressed flat against cold earth. You don't think your way to truth. You weather your way there. You stand in the rain long enough and the rain, through sheer persistence, teaches you the shape of your own face.
+He's telling me our situation has changed. The game isn't about poetic insults by a campfire anymore. It's about survival in a city that's actively trying to bury its living. Trum-Bat is building tombs.
 
+And Pokero—my friend, my brother in the Kappa Mu, the operative sitting in the room with the morticians—is defining the battlefield.
+
+*Seek not where dingoes do hunt.*
+
+He's not telling me where to avoid. He's telling me where *he* is. He's establishing a safe zone. A field of operations. He is hunting in the Dead Tissue, the places the Council has already written off.
+
+The living are somewhere else.
+I stop walking. The water pools around my paws.
+
+"Hoebat?" Lolaboo's voice, finally breaking through.
+
+"The plans have changed," I say. I know where to go now. Not to the address on the lying app. Not to the next scheduled repair.
+
+To the edges. To the places the Dingoes *don't* hunt. To the living tissue on the verge of being consumed by the rot.
+
+
+<<<<<<< Local Changes
 <!--
 IMAGE PROMPT 24: Cooroo's Dawn Scream
 Far away in the Violet Zone, Cooroo screams a frequency check into the dawn. The Noble Noise travels through the root-network, the Jacaranda's shallow roots carrying the vibration. Hoebat feels it in his paws, the response echoing back changed. The Galah is a pink shape against violet sky and golden dawn light. The connection is made - the Mind of the Squad awake. The root network pulses with violet life. Style: dawn light, connection across distance, sound visualization, hope renewed, network coming alive.
@@ -394,3 +397,44 @@ But I am a wombat. And wombats endure.
 **End of Chapter 3: The Melborow Frequency**
 
 *Next: The Wall Goes Up*
+||||||| Old File
+<!--
+IMAGE PROMPT 24: Cooroo's Dawn Scream
+Far away in the Violet Zone, Cooroo screams a frequency check into the dawn. The Noble Noise travels through the root-network, the Jacaranda's shallow roots carrying the vibration. Hoebat feels it in his paws, the response echoing back changed. The Galah is a pink shape against violet sky and golden dawn light. The connection is made - the Mind of the Squad awake. The root network pulses with violet life. Style: dawn light, connection across distance, sound visualization, hope renewed, network coming alive.
+-->
+
+Far away — I feel it rather than know it — something answers. A vibration in the root-network. A frequency shift. Somewhere in the Violet Zone, where the Jacaranda's shallow roots spread wide across the surface, Cooroo picks up the signal. The Galah — that loud, pink, stubbornly purposeless bird — screams a check into the dawn. The echo returns changed.
+
+The Mind of the Squad is awake.
+
+The signal confirms what the bones already know. The Kappa Mu is active. The cipher that Pokero planted in the rain — hidden inside a private game that only two creatures in the world knew how to play — has germinated in the dark of my ribcage, and the root it sends out connects to every other member through the network of shallow roots that the Jacaranda taught us to trust.
+
+I know where to go now. I understand the mission.
+
+Not to save the Centre. The Centre is calcified, lost, addicted to its own Frequency. You can't save something that has mistaken its sickness for health, its numbness for comfort, its crystallisation for stability.
+
+To work in the shadows. To hold the edges. To find the places where the Dingoes don't hunt — the places where the spirit hasn't left, where the soil still breathes, where the **Geometry** hasn't completely won. To be the Living Root, not the Dead Branch.
+
+Some arrive at this understanding through the body. Through exile. Through the long, slow education of standing in a place until the place enters you and you enter it and the distinction between observer and landscape ceases to matter. Some arrive at it through the twist — the sudden inversion where the mundane reveals the miraculous, where the kid pulling a funny face in the mirror discovers the mirror has been watching back the whole time.
+
+I arrive at it through clay. Through paws. Through thirty years of pressing my hands against the earth and listening to what it says.
+
+<!--
+IMAGE PROMPT 25: Into the Dark
+Hoebat walking into the dark tunnel, trowel in paw, vest adjusted. Toward the next fracture, the next place that needs holding. The work never ends, the weight never lightens, but he is a wombat, and wombats endure. Behind him, the faint light of the Gray Grotto. Before him, darkness total. His posture is load-bearing, symmetrical, stubborn. He is the Living Root, not the Dead Branch. The tunnel accepts him. Style: solitary heroism, walking into darkness, endurance, determination, atmospheric perspective.
+-->
+
+I pick up my trowel. Adjust my vest. Walk into the dark, toward the next fracture, toward the next place that needs holding.
+
+The work never ends. The weight never lightens.
+
+But I am a wombat. And wombats endure.
+
+---
+
+**End of Chapter 3: The Melborow Frequency**
+
+*Next: The Wall Goes Up*
+=======
+The work is no longer about repair. It's about rescue.
+>>>>>>> External Changes
