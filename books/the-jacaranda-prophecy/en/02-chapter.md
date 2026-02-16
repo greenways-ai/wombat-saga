@@ -125,7 +125,7 @@ The third Eagle — this one had a notch in its left primary feather, the only i
 
 They were herding me.
 
-I tried to change direction. My wings, already overworked from carrying both my body weight and a prophet's burden, complained loudly. The muscles felt like they'd been replaced with hot wire. The joints screamed. I banked left, toward a gap in their formation that looked — to my desperate, exhausted eyes — like freedom.
+I tried to change direction. My wings, already overworked from carrying both my body weight and a sacred burden, complained loudly. The muscles felt like they'd been replaced with hot wire. The joints screamed. I banked left, toward a gap in their formation that looked — to my desperate, exhausted eyes — like freedom.
 
 The northern Eagle adjusted. Three degrees of wing tilt. The gap closed.
 
@@ -133,7 +133,7 @@ I banked right. The southern Eagle shifted. The gap closed.
 
 The vine hummed, pulled, insisted on southeast. But southeast was where the notched Eagle waited, its talons already extending, already calculating the exact moment when our trajectories would intersect.
 
-I was going to die. And not even an interesting death — not the heroic sacrifice of a prophet completing his mission, not the tragic fall of a young bird who reached too high. I was going to be deleted. A rounding error in the sky's calculations. "Subject eliminated due to Raca in Axan-Vilya." Locked into their probability cone, my Talan-Tië diverging from my Napa-Tië until there was nowhere left to fly.
+I was going to die. And not even an interesting death — not the heroic sacrifice of a messenger completing his mission, not the tragic fall of a young bird who reached too high. I was going to be deleted. A rounding error in the sky's calculations. "Subject eliminated due to Raca in Axan-Vilya." Locked into their probability cone, my Talan-Tië diverging from my Napa-Tië until there was nowhere left to fly.
 
 The notched Eagle began its approach. A gradual adjustment of velocity and angle, closing the distance at exactly the speed required to intercept me at exactly the moment when my wings would be too tired to evade.
 
@@ -300,18 +300,18 @@ The lead Eagle — I could tell it was the lead because it was slightly more geo
 
 Then the ground moved.
 
-Not an earthquake. Not the Static rising. An Emu.
+Not an earthquake. Not the static rising. An Emu.
 
 <!--
-IMAGE PROMPT 16: The Friction Engine Begins
-The ground moving - not earthquake, but an Emu. Two meters of feathered dinosaur with no fear, armored scaled legs, sickle claws, dried-blood eyes. The Emu is running in a spiral pattern - a vast, looping, non-repeating trajectory that carves a groove in the Steppe grass. The Friction Engine in action - each footfall generating kinetic energy from ground resistance. Air twisting around the Emu, becoming turbulent, unpredictable - pure Raca (broken air). The Wedgies scatter in panic above, their formation torn apart by the wake turbulence. The Emu is grey-brown, the color of the Steppe, feathers coarse and lacquered like body armor. Style: dynamic action, spiral motion blur, sudden intervention, powerful creature, kinetic energy visualized.
+IMAGE PROMPT 16: The Spiral Run Begins
+The ground moving - not earthquake, but an Emu. Two meters of feathered dinosaur with no fear, armored scaled legs, sickle claws, dried-blood eyes. The Emu is running in a spiral pattern - a vast, looping, non-repeating trajectory that carves a groove in the Steppe grass. Each footfall lands where geometry says it shouldn't, generating pure chaos. Air twisting around the Emu, becoming turbulent, unpredictable - pure Raca (broken air). The Wedgies scatter in panic above, their formation torn apart by the wake turbulence. The Emu is grey-brown, the color of the Steppe, feathers coarse and lacquered like body armor. Style: dynamic action, spiral motion blur, sudden intervention, powerful creature, kinetic chaos visualized.
 -->
 
 If you've never seen an Emu up close, congratulations on your sensible life choices. They are enormous — two metres of bird that evolution designed by asking "what if a feathered dinosaur had no fear and even less patience?" Their legs are armored, scaled, built for running distances that would kill lesser creatures. Their claws are sickles, curved and sharp and designed to disembowel. Their eyes are the colour of dried blood and they look at you with an expression that says "I am considering whether you are worth the effort of killing."
 
 This one was running. Not toward me — that would have been simple. It was running in a spiral, a vast, looping, non-repeating pattern that carved a groove in the Steppe grass and shredded the air currents with its passage.
 
-The Friction Engine. I'd heard of it — every bird in Hún Nico had heard of it — but seeing it was different. The Emu's feet hit the ground in patterns that never repeated, converting the resistance of the earth into kinetic energy, building speed and Raca with every stride. The air around it twisted, became turbulent, unpredictable — pure broken air where there should have been Glass-Air.
+The Emu's feet struck the earth in rhythms that made no sense — left, then right, then somehow both and neither — each step landing where geometry said it shouldn't, where prediction failed, where the neat lines of probability frayed into chaos. The air around it curdled, curdled and churned, tearing itself apart in the wake of that impossible gait. What had been Glass-Air — smooth, tiled, predictable — became Raca, became brokenness, became the kind of turbulence that laughed at vectors and mocked trajectories. The Wedgies' perfect mathematics crumbled before it, their calculated certainties dissolving into the swirling madness of the Emu's wake.
 
 <!--
 IMAGE PROMPT 17: The Walker and the Wedgies
@@ -320,7 +320,7 @@ The Emu standing absolutely still after its spiral run - one second a blur of mo
 
 The Wedgies broke. Immediately. No calculation, no geometric adjustment — just pure, panicked evasion as the Emu's wake turbulence tore their formation apart.
 
-The spiral tightened. The Emu wasn't just running; it was generating a kinetic vortex, a Friction Engine that filled the air with Raca — broken air, turbulent chaos. The Wedgies' Vector Sight couldn't penetrate it. Their mathematics failed them here. You can't calculate the trajectory of Raca. The Spiral Zone was pure unpredictability, and the Wedgies kept their distance from it, circling at the edge like dogs afraid of fire.
+The spiral tightened. The Emu wasn't just running; it was weaving chaos itself into the air, each impossible step churning the atmosphere into Raca — broken air, turbulent madness. The Wedgies' Vector Sight couldn't penetrate it. Their mathematics failed them here. You can't calculate the trajectory of Raca. The Spiral Zone was pure unpredictability, and the Wedgies kept their distance from it, circling at the edge like dogs afraid of fire.
 
 I watched, beak open, vine forgotten, as this impossible bird disrupted the sky through sheer aggressive movement. The Emu was grey-brown, the colour of the Steppe itself, and its feathers — coarse, lacquered, evolution's answer to body armor — caught the light in a way that made it shimmer, made it hard to track, made it impossible to predict.
 
@@ -349,22 +349,21 @@ The Emu shifted its weight. One massive foot lifted, came down. The ground vibra
 
 I looked at the Wedgies. They were regrouping, recalculating, finding new vectors. They wouldn't stay scared forever.
 
-I looked at the vine. It was humming again, responding to the Emu's chaos, finding resonance in the Friction Engine's wake.
+I looked at the vine. It was humming again, responding to the Emu's chaos, finding resonance in the turbulent wake of that impossible gait.
 
 I got on.
 
----
 
-## Chapter 5: The Apostate
+### The Apostate
 
 <!--
-IMAGE PROMPT 19: Riding the Friction Engine
-Cooroo clinging to the Emu's back as they move at sixty kilometers per hour across the Steppe. The Galah is essentially a pink hat with opinions - claws dug into coarse lacquered feathers, body bouncing with each footfall. The Emu's spiral pattern is fractal, non-repeating, each footfall landing in a position that generates maximum kinetic energy. The wind tears at Cooroo's feathers. The landscape blurs - grassland, scrub, occasional stone outcroppings. The vine revives in the chaos of the Friction Engine, its lilac hum stronger, pointing southeast. The Wedgies follow at a distance, keeping their distance from the Spiral Zone. Style: high-speed motion, blurred background, clinging for dear life, chaotic energy, partnership forming.
+IMAGE PROMPT 19: Riding the Spiral
+Cooroo clinging to the Emu's back as they move at sixty kilometers per hour across the Steppe. The Galah is essentially a pink hat with opinions - claws dug into coarse lacquered feathers, body bouncing with each footfall. The Emu's spiral pattern is fractal, non-repeating, each footfall landing where prediction fails. The wind tears at Cooroo's feathers. The landscape blurs - grassland, scrub, occasional stone outcroppings. The vine revives in the chaos of the Emu's wake, its lilac hum stronger, pointing southeast. The Wedgies follow at a distance, keeping their distance from the Spiral Zone. Style: high-speed motion, blurred background, clinging for dear life, chaotic energy, partnership forming.
 -->
 
 Here's what they teach you in Galah school about Emus: nothing.
 
-Absolutely nothing, because Galahs don't have school and even if we did, Emus wouldn't be on the curriculum. They exist in a separate category — the Samurai of the Southern Shell, the Walkers, the creatures who patrol in spirals and don't explain themselves. You don't learn about Emus. You stay out of their patrol lines and hope they've decided you're not worth killing today.
+Absolutely nothing, because Galahs don't have school and even if we did, Emus wouldn't be on the curriculum. They exist in a separate category — the Walkers of the Southern Steppe, the creatures who patrol the land and others do the explaining for them. You don't learn about Emus. You stay out of their way and hope they've decided you're not worth killing today.
 
 Riding one is not a thing.
 
@@ -372,7 +371,7 @@ It's like... okay. Imagine you're a small, loud, mostly useless creature — whi
 
 I dug my claws in and tried not to scream. The Emu launched.
 
-We moved. Not in a straight line — Emus don't do straight lines. The spiral pattern was fractal, non-repeating, each footfall landing in a position that generated maximum kinetic energy from the resistance of the ground. The Friction Engine. I could feel it in my bones, in my skull chambers, in the way the air stopped being air and became something you could push against if you knew how.
+We moved. Not in a straight line — Emus don't do straight lines. The Emu swerved and looped with no pattern I could follow, each stride carrying us in a direction I didn't expect. The world blurred into streaks of grey-brown and green. My claws dug deeper, holding on as the ground beneath us seemed to tilt and roll like the surface of a storm-tossed sea. The air thickened, churned up by our passage, pressing against my feathers with a force that felt almost solid — something alive and electric, something the Wedgies couldn't see through and couldn't calculate.
 
 The wind tore at my feathers. The landscape blurred — grassland, scrub, the occasional outcropping of stone. The Steppe wasn't flat; it rolled, undulated, rose and fell in patterns that the Emu navigated without slowing, without hesitation. Its feet knew the ground. Its body knew the pattern.
 
@@ -387,13 +386,13 @@ The landscape changing color as the Emu runs - grey-brown of the Steppe giving w
 
 I saw one of the Wedgies break formation, angle its wings toward the upper atmosphere. It was signaling — not to the others, but up, toward the Law-Wind, toward the Frequency Void where the big birds lived. The message was clear enough even for me to read: *"The Walker has a rider. Just wait until the Shogun hears about this."*
 
-I didn't know who the Shogun was. I had a feeling I would find out, and that the finding out would involve pain.
+I didn't know who the Shogun was. I had a feeling I would find out.
 
 But for now, we ran.
 
-The Emu didn't acknowledge me. Not once. It ran as if I wasn't there, as if my weight was irrelevant, as if carrying a juvenile prophet and a foreign vine across contested territory was just another Tuesday in a life spent refusing to explain itself.
+The Emu didn't acknowledge me. Not once. It ran as if I wasn't there, as if my weight was irrelevant, as if carrying a juvenile bird on a mission and a foreign vine across contested territory was just another Tuesday in a life spent refusing to explain itself.
 
-The vine revived. The chaos of the Friction Engine — the non-repeating pattern, the fractal footfalls, the sheer aggressive unpredictability of the Emu's gait — woke it up. The lilac hum returned, stronger now, pointed southeast like a compass needle that had found magnetic north.
+The vine revived. The chaos of the Emu's wake — the non-repeating pattern, the fractal footfalls, the sheer aggressive unpredictability of its gait — woke it up. The lilac hum returned, stronger now, pointed southeast like a compass needle that had found magnetic north.
 
 We passed through regions I didn't have names for. The Steppe gave way to scrubland, then to a zone where the crystal formations were visible at the surface — not the perfect tiling of the Bad Ground, but broken crystal, fractured geometry, places where the Static had tried to claim territory and failed. The Jacaranda's influence, I realized. The tree was already disrupting the lattice, already creating defects where life could grip.
 
@@ -430,9 +429,7 @@ I turned around.
 
 The Jacaranda filled the world.
 
----
-
-## Chapter 6: The Violet Zone
+### The Violet Zone
 
 <!--
 IMAGE PROMPT 22: The Jacaranda Clearing
@@ -504,7 +501,7 @@ IMAGE PROMPT 27: The Lesson of Depth
 Visual metaphor showing the lesson: The coring trees - Wattles with deep taproots drilling down into poisoned substrate, the Static rising from below, trees reaching deepest dying first. Versus the Jacaranda - shallow, lateral, fractal roots floating on the surface of the Static like a raft, touching many weak signals instead of one strong poisoned one. Cross-section view of the underground: deep crystal lattice poisoned, surface roots spreading wide in living soil. The text concept: "Do not dig down. Reach out." Wombats failing because they looked at the floor, dug deeper, believed answers were always down in the dark. Style: educational diagram meets visionary art, underground cross-section, contrasting root systems, philosophical revelation.
 -->
 
-The wombats had failed because they looked at the floor, because they dug deeper, because they believed the answer was always down there in the dark. But the world was dying from below. The Static was rising. And the only way to survive was to spread wide, to touch many, to build connections across the surface rather than plunging into the poisoned depths.
+The old ways had failed because they looked down, because they reached deeper, because they believed the answer was always below in the dark. But the world was dying from below. The Static was rising. And the only way to survive was to spread wide, to touch many, to build connections across the surface rather than plunging into the poisoned depths.
 
 And then the vision came.
 
@@ -519,34 +516,22 @@ The vision of the Fractal Rainforest - the Jacaranda's projection of what could 
 
 I saw the violet canopy spreading, interlocking, creating a ceiling that blocked the harsh glare of the Star. I saw the light filtering down, soft and diffuse, creating a twilight where the killing fire of the Static was dispersed into life. I saw moisture trapped in micro-clouds beneath the leaves, hanging in the air like breath. I saw ancient ferns — the ones that had been dying in the open — thriving in the gaps between crystal tiles, their roots finding the Compassion Gaps that the Jacaranda created.
 
-It was a vision of **Abundance through Dispersion**. The Static wasn't gone — it was still there, the bone of the world — but it was broken, fractalized, turned from a laser into a rainbow.
+It was a vision of **Abundance**. The Static wasn't gone — it was still there, the bone of the world — but it was broken, fractalized, turned from a laser into a rainbow.
 
-And I saw the Inheritors.
+
 
 Not the Primes. Not the Kangaroos bouncing on the hard ground, or the Koalas selling silence, or the Platypus vanishing into the paradox. I saw the **New World**.
 
 <!--
-IMAGE PROMPT 26: The Five Inheritors
-The vision of the Five Inheritors who will steward the Fractal Rainforest: The Wombat, digging horizontally for connection, linking burrows into a net. The Emu, running spirals that keep the air messy and alive. The Dingo, using Obsidian Sight to find truth in gaps. The Wallaby, carrying messages through silence, weaving the network. The Galah, screaming the frequency that keeps everything vibrating. Five distinct figures arranged in a circle, each contributing their nature to the whole. Behind them, the broken Primes - Kangaroo, Koala, Platypus - wandering as refugees, awaiting redemption through submission to the New. Style: symbolic composition, five characters, visionary art, mythic framing, new order emerging.
+IMAGE PROMPT 26: The Five Shapes
+The vision of five abstract shapes moving through violet gloom in the Fractal Rainforest - not clear, not defined, but present. A digger of tunnels reaching sideways. A runner spiraling through chaos. A watcher at the edges. A carrier limping but moving. A screamer with pink and grey feathers. Five forms that together make a shelter. In the shadows beyond, diminished shapes of the old powers wandering, seeking refuge. Style: abstract visionary art, violet atmosphere, dreamlike composition, symbolic figures, new order emerging.
 -->
 
-I saw the **Wombat**, digging not for depth but for connection, linking the burrows into a horizontal net.
-I saw the **Emu**, running spirals that kept the air messy and alive.
-I saw the **Dingo**, using the Obsidian Sight not to find lies, but to find the truth in the gaps.
-I saw the **Wallaby**, carrying messages through the silence, weaving the network together.
-And I saw the **Galah**, screaming the frequency that kept the whole thing vibrating.
+And in the violet gloom, something moved — not forms, not creatures, but possibilities. A pressure in the earth, reaching sideways. A disturbance in the air, refusing pattern. A watching at the edges, where the light failed. A weight being carried, though by what I could not see. And a sound, rising, holding everything in vibration.
 
-The Five Inheritors. The stewards of the Fractal Rainforest.
+Five presences. Five resonances. Five notes that together made a chord.
 
-And I saw the Primes — the Kangaroo, the Koala, the Platypus — broken, lost, wandering the edges of the map. They were no longer the sovereigns. They were refugees. And the vision showed me that they could only be redeemed, could only find their way back to the dreaming, by submitting to the **Rule of the New** — by accepting the shelter of the Kappa Mu.
-
-The vision faded. The transmission shifted frequency.
-
-**MA.** The Human feed. The dream from above.
-**HA.** The Wombat foundation. The hardware.
-**TAHTO.** The Dog spirit. The witness.
-
-The Mahatahto. The Great Truth.
+Beyond them, at the edge of seeing, older harmonies faded — the great leaps, the deep silences, the swimming-between — all diminished now, their music threading through shadows. The forest did not reject them. It simply grew around them, offering shade where once they had offered shelter. A becoming-small. A resting. A waiting to be found.
 
 *You are not here to fix the Song, Cooroo,* the tree vibrated. *You are here to scream the Truth.*
 
@@ -570,7 +555,7 @@ But first, I was going to take a very long nap.
 
 <!--
 IMAGE PROMPT 29: Rest in the Violet Zone
-Cooroo collapsed in the soft grass at the base of the Jacaranda, finally sleeping. His wings are done, feathers frayed, body exhausted. The Morning Glory vine - its purpose fulfilled - rests beside him, still faintly humming. The grass is soft, the air smells of violet and possibility. Elen-Nico's light filters through the violet canopy above as soft twilight. The Mahatahto hums in his skull chambers - MA, HA, TAHTO - the threefold truth. Tomorrow he will assemble the Kappa Mu. Today he sleeps. Style: peaceful rest, exhaustion earned, sanctuary, soft lighting, character moment, end of journey.
+Cooroo collapsed in the soft grass at the base of the Jacaranda, finally sleeping. His wings are done, feathers frayed, body exhausted. The Morning Glory vine - its purpose fulfilled - rests beside him, still faintly humming. The grass is soft, the air smells of violet and possibility. Elen-Nico's light filters through the violet canopy above as soft twilight. The three-part vibration hums in his skull chambers - MA, HA, TAHTO - a truth too large for one syllable. Tomorrow he will assemble the Kappa Mu. Today he sleeps. Style: peaceful rest, exhaustion earned, sanctuary, soft lighting, character moment, end of journey.
 -->
 
 <!--
@@ -580,14 +565,8 @@ The three Wedgies circling at the edge of the Jacaranda's influence, unable to a
 
 The grass was soft. The air smelled of violet and possibility. And somewhere above, the Wedgies circled, waiting, calculating, but unable to approach the chaos of the Jacaranda's fractal roots.
 
-I closed my eyes. The Mahatahto hummed in my skull chambers — MA, HA, TAHTO — the threefold truth of a world that was still, impossibly, alive.
+I closed my eyes. The three-part vibration hummed in my skull chambers, the resonance of a world that was still, impossibly, alive.
 
 Tomorrow, I would scream again. Tomorrow, I would find the others. Tomorrow, the Kappa Mu would begin.
 
 But today, today I slept.
-
----
-
-**End of Chapter 2**
-
-*Next: The Kappa Mu Assembly*
