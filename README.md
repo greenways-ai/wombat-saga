@@ -63,3 +63,40 @@ This entire saga is a projection from the `kintsugi-3/` directory.
 *   **The Sutras** provide the logic.
 *   **Hoebat** enacts the logic.
 *   **The Reader** (you) is the target of the logic.
+
+---
+
+## 🛠️ Build System & Development
+
+This project includes a comprehensive build system for generating e-books (EPUB, PDF), a web-viewable book site, and a static site structure for the documentation.
+
+### Prerequisites
+*   **Pandoc**: Universal document converter (required for all builds).
+*   **yq**: Command-line YAML processor (required for parsing configs).
+*   **XeLaTeX**: Required for PDF generation (optional, only for PDF builds).
+
+### Quick Start (Makefile)
+The project includes a `Makefile` for common tasks:
+
+```bash
+make help        # Show available commands
+make check       # Run CI checks (markdown linting, word counts)
+make site        # Build the static site structure in 'site/'
+make book        # Build book artifacts (EPUB, PDF, HTML)
+make book-site   # Build the web-viewable book in '_site/'
+make clean       # Clean up build artifacts
+```
+
+### Scripts
+Standalone bash scripts are located in `scripts/`:
+*   `scripts/build_book.sh`: Generates EPUB, PDF, and standalone HTML files.
+*   `scripts/build_book_site.sh`: Generates a static HTML site for the book with chapter navigation.
+*   `scripts/build_site.sh`: Aggregates all markdown content for a static site generator (e.g., mdBook, Jekyll).
+*   `scripts/run_checks.sh`: Runs linting and statistics.
+
+### GitHub Actions
+The project is configured with GitHub Actions in `.github/workflows/`:
+*   `ci.yml`: Runs on push/PR to validate markdown and check links.
+*   `publish-book.yml`: Triggered by tags (`book-*-v*`) to build and release e-books.
+*   `publish-book-to-pages.yml`: Deploys the web-viewable book to GitHub Pages.
+*   `publish-site.yml`: Deploys the documentation site to GitHub Pages.
