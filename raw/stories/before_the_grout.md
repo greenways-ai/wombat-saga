@@ -1,7 +1,7 @@
 # Before the Grout
 
 **Location:** The Fiveways, Outer Ring of Melborow.
-**Characters:** [[../characters#Hoebat|Hoebat]], Scribat, Duzbat, Flickbat, Rumbat.
+**Characters:** [[../characters#Hoebat|Hoebat]], Scribat, Duzbat, Flickboo, Rumbat.
 **Time:** Years before the current storyline. Pre-dawn. Before the [[../lore#4. The 5 Sovereign Wombats (The Cathedral)|Five-I's]] had consolidated. Before the ceiling forgot how to bend.
 
 ---
@@ -28,11 +28,11 @@ You always heard Scribat before you saw him, because Scribat's mouth arrived sev
 
 Scribat materialised from Tunnel Three, still talking, his paws stained with charcoal. He was a lean, fidgety wombat with eyes that moved faster than his feet and feet that moved faster than his common sense. The walls of every tunnel within a kilometre of the Fiveways bore his work — maps drawn in charcoal on wet clay, intricate networks of lines and arrows and annotations that were either the most detailed survey of Melborow's outer ring ever produced or the ravings of a creature with an unhealthy relationship to cartography. Probably both.
 
-"I mapped the new route," Scribat said, holding up his paws as evidence. "Through the Root Cathedral, under the seep-bed, out through the vent-crack near the back margins. Eighteen minutes. Maybe fifteen if Flickbat does the squeeze section."
+"I mapped the new route," Scribat said, holding up his paws as evidence. "Through the Root Cathedral, under the seep-bed, out through the vent-crack near the back margins. Eighteen minutes. Maybe fifteen if Flickboo does the squeeze section."
 
-"Flickbat isn't here yet."
+"Flickboo isn't here yet."
 
-"Flickbat is always here," said Flickbat, from somewhere above them.
+"Flickboo is always here," said Flickboo, from somewhere above them.
 
 They looked up. She was wedged into a gap between the ceiling and the wall — a space roughly the width of a wombat's skull, into which she had somehow inserted her entire body. She hung there like a bat, or a spider, or a very small creature who had been told repeatedly that the laws of physics applied to her and had decided she disagreed.
 
@@ -66,7 +66,7 @@ He came through Tunnel Five stomping a rhythm that made the bioluminescent moss 
 
 "Ready," said Scribat, bouncing on his toes.
 
-Flickbat dropped from the ceiling and landed without sound.
+Flickboo dropped from the ceiling and landed without sound.
 
 Duzbat cracked his knuckles. The sound echoed like a small landslide.
 
@@ -82,11 +82,11 @@ They poured into Tunnel Four — the deep tunnel, the one that angled downward t
 
 Scribat narrated as he ran. "Left at the fork — no, YOUR left, Duzbat, your OTHER left — through the squeeze, under the root-bridge, don't touch the hanging moss because last time I touched it a beetle the size of my head—"
 
-"FASTER!" Flickbat shouted from somewhere ahead. She had already passed him. She had passed him by going *through* a wall — or rather, through a gap in the wall that no one else had seen and that no reasonable wombat-shaped creature should have been able to fit through, and yet Flickbat was already on the other side, her voice echoing from a parallel tunnel like a ghost with a competitive streak.
+"FASTER!" Flickboo shouted from somewhere ahead. She had already passed him. She had passed him by going *through* a wall — or rather, through a gap in the wall that no one else had seen and that no reasonable wombat-shaped creature should have been able to fit through, and yet Flickboo was already on the other side, her voice echoing from a parallel tunnel like a ghost with a competitive streak.
 
 The game had no name. It had no rules, or rather its rules were the kind that emerged organically from five young wombats with too much energy and too little supervision: get from the Fiveways to the Root Cathedral without using the main tunnels, without stopping, and without getting caught by Old Merrow or any of the other deep-tunnel residents who objected to having their ceilings used as a racetrack.
 
-Hoebat ran in the middle of the pack, which was where he always ran — not leading, not following, but watching. Watching the way Scribat's charcoal marks on the walls glowed faintly in the moss-light, breadcrumbs through a world that shifted and breathed. Watching Duzbat's shoulders brush the tunnel walls and leave smooth grooves in the wet clay, like a river carving its banks. Watching Flickbat appear and disappear through gaps that seemed to open for her and close behind her, as if the tunnels were in on the joke.
+Hoebat ran in the middle of the pack, which was where he always ran — not leading, not following, but watching. Watching the way Scribat's charcoal marks on the walls glowed faintly in the moss-light, breadcrumbs through a world that shifted and breathed. Watching Duzbat's shoulders brush the tunnel walls and leave smooth grooves in the wet clay, like a river carving its banks. Watching Flickboo appear and disappear through gaps that seemed to open for her and close behind her, as if the tunnels were in on the joke.
 
 And feeling, beneath his paws, the texture of the earth.
 
@@ -104,7 +104,7 @@ The roots were massive. The thickest was wider than Duzbat's chest, descending f
 
 "I will never get tired of this place," Scribat whispered, which was the closest Scribat ever came to silence.
 
-They had found it six months ago — Flickbat, technically, who had followed a draft through a crack in Tunnel Seven and emerged into the chamber with the stunned expression of a creature who had discovered a room that the adults had somehow forgotten existed. They came here when the surface was too dangerous and the borows were too stifling and they needed a place that belonged to no one and therefore belonged to them.
+They had found it six months ago — Flickboo, technically, who had followed a draft through a crack in Tunnel Seven and emerged into the chamber with the stunned expression of a creature who had discovered a room that the adults had somehow forgotten existed. They came here when the surface was too dangerous and the borows were too stifling and they needed a place that belonged to no one and therefore belonged to them.
 
 Duzbat pressed his paw against the largest root and closed his eyes. He did this every time. He hit the root — gently, for Duzbat — and listened to the sound it made. A low, wooden thrum that resonated through the chamber and came back changed, as if the earth had heard it and answered in a different key.
 
@@ -132,7 +132,7 @@ Hoebat opened his eyes. His paw was trembling against the root. Not from fear �
 
 "It's alive," he said. "The whole thing. The roots, the soil, the water — it's all... connected. It's all one thing."
 
-Flickbat tilted her head. "Yeah. It's a tree, Hoebat. That's what trees do."
+Flickboo tilted her head. "Yeah. It's a tree, Hoebat. That's what trees do."
 
 "No. Not just the tree. The *ground*. The tunnel walls, the clay, the water table — it's all holding on to each other. If you took one piece out..." He trailed off. The feeling was already fading, dissolving back into the root like water into soil, leaving only a warmth in his palm and a certainty he couldn't prove.
 
@@ -156,7 +156,7 @@ Not the gentle vibration of the root-song — this was different. This was a gri
 
 Every wombat froze. The ancient posture — weight forward, ears flat, nostrils flared. Five young bodies locked into a stance that ten thousand years of evolution had hammered into their bones: *something big is moving above you*.
 
-"What is that?" Flickbat whispered.
+"What is that?" Flickboo whispered.
 
 Duzbat's nostrils flared. He put his paw on the floor and pressed, reading vibrations through his palm the way a doctor reads a pulse.
 
@@ -170,7 +170,7 @@ Hoebat had heard his father deny their existence at the dinner table so many tim
 
 They ran.
 
-Scribat first, following his own charcoal marks backward through the tunnel, his narration replaced by a breathless panting that communicated the same information at a higher heart rate. Flickbat vanished through a wall-gap. Rumbat ran with his rhythm broken for the first time — his feet hitting the ground in the panicked, arrhythmic stumble of a drummer who has lost the beat. Duzbat ran last, his shoulders scraping the tunnel walls, his weight making the floor boom with each step.
+Scribat first, following his own charcoal marks backward through the tunnel, his narration replaced by a breathless panting that communicated the same information at a higher heart rate. Flickboo vanished through a wall-gap. Rumbat ran with his rhythm broken for the first time — his feet hitting the ground in the panicked, arrhythmic stumble of a drummer who has lost the beat. Duzbat ran last, his shoulders scraping the tunnel walls, his weight making the floor boom with each step.
 
 Hoebat ran behind them, and then he stopped.
 
@@ -180,7 +180,7 @@ He stopped because Rumbat had stopped. Rumbat hadn't stopped by choice — his f
 
 The ceiling shed another shower of dust. A crack appeared — a hairline fracture running across the curve of the tunnel roof like a sentence being written in a language that said: *this is temporary*.
 
-The others were ahead. Flickbat was through the wall. Scribat was around the bend. Duzbat was — Duzbat had stopped. Duzbat was looking back, his enormous body blocking the tunnel, his face showing the first expression Hoebat had ever seen on it that was unambiguously readable: *fear*.
+The others were ahead. Flickboo was through the wall. Scribat was around the bend. Duzbat was — Duzbat had stopped. Duzbat was looking back, his enormous body blocking the tunnel, his face showing the first expression Hoebat had ever seen on it that was unambiguously readable: *fear*.
 
 "Go," Hoebat told Duzbat. "Get the others out."
 
@@ -198,7 +198,7 @@ Rumbat's leg came free. He scrambled up, gasping, limping, and Hoebat grabbed hi
 
 Behind them, the crack in the ceiling widened. A piece of stone fell. Then another. The Root Cathedral, behind the bend, groaned — the deep, structural groan of a chamber whose curves were being tested by a force they were not designed to resist.
 
-They burst into the Fiveways and collapsed. Scribat was there, and Flickbat was there, and Duzbat was there — all of them breathing hard, all of them covered in dust, all of them alive.
+They burst into the Fiveways and collapsed. Scribat was there, and Flickboo was there, and Duzbat was there — all of them breathing hard, all of them covered in dust, all of them alive.
 
 The shaking stopped.
 
@@ -218,9 +218,9 @@ They walked home through streets that were still streets.
 
 Not corridors. Not regulated transit channels. Not Grid Sectors with numbered junctions and Council-approved signage. *Streets* — organic paths worn smooth by generations of wombat feet, curving through the earth in lines that followed water and instinct rather than bureaucratic geometry. The walls leaned. The ceilings arched. The moss glowed its steady blue-green, and the air smelled of wet clay and eucalyptus root and the faint, living musk of a city that was still, at its core, a borow — a place dug by paws, for paws, in the shape that paws understood.
 
-They walked in a loose cluster, the way gangs walk — Scribat and Flickbat arguing about the fastest route home, Duzbat silent and immovable as a continent, Rumbat limping slightly but already stomping experimental rhythms with his good foot, testing the street-floor for resonance.
+They walked in a loose cluster, the way gangs walk — Scribat and Flickboo arguing about the fastest route home, Duzbat silent and immovable as a continent, Rumbat limping slightly but already stomping experimental rhythms with his good foot, testing the street-floor for resonance.
 
-"I'm mapping that root system tomorrow," Scribat declared, waving a charcoal-stained paw. "Full survey. Every branch. Flickbat, you do the squeeze sections. Duzbat, you do the—"
+"I'm mapping that root system tomorrow," Scribat declared, waving a charcoal-stained paw. "Full survey. Every branch. Flickboo, you do the squeeze sections. Duzbat, you do the—"
 
 "No," said Duzbat.
 
@@ -244,7 +244,7 @@ Hoebat shrugged. "Just dug."
 
 "It's late."
 
-They parted at the junction near the dormitory warrens — Scribat heading north toward his family's borow, still talking to himself; Flickbat disappearing upward into a ventilation shaft that was not designed for wombat traffic; Rumbat limping east, his feet finding rhythm even in exhaustion. Duzbat stood at the junction for a moment, looking at Hoebat with an expression that might have been gratitude or might have been constipation — with Duzbat, the margin was narrow.
+They parted at the junction near the dormitory warrens — Scribat heading north toward his family's borow, still talking to himself; Flickboo disappearing upward into a ventilation shaft that was not designed for wombat traffic; Rumbat limping east, his feet finding rhythm even in exhaustion. Duzbat stood at the junction for a moment, looking at Hoebat with an expression that might have been gratitude or might have been constipation — with Duzbat, the margin was narrow.
 
 "Good dig," Duzbat said. Then he turned and walked away, his footsteps shaking the floor in a slow, seismic goodbye.
 

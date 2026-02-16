@@ -30,7 +30,7 @@ This directory contains **The Wombat Worlds Saga** (formerly MahaWombaratha). Th
 *Detailed dossiers on the cast.*
 *   `protagonists.md` — The Kappa Mu 5 (Hoebat, Merl, Pokero, Bash, Cooroo).
 *   `antagonists.md` — The 5 Sovereign Wombats (Trumbat, Muskbat, Tatebat, Vitabat, Zuckbat).
-*   `old_friends.md` — The civilians caught in the middle (Duzbat, Flickbat).
+*   `old_friends.md` — The civilians caught in the middle (Duzbat, Flickboo).
 *   `hoebat/`, `merl/`, `cooroo/` — Deep-dive sub-directories for key characters.
 
 ### 4. **Orchestration & Tone (`/orchestration_prompts.md` & `/exploratory`)**

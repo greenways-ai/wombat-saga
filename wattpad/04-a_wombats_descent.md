@@ -8,21 +8,21 @@ Not Melborow earth — not the compacted, grouted, council-approved substrate th
 
 We lived in a traditional burrow on the margin. The Eucalyptus Groves — that thin strip of surviving bushland where the eastern and western shells of Hún Nico meet, where thirty-seven stringybarks still drew water from a fault line in the bedrock and the air tasted of eucalyptus oil and something older. Memory, maybe. The Groves were a marginal zone in every sense — geographically peripheral, socially invisible, economically irrelevant to the ledgers of QueensBorrow and the Cathedral. The High-Noses pretended we didn't exist, which suited us fine.
 
-Mum's name was Cornelibat.
+Dad's name was Cornelibat.
 
-She'd been a Root-Counter once — an official auditor of the Fixed Borow authority, monocle and all, someone who measured soil in columns and debt in tonnes. Then she'd done something the system couldn't forgive: she'd seen value in a living thing that the ledger had no column for. She'd shown compassion where compassion wasn't budgeted. They stripped her monocle and exiled her to the "Wider Arnam," which is the Council's polite way of saying *we're throwing you away but we'd like you to feel spiritual about it.*
+He'd been a Root-Counter once — an official auditor of the Fixed Borow authority, monocle and all, someone who measured soil in columns and debt in tonnes. Then he'd done something the system couldn't forgive: he'd seen value in a living thing that the ledger had no column for. He'd shown compassion where compassion wasn't budgeted. They stripped his monocle and exiled him to the "Wider Arnam," which is the Council's polite way of saying *we're throwing you away but we'd like you to feel spiritual about it.*
 
-She never told me this directly. I learned it the way you learn most important things in a wombat household — through the architecture of what isn't said. Through the way she flinched when anyone mentioned the Fixed Borow. Through the rigid orthodoxy she wore like armour afterward, the desperate need to prove she was still respectable, still structural, still a creature who could be trusted with load-bearing responsibilities. She'd been burned once for feeling too much. She spent the rest of her life making sure the temperature never rose again.
+He never told me this directly. I learned it the way you learn most important things in a wombat household — through the architecture of what isn't said. Through the way he flinched when anyone mentioned the Fixed Borow. Through the rigid orthodoxy he wore like armour afterward, the desperate need to prove he was still respectable, still structural, still a creature who could be trusted with load-bearing responsibilities. He'd been burned once for feeling too much. He spent the rest of his life making sure the temperature never rose again.
 
-But at night, when the Frequency dimmed and the Groves went quiet and the stringybarks creaked in the dark like old creatures settling into sleep — at night, she told me stories.
+But at night, when the Frequency dimmed and the Groves went quiet and the stringybark's creaked in the dark like old creatures settling into sleep — at night, he told me stories.
 
-Not Council stories. Not the official narratives of Trum-Bat's brave Grout-Layers who paved the world in safety. She told me about the Dust-Bearers.
+Not Council stories. Not the official narratives of Trum-Bat's brave Grout-Layers who paved the world in safety. He told me about the Dust-Bearers.
 
 The original soil-tenders. The wombats who came before the Grout, before the Safety Geometry, before the ledgers and the sections and the numbered codes. The ones who packed earth with their bare paws and understood — not through calculation but through touch — which soil wanted to hold and which had given up. The Dust-Bearers didn't pour Grout. They listened. They pressed their forefeet into substrate and felt the vibration, the pulse, the geological murmur that told them whether the ground beneath their claws was alive or dying.
 
-"They didn't fix the earth, Hoebat," she'd whisper, one paw smoothing the fur behind my ear. "They tended it. The way you tend a garden. The way you tend a fire. You don't control it. You serve it."
+"They didn't fix the earth, Hoebat," he'd whisper, one paw smoothing the fur behind my ear. "They tended it. The way you tend a garden. The way you tend a fire. You don't control it. You serve it."
 
-I'd lie in my burrow-nook, the damp earth pressing cool against my back, and close my eyes and feel the vibration she was describing. Not imagining it. Feeling it. The slow pulse of the substrate beneath our burrow, the deep geological heartbeat that the Groves still carried because the Council's Grout hadn't reached this far. It was real. It was there. You just had to be still enough, quiet enough, small enough to notice.
+I'd lie in my burrow-nook, the damp earth pressing cool against my back, and close my eyes and feel the vibration he was describing. Not imagining it. Feeling it. The slow pulse of the substrate beneath our burrow, the deep geological heartbeat that the Groves still carried because the Council's Grout hadn't reached this far. It was real. It was there. You just had to be still enough, quiet enough, small enough to notice.
 
 Other kids played Grout-Tag in the cleared zones — chasing each other across grouted surfaces, sliding on the smooth synthetic finish, pretending to be Trum-Bat's engineers. I went to the backyard and pressed my ear to the dirt.
 
@@ -36,7 +36,7 @@ I didn't know the word for what I wanted to be. Not then. But the feeling was cl
 
 The Sector 7 Academy of Structural Compliance smelled of Safety Grout and fluorescent lighting.
 
-Two things that have no business being in the same sentence as "education," but there they were: the chemical tang of synthetic sealant and the humming pallor of Muskbat's Glow-Panels, buzzing at a frequency designed to keep young wombats alert, compliant, and incurious. The Academy sat in the mid-levels of the Gray Grotto, a warren of right-angled classrooms bored into the substrate with the precision and warmth of a tax return.
+Two things that have no business being in the same sentence as "education," but there they were: the chemical tang of synthetic sealant and the humming pallor of the Council's Glow-Panels, buzzing at a frequency designed to keep young wombats alert, compliant, and incurious. The Academy sat in the mid-levels of the Gray Grotto, a warren of right-angled classrooms bored into the substrate with the precision and warmth of a tax return.
 
 I hated it.
 
@@ -46,17 +46,19 @@ They never once mentioned the Dust-Bearers.
 
 "The earth," Mr. Carbat intoned, tapping his pointer against a cross-section diagram of a regulation tunnel, "does not have preferences. The earth does not have moods. The earth is substrate. It is material. Our job is to impose structure upon it."
 
-I sat in the back row and felt my paws itch. Because the earth beneath the classroom floor was humming. Not loudly — the Grout muffled it, the way cotton muffles a heartbeat — but it was there. A low, slow vibration that the Academy's foundation hadn't quite managed to silence. I could feel it through my seat, through my hindquarters, through the thick pads that Mum said were "too sensitive for a boy your age." The substrate under Sector 7 was unhappy. Not structurally compromised — unhappy. A distinction the curriculum did not recognise.
+I sat in the back row and felt my paws itch. Because the earth beneath the classroom floor was humming. Not loudly — the Grout muffled it, the way cotton muffles a heartbeat — but it was there. A low, slow vibration that the Academy's foundation hadn't quite managed to silence. I could feel it through my seat, through my hindquarters, through the thick pads that Dad said were "too sensitive for a boy your age." The substrate under Sector 7 was unhappy. Not structurally compromised — unhappy. A distinction the curriculum did not recognise.
 
-Barna saved me from going mad.
+Barnabat saved me from going mad.
 
-He sat two rows ahead, a stocky, cheerful wombat with a nose that always seemed to be pointing at food and a laugh that carried through tunnels the way water carries through limestone — finding every crack, filling every void. Barna didn't care about Safety Grout Geometry. He cared about digging. Real digging. The old kind, where you felt your way forward with your paws and the tunnel went where the earth wanted it to go, not where the diagram said.
+He sat two rows ahead, a stocky, persuasive wombat with a nose that always seemed to be pointing at opportunity and a laugh that carried through tunnels the way water carries through limestone — finding every crack, filling every void. Barnabat didn't care about Safety Grout Geometry. He cared about digging. Real digging. The old kind, where you felt your way forward with your paws and the tunnel went where the earth wanted it to go, not where the diagram said.
 
 "Behind the gym," he whispered one morning, sliding a crude map across the desk. "There's tunnels. Unauthorised. No Grout. No permits. Just dirt."
 
+He wasn't alone. Duzbat was there — a quiet giant who could move rocks that machines struggled with, already looking tired even at twelve. And Flickbat — nervous, quick, always checking the exits, terrified of getting caught but terrified of missing out even more.
+
 I looked at the map. It was drawn on the back of a Static-Logic worksheet, which felt appropriate.
 
-"You in?" he said.
+"You in?" Barnabat said. "We need a listener."
 
 I was in.
 
@@ -66,9 +68,9 @@ The unauthorised tunnels behind the gym were the happiest place in Sector 7.
 
 A half-dozen of us would slip away during lunch, squeezing through a crack in the service wall that the maintenance crew hadn't bothered to seal because it was in the wrong part of the Academy — the part that faced the lower levels, the part the High-Noses didn't inspect. We'd drop into the old substrate and dig.
 
-No permits. No diagrams. No ratios or cure times or load-bearing calculations. Just paws and dirt and the ancient, exhilarating conversation between a wombat and the ground. We dug the way Mum's stories described — feeling for roots, following the grain of the soil, letting the earth suggest the tunnel's path instead of imposing one. We found chambers where the substrate was soft and damp and smelled of deep water, and we'd sit in them with our eyes closed and our paws flat on the floor, feeling the vibration, the geological pulse that the Academy pretended didn't exist.
+No permits. No diagrams. No ratios or cure times or load-bearing calculations. Just paws and dirt and the ancient, exhilarating conversation between a wombat and the ground. We dug the way Dad's stories described — feeling for roots, following the grain of the soil, letting the earth suggest the tunnel's path instead of imposing one. We found chambers where the substrate was soft and damp and smelled of deep water, and we'd sit in them with our eyes closed and our paws flat on the floor, feeling the vibration, the geological pulse that the Academy pretended didn't exist.
 
-Barna had a theory. "The earth is alive," he'd say, packing a wall with his bare palms, grinning. "It talks. The Grout is just a muzzle."
+Barnabat had a theory. "The earth is alive," he'd say, packing a wall with his bare palms, grinning that wide, reckless grin. "It talks. The Grout is just a muzzle."
 
 We were happy. We were idiots. We were twelve.
 
@@ -82,105 +84,111 @@ Not a big one — Melborow gets micro-tremors weekly, the substrate adjusting to
 
 We noticed.
 
-We were in the unauthorised tunnels — Barna, me, and three others whose names I've spent years trying not to remember because remembering them means remembering what happened next. The tremor hit, and the ungrouted ceiling gave way.
+We were in the unauthorised tunnels — Barnabat, me, Duzbat, Flickbat, and two others from Class 4-B. The tremor hit, and the ungrouted ceiling gave way.
 
-Not everywhere. Not all at once. The collapse was surgical — a section of roof maybe four meters wide, where the substrate had been weakened by water seepage from the Academy's relief drains overhead. The drains the maintenance crew should have cleared. The drains that were in the wrong part of the building, in the part that faced the lower levels, in the part nobody inspected.
+Not everywhere. Not all at once. The collapse was surgical — a section of roof maybe four meters wide, where the substrate had been weakened by water seepage from the Academy's relief drains overhead. The drains the maintenance crew should have cleared.
 
-Clay fell. Dust exploded. The other three scrambled back through the crack in the service wall, screaming. I couldn't see them through the cloud. I could hear Barna.
+Clay fell. Dust exploded.
 
-He was on the other side.
+Flickbat was fast — she was through the crack in the service wall before the first clod hit the floor. Duzbat was slower, but strong; he took a hit to the shoulder that would have crushed a smaller wombat, stumbled, and dragged himself out.
 
-"Hoebat!" His voice was high. Tight. The voice of a twelve-year-old who has just discovered that dirt can kill you. "I can't — it's on my leg — I can't—"
+The two from 4-B — I never knew their names properly, just that they liked to dig — were under the main fall. There was no sound. Just the sickening *thump* of wet earth closing a conversation forever.
+
+I couldn't see them. I couldn't hear them. But I could hear Barnabat.
+
+He was on the other side of the fall, pinned against the far wall by the secondary slide.
+
+"Hoebat!" His voice was high. Tight. The voice of a twelve-year-old who has just watched two classmates disappear. "I can't — it's on my leg — I can't—"
 
 The secondary roof was groaning. I could hear it — not with my ears but with my paws, through the substrate, the deep vibration of stressed clay deciding whether to hold or let go. The ceiling had maybe thirty seconds before it committed to the decision the Academy's sensors had classified as "negligible."
 
 I didn't run. I didn't calculate load-bearing ratios or consult a Static-Logic table. I pressed my ear to the wall of fallen clay and I listened.
 
-Mum's stories. The Dust-Bearers. *They didn't fix the earth. They listened.*
+Dad's stories. The Dust-Bearers. *They didn't fix the earth. They listened.*
 
-The stress-fracture was three centimetres to my left — a hairline weakness in the collapse wall where the clay hadn't fully compacted, where a pocket of air was trapped between the fallen material and the standing substrate. The Soft Spot. The Compassion Gap. The place where the earth, even in its violence, had left a door ajar.
+The stress-fracture was three centimetres to my left — a hairline weakness in the collapse wall where the clay hadn't fully compacted. The Soft Spot. The Compassion Gap. The place where the earth, even in its violence, had left a door ajar.
 
-I dug. Not with math. With instinct. With the thirty-thousand-year-old knowledge that lives in a wombat's forepaws and doesn't need a curriculum to express itself. I felt the clay part around my claws, felt the air pocket open, felt Barna's paw reaching through the gap.
+I dug. Not with math. With instinct. With the thirty-thousand-year-old knowledge that lives in a wombat's forepaws and doesn't need a curriculum to express itself. I felt the clay part around my claws, felt the air pocket open, felt Barnabat's paw reaching through the gap.
 
-I pulled him out.
+I pulled him out. Dragged him through the dust just as the rest of the ceiling came down like a fist closing.
 
-The secondary roof came down behind us like a fist closing.
+We lay on the tunnel floor, panting, covered in clay, alive. Barnabat's leg was bruised but unbroken. I'd saved him. I'd saved my best friend using the Old Ways.
 
-We lay on the tunnel floor, panting, covered in clay, alive. Barna's leg was bruised but unbroken. I'd saved him. I'd saved my best friend using the Old Ways — using the knowledge the Academy said was superstition, using the paws they said were too sensitive, using the instinct they said didn't exist.
+But the two from 4-B were gone. Buried under six tonnes of "negligible" substrate adjustment.
 
-I was twelve years old and I was a hero and I thought the world would notice.
+I was twelve years old and I had just learned that the earth gives, but it also takes.
 
 ---
 
 ## Chapter 4: The Silencing
 
-The next day, there was no assembly. No medal.
+The next day, there was no assembly. No memorial for the two from 4-B.
 
 There was a chair in the Principal's office, and in it, I sat. The Principal — a Fixed Borow wombat named Sektorbat whose fur was the colour of institutional carpet — stood behind his desk. He wasn't alone.
 
-Vitabat was there.
+A High Auditor was there.
 
-I knew the name before I knew the face. Vitabat — the Enforcer. The Sovereign of Investment and Finance, whose Root-Loans funded every tunnel in Melborow, whose debt calculations turned living creatures into numbers and numbers into obligations and obligations into silence. He was smaller than I'd imagined. Neat. Compact. The kind of wombat who files his claws. The kind whose violence is administrative.
+I didn't know his name, but I knew his type. Neat. Compact. The kind of wombat who files his claws. The kind whose violence is administrative.
 
-"Hoebat," Sektorbat began. His voice was the voice of a creature who had long ago replaced his spine with policy. "We need to discuss yesterday's Scheduled Maintenance Event."
+"Hoebat," Sektorbat began. His voice was the voice of a creature who had long ago replaced his spine with policy. "We have received a full statement regarding yesterday's... incident."
 
-"The what?"
+"They're dead," I said. "The two from 4-B. They're dead because the relief drains were clogged."
 
-"The Scheduled Maintenance Event in Subsection 7-G. The controlled decompression of surplus substrate."
+"The relief drains were fully operational," the Auditor said. Quiet. Measured. "The structural failure was caused by unauthorised excavation. By reckless, unpermitted digging that destabilised the foundation."
 
-I stared at him. "You mean the tunnel collapse."
+He placed a document on the desk. A witness statement. Signed in a shaky, twelve-year-old scrawl.
 
-"There was no tunnel collapse." This from Vitabat. Quiet. Measured. The voice of a balance sheet explaining to a line item why it's being deleted. "The sensors registered a 2.1 event. Negligible. The substrate adjustment in 7-G was scheduled and supervised."
+*Barnabat.*
 
-"Supervised by who? There was nobody—"
+"Your friend has been very cooperative," the Auditor said. "He explains that the excavation was entirely your initiative. That he and the others tried to leave when the tremors started, but you insisted on continuing. That you forced them to dig deeper."
 
-"The question, Hoebat," Vitabat continued, "is what you were doing in an unauthorised excavation. A dig without permits, without structural clearance, without Safety Grout protocols. A dig that, our engineers tell us, is the probable cause of the instability you claim to have experienced."
+The room tilted. I could feel the floor beneath my chair — the Grouted, sealed, dead floor — and for the first time, the silence of it wasn't comforting.
 
-The room tilted. I could feel the floor beneath my chair — the Grouted, sealed, dead floor — and for the first time, the silence of it wasn't comforting. It was the silence of a surface that has been told what to say.
+"That's a lie," I whispered. "I saved him. He was trapped. I went back for him."
 
-"I saved Barna," I said. "He was trapped. The ceiling was coming down. I dug him out."
+"Barnabat's statement says you blocked the exit," Sektorbat read from the file. "That in your panic, you collapsed the secondary support, sealing the tunnel and preventing the other two students from escaping. He claims he only survived because he managed to dig around you."
 
-"You destabilised a structurally sound substrate through Reckless Digging," Sektorbat recited. He was reading from a form. A pre-written form. "Endangering fellow students and compromising the Academy's foundation. This constitutes a Category 3 violation of the Structural Compliance Code."
+"He's lying! I pulled him out! Ask Duzbat. Ask Flickbat."
 
-"The ceiling was going to—"
+"Duzbat and Flickbat have declined to comment," the Auditor said. "Which, under the circumstances, is the only intelligent structural decision they've made."
 
-"The ceiling," Vitabat said, "is fine. The ceiling has always been fine. Your unauthorised excavation, however, has created liabilities. Liabilities require responses."
+I stared at the document. The signature. The betrayal.
 
-They expelled me. Effective immediately. My records would note "Reckless Excavation — Safety Risk" in the permanent column. I was barred from re-enrollment in any Sector Academy.
+"They are structural assets," the Auditor continued. "And they have a future. Unlike you."
 
-Barna was transferred to Sector 12. A reassignment he hadn't requested, to a district he'd never visited, effective that afternoon. When I tried to find him — running through corridors, asking teachers, checking the registry — his file had already been moved. His desk was empty. His tunnel-maps, the ones he'd drawn on the back of worksheets, had been cleared away.
+They expelled me. Effective immediately. My records would note "Gross Negligence — Causing Death by Reckless Excavation" in the permanent column. I was barred from re-enrollment in any Sector Academy.
 
-They told him never to speak to me again. I learned this years later, from a Lo Snout who'd worked the Sector 12 mail route. Barna had tried to send a message. The message was intercepted. The content was classified.
+Barnabat wasn't expelled. He was given a commendation for "Structural Awareness" and a transfer to the Advanced Engineering track. I saw him once, years later, at a distance. He was wearing a foreman's vest, shouting orders at a crew of diggers, his face hard and set in the lines of a creature who has decided that survival is more important than truth.
 
-I never found out what it said.
+He never looked at me.
 
 ---
 
 ## Chapter 5: The Fracture
 
-I went home. Which, for a wombat from the Eucalyptus Groves, meant descending three levels, squeezing through the root-channels the Council hadn't mapped, and walking the seep-line path that connected our burrow to the last living water in the district. The stringybarks were creaking in the evening air. The smell of eucalyptus hit me like memory — like Mum's stories, like the vibration beneath my childhood bed, like everything the Academy had tried to grout over.
+I went home. Which, for a wombat from the Eucalyptus Groves, meant descending three levels, squeezing through the root-channels the Council hadn't mapped, and walking the seep-line path that connected our burrow to the last living water in the district. The stringybarks were creaking in the evening air. The smell of eucalyptus hit me like memory — like Dad's stories, like the vibration beneath my childhood bed, like everything the Academy had tried to grout over.
 
-Cornelibat was in the kitchen. She knew already. The Sector 7 administration had sent a notification — a formal document, stamped, filed, efficient. Her son had been expelled for Reckless Digging. Her son had endangered the Academy. Her son was a liability.
+Cornelibat was in the kitchen. He knew already. The Sector 7 administration had sent a notification — a formal document, stamped, filed, efficient. His son had been expelled for Gross Negligence. His son had endangered the Academy. His son was a liability.
 
-I could see it in her posture before she spoke. The rigidity. The desperate straightness of her spine — a wombat who had been exiled once for feeling too much, wrapping herself in structure so it could never happen again.
+I could see it in his posture before he spoke. The rigidity. The desperate straightness of his spine — a wombat who had been exiled once for feeling too much, wrapping himself in structure so it could never happen again.
 
-"Hoebat," she said. "Sit down."
+"Hoebat," he said. "Sit down."
 
-"I saved Barna."
+"I saved Barnabat."
 
 "I know."
 
-"They said I *caused* the collapse. They said it was a Scheduled Maintenance Event. They said—"
+"He lied, Dad. He told them it was my idea. He told them I killed those students from 4-B. But I pulled him out. I saved his life."
 
-"I know what they said." Her voice was careful. Measured. The voice of a creature packing explosives into a very small space. "And I know what you did. And I am telling you: keep your head down. The nail that sticks up gets hammered."
+"I know what he said." His voice was careful. Measured. The voice of a creature packing explosives into a very small space. "And I know what the Council has decided. And I am telling you: keep your head down. The nail that sticks up gets hammered."
 
-"Keep my head *down*? Mum, they lied. They erased what happened. They took Barna—"
+"Keep my head *down*? Dad, they lied. They erased the clogged drains. They're pinning two deaths on me!"
 
 "I know."
 
 "Then do something! You were a Root-Counter. You know how the system works. File a complaint. Audit the structural records. Prove the tunnel was compromised before we—"
 
-"Hoebat." She turned from the counter. Her eyes were wet. Not crying — Cornelibat didn't cry. But her eyes held the specific moisture of a creature who had already fought this fight, already lost, already learned the cost. "I can't."
+"Hoebat." He turned from the counter. His eyes were wet. Not crying — Cornelibat didn't cry. But his eyes held the specific moisture of a creature who had already fought this fight, already lost, already learned the cost. "I can't."
 
 "You *won't*."
 
@@ -190,15 +198,15 @@ I could see it in her posture before she spoke. The rigidity. The desperate stra
 
 "Stories, Hoebat. I told you stories. Stories aren't shovels. Stories don't keep roofs from falling."
 
-"The Old Ways kept Barna alive."
+"The Old Ways kept Barnabat alive."
 
-"The Old Ways got you expelled!"
+"The Old Ways got you expelled! And two wombats are dead!"
 
-We stood in the kitchen — the small, damp kitchen in the marginal burrow, with the stringybark roots threading through the ceiling and the seep-water trickling behind the walls — and the distance between us was geological. Not meters. Eras. She was standing in the era of her exile, the burned-once-never-again territory of a wombat who had chosen safety over truth. I was standing in the era before the burning, the era her stories had built in my head, the era of the Dust-Bearers and the living earth and the paws that listened.
+We stood in the kitchen — the small, damp kitchen in the marginal burrow, with the stringybark roots threading through the ceiling and the seep-water trickling behind the walls — and the distance between us was geological. Not meters. Eras. He was standing in the era of his exile, the burned-once-never-again territory of a wombat who had chosen safety over truth. I was standing in the era before the burning, the era his stories had built in my head, the era of the Dust-Bearers and the living earth and the paws that listened.
 
 "Your stories were lies," I said. I was fourteen. I had all the cruelty of a child who has just discovered that his parents are afraid. "If you won't stand up for them in the real world, they were lies. Just bedtime garbage to make a kid feel special."
 
-She flinched. The way substrate flinches before it fractures — a micro-compression, a holding of breath, the material deciding which way to break.
+He flinched. The way substrate flinches before it fractures — a micro-compression, a holding of breath, the material deciding which way to break.
 
 "I won't be a Grout-Layer," I said. "I won't be silent. I won't keep my head down while they bury the truth in Scheduled Maintenance Events."
 
@@ -208,7 +216,7 @@ I didn't go up. I didn't go out. I went *down*.
 
 Into the Gray Grotto. Into the shadow of Melborow. Into the unmapped levels where the Council's jurisdiction dissolved like Grout in acid, where the substrate was raw and the water ran dark and the creatures who lived there had been forgotten by every system except gravity.
 
-Behind me, in the kitchen, Cornelibat stood perfectly still. I didn't look back. If I had, I might have seen her paws shaking. I might have seen her pick up the notification form and tear it in half. I might have seen her press her forehead against the kitchen wall — the wall with the living roots, the wall that still hummed — and whisper something I wouldn't understand for twenty years.
+Behind me, in the kitchen, Cornelibat stood perfectly still. I didn't look back. If I had, I might have seen his paws shaking. I might have seen him pick up the notification form and tear it in half. I might have seen him press his forehead against the kitchen wall — the wall with the living roots, the wall that still hummed — and whisper something I wouldn't understand for twenty years.
 
 But I didn't look back. I was fourteen. I knew everything.
 
@@ -230,7 +238,7 @@ I was bitter. I was alone. I was hunted — the Council's Safety Inspectors patr
 
 I was also, without knowing it, learning. Every fracture I packed, every drain I cleared, every ceiling I held up with my hands and my stubbornness was a lesson. Not the Academy's lessons — load tables and cure ratios and the dead mathematics of Grout. Real lessons. The kind that enter through the paws and settle in the bones. I was learning the language of damaged earth. Learning to read stress the way a doctor reads a pulse. Learning that substrate isn't material — it's conversation. The earth talks. The Grout is the muzzle. Remove the muzzle and the earth will tell you everything: where it hurts, where it's tired, where it's given up, where it's still trying.
 
-Three years of this. Three years of darkness and anonymity and the slow accumulation of knowledge that has no curriculum and no credential. Three years of becoming the thing Mum's stories described — a creature who tends the earth instead of conquering it — while simultaneously being too proud and too angry to admit that her stories were the reason I could do any of it.
+Three years of this. Three years of darkness and anonymity and the slow accumulation of knowledge that has no curriculum and no credential. Three years of becoming the thing Dad's stories described — a creature who tends the earth instead of conquering it — while simultaneously being too proud and too angry to admit that his stories were the reason I could do any of it.
 
 Then I found the beggar.
 
@@ -254,11 +262,11 @@ I stood in the doorway, dripping, holding my trowel, trying to decide whether th
 
 ---
 
-Uncle Hangbat. The family's Black Sheep. Mum had mentioned him exactly twice — once to explain why we didn't attend the Family Gather anymore ("Your uncle made things... complicated"), and once, late at night, when she thought I was asleep, whispering to herself: "Hang-Mu knew. He always knew. And they punished him for it."
+Uncle Hangbat. The family's Black Sheep. Dad had mentioned him exactly twice — once to explain why we didn't attend the Family Gather anymore ("Your uncle made things... complicated"), and once, late at night, when he thought I was asleep, whispering to himself: "Hang-Mu knew. He always knew. And they punished him for it."
 
 He was older than I expected. Gaunt. His fur had gone the particular grey-brown of a creature who has lived underground for so long that the sun is a theory. But his eyes — when he finally looked up from the jar and focused them on me — his eyes were sharp. Alert. The eyes of a creature who has spent years pretending to be broken so that the unbroken part of him can keep working.
 
-"Cornelibat's boy," he said. Not a question. "You have her paws. Wide. Sensitive. Built for listening." He tilted his head. "Also, you smell like sump drainage and self-righteousness. So you've been doing the Ghost-Digger thing. How's that working out?"
+"Cornelibat's boy," he said. Not a question. "You have his paws. Wide. Sensitive. Built for listening." He tilted his head. "Also, you smell like sump drainage and self-righteousness. So you've been doing the Ghost-Digger thing. How's that working out?"
 
 "How do you know—"
 
@@ -268,7 +276,7 @@ He stood. Slowly. The ceremonial sash shifted, and I saw what was underneath: no
 
 "You know who I am," he said. It was still not a question.
 
-"Uncle Hangbat. Mum's brother. The family embarrassment."
+"Uncle Hangbat. Dad's brother. The family embarrassment."
 
 "The family's *Black Sheep*." He smiled. It was the smile of a creature who has been called every name in the lexicon and decided to wear the worst one as a badge. "But that's the costume, nephew. The mask. Do you want to know the name underneath?"
 
@@ -470,7 +478,7 @@ I pressed the seed into the clay. Into the fracture. Into the Compassion Gap whe
 
 The Violet needs a fracture. And the Gorge was full of them.
 
-I packed the earth around the seed with my bare paws. Gently. Carefully. The way Mum used to smooth the fur behind my ear. The way the Dust-Bearers tended the earth in her stories.
+I packed the earth around the seed with my bare paws. Gently. Carefully. The way Dad used to smooth the fur behind my ear. The way the Dust-Bearers tended the earth in his stories.
 
 Not fixing. Tending.
 

@@ -347,7 +347,7 @@ The alliance between the Dust-Bearers and the Surface Animals is known as the **
 * [[../characters/trumbat/the_root_counting_argument|the_root_counting_argument.md]] — Cornelibat's Fixed Borow faction
 * [[../characters/hoebat/the_eucalyptus_vigil|the_eucalyptus_vigil.md]] — Hoebat's repair technique, the Hippie Wombats' Breath Teaching
 * [[../characters/pokero/the_dingo_code|the_dingo_code.md]] — The first Kintsugi repair (the golden tooth)
-* [[../characters/old_friends|old_friends.md]] — Duzbat (Dhal-Mu remnant), Flickbat, Scribat (Nakh-Mu remnant), Rumbat (Ghar-Mu remnant)
+* [[../characters/old_friends|old_friends.md]] — Duzbat (Dhal-Mu remnant), Flickboo, Scribat (Nakh-Mu remnant), Rumbat (Ghar-Mu remnant)
 * [[../stories/before_the_grout|before_the_grout.md]] — Young Hoebat's first encounter with the Seventh Thread, the Fiveways crew
 * [[../stories/the_gray_grotto_dawn|the_gray_grotto_dawn.md]] — The Ghost Repairs
 * [[../stories/cooroos_warning|cooroos_warning.md]] — Cooroo's frequency checks (Nakh-Mu parallel)
