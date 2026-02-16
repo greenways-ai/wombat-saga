@@ -1,0 +1,173 @@
+# Multi-Language Book Configuration
+# This file defines the structure and metadata for publishing a book in multiple languages
+
+book:
+  id: sample-book
+  title:
+    en: "The Wombat Chronicles"
+    es: "Las Crónicas del Wombat"
+    fr: "Les Chroniques du Wombat"
+    de: "Die Wombat-Chroniken"
+  author: "The Oracle"
+  version: "1.0.0"
+  default_language: en
+  
+# Supported languages with their configurations
+languages:
+  en:
+    name: English
+    locale: en-US
+    rtl: false
+    review_status: published
+    translator: null  # Original author
+  es:
+    name: Español
+    locale: es-ES
+    rtl: false
+    review_status: in_review
+    translator: "Translation Team ES"
+  fr:
+    name: Français
+    locale: fr-FR
+    rtl: false
+    review_status: draft
+    translator: "Translation Team FR"
+  de:
+    name: Deutsch
+    locale: de-DE
+    rtl: false
+    review_status: draft
+    translator: "Translation Team DE"
+
+# Book structure - chapters in order
+structure:
+  - id: frontmatter
+    type: frontmatter
+    chapters:
+      - id: cover
+        file: 00-cover.md
+        type: cover
+      - id: titlepage
+        file: 00-title.md
+        type: titlepage
+      - id: toc
+        file: 00-toc.md
+        type: toc
+      - id: dedication
+        file: 00-dedication.md
+        type: dedication
+        optional: true
+  
+  - id: part1
+    type: part
+    title:
+      en: "Part One: The Burrow"
+      es: "Primera Parte: La Madriguera"
+      fr: "Première Partie: Le Terrier"
+      de: "Erster Teil: Der Bau"
+    chapters:
+      - id: chapter01
+        file: 01-chapter.md
+        title:
+          en: "The Morning Glory"
+          es: "La Gloria de la Mañana"
+          fr: "La Gloire du Matin"
+          de: "Die Morgenröte"
+      - id: chapter02
+        file: 02-chapter.md
+        title:
+          en: "Cooroo's Journey"
+          es: "El Viaje de Cooroo"
+          fr: "Le Voyage de Cooroo"
+          de: "Cooroos Reise"
+  
+  - id: part2
+    type: part
+    title:
+      en: "Part Two: The Surface"
+      es: "Segunda Parte: La Superficie"
+      fr: "Deuxième Partie: La Surface"
+      de: "Zweiter Teil: Die Oberfläche"
+    chapters:
+      - id: chapter03
+        file: 03-chapter.md
+        title:
+          en: "Hoebat and Lolaboo"
+          es: "Hoebat y Lolaboo"
+          fr: "Hoebat et Lolaboo"
+          de: "Hoebat und Lolaboo"
+      - id: chapter04
+        file: 04-chapter.md
+        title:
+          en: "The Hidden Signal"
+          es: "La Señal Oculta"
+          fr: "Le Signal Caché"
+          de: "Das Verborgene Signal"
+  
+  - id: backmatter
+    type: backmatter
+    chapters:
+      - id: glossary
+        file: 99-glossary.md
+        type: glossary
+        optional: true
+      - id: about
+        file: 99-about.md
+        type: about
+
+# Output formats to generate
+outputs:
+  epub:
+    enabled: true
+    cover_image: assets/covers/cover-{lang}.png
+    css: assets/styles/epub.css
+  pdf:
+    enabled: true
+    cover_image: assets/covers/cover-{lang}-print.png
+    paper_size: a5
+    template: assets/templates/pdf-template.latex
+  mobi:
+    enabled: false  # Kindle format (requires kindlegen)
+  html:
+    enabled: true
+    template: assets/templates/html-template.html
+
+# Translation management
+translation:
+  # Keys that must be consistent across all languages
+  locked_keys:
+    - characters.names  # Character names should stay consistent
+    - locations.names   # Place names should stay consistent
+    - technical_terms   # Technical terminology
+  
+  # Keys that allow variations
+  flexible_keys:
+    - descriptions
+    - dialogue
+    - cultural_references
+  
+  # Translation memory settings
+  tm_enabled: true
+  tm_file: translations/tm/sample-book.tmx
+  
+  # Glossary for consistent translations
+  glossary_file: translations/glossary/sample-book-glossary.csv
+
+# Publishing settings
+publishing:
+  # GitHub release settings
+  release:
+    create_release: true
+    draft: false
+    prerelease: false
+  
+  # Which languages to include in release
+  release_languages:
+    - en
+    - es
+  
+  # CDN or storage settings (optional)
+  cdn:
+    enabled: false
+    bucket: ""
+    region: ""

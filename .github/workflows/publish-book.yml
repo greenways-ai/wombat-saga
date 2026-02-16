@@ -1,0 +1,337 @@
+name: Publish Book
+
+on:
+  push:
+    tags:
+      - 'book-*-v*'
+  workflow_dispatch:
+    inputs:
+      book_id:
+        description: 'Book ID (e.g., sample-book)'
+        required: true
+        type: string
+      languages:
+        description: 'Languages to build (comma-separated, or "all")'
+        required: true
+        default: 'all'
+        type: string
+      formats:
+        description: 'Output formats (comma-separated: epub,pdf,html)'
+        required: true
+        default: 'epub,pdf,html'
+        type: string
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: book-publishing
+  cancel-in-progress: false
+
+jobs:
+  # ========== Parse Configuration ==========
+  configure:
+    name: Parse Book Configuration
+    runs-on: ubuntu-latest
+    outputs:
+      book_id: ${{ steps.parse.outputs.book_id }}
+      book_config: ${{ steps.parse.outputs.book_config }}
+      languages: ${{ steps.parse.outputs.languages }}
+      formats: ${{ steps.parse.outputs.formats }}
+      release_version: ${{ steps.parse.outputs.release_version }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Parse tag or inputs
+        id: parse
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            # Parse from tag: book-{id}-v{version}
+            TAG="${{ github.ref_name }}"
+            echo "Processing tag: $TAG"
+            
+            # Extract book ID and version
+            if [[ "$TAG" =~ ^book-(.+)-v(.+)$ ]]; then
+              BOOK_ID="${BASH_REMATCH[1]}"
+              VERSION="${BASH_REMATCH[2]}"
+            else
+              echo "Invalid tag format. Expected: book-{id}-v{version}"
+              exit 1
+            fi
+            
+            # Read config from books/{book_id}/config.yml
+            CONFIG_FILE="books/$BOOK_ID/config.yml"
+            if [ ! -f "$CONFIG_FILE" ]; then
+              echo "Config file not found: $CONFIG_FILE"
+              exit 1
+            fi
+            
+            # Parse languages from config
+            LANGUAGES=$(yq e '.languages | keys | join(",")' "$CONFIG_FILE")
+            FORMATS=$(yq e '.outputs | to_entries | map(select(.value.enabled == true)) | .[].key | join(",")' "$CONFIG_FILE")
+            
+            echo "book_id=$BOOK_ID" >> $GITHUB_OUTPUT
+            echo "release_version=$VERSION" >> $GITHUB_OUTPUT
+            echo "languages=$LANGUAGES" >> $GITHUB_OUTPUT
+            echo "formats=$FORMATS" >> $GITHUB_OUTPUT
+            
+            # Output full config as JSON for downstream jobs
+            yq -o=json "$CONFIG_FILE" > /tmp/book_config.json
+            echo "book_config=$(cat /tmp/book_config.json | jq -c .)" >> $GITHUB_OUTPUT
+          else
+            # Manual dispatch - use inputs
+            echo "book_id=${{ github.event.inputs.book_id }}" >> $GITHUB_OUTPUT
+            echo "release_version=manual-$(date +%Y%m%d)" >> $GITHUB_OUTPUT
+            echo "languages=${{ github.event.inputs.languages }}" >> $GITHUB_OUTPUT
+            echo "formats=${{ github.event.inputs.formats }}" >> $GITHUB_OUTPUT
+            
+            CONFIG_FILE="books/${{ github.event.inputs.book_id }}/config.yml"
+            yq -o=json "$CONFIG_FILE" > /tmp/book_config.json
+            echo "book_config=$(cat /tmp/book_config.json | jq -c .)" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Display configuration
+        run: |
+          echo "Book ID: ${{ steps.parse.outputs.book_id }}"
+          echo "Version: ${{ steps.parse.outputs.release_version }}"
+          echo "Languages: ${{ steps.parse.outputs.languages }}"
+          echo "Formats: ${{ steps.parse.outputs.formats }}"
+
+  # ========== Build E-Books ==========
+  build:
+    name: Build Books
+    runs-on: ubuntu-latest
+    needs: configure
+    strategy:
+      matrix:
+        language: ${{ fromJson(format('[{0}]', needs.configure.outputs.languages)) }}
+        format: ${{ fromJson(format('[{0}]', needs.configure.outputs.formats)) }}
+      fail-fast: false
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            pandoc \
+            texlive-xetex \
+            texlive-fonts-recommended \
+            texlive-lang-all \
+            fonts-dejavu \
+            yq
+
+      - name: Build EPUB
+        if: matrix.format == 'epub'
+        run: |
+          BOOK_ID="${{ needs.configure.outputs.book_id }}"
+          LANG="${{ matrix.language }}"
+          CONFIG="books/$BOOK_ID/config.yml"
+          
+          echo "Building EPUB for $BOOK_ID in $LANG"
+          
+          # Create temporary working directory
+          mkdir -p /tmp/build/$LANG
+          
+          # Gather markdown files in order from config
+          yq e '.structure[] | .chapters[] | select(.type != "cover") | .file' "$CONFIG" | \
+          while read -r file; do
+            SRC="books/$BOOK_ID/$LANG/$file"
+            if [ -f "$SRC" ]; then
+              cp "$SRC" /tmp/build/$LANG/
+            else
+              echo "Warning: Missing file $SRC"
+            fi
+          done
+          
+          # Get book title for this language
+          TITLE=$(yq e ".book.title.$LANG" "$CONFIG")
+          AUTHOR=$(yq e ".book.author" "$CONFIG")
+          
+          # Build EPUB
+          pandoc \
+            --from markdown+yaml_metadata_block \
+            --to epub \
+            --output "${BOOK_ID}-${LANG}.epub" \
+            --metadata title="$TITLE" \
+            --metadata author="$AUTHOR" \
+            --metadata language="$LANG" \
+            --toc \
+            --toc-depth=2 \
+            --epub-cover-image="books/$BOOK_ID/assets/covers/cover-${LANG}.png" \
+            /tmp/build/$LANG/*.md
+          
+          echo "Built: ${BOOK_ID}-${LANG}.epub"
+
+      - name: Build PDF
+        if: matrix.format == 'pdf'
+        run: |
+          BOOK_ID="${{ needs.configure.outputs.book_id }}"
+          LANG="${{ matrix.language }}"
+          CONFIG="books/$BOOK_ID/config.yml"
+          
+          echo "Building PDF for $BOOK_ID in $LANG"
+          
+          # Create temporary working directory
+          mkdir -p /tmp/build/$LANG
+          
+          # Gather markdown files
+          yq e '.structure[] | .chapters[] | select(.type != "cover") | .file' "$CONFIG" | \
+          while read -r file; do
+            SRC="books/$BOOK_ID/$LANG/$file"
+            if [ -f "$SRC" ]; then
+              cp "$SRC" /tmp/build/$LANG/
+            fi
+          done
+          
+          TITLE=$(yq e ".book.title.$LANG" "$CONFIG")
+          AUTHOR=$(yq e ".book.author" "$CONFIG")
+          
+          # Build PDF with XeLaTeX
+          pandoc \
+            --from markdown+yaml_metadata_block \
+            --to pdf \
+            --output "${BOOK_ID}-${LANG}.pdf" \
+            --metadata title="$TITLE" \
+            --metadata author="$AUTHOR" \
+            --metadata lang="$LANG" \
+            --toc \
+            --toc-depth=2 \
+            --pdf-engine=xelatex \
+            --template="books/$BOOK_ID/assets/templates/pdf-template.latex" \
+            -V geometry:margin=1in \
+            -V documentclass=book \
+            /tmp/build/$LANG/*.md
+          
+          echo "Built: ${BOOK_ID}-${LANG}.pdf"
+        continue-on-error: true
+
+      - name: Build HTML
+        if: matrix.format == 'html'
+        run: |
+          BOOK_ID="${{ needs.configure.outputs.book_id }}"
+          LANG="${{ matrix.language }}"
+          CONFIG="books/$BOOK_ID/config.yml"
+          
+          echo "Building HTML for $BOOK_ID in $LANG"
+          
+          mkdir -p /tmp/build/$LANG
+          
+          # Gather and convert files
+          yq e '.structure[] | .chapters[] | select(.type != "cover") | .file' "$CONFIG" | \
+          while read -r file; do
+            SRC="books/$BOOK_ID/$LANG/$file"
+            if [ -f "$SRC" ]; then
+              cp "$SRC" /tmp/build/$LANG/
+            fi
+          done
+          
+          TITLE=$(yq e ".book.title.$LANG" "$CONFIG")
+          AUTHOR=$(yq e ".book.author" "$CONFIG")
+          
+          # Build standalone HTML
+          pandoc \
+            --from markdown+yaml_metadata_block \
+            --to html5 \
+            --output "${BOOK_ID}-${LANG}.html" \
+            --metadata title="$TITLE" \
+            --metadata author="$AUTHOR" \
+            --metadata lang="$LANG" \
+            --standalone \
+            --template="books/$BOOK_ID/assets/templates/html-template.html" \
+            --toc \
+            --toc-depth=2 \
+            /tmp/build/$LANG/*.md
+          
+          echo "Built: ${BOOK_ID}-${LANG}.html"
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ needs.configure.outputs.book_id }}-${{ matrix.language }}-${{ matrix.format }}
+          path: |
+            *.epub
+            *.pdf
+            *.html
+
+  # ========== Create Release ==========
+  release:
+    name: Create Release
+    runs-on: ubuntu-latest
+    needs: [configure, build]
+    if: startsWith(github.ref, 'refs/tags/')
+    steps:
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          pattern: ${{ needs.configure.outputs.book_id }}-*
+
+      - name: Organize release files
+        run: |
+          mkdir -p release
+          
+          # Flatten artifacts and rename
+          for dir in artifacts/*/; do
+            for file in "$dir"*; do
+              if [ -f "$file" ]; then
+                cp "$file" "release/$(basename $file)"
+              fi
+            done
+          done
+          
+          ls -la release/
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: "${{ needs.configure.outputs.book_id }} v${{ needs.configure.outputs.release_version }}"
+          files: release/*
+          generate_release_notes: true
+          body: |
+            ## Multi-Language Release
+            
+            This release includes the following formats and languages:
+            
+            **Languages:** ${{ needs.configure.outputs.languages }}
+            **Formats:** ${{ needs.configure.outputs.formats }}
+            
+            ### Files
+            - EPUB: For e-readers (Apple Books, Kobo, etc.)
+            - PDF: Print-ready and digital reading
+            - HTML: Web browser viewing
+            
+            ### Translation Status
+            See the [translation status](../../tree/main/books/${{ needs.configure.outputs.book_id }}/translations/status.md) for current progress.
+
+  # ========== Deploy to Pages (Optional) ==========
+  deploy:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    needs: [configure, build]
+    if: github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Download HTML artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: _site
+          pattern: ${{ needs.configure.outputs.book_id }}-*-html
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload to Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
