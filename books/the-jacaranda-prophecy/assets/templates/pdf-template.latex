@@ -1,0 +1,213 @@
+% LaTeX Template for Multi-Language Book PDF Generation
+% Compatible with XeLaTeX for better Unicode/font support
+
+\documentclass[11pt,$if(paper-size)$$paper-size$$else$a5$endif$]{$if(document-class)$$document-class$$else$book$endif$}
+
+% ========== Packages ==========
+
+% Encoding and fonts
+\usepackage{fontspec}
+\usepackage{polyglossia}
+
+% Page geometry
+\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+
+% Graphics
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+% Typography
+\usepackage{setspace}
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{emptypage}
+
+% Lists and tables
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{longtable}
+
+% Quotes
+\usepackage{csquotes}
+
+% Links (hidden in print)
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=false,
+  pdfborder={0 0 0},
+  bookmarks=true,
+  bookmarksdepth=section
+}
+
+% Verbatim/code
+\usepackage{fancyvrb}
+\usepackage{listings}
+
+% ========== Language Setup ==========
+
+$if(lang)$
+\setmainlanguage{$lang$}
+$if(other-langs)$
+\setotherlanguages{$for(other-langs)$$it$$sep$,$endfor$}
+$endif$
+$else$
+\setmainlanguage{english}
+$endif$
+
+% Font configuration - customize these fonts as needed
+\setmainfont{DejaVu Serif}
+\setsansfont{DejaVu Sans}
+\setmonofont{DejaVu Sans Mono}
+
+% CJK font support (uncomment if needed)
+% \usepackage{xeCJK}
+% \setCJKmainfont{Noto Serif CJK SC}
+% \setCJKsansfont{Noto Sans CJK SC}
+
+% ========== Page Layout ==========
+
+\geometry{
+  paperwidth=148mm,
+  paperheight=210mm,
+  margin=18mm,
+  headheight=15pt
+}
+
+\setlength{\parindent}{1.5em}
+\setlength{\parskip}{0pt}
+
+% Line spacing
+\onehalfspacing
+
+% ========== Header/Footer ==========
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\thepage}
+\fancyhead[RO]{\thepage}
+\fancyhead[RE]{\nouppercase{\leftmark}}
+\fancyhead[LO]{\nouppercase{\rightmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Plain style for chapter pages
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% ========== Chapter/Part Styling ==========
+
+% Part styling
+\titleclass{\part}{top}
+\titleformat{\part}[display]
+  {\normalfont\huge\bfseries\centering}
+  {\partname\ \thepart}
+  {20pt}
+  {\Huge}
+\titlespacing*{\part}{0pt}{100pt}{50pt}
+
+% Chapter styling
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries\centering}
+  {\chaptertitlename\ \thechapter}
+  {20pt}
+  {\Huge}
+\titlespacing*{\chapter}{0pt}{50pt}{40pt}
+
+% Section styling
+\titleformat{\section}
+  {\normalfont\Large\bfseries}
+  {\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {\thesubsection}{1em}{}
+
+% ========== Custom Commands ==========
+
+% Dedication page
+\newenvironment{dedication}
+  {\cleardoublepage
+   \thispagestyle{empty}
+   \vspace*{\stretch{1}}
+   \begin{center}
+   \em}
+  {\end{center}
+   \vspace*{\stretch{3}}
+   \clearpage}
+
+% Epigraph
+\newenvironment{epigraph}
+  {\begin{flushright}\begin{minipage}{0.6\textwidth}
+   \em}
+  {\end{minipage}\end{flushright}}
+
+% Scene break
+\newcommand{\scenebreak}{
+  \vspace{1em}
+  \begin{center}
+  * * *
+  \end{center}
+  \vspace{1em}
+}
+
+% Drop cap (simplified)
+\newcommand{\dropcap}[1]{%
+  \lettrine[lines=3, lraise=0.1, nindent=0em, slope=-.5em]{#1}{}%
+}
+
+% ========== Document Info ==========
+
+$if(title)$
+\title{$title$}
+$endif$
+
+$if(author)$
+\author{$for(author)$$author$$sep$ \\ $endfor$}
+$endif$
+
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+% ========== Begin Document ==========
+
+\begin{document}
+
+% Front matter
+\frontmatter
+
+$if(title)$
+\maketitle
+$endif$
+
+$if(toc)$
+\tableofcontents
+$endif$
+
+$if(lof)$
+\listoffigures
+$endif$
+
+$if(lot)$
+\listoftables
+$endif$
+
+% Main matter
+\mainmatter
+
+$body$
+
+% Back matter
+\backmatter
+
+$if(bibliography)$
+\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
+$endif$
+
+\end{document}
