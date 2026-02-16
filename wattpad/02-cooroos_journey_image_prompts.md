@@ -12,7 +12,7 @@ A juvenile Galah standing on the jagged edge of the Silver Wattle stump, the Mor
 **Scene:** First flight attempt
 
 **Prompt:**
-Cooroo jumping from the stump into Thúlë Lunga - the Heavy Breath atmospheric layer. The air is visibly thick, dense, humid, carrying scents of eucalyptus and distant rain. The young Galah's wings are spread awkwardly, too short for his body, flapping with desperate uneven strokes. His beak is enormous and pink, comically oversized for his juvenile head. The Morning Glory vine trails from his claws, its leaves streaming in the wind. Below, the Eastern Ridge falls away - the crystalline Bad Ground gleaming. Style: dynamic action, sense of physical struggle, thick atmospheric effects, early morning light.
+Cooroo jumping from the stump into Thúlë Lunga - the Heavy Breath atmospheric layer. The air is visibly thick, dense, humid, carrying scents of eucalyptus and distant rain. The young Galah's wings are spread awkwardly, too short for his body, flapping with desperate uneven strokes. His beak is enormous and pink, comically oversized for his juvenile head. The Morning Glory vine trails from his claws, its leaves streaming in the wind. Below, the Eastern Ridge falls away - the crystalline Bad Grounds gleaming. Style: dynamic action, sense of physical struggle, thick atmospheric effects, early morning light.
 
 ---
 

@@ -32,7 +32,7 @@ Not normal lift. Not the elegant thermal-riding that proper Galahs do, finding t
 
 It would attract attention. But it was the only way to fly.
 
-I rose. Slowly, jerkily, like a kite being pulled by a child who hasn't quite figured out how wind works. The Eastern Ridge fell away beneath me — the stump where I'd spent five weeks in silence, the Bad Ground with its hexagonal sheen, Mum's tiny pink shape on her Eucalyptus branch. I wanted to call out to her, but I needed every breath for flight, every heartbeat for keeping my wings moving.
+I rose. Slowly, jerkily, like a kite being pulled by a child who hasn't quite figured out how wind works. The Eastern Ridge fell away beneath me — the stump where I'd spent five weeks in silence, the Bad Grounds with its hexagonal sheen, Mum's tiny pink shape on her Eucalyptus branch. I wanted to call out to her, but I needed every breath for flight, every heartbeat for keeping my wings moving.
 
 The Heavy Breath got colder as I climbed. That's the thing about heart-shaped worlds — up means toward the center, toward Elen-Nico, and the center is 140 kilometres away. The air thins gradually, not all at once. You don't hit a wall; you just notice, gradually, that your wings are working harder for less result.
 
@@ -292,7 +292,7 @@ The Emu didn't acknowledge me. Not once. It ran as if I wasn't there, as if my w
 
 The vine revived. The chaos of the Friction Engine — the non-repeating pattern, the fractal footfalls, the sheer aggressive unpredictability of the Emu's gait — woke it up. The lilac hum returned, stronger now, pointed southeast like a compass needle that had found magnetic north.
 
-We passed through regions I didn't have names for. The Steppe gave way to scrubland, then to a zone where the crystal formations were visible at the surface — not the perfect tiling of the Bad Ground, but broken crystal, fractured geometry, places where the Static had tried to claim territory and failed. The Jacaranda's influence, I realized. The tree was already disrupting the lattice, already creating defects where life could grip.
+We passed through regions I didn't have names for. The Steppe gave way to scrubland, then to a zone where the crystal formations were visible at the surface — not the perfect tiling of the Bad Grounds, but broken crystal, fractured geometry, places where the Static had tried to claim territory and failed. The Jacaranda's influence, I realized. The tree was already disrupting the lattice, already creating defects where life could grip.
 
 The landscape changed color. The grey-brown of the Steppe shifted, became tinged with... I squinted against the wind. Was that purple? The Rómen-Sírë was strengthening, carrying moisture and scent from somewhere alive. Somewhere that shouldn't exist.
 

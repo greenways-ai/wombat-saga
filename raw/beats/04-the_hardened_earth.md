@@ -51,7 +51,7 @@
 **The Void:** Cooroo views the Crystal only as "Death."
 **The Reality:** The Crystal offers "Anesthesia."
 
-*   **The Moment:** Cooroo, exhausted from the grief of the empty ridge, presses his chest against a exposed patch of the hexagonal lattice (The Bad Ground).
+*   **The Moment:** Cooroo, exhausted from the grief of the empty ridge, presses his chest against a exposed patch of the hexagonal lattice (The Bad Grounds).
 *   **The Seduction:** He expects it to feel cold and sharp. Instead, it feels... *quiet*.
 *   **The Contrast:** The organic world is full of rot, grief, hunger, and the "Noble Noise" that requires constant effort. The Crystal demands nothing. It is finished. It is perfect. It offers a relief from the burden of *becoming*.
 *   **The Insight:** For a moment, Cooroo understands the Wombats and the Rosellas. If you are tired enough, "Death" looks a lot like "Peace." The Crystal is the ultimate painkiller.

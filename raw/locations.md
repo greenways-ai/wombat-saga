@@ -8,7 +8,7 @@ The world of **Arnamland** is the inner surface of a heart-shaped sphere (Klein 
 The "top" of the heart, closest to the Star.
 *   **The Mountrich Perches:** Granite ridges where the Mountrich Kangaroos patrol.
 *   **The Great Wattle:** The ancient Radiant Antenna (now fallen).
-*   **The Eastern Ridge:** The front line of the schism. Home to the **Bad Ground** (hexagonal lattice spreading down the slope).
+*   **The Eastern Ridge:** The front line of the schism. Home to the **Bad Grounds** (hexagonal lattice spreading down the slope).
 
 ## 2. The Eastern Shell (Rómen Pata)
 *   **Melborow (Osto Tumba):** The central wombat metropolis, located underground beneath the Ridge.

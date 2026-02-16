@@ -30,7 +30,7 @@ Reading the Heart Projection from top to bottom:
 **The Upper Lobes** (the two rounded bulges of the heart — the widest part of the world, ~300km across)
 
 *Right Lobe — The Eastern Shell / Rómen Pata:*
-- The Eastern Ridge / *Amba Rómen* — a north-south spine of elevated ground in the upper-right quadrant, roughly 30-40km from the Crown. The stump is marked. The Bad Ground is shaded in hexagonal hatching below the ridge, spreading downslope.
+- The Eastern Ridge / *Amba Rómen* — a north-south spine of elevated ground in the upper-right quadrant, roughly 30-40km from the Crown. The stump is marked. The Bad Grounds is shaded in hexagonal hatching below the ridge, spreading downslope.
 - The Windbreak Cliffs / *Ramba Súrëa* — drawn as a jagged line parallel to the ridge on its south-western side
 - The Rosella Heights / *Tundo Quessëa* — a cluster of elevation marks north of the ridge, in the upper curve of the right lobe
 - The Canopy Remnant / *Aldar Lemnë* — scattered tree symbols south-east of the ridge, trailing toward the mid-latitudes
@@ -53,7 +53,7 @@ Reading the Heart Projection from top to bottom:
 
 - The Burnt Scrub / *Nártaurë* — stippled shading in the upper-south, right of centre. Fire-scar patterns. Kangaroo mob territory markers (which the Council's cartographers do not recognise and the Kangaroos do not care about)
 - The Emu Steppe / *Palar Tírima* — open grassland shading, mid-south, with curved dotted lines showing Emu patrol routes that spiral and never repeat
-- The Crystal Plains / *Hyallapalar* — hexagonal hatching filling most of the lower-south, growing denser as the map narrows. The hatching here is not the sparse patterning of the Bad Ground on the Eastern Ridge. It is solid. Architectural. The map itself becomes geometric as you approach the Node.
+- The Crystal Plains / *Hyallapalar* — hexagonal hatching filling most of the lower-south, growing denser as the map narrows. The hatching here is not the sparse patterning of the Bad Grounds on the Eastern Ridge. It is solid. Architectural. The map itself becomes geometric as you approach the Node.
 
 **The Closing Node** (the bottom point of the heart — the taper, the fold, the crossing)
 - *Metta Nórë* — drawn as the sharp point at the bottom of the heart. On the Council's map, it is labelled "Waste Processing" and given a small administrative glyph. On Dust-Bearer maps, it is labelled with an ancient symbol that means both "end" and "mouth." On no map is it labelled accurately, because no flat map can show what actually happens here: the surface folds through itself, the substrate thins to nothing, and the world becomes another world.

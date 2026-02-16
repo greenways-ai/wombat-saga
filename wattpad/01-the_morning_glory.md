@@ -51,7 +51,7 @@ That's when the world goes lilac.
 
 Old Cookeerik — he was the farthest flier in the colony before his wings gave out — told me once what it's like to fly toward Elen-Nico. You push off the surface and the first ten kilometres are easy. The Heavy Breath — Thúlë Lunga — is thick and warm, the air you know, full of moisture and scent and the weight of living things. Your wings have something to push against.
 
-Then you hit the Law-Wind. Súrë Axan. The air thins. Gets colder. Gets cleaner, in a way that doesn't feel clean — it feels stripped. The wind up there moves in patterns, and the patterns are regular, and your feathers start to flatten the way they do near the Bad Ground. The Wedgies — Wedge-tailed Eagles — call this layer home, which tells you everything about Eagles. Cookeerik said the Law-Wind is where most birds turn back. The ones with sense, anyway.
+Then you hit the Law-Wind. Súrë Axan. The air thins. Gets colder. Gets cleaner, in a way that doesn't feel clean — it feels stripped. The wind up there moves in patterns, and the patterns are regular, and your feathers start to flatten the way they do near the Bad Grounds. The Wedgies — Wedge-tailed Eagles — call this layer home, which tells you everything about Eagles. Cookeerik said the Law-Wind is where most birds turn back. The ones with sense, anyway.
 
 Above the Law-Wind is the Frequency Void — Lusta Ómëa, the Empty Resonance. That's Galah territory. Or it was, once. The air is almost nothing. Your lungs burn. Your wings have to work twice as hard for half the lift. But the sound — Cookeerik's eyes went distant when he talked about the sound. The Void is where Elen-Nico's frequency is loudest, and it's not a sound you hear with your ears. It's a sound you hear with your whole body, every feather vibrating, every chamber in your skull resonating, and the resonance is so pure it's like the crystal's hum except it isn't dead — it's alive, it's the living version of what the lattice is the dead version of, and the difference between them is the Compassion Gaps, the spaces between, the breath.
 
@@ -73,7 +73,7 @@ The problem is that it's coming up.
 
 The Static — that's what they call it, the creeping crystallisation — is pushing the deep geometry toward the surface, replacing topsoil with lattice, turning the living layer into the dead layer. The crystal belongs at seven, eight, nine kilometres down. Not at the top. Not where the roots are. Not where things grow. When the crystal shows up on the surface, it means the organic layer has failed — the skin has thinned, and the bone is showing through.
 
-That's what the Bad Ground is. Not an invasion. A promotion. The deep substrate has been promoted to the surface, and it's doing what it always does down there — tiling, patterning, being perfect — except up here, in the light, where things are supposed to be messy and alive and uncertain, perfection is a death sentence.
+That's what the Bad Grounds is. Not an invasion. A promotion. The deep substrate has been promoted to the surface, and it's doing what it always does down there — tiling, patterning, being perfect — except up here, in the light, where things are supposed to be messy and alive and uncertain, perfection is a death sentence.
 
 ---
 
@@ -155,13 +155,13 @@ I roost on the stump. Not because it's comfortable — it's hard, uneven, nothin
 
 Someone has to. Even if the vigil is pointless. Even if the tree is never coming back, and the Chorus is never going to resolve, and the world is just going to keep crystallising until there's nothing left but hexagons and silence. Someone has to stay.
 
-So I stay. One more day. One more night. One more dawn, watching the sun rise over the Bad Ground, painting the crystal slope in colours that don't belong to living things. Waiting for something I can't name. Waiting for the scream to come back, or for the courage to leave, whichever arrives first.
+So I stay. One more day. One more night. One more dawn, watching the sun rise over the Bad Grounds, painting the crystal slope in colours that don't belong to living things. Waiting for something I can't name. Waiting for the scream to come back, or for the courage to leave, whichever arrives first.
 
 ---
 
-Beyond the stump, the ridge drops away into the Bad Ground.
+Beyond the stump, the ridge drops away into the Bad Grounds.
 
-It's been there my whole life. The older birds say the slope used to be grass and scrub — boring stuff, nothing you'd look at twice. But that was before the wombats built their tunnels and poured their Grout through the substrate, severing the roots that held the organic layer together. The topsoil died. The crystal came up. By the time I hatched, the Bad Ground was just a fact — the sheen on the western slope, the place you don't land, the thing the adults glance at and look away from the way you look away from a scar on someone's face.
+It's been there my whole life. The older birds say the slope used to be grass and scrub — boring stuff, nothing you'd look at twice. But that was before the wombats built their tunnels and poured their Grout through the substrate, severing the roots that held the organic layer together. The topsoil died. The crystal came up. By the time I hatched, the Bad Grounds was just a fact — the sheen on the western slope, the place you don't land, the thing the adults glance at and look away from the way you look away from a scar on someone's face.
 
 Hexagons.
 
@@ -173,7 +173,7 @@ If you look at the slope — the half-tiled, still-failing, not-yet-finished slo
 
 The Dreaming — the living, show-up-every-morning, sing-the-ground-into-being work — costs everything. The lattice costs nothing. It tiles whether you're watching or not. And it doesn't need to finish to win. It just needs to keep trying. Forever. Which is exactly what it plans to do.
 
-I stay away from the Bad Ground. My feathers go flat every time I look at it, and a Galah who ignores his feathers is a Galah who walks into walls.
+I stay away from the Bad Grounds. My feathers go flat every time I look at it, and a Galah who ignores his feathers is a Galah who walks into walls.
 
 ---
 
@@ -309,7 +309,7 @@ On the twenty-first morning, I saw the flower.
 
 I woke on the stump in the dim — the low ember phase, Elen-Nico resting between beats — and waited for the swell. And there it was.
 
-Growing right at the edge of the Bad Ground. Right where the dying met the living — not a clean line, nothing neat about it, just a ragged, messy tear in the earth where dirt and crystal were still fighting over who got to be the ground. The hexagons stopped here. Not because anything was stopping them. Because the soil was still too tangled, too rooty, too alive for the geometry to tile through. A few centimetres of organic mess holding back the pattern. The thinnest possible margin.
+Growing right at the edge of the Bad Grounds. Right where the dying met the living — not a clean line, nothing neat about it, just a ragged, messy tear in the earth where dirt and crystal were still fighting over who got to be the ground. The hexagons stopped here. Not because anything was stopping them. Because the soil was still too tangled, too rooty, too alive for the geometry to tile through. A few centimetres of organic mess holding back the pattern. The thinnest possible margin.
 
 A vine. Thin as wire. Climbing a fragment of the shattered Wattle with the quiet stubbornness of a plant that had looked at its options, found them rubbish, and decided that up was the best available direction. Three heart-shaped leaves, so green against all that grey they looked like they were making a point.
 
@@ -359,7 +359,7 @@ I went back every morning for a week.
 
 The flower opened at the swell. Closed at the dim. Opened the next morning slightly wider, slightly deeper, the stem slightly longer. Not the same flower repeated — the same idea repeated, with variations. Like the way Mum used to hum the same lullaby every night, and it was never quite the same because she was a day tireder and I was a day older and the dark outside was a different dark.
 
-The Bad Ground repeated exactly. Same hexagon, same angle, same sheen, same 120 degrees, same prismatic arc. Because the pattern didn't care what day it was. The flower cared. The flower was paying attention.
+The Bad Grounds repeated exactly. Same hexagon, same angle, same sheen, same 120 degrees, same prismatic arc. Because the pattern didn't care what day it was. The flower cared. The flower was paying attention.
 
 ---
 
@@ -387,7 +387,7 @@ The flower closed. The signal stopped.
 
 I sat on the wreckage of the last Silver Wattle in Hún Nico with crystal under my claws and a ghost of a direction in my feathers, and I knew what I had to do.
 
-Not because I'd thought it through. Because my feathers told me, and my feathers had been right about the Bad Ground and right about the flower and right about the hum in my chambers. I was done arguing with my feathers.
+Not because I'd thought it through. Because my feathers told me, and my feathers had been right about the Bad Grounds and right about the flower and right about the hum in my chambers. I was done arguing with my feathers.
 
 Find the tree. The one with the violet bloom. The one growing somewhere in the Lone Borow territory, beyond the map's end, conducting a new signal through wood that isn't gold but is alive, blooming a colour that isn't the Wattle's colour but is the sky's colour, compressed and condensed and changed into something new.
 
@@ -413,7 +413,7 @@ She didn't fly to me. Not yet. But she turned her head. First time she'd turned 
 
 I gripped the Morning Glory vine in my claws — the lilac trumpet, the last vessel of the Silver Wattle's memory, the parasite that kept the host alive. The Act of Transfer had begun. I would carry this fragile antenna across the heart-world, to the Jacaranda growing in the Lone Borow territory, and there I would plant it, root it, complete the passage of memory from the dead Coring Tree to the new prophet tree.
 
-And at the edge of the Bad Ground, a native Morning Glory — the Rock Glory, the vine that grows in desert gravel and dry creek beds and the rough edges where the pattern breaks — held its lilac trumpet open to the swell.
+And at the edge of the Bad Grounds, a native Morning Glory — the Rock Glory, the vine that grows in desert gravel and dry creek beds and the rough edges where the pattern breaks — held its lilac trumpet open to the swell.
 
 Only the Galahs heard it.
 

@@ -3,11 +3,11 @@ type: titlepage
 lang: en
 ---
 
-# The Wombat Chronicles
+# Wombat Worlds Saga
 
-## A Story of Arnamland
+## The Jacaranda Prophecy
 
-### By The Oracle
+### By Hoebat Kappa Mu
 
 ---
 

@@ -48,13 +48,13 @@ Cooroo liked the stump. It was the right height for a bird who wasn't flying, wh
 
 ---
 
-Beyond the stump, the ridge dropped into what Cooroo had started calling the Bad Ground.
+Beyond the stump, the ridge dropped into what Cooroo had started calling the Bad Grounds.
 
 He'd called it this since the fourth day, when he'd noticed the sheen. Before the Tall-Ones' machines came, the slope had been native grass and scrub — the kind of unremarkable ground-cover that nobody notices until it's gone, at which point everybody notices, too late, that it was the thing holding the dirt together. The machines had scraped it clean. What remained was bare substrate — pale, compacted, stripped of everything that had been growing on it since before Cooroo's grandmother's grandmother had screamed her first dawn call.
 
 The sheen was faint. You had to catch it at the right angle, the way you sometimes catch the shimmer on a soap bubble just before it pops. But once you saw it, you couldn't unsee it. The ground was patterning. Hexagons, interlocking, repeating, marching down the slope in rows so regular they looked deliberate.
 
-They weren't deliberate. There was no mind behind them. The patterning was what happened when you removed the rough, living, tangled layer of roots and scrub that had been preventing it — the way dust settles into neat lines on a shelf once you stop disturbing it. The lattice, Pokero would have called it. The Static tiling. Cooroo called it the Bad Ground and stayed away from it, because his feathers went flat every time he looked at it, and a Galah who ignores his feathers is a Galah who walks into walls.
+They weren't deliberate. There was no mind behind them. The patterning was what happened when you removed the rough, living, tangled layer of roots and scrub that had been preventing it — the way dust settles into neat lines on a shelf once you stop disturbing it. The lattice, Pokero would have called it. The Static tiling. Cooroo called it the Bad Grounds and stayed away from it, because his feathers went flat every time he looked at it, and a Galah who ignores his feathers is a Galah who walks into walls.
 
 The sheen was, he had to admit, beautiful. That was the worst part. It caught the dawn light and threw it back in angles that made the slope look like the inside of something precious — geometric, clean, certain. It was the certainty that bothered him. The ground had made up its mind. It had decided what it was, and what it was, was a pattern that repeated forever and never needed to ask anyone's opinion.
 
@@ -64,7 +64,7 @@ Cooroo did not trust things that had finished deciding. He was a Galah. Galahs w
 
 On the twenty-first morning, he woke on the stump, faced east, and saw the flower.
 
-It was growing at the edge of the Bad Ground — right where the scraped substrate met the surviving scrub. The boundary between the two was not a clean line. It was ragged, messy, torn — the kind of edge that happened when a machine stopped scraping and the earth was left to figure out for itself where the dying stopped and the living started. Fingers of dirt reached into the dead ground. Fingers of dead ground reached into the dirt.
+It was growing at the edge of the Bad Grounds — right where the scraped substrate met the surviving scrub. The boundary between the two was not a clean line. It was ragged, messy, torn — the kind of edge that happened when a machine stopped scraping and the earth was left to figure out for itself where the dying stopped and the living started. Fingers of dirt reached into the dead ground. Fingers of dead ground reached into the dirt.
 
 In one of those fingers — in a crack no wider than a Galah's claw, where a crumb of organic soil had washed into a fissure in the patterned surface — a vine had taken root.
 
@@ -102,9 +102,9 @@ He came back every morning for a week.
 
 The flower opened at dawn. Closed at noon. Opened the next morning — slightly wider, slightly deeper in colour, the stem two millimetres longer, the whole vine fractionally more itself. Not the same flower repeated. The same *idea* repeated, with variations, the way a mother hums the same lullaby every night and it's never quite the same because she's a day tireder and the child is a day older and the dark outside the window is a different dark.
 
-This was not how the Bad Ground worked. The Bad Ground repeated its pattern exactly — same hexagon, same angle, same sheen — because the pattern didn't care what day it was. The flower cared. The flower was paying attention. And because it was paying attention, it was *changing*, and because it was changing, it was alive, and because it was alive, it was growing in a crack in the one surface in Arnamland that had decided, with geometric finality, that nothing would ever grow on it again.
+This was not how the Bad Grounds worked. The Bad Grounds repeated its pattern exactly — same hexagon, same angle, same sheen — because the pattern didn't care what day it was. The flower cared. The flower was paying attention. And because it was paying attention, it was *changing*, and because it was changing, it was alive, and because it was alive, it was growing in a crack in the one surface in Arnamland that had decided, with geometric finality, that nothing would ever grow on it again.
 
-On the seventh morning, Cooroo knew what to do. Not because he'd thought it through. Because his feathers told him, and his feathers had been right about the Bad Ground and right about the flower and right about the hum in his chambers, and he was done arguing with his feathers.
+On the seventh morning, Cooroo knew what to do. Not because he'd thought it through. Because his feathers told him, and his feathers had been right about the Bad Grounds and right about the flower and right about the hum in his chambers, and he was done arguing with his feathers.
 
 *Find this colour.*
 
@@ -114,7 +114,7 @@ He flew again. Short distances — his wings were young and his endurance was, f
 
 His voice couldn't find what he was looking for. His eyes could.
 
-He searched for lilac. For violet. For the condensed-sky colour that showed up wherever the ground was cracked and rough and too stubborn to be grey. He searched the margins — the drainage channels, the edges of the construction site, the places where runoff pooled and dirt collected in fissures and the Bad Ground's geometry broke down just enough for something messy to take hold.
+He searched for lilac. For violet. For the condensed-sky colour that showed up wherever the ground was cracked and rough and too stubborn to be grey. He searched the margins — the drainage channels, the edges of the construction site, the places where runoff pooled and dirt collected in fissures and the Bad Grounds's geometry broke down just enough for something messy to take hold.
 
 He searched the heartwood pile. This was the heap of splintered Jacaranda that the Yellow Monster had shoved aside after cutting the Great One down — two hundred years of tree, reduced to a tangle of broken wood that the operator's report had described as "cleared debris." The wood had been sitting in weather for five weeks. It was softening. It smelled of tannin and old rain and something sweeter — the smell of wood remembering how to be soil.
 
@@ -144,7 +144,7 @@ She didn't fly to him. Not yet. But she turned her head. It was the first time s
 
 The seed sat in its crack. The root sat in its ground. The stump sat in its morning.
 
-And at the edge of the Bad Ground, a native Morning Glory — *Ipomoea costata*, the Rock Glory, the vine that grows in desert gravel and riverbeds and the rough edges where the pattern breaks — held its lilac trumpet open to the dawn and showed the compressed sky to a world that had forgotten what blue looks like when you squeeze it hard enough to change.
+And at the edge of the Bad Grounds, a native Morning Glory — *Ipomoea costata*, the Rock Glory, the vine that grows in desert gravel and riverbeds and the rough edges where the pattern breaks — held its lilac trumpet open to the dawn and showed the compressed sky to a world that had forgotten what blue looks like when you squeeze it hard enough to change.
 
 ***
 

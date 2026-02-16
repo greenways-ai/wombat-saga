@@ -53,7 +53,7 @@
 ## 6. Color Palette (Hex Codes)
 *   **Nico Star:** `#FFFFFF` (Pure White) -> `#FFD700` (Gold)
 *   **The Glass Shell:** `#E0F7FA` (Cyan Tint) -> `#1A237E` (Deep Blue Void)
-*   **The Bad Ground (Melborow):** `#424242` (Grey Static) -> `#212121` (Grout)
+*   **The Bad Grounds (Melborow):** `#424242` (Grey Static) -> `#212121` (Grout)
 *   **The Morning Glory/Compassion:** `#7C4DFF` (Deep Violet) -> `#E040FB` (Neon Lilac)
 
 ---

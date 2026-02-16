@@ -32,13 +32,13 @@ He liked the stump. It was the right height for a Galah who wasn't flying, which
 
 ---
 
-Beyond the stump, the Eastern Ridge dropped into what Cooroo thought of as the Bad Ground.
+Beyond the stump, the Eastern Ridge dropped into what Cooroo thought of as the Bad Grounds.
 
 It had been a perfectly good slope three weeks ago — native grass, scrub, the usual tangle of things growing where they pleased. Then the Tall-Ones had scraped it bare for their construction site, and what was left looked wrong in a way that made Cooroo's feathers press flat against his body. Flat feathers, in a Galah, meant the same thing as a raised hackle in a dog or a clenched jaw in a wombat: something is off, and the body knows it before the brain catches up.
 
 The ground had a sheen. Faint, but there if you caught it at the right angle — a geometric glimmer, like frost, except frost melted and this didn't. The sheen made patterns. Hexagons, mostly, interlocking, repeating, stretching down the slope in a way that was undeniably pretty and made Cooroo want to be somewhere else immediately.
 
-He didn't have a word for what he was seeing. Pokero would have called it the lattice. Hoebat would have felt it through his paws and known that the ground was dying. Cooroo just knew that the Bad Ground looked like something that had made up its mind, and things that had made up their minds completely — things with no mess, no argument, no rough edges — made him deeply uneasy.
+He didn't have a word for what he was seeing. Pokero would have called it the lattice. Hoebat would have felt it through his paws and known that the ground was dying. Cooroo just knew that the Bad Grounds looked like something that had made up its mind, and things that had made up their minds completely — things with no mess, no argument, no rough edges — made him deeply uneasy.
 
 He avoided it. He sat on his stump and faced east, where the sky was still doing its job properly, which was to be large and blue and slightly different every time you looked at it.
 
@@ -46,7 +46,7 @@ He avoided it. He sat on his stump and faced east, where the sky was still doing
 
 On the twenty-first morning, he saw the flower.
 
-It was growing at the edge of the Bad Ground — right at the boundary where the scraped substrate met the surviving scrub. The boundary was not a neat line. It was ragged, messy, the kind of edge that would have made Zuckbat reach for a ruler and Hoebat reach for his clay. Fingers of living dirt poked into the dead ground, and fingers of dead ground poked into the dirt, and in one of those fingers — in a crack barely wide enough for a Galah's claw — a vine had taken root.
+It was growing at the edge of the Bad Grounds — right at the boundary where the scraped substrate met the surviving scrub. The boundary was not a neat line. It was ragged, messy, the kind of edge that would have made Zuckbat reach for a ruler and Hoebat reach for his clay. Fingers of living dirt poked into the dead ground, and fingers of dead ground poked into the dirt, and in one of those fingers — in a crack barely wide enough for a Galah's claw — a vine had taken root.
 
 It was a small vine. A single stem, thinner than a feather, climbing a dead stick with the quiet determination of a thing that has nowhere else to go and has decided that *up* is a direction. Three heart-shaped leaves, improbably green against the grey. And at the top, open to the dawn like a tiny trumpet announcing something to an audience of one very startled bird:
 
@@ -60,7 +60,7 @@ The flower was the colour of the sky at dawn. Not the blue part — the part jus
 
 The lilac deepened at the throat. Darker toward the centre, the way the sky darkens at the zenith — the colour concentrating inward, compressing, as though the whole blue of the atmosphere had been squeezed through a funnel and come out the other side as violet.
 
-Cooroo's crest rose. He hadn't told it to. His feathers — which had been flat with dread every time he looked at the Bad Ground — were lifting, fanning, responding to the colour the way they used to respond to his mother's voice. A resonance. Not sound. Colour. But his body didn't care about the difference. His body had been waiting for something to vibrate to, and the lilac was vibrating, and the vibrating was making the inside of his skull hum in the place where his scream used to live.
+Cooroo's crest rose. He hadn't told it to. His feathers — which had been flat with dread every time he looked at the Bad Grounds — were lifting, fanning, responding to the colour the way they used to respond to his mother's voice. A resonance. Not sound. Colour. But his body didn't care about the difference. His body had been waiting for something to vibrate to, and the lilac was vibrating, and the vibrating was making the inside of his skull hum in the place where his scream used to live.
 
 He hopped off the stump. A Galah on the ground, hopping across grey dirt toward a flower. If any of the colony had been there to see it, they would have laughed. Cooroo would have laughed too, normally. But the flower was the colour of his own crest, and the coincidence — or the not-coincidence — was doing something to his chest that he didn't have a word for.
 
@@ -76,7 +76,7 @@ Blue, squeezed, becomes lilac. Sky, compressed into a flower, becomes violet. Th
 
 The flower closed at noon. Cooroo had known it would — Morning Glories weren't the type to hang about — but watching it happen was like watching a door shut on a room you'd only just discovered. The petals furled inward, the lilac dimmed to a pale twist, and the vine went back to being a vine: green, thin, ordinary, growing in a crack.
 
-He came back the next morning. The flower opened again. Different — slightly larger, tilted a few degrees further east, the lilac fractionally deeper. The same rule, applied again, producing a different result. This was not the Bad Ground's trick, which was to repeat the same pattern forever. This was the other thing. The alive thing. The thing that did the same thing twice and got a different answer because the world had moved underneath it.
+He came back the next morning. The flower opened again. Different — slightly larger, tilted a few degrees further east, the lilac fractionally deeper. The same rule, applied again, producing a different result. This was not the Bad Grounds's trick, which was to repeat the same pattern forever. This was the other thing. The alive thing. The thing that did the same thing twice and got a different answer because the world had moved underneath it.
 
 He came back every morning for a week. Each day the flower opened. Each day his feathers rose. Each day the hum in his resonating chambers grew a fraction louder, as if the colour were tuning an instrument that hadn't been played in weeks and was remembering, string by string, what music was for.
 
@@ -120,7 +120,7 @@ She didn't fly to him. Not yet. But she turned her head toward the sound — the
 
 The seed sat in its crack. The stump sat in its grief.
 
-And somewhere on the rough edge of the Bad Ground, a Morning Glory — *Ipomoea costata*, the Rock Glory, the Poison Glory, the native vine that grows in desert gravel and riverbeds and the rough margins where nothing else bothers — opened its lilac trumpet to the dawn and played a note that only a Galah could hear, in a colour that only a bird the same colour could understand.
+And somewhere on the rough edge of the Bad Grounds, a Morning Glory — *Ipomoea costata*, the Rock Glory, the Poison Glory, the native vine that grows in desert gravel and riverbeds and the rough margins where nothing else bothers — opened its lilac trumpet to the dawn and played a note that only a Galah could hear, in a colour that only a bird the same colour could understand.
 
 ***
 
@@ -130,7 +130,7 @@ And somewhere on the rough edge of the Bad Ground, a Morning Glory — *Ipomoea 
 
 1. **The narrator has personality.** Wry, affectionate, slightly amused. "Roughly the equivalent of a fish deciding it had gone off swimming." The narrator likes Cooroo and thinks the world is absurd and heartbreaking in equal measure.
 
-2. **Concrete over abstract.** The lattice becomes "the Bad Ground" — something Cooroo experiences physically (flat feathers, unease) rather than something the narrator explains cosmologically. No references to "fractal," "crystalline order," or "meta-narrative" in the prose itself. The ideas are there; the vocabulary is Cooroo's, not the wiki's.
+2. **Concrete over abstract.** The lattice becomes "the Bad Grounds" — something Cooroo experiences physically (flat feathers, unease) rather than something the narrator explains cosmologically. No references to "fractal," "crystalline order," or "meta-narrative" in the prose itself. The ideas are there; the vocabulary is Cooroo's, not the wiki's.
 
 3. **Shorter paragraphs.** More white space. The eye moves faster. Emotional beats land in single lines rather than embedded in long passages.
 

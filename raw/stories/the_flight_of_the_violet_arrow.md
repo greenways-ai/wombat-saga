@@ -15,7 +15,7 @@ But I had the Hum.
 
 The lilac vibration from the Morning Glory was still sitting in my skull chambers, buzzing like a trapped bee. It wasn't a sound. It was a compass. It pointed South-East with a certainty that made my beak ache. *There,* it said. *Not where you should be. Where you are going.*
 
-I caught a thermal rising off the Bad Ground—the heat coming off the crystal lattice is cleaner than dirt-heat, sharp and fast—and I rode it up into the Heavy Breath.
+I caught a thermal rising off the Bad Grounds—the heat coming off the crystal lattice is cleaner than dirt-heat, sharp and fast—and I rode it up into the Heavy Breath.
 
 I didn't look back at Mum. Cooriki was still on her Eucalyptus branch, staring at the empty space where the Wattle used to be. She didn't turn. She didn't call. Galahs don't do long goodbyes. We do loud hellos and then sudden, unexplained absences. She just fluffed her neck feathers once, which in Galah means: *I am ignoring you so hard that I hope you survive.*
 

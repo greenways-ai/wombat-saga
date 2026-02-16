@@ -132,7 +132,7 @@ She turned her head toward the sound. It was the first movement she had made tow
 
 The seed sat in its crack. The root sat in its ground. The stump sat in the morning light, still warm with the memory of what it had been.
 
-And at the edge of the Bad Ground, a native Morning Glory — *Ipomoea costata*, the Rock Glory, the vine that grows where the lattice cracks and the cracks have dirt in them — held its lilac trumpet open to the dawn and broadcast the condensed sky to anything with the feathers to receive it.
+And at the edge of the Bad Grounds, a native Morning Glory — *Ipomoea costata*, the Rock Glory, the vine that grows where the lattice cracks and the cracks have dirt in them — held its lilac trumpet open to the dawn and broadcast the condensed sky to anything with the feathers to receive it.
 
 ***
 

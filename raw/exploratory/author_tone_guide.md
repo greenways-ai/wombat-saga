@@ -22,7 +22,7 @@ This document codifies the specific narrative voice established in the Wombat Sa
     *   *Example:* "...the machinery was there—he could feel it working, the syrinx contracting, the air flowing, the resonating chambers in his skull doing their level best."
 *   **Structural Categorization:** Use the language of an auditor or a technician to describe the environment. This represents the "Static" or "Council" perspective overlaying the natural world.
     *   *Example:* "The operator had filed the remains under 'Site Prep: Day 1' and gone home for tea."
-*   **Geometric Description:** When describing the "Static" or the "Bad Ground," use cold, geometric terms to contrast with the organic "Rowling" descriptions of the birds.
+*   **Geometric Description:** When describing the "Static" or the "Bad Grounds," use cold, geometric terms to contrast with the organic "Rowling" descriptions of the birds.
     *   *Example:* "Hexagons, interlocking, repeating, marching down the slope in rows so regular they looked deliberate."
 *   **Systemic Consequences:** State the logic of a situation as a design specification or a systems failure.
     *   *Example:* "Cooriki was describing a systems failure as precisely as any technician could."

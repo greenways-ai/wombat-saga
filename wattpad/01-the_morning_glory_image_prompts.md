@@ -40,11 +40,11 @@ An adult Galah with dusty, unkempt feathers sits motionless on a thin Eucalyptus
 
 ---
 
-## Prompt 6: The Bad Ground
+## Prompt 6: The Bad Grounds
 **Scene:** The creeping crystallization
 
 **Prompt:**
-The Bad Ground - a slope covered entirely in interlocking hexagonal crystal lattice. Perfect hexagons tessellate in every direction without flaw or gap, each face a tiny mirror reflecting prismatic light. The pattern extends toward the viewer like a geometric glacier, marching up the ridge one cell at a time. Where the hexagons meet the living soil, there's a ragged, messy boundary - the organic layer fighting the geometric perfection. Elen-Nico's light catches the crystal surfaces, splitting into rainbow arcs. The beauty is wrong - like a skeleton, all structure and no flesh. Style: sci-fi/fantasy landscape, crystalline textures, beautiful but unsettling, perfect geometry vs organic mess.
+The Bad Grounds - a slope covered entirely in interlocking hexagonal crystal lattice. Perfect hexagons tessellate in every direction without flaw or gap, each face a tiny mirror reflecting prismatic light. The pattern extends toward the viewer like a geometric glacier, marching up the ridge one cell at a time. Where the hexagons meet the living soil, there's a ragged, messy boundary - the organic layer fighting the geometric perfection. Elen-Nico's light catches the crystal surfaces, splitting into rainbow arcs. The beauty is wrong - like a skeleton, all structure and no flesh. Style: sci-fi/fantasy landscape, crystalline textures, beautiful but unsettling, perfect geometry vs organic mess.
 
 ---
 
@@ -188,15 +188,15 @@ Triptych showing the Three Primes in their decline. Left: Kangaroos running endl
 **Scene:** Where life meets geometry
 
 **Prompt:**
-Extreme close-up of the boundary between living soil and the Bad Ground. On one side: tangled roots, insects, moisture, organic mess - fractal, rough, alive. On the other: perfect hexagonal crystal cells, tessellating infinitely, prismatic, dead. The line between them is ragged, messy, still fighting - a few centimeters of organic mess holding back the pattern. Individual root hairs penetrating crystal fissures, individual crystal cells converting soil. The war at the smallest scale. Style: macro photography style, microscopic warfare, organic vs geometric textures, detailed natural textures.
+Extreme close-up of the boundary between living soil and the Bad Grounds. On one side: tangled roots, insects, moisture, organic mess - fractal, rough, alive. On the other: perfect hexagonal crystal cells, tessellating infinitely, prismatic, dead. The line between them is ragged, messy, still fighting - a few centimeters of organic mess holding back the pattern. Individual root hairs penetrating crystal fissures, individual crystal cells converting soil. The war at the smallest scale. Style: macro photography style, microscopic warfare, organic vs geometric textures, detailed natural textures.
 
 ---
 
 ## Prompt 25: The Morning Glory
-**Scene:** Discovery at the edge of the Bad Ground
+**Scene:** Discovery at the edge of the Bad Grounds
 
 **Prompt:**
-A delicate Morning Glory vine growing at the ragged edge where crystalline Bad Ground meets living soil. The vine is thin as wire with three bright green heart-shaped leaves. It climbs a fragment of the shattered Silver Wattle wood. At its top, a single trumpet-shaped flower blooms - the color of concentrated sky, lilac/violet, the exact shade of the pause between Elen-Nico's beats. The flower glows with an inner light against the grey hexagonal crystal background. The contrast is striking - soft organic curves against perfect geometric hexagons, living color against crystalline grey, hope against despair. Macro photography style, fantasy illustration, luminous petals, detailed texture, symbolic composition.
+A delicate Morning Glory vine growing at the ragged edge where crystalline Bad Grounds meets living soil. The vine is thin as wire with three bright green heart-shaped leaves. It climbs a fragment of the shattered Silver Wattle wood. At its top, a single trumpet-shaped flower blooms - the color of concentrated sky, lilac/violet, the exact shade of the pause between Elen-Nico's beats. The flower glows with an inner light against the grey hexagonal crystal background. The contrast is striking - soft organic curves against perfect geometric hexagons, living color against crystalline grey, hope against despair. Macro photography style, fantasy illustration, luminous petals, detailed texture, symbolic composition.
 
 ---
 
@@ -228,7 +228,7 @@ Cooroo looking south-east from the stump, the Morning Glory's signal still reson
 **Scene:** Cooroo accepts his mission
 
 **Prompt:**
-Cooroo gripping the Morning Glory vine in his claws, preparing to take flight. The delicate lilac flower and its trailing roots are clutched carefully against his grey and pink body. Behind him, the wreckage of the Silver Wattle stump and the Bad Ground stretching into distance. Before him, the curving landscape of Hún Nico rising toward the distant horizon, suggesting the long journey ahead to the Lone Borow territory. His posture is determined despite his youth and small size. The first rays of the swell phase illuminate the scene with golden-pink light. Style: heroic fantasy, small protagonist facing epic quest, warm hopeful lighting, detailed botanical elements.
+Cooroo gripping the Morning Glory vine in his claws, preparing to take flight. The delicate lilac flower and its trailing roots are clutched carefully against his grey and pink body. Behind him, the wreckage of the Silver Wattle stump and the Bad Grounds stretching into distance. Before him, the curving landscape of Hún Nico rising toward the distant horizon, suggesting the long journey ahead to the Lone Borow territory. His posture is determined despite his youth and small size. The first rays of the swell phase illuminate the scene with golden-pink light. Style: heroic fantasy, small protagonist facing epic quest, warm hopeful lighting, detailed botanical elements.
 
 ---
 
@@ -260,7 +260,7 @@ Artistic composition showing the concept: "We Galahs are what happens when the G
 **Scene:** The essence of the story
 
 **Prompt:**
-Epic book cover composition: A juvenile Galah in flight, small against the vast heart-shaped world of Hún Nico, carrying a glowing lilac Morning Glory flower in his claws. The curved inner surface of the world rises behind him, Elen-Nico burning at the geometric center. Below, the Silver Wattle stump and the spreading crystalline Bad Ground. Above, the suggestion of the distant Jacaranda with violet blooms somewhere on the curving horizon. The color palette is dominated by pinks, greys, lilacs, and golds. Tagline space at top: "Only the Galahs stayed." Style: epic fantasy book cover, cinematic lighting, sense of impossible scale, hope amid desolation.
+Epic book cover composition: A juvenile Galah in flight, small against the vast heart-shaped world of Hún Nico, carrying a glowing lilac Morning Glory flower in his claws. The curved inner surface of the world rises behind him, Elen-Nico burning at the geometric center. Below, the Silver Wattle stump and the spreading crystalline Bad Grounds. Above, the suggestion of the distant Jacaranda with violet blooms somewhere on the curving horizon. The color palette is dominated by pinks, greys, lilacs, and golds. Tagline space at top: "Only the Galahs stayed." Style: epic fantasy book cover, cinematic lighting, sense of impossible scale, hope amid desolation.
 
 ---
 

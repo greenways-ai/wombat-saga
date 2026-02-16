@@ -96,11 +96,11 @@ The most storied region of Arnamland. Where the Great Wattle stood, where the co
 
 #### The Eastern Ridge / *Amba Rómen* ("East-Rise")
 
-A long spine of elevated ground running north-south along the eastern shell. The Great Wattle's stump sits at the ridge's highest point. Below the stump, the Bad Ground — the hexagonal lattice patterning — is spreading down the western slope. The eastern slope is still scrub, still rough, still alive. The ridge is the front line.
+A long spine of elevated ground running north-south along the eastern shell. The Great Wattle's stump sits at the ridge's highest point. Below the stump, the Bad Grounds — the hexagonal lattice patterning — is spreading down the western slope. The eastern slope is still scrub, still rough, still alive. The ridge is the front line.
 
 **Key features:**
 * **The Stump** — The break-face of the Great Wattle. Warm to the touch. Crystallised heartwood visible in hexagonal facets.
-* **The Bad Ground** — The lattice-patterned slope below the stump. Hexagonal, interlocking, beautiful and sterile.
+* **The Bad Grounds** — The lattice-patterned slope below the stump. Hexagonal, interlocking, beautiful and sterile.
 * **The Eastern Ridge Shaft** — A ventilation column connecting the surface to the tunnels below. One of the few points where underground air meets the sky.
 
 #### The Windbreak Cliffs / *Ramba Súrëa* ("Wind-Wall")
@@ -147,7 +147,7 @@ Fire-scarred bushland south of the Shattered Gorge. The Kangaroo mobs control th
 
 #### The Crystal Plains / *Hyallapalar* ("Glass-Plain")
 
-The largest continuous expanse of visible lattice on the surface. South-west of the Burnt Scrub, stretching toward the Closing Node. The hexagonal patterning here is not subtle — it's architectural. The ground is glass-smooth in places, the tiling so complete that the surface reflects the Star's light in prismatic arcs. Beautiful. Terrible. Nothing grows. Nothing walks on it by choice. The Crystal Plains are what the Bad Ground on the Eastern Ridge will become if the organic layer isn't restored. They are the endgame made visible.
+The largest continuous expanse of visible lattice on the surface. South-west of the Burnt Scrub, stretching toward the Closing Node. The hexagonal patterning here is not subtle — it's architectural. The ground is glass-smooth in places, the tiling so complete that the surface reflects the Star's light in prismatic arcs. Beautiful. Terrible. Nothing grows. Nothing walks on it by choice. The Crystal Plains are what the Bad Grounds on the Eastern Ridge will become if the organic layer isn't restored. They are the endgame made visible.
 
 #### The Emu Steppe / *Palar Tírima* ("Watching-Plain")
 
@@ -318,7 +318,7 @@ The outer shell of the heart-sphere. **5cm thick.** Mirrored, impenetrable, comp
 
 The crystalline lattice that the soil gradually becomes as you dig deeper. Not a separate material — a gradient. The top of the 10km substrate is loose soil. By mid-depth, hexagonal patterning appears in the clay. By 8-9km, it is mostly crystal. At 10km, it meets the Glass. The Static is the natural crystalline structure of the substrate.
 
-* **On the surface:** Where the organic layer has been stripped or eroded, the Static shows through — the Bad Ground on the Eastern Ridge, the Crystal Plains in the south. These are places where the soil is gone and the substrate's crystalline nature is exposed.
+* **On the surface:** Where the organic layer has been stripped or eroded, the Static shows through — the Bad Grounds on the Eastern Ridge, the Crystal Plains in the south. These are places where the soil is gone and the substrate's crystalline nature is exposed.
 * **Underground:** The deeper you dig, the more crystalline the material becomes. Digging in the upper kilometres is easy — loose soil, root-threaded, alive. Digging at 6-7km is hard — the clay is half-crystal, compacted, resistant. Digging at 9km is nearly impossible. The lattice hums.
 
 ### The Grout (Wombat-Made) / *Ondo Naica* ("Wounded Stone")

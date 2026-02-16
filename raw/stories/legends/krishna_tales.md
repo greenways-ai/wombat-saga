@@ -41,7 +41,7 @@ Kri-bat turned and waddled away. The Auditor tried to grab him, but his paws sli
 
 Mother **Yasho-bat** was a very sensible wombat. She believed in the Fixed Borow, the Four-Foot Dig, and the importance of keeping one’s whiskers clean.
 
-One day, she found Kri-bat sitting in the **Bad Ground** (the Crystal slope). He was chewing on a shard of hexagonal crystal—the Static.
+One day, she found Kri-bat sitting in the **Bad Grounds** (the Crystal slope). He was chewing on a shard of hexagonal crystal—the Static.
 
 *"Kri-bat!"* she shrieked. *"That is poison! That is the dead geometry! Spit it out this instant!"*
 

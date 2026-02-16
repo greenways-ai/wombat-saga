@@ -2,7 +2,7 @@
 
 *   **Arnam:** The "Wetness" or "Compassion" that binds the world together. The essential frequency of life. The opposite of the Dry/Static.
 *   **Arnamland:** The name of the world/continent.
-*   **Bad Ground, The:** Areas of the surface that have been fully tiled by the Lattice (120-degree hexagonal prisms).
+*   **Bad Grounds, The:** Areas of the surface that have been fully tiled by the Lattice (120-degree hexagonal prisms).
 *   **Chorus, The (Spectrum Song):** The harmonic choir of the Rosellas that broadcast the health of the ecosystem. Formerly known as the Spectrum Song.
 *   **Compassion Gaps:** Micro-fissures in the Crystal where organic life can still grip.
 *   **Elen-Nico:** The central star hanging in the middle of the heart-void. It pulses with a "beat" (Day/Night cycle) determined by the emotional state of the Tall-Ones.

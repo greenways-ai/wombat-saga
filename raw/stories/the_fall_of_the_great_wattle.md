@@ -256,7 +256,7 @@ Cooriki sat on a low branch of a Eucalyptus — not a Wattle, not a Jacaranda, j
 
 His scream was gone. It had left on the morning of the fall — the morning Cooriki had produced the Violet Call, the scream so saturated with the dying tree's last resonance that it had blown through the colony like a shockwave. Cooroo's syrinx had contracted and his chambers had hummed and nothing had come out, as if the Violet Call had used up all the sound on the Eastern Ridge and left none for a fledgling who didn't yet know what sound was for.
 
-He spent his days on the ground. The wreckage of the Great Wattle lay where it had fallen — not in a tangle of splintered wood, the way a living tree falls, but in geometric fragments, clean-edged, glinting faintly in the light. The fragments had the sheen. The same sheen as the Bad Ground — the hexagonal, interlocking, beautiful-and-wrong shimmer that Cooroo's feathers refused to tolerate. The tree's body was lattice now, even in death. Especially in death.
+He spent his days on the ground. The wreckage of the Great Wattle lay where it had fallen — not in a tangle of splintered wood, the way a living tree falls, but in geometric fragments, clean-edged, glinting faintly in the light. The fragments had the sheen. The same sheen as the Bad Grounds — the hexagonal, interlocking, beautiful-and-wrong shimmer that Cooroo's feathers refused to tolerate. The tree's body was lattice now, even in death. Especially in death.
 
 But at the edge of the wreckage — where the largest fragment of the Wattle's trunk had come to rest against a bank of surviving scrub — something was growing.
 
