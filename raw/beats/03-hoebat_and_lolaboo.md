@@ -7,7 +7,7 @@
 
 ### Beat 1: The Dead Zone (Gray Grotto Inspection)
 *   **The Setting:** The rain-soaked alleyways of the **Gray Grotto**. The air smells of "wet asphalt and neglected drainage."
-*   **The Characters:** **Hoebat** (The Worker) and his gf **Lolaboo**. Lolaboo is using a "Burrow-Finder" app, but the signal is weak.
+*   **The Characters:** **Hoebat** (The Worker) and his gf **Lolaboo**. Lolaboo is using a "BorowFinder" app, but the signal is weak.
 *   **The Observation:** The streetlights are smashed. Hoebat recognizes this as intentional neglect by the Council to create a "Dead Zone."
 *   **The Blackout:** The city hum dies. The digital map vanishes. They are left in the ink-black reality of the Grotto.
 

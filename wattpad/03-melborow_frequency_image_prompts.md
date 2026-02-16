@@ -4,7 +4,7 @@
 **Scene:** Melborow in the rain
 
 **Prompt:**
-The Gray Grotto district of Melborow - a wombat city in the rain. Gray, heavy, oily drizzle that doesn't fall but arrives, carrying rust and neglected drainage. Underground tunnel streets with smashed streetlights, sagging tunnel roofs, cracks in the Grout where water pools. The Glow-Panels flicker in the distance, Council-approved blue light. Two wombats - Hoebat and Lolaboo - stand under a rusted awning. Lolaboo holds a Burrow-Finder app with a blue glow painting her fur. The atmosphere is abandonment made visible. Style: urban fantasy noir, wet surfaces, neon glow in distance, decaying infrastructure, melancholic atmosphere.
+The Gray Grotto district of Melborow - a wombat city in the rain. Gray, heavy, oily drizzle that doesn't fall but arrives, carrying rust and neglected drainage. Underground tunnel streets with smashed streetlights, sagging tunnel roofs, cracks in the Grout where water pools. The Glow-Panels flicker in the distance, Council-approved blue light. Two wombats - Hoebat and Lolaboo - stand under a rusted awning. Lolaboo holds a BorowFinder app with a blue glow painting her fur. The atmosphere is abandonment made visible. Style: urban fantasy noir, wet surfaces, neon glow in distance, decaying infrastructure, melancholic atmosphere.
 
 ---
 
@@ -92,7 +92,7 @@ Hoebat standing before the Melborow Council - Trum-Bat and other High-Nose womba
 **Scene:** Council infrastructure
 
 **Prompt:**
-Cross-section view of the Deep Sewer - not a wombat dig but a Council excavation bored through bedrock with drills and lined with Safety Grout. The Sump Line runs through it - climate-controlled pods carrying High-Noses between Cathedral and QueensBorrow. Weep lines feeding Frequency cables through service chases. Collection sumps clogged with silt. Relief drains capped for more utility conduits. Above, storm water has nowhere to go but through seepage walls into unlined tunnels where Lo Snouts live. The Council calls it "perimeter redistribution." Style: industrial cross-section, infrastructure critique, class stratification, engineering diagram meets social commentary.
+Cross-section view of the Deep Sewer - not a wombat dig but a Council excavation bored through bedrock with drills and lined with Safety Grout. The Sump Line runs through it - climate-controlled pods carrying High-Noses between Cathedral and Queensborow. Weep lines feeding Frequency cables through service chases. Collection sumps clogged with silt. Relief drains capped for more utility conduits. Above, storm water has nowhere to go but through seepage walls into unlined tunnels where Lo Snouts live. The Council calls it "perimeter redistribution." Style: industrial cross-section, infrastructure critique, class stratification, engineering diagram meets social commentary.
 
 ---
 
@@ -132,7 +132,7 @@ The Melborow Frequency infrastructure - towers broadcasting the constant low-gra
 **Scene:** Trum-Bat's endless concrete ribbon
 
 **Prompt:**
-The Wall - Trum-Bat's endless concrete ribbon bisecting the horizon like a scar the city gave itself on purpose. It rises above the Gray Grotto, separating the Dead Zones from the "developed" areas. Pokero stands before it, looking up, knowing it won't stop what's coming - walls just make abandonment fester, trap it inside with the living. The Wall is gray, brutal, geometric. Behind it, the glow of QueensBorrow. Before it, the darkness of the Grotto. Rain falls on concrete. Style: brutalist architecture, social division, rain-slicked concrete, character dwarfed by structure, dystopian urban planning.
+The Wall - Trum-Bat's endless concrete ribbon bisecting the horizon like a scar the city gave itself on purpose. It rises above the Gray Grotto, separating the Dead Zones from the "developed" areas. Pokero stands before it, looking up, knowing it won't stop what's coming - walls just make abandonment fester, trap it inside with the living. The Wall is gray, brutal, geometric. Behind it, the glow of Queensborow. Before it, the darkness of the Grotto. Rain falls on concrete. Style: brutalist architecture, social division, rain-slicked concrete, character dwarfed by structure, dystopian urban planning.
 
 ---
 
@@ -144,11 +144,11 @@ Close-up of tunnel foundation cracks showing the faint luminescence of Static co
 
 ---
 
-## Prompt 19: Lolaboo in QueensBorrow
+## Prompt 19: Lolaboo in Queensborow
 **Scene:** Different worlds
 
 **Prompt:**
-Lolaboo in QueensBorrow upper levels - cleaner, safer, the Frequency humming strongly here. She stands by a window looking down toward the Gray Grotto, her Burrow-Finder app forgotten. She's happy in the Canopy Remnant now, no longer using the app that lies. Her fur is cleaner, posture more relaxed. The contrast between her world and Hoebat's - light vs. dark, safety vs. danger, belief vs. knowledge. Through the window, the distant darkness where Hoebat works. Style: contrast lighting, two worlds, character peace, distant concern, warm domestic scene.
+Lolaboo in Queensborow upper levels - cleaner, safer, the Frequency humming strongly here. She stands by a window looking down toward the Gray Grotto, her BorowFinder app forgotten. She's happy in the Canopy Remnant now, no longer using the app that lies. Her fur is cleaner, posture more relaxed. The contrast between her world and Hoebat's - light vs. dark, safety vs. danger, belief vs. knowledge. Through the window, the distant darkness where Hoebat works. Style: contrast lighting, two worlds, character peace, distant concern, warm domestic scene.
 
 ---
 
@@ -156,7 +156,7 @@ Lolaboo in QueensBorrow upper levels - cleaner, safer, the Frequency humming str
 **Scene:** Threat in the alley
 
 **Prompt:**
-Close-up of the lead Lost Dingo Scavenger - scarred, notched ear, teeth that never knew Pack discipline. Lean, rib-thin, desperation in his golden eyes. He's three meters from Hoebat, close enough to smell his breath (rot and hunger), frozen mid-lunge by the Watcher's Frequency. Rain drips from his matted fur. The alley behind him is dark, wet concrete, trash. He sees prey - soft flesh, easy calories, QueensBorrow smell of soap and safety. But the Code has triggered something older than hunger in him. Style: predator portrait, threat moment, rain effects, urban decay, character detail.
+Close-up of the lead Lost Dingo Scavenger - scarred, notched ear, teeth that never knew Pack discipline. Lean, rib-thin, desperation in his golden eyes. He's three meters from Hoebat, close enough to smell his breath (rot and hunger), frozen mid-lunge by the Watcher's Frequency. Rain drips from his matted fur. The alley behind him is dark, wet concrete, trash. He sees prey - soft flesh, easy calories, Queensborow smell of soap and safety. But the Code has triggered something older than hunger in him. Style: predator portrait, threat moment, rain effects, urban decay, character detail.
 
 ---
 

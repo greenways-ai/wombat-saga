@@ -48,7 +48,7 @@ IMAGE PROMPT 3: The Fractal Signal
 Cooroo rising through the atmosphere on chaotic, resonance-driven flight. The Morning Glory vine broadcasts a Fractal Signal - visualized as jagged, lilac-colored turbulence in the air around him. Unlike the elegant thermal-riding of proper Galahs, this is messy, chaotic, Súlë Arnan (Breath of Chaos). Raca - broken air - fractal turbulence patterns visible as distortions in the atmosphere. The vine hums with energy that translates into unnatural lift. Background: the thinning Heavy Breath giving way to colder air. Wedgies visible as distant dark shapes. Style: magical flight, chaotic energy patterns, unconventional propulsion, sense of rule-breaking.
 -->
 
-Not normal lift. Not the elegant thermal-riding that proper Galahs do, finding the Yá of a rising column and circling upward with the grace of creatures who belong in the sky. This was messy, chaotic, resonance-driven flight. The vine was broadcasting something — a Fractal Signal. In a world going digital and geometric, this signal screamed "Chaos." The old Galah term for it is *Súlë Arnan*, the Breath of Chaos, but that makes it sound poetic and intentional. It wasn't. It was Raca — broken air — fractal turbulence in an atmosphere that was learning to prefer Axan-Vilya, the laminar flow.
+The vine broadcast **Súlë Arnan**—the Breath of Chaos. This was messy, chaotic, resonance-driven flight, broadcasting a Fractal Signal that screamed "Chaos" in a world going digital.
 
 It would attract attention. But it was the only way to fly.
 
@@ -166,13 +166,13 @@ IMAGE PROMPT 9: The Crevice Impact
 Cooroo crashing into the crevice wall - feathers scraping against half-formed crystal, claws scrabbling for purchase on a surface that is half-stone, half-geometry. The impact is hard, knocking breath from his lungs. The vine tangles around his leg, constricting. Crystal formations protrude from the stone like frost on a windowpane - hexagonal, transitional, blurry at the edges. Some faces catch light and split into prismatic arcs. Others are still rough stone, resisting geometry. The narrow crevice opens to a slit of sky above where Wedgies circle. Style: chaotic impact, crystal textures, confined space, desperate struggle, prismatic light effects.
 -->
 
-I crashed into the crevice wall. Not hard enough to break bones, but hard enough to knock the breath out of my lungs and the sense out of my head. I tumbled, feathers scraping against crystal, claws scrabbling for purchase on a surface that was half-stone, half-geometry. The vine got tangled around my leg, constricting, humming frantically.
+I crashed into the crevice wall, the impact knocking the breath out of my lungs and the sense out of my head, though my bones miraculously remained intact. I tumbled, feathers scraping against crystal, claws scrabbling for purchase on a surface that was half-stone, half-geometry. The vine got tangled around my leg, constricting, humming frantically.
 
 I landed. Hard. On a ledge maybe three body-lengths wide, with the crevice wall behind me and a sheer drop in front. The Wedgies would recover in seconds. They'd recalculate. They'd find new vectors.
 
 But for this moment — this breath, this heartbeat — I was alive.
 
-I looked up. The crevice opened to a narrow slit of sky, the three black shapes already circling back, already running the new numbers. They wouldn't dive after me. Diving into confined spaces violated their geometric principles. But they didn't need to dive. They just needed to wait.
+I looked up. The crevice opened to a narrow slit of sky, the three black shapes already circling back, already running the new numbers. They wouldn't dive after me, as confined spaces violated their geometric principles. They simply waited.
 
 And waiting, I was learning, was what geometry did best.
 
@@ -243,14 +243,20 @@ But what would they do to the opposite frequency?
 
 I opened my beak.
 
-This wasn't a frequency check. This wasn't a mapping scream or a data call. This was the ugliest, most fractal, most deliberately messy sound I could produce — the scream I'd found on the stump, the one that had cracked Mum's internal sanctuary, amplified now by desperation and the weird acoustics of the crystal chamber.
+I unleashed the ugliest, most fractal, most deliberately messy sound I could produce—no frequency check or mapping scream, but raw chaos—the scream I'd found on the stump, the one that had cracked Mum's internal sanctuary, amplified now by desperation and the weird acoustics of the crystal chamber.
 
 <!--
 IMAGE PROMPT 13: The Weaponized Scream
 Cooroo opening his beak in the crystal chamber, producing the ugliest, most fractal, deliberately messy scream possible. The sound visualized as chaotic waves, jagged frequencies, amplifying off the crystal walls. The Noble Noise weaponized - striking the walls at their resonance frequency. Crystal actually fracturing - a whole section of Gorge wall exploding into quartz dust. Ten meters of half-formed hexagonal lattice shattering. The feedback loop of chaos feeding on itself. Cooroo's feathers fluffed, crest fully erect, whole body engaged in the scream. Style: dramatic action, visible sound waves, crystal shattering, chaotic energy, intense moment.
 -->
 
+<<<<<<< Local Changes
 The sound hit the walls and shattered.
+||||||| Old File
+The sound hit the walls and shattered.
+=======
+The sound hit the walls and physically shattered them. The Noble Noise, weaponized, focused by the geometry of the chamber, struck the crystal walls at their resonance frequency — which, it turns out, is a very specific note that I happened to hit by accident because I have no training and even less control.
+>>>>>>> External Changes
 
 Not metaphorically. Actually. The Noble Noise, weaponized, focused by the geometry of the chamber, struck the crystal walls at their resonance frequency — which, it turns out, is a very specific note that I happened to hit by accident because I have no training and even less control.
 
@@ -300,7 +306,7 @@ The lead Eagle — I could tell it was the lead because it was slightly more geo
 
 Then the ground moved.
 
-Not an earthquake. Not the static rising. An Emu.
+Then the ground moved under the tread of an Emu.
 
 <!--
 IMAGE PROMPT 16: The Spiral Run Begins
@@ -309,7 +315,7 @@ The ground moving - not earthquake, but an Emu. Two meters of feathered dinosaur
 
 If you've never seen an Emu up close, congratulations on your sensible life choices. They are enormous — two metres of bird that evolution designed by asking "what if a feathered dinosaur had no fear and even less patience?" Their legs are armored, scaled, built for running distances that would kill lesser creatures. Their claws are sickles, curved and sharp and designed to disembowel. Their eyes are the colour of dried blood and they look at you with an expression that says "I am considering whether you are worth the effort of killing."
 
-This one was running. Not toward me — that would have been simple. It was running in a spiral, a vast, looping, non-repeating pattern that carved a groove in the Steppe grass and shredded the air currents with its passage.
+This one ran in a spiral, a vast, looping, non-repeating pattern that carved a groove in the Steppe grass and shredded the air currents with its passage.
 
 The Emu's feet struck the earth in rhythms that made no sense — left, then right, then somehow both and neither — each step landing where geometry said it shouldn't, where prediction failed, where the neat lines of probability frayed into chaos. The air around it curdled, curdled and churned, tearing itself apart in the wake of that impossible gait. What had been Glass-Air — smooth, tiled, predictable — became Raca, became brokenness, became the kind of turbulence that laughed at vectors and mocked trajectories. The Wedgies' perfect mathematics crumbled before it, their calculated certainties dissolving into the swirling madness of the Emu's wake.
 
@@ -371,7 +377,7 @@ It's like... okay. Imagine you're a small, loud, mostly useless creature — whi
 
 I dug my claws in and tried not to scream. The Emu launched.
 
-We moved. Not in a straight line — Emus don't do straight lines. The Emu swerved and looped with no pattern I could follow, each stride carrying us in a direction I didn't expect. The world blurred into streaks of grey-brown and green. My claws dug deeper, holding on as the ground beneath us seemed to tilt and roll like the surface of a storm-tossed sea. The air thickened, churned up by our passage, pressing against my feathers with a force that felt almost solid — something alive and electric, something the Wedgies couldn't see through and couldn't calculate.
+We moved in swerves and loops, the Emu refusing any linear path. The world blurred into streaks of grey-brown and green. My claws dug deeper, holding on as the ground beneath us seemed to tilt and roll like the surface of a storm-tossed sea. The air thickened, churned up by our passage, pressing against my feathers with a force that felt almost solid — something alive and electric, something the Wedgies couldn't see through and couldn't calculate.
 
 The wind tore at my feathers. The landscape blurred — grassland, scrub, the occasional outcropping of stone. The Steppe wasn't flat; it rolled, undulated, rose and fell in patterns that the Emu navigated without slowing, without hesitation. Its feet knew the ground. Its body knew the pattern.
 
@@ -398,7 +404,7 @@ We passed through regions I didn't have names for. The Steppe gave way to scrubl
 
 The landscape changed color. The grey-brown of the Steppe shifted, became tinged with... I squinted against the wind. Was that purple? The Rómen-Sírë was strengthening, carrying moisture and scent from somewhere alive. Somewhere that shouldn't exist.
 
-The Emu slowed. Not stopped — Emus don't stop for anything — but slowed to a canter, then a trot, then a walk. The spiral pattern tightened, became careful, precise. We were approaching something. Something the Emu recognized as significant.
+The Emu slowed to a canter, then a trot, the spiral tightening as we approached something significant.
 
 <!--
 IMAGE PROMPT 21: The Wall of Violet
@@ -423,7 +429,7 @@ It didn't turn. Didn't pause. Just kept moving in that ground-eating stride, bac
 
 I called after it: "I'm going to remember this! When I tell the story, you're going to be in it! A hero! An Emu who —"
 
-The Emu broke into a run. Not away from me, exactly, but definitely away from the conversation. I watched it go, diminishing into the grassland, until it was just a dot, then a memory, then the kind of thing you'd doubt if someone told you about it secondhand.
+The Emu broke into a run, abandoning the conversation for the solitude of the Steppe. I watched it go, diminishing into the grassland, until it was just a dot, then a memory, then the kind of thing you'd doubt if someone told you about it secondhand.
 
 I turned around.
 
@@ -451,9 +457,9 @@ The clearing around the tree was alive. Grass grew thick and soft. Flowers dotte
 
 But the crystal was still here. I could see it at the edges of the clearing — hexagonal formations pushing upward like frost through soil, geometric intrusions that had tried to tile and failed. The Static was still trying to claim territory, still learning, still iterating. But it was stopped. Blocked. The Jacaranda's roots — shallow, wide, spreading laterally in patterns that never repeated — broke the lattice, created defects, made the ground too rough for perfect tiling.
 
-I walked forward. My claws sank into soil that was soft, loamy, alive. The vine in my grip hummed — not pulled anymore, but matched, synchronized, finding its frequency in the tree's resonance.
+I walked forward. My claws sank into soil that was soft, loamy, alive. The vine in my grip hummed, synchronizing with the tree, finding its frequency in the resonance.
 
-The Jacaranda didn't speak as I approached. Trees don't, not in words. But it was aware. I could feel it — the weight of attention, the focused presence of something that had been waiting.
+The Jacaranda radiated awareness as I approached, a heavy presence that spoke without words. I could feel it — the weight of attention, the focused presence of something that had been waiting.
 
 I reached the trunk. The bark was smooth, grey-brown, foreign. Nothing like the Silver Wattle's rough gold. I raised the Morning Glory vine — wilted now, barely alive, but the root ball was intact, still carrying the memory in its cells.
 
@@ -461,7 +467,7 @@ I reached the trunk. The bark was smooth, grey-brown, foreign. Nothing like the 
 
 The Jacaranda said nothing. The wind moved through its branches, making the violet blooms sway, but that was just physics. Wasn't it?
 
-"But this one survived. When everything else was dying, when the Silver Wattle went crystal and the Rosellas scattered and the world started forgetting what green looked like — this one kept growing. On the wreckage. In the cracks. It didn't know enough to die when the tree did. It just... kept going. Kept pulling the sky down into itself. Kept being alive."
+"This one lived. When everything else was dying, when the Silver Wattle went crystal and the Rosellas scattered and the world started forgetting what green looked like — this one kept growing. On the wreckage. In the cracks. It didn't know enough to die when the tree did. It just... kept going. Kept pulling the sky down into itself. Kept being alive."
 
 <!--
 IMAGE PROMPT 24: The Transfer
@@ -472,27 +478,25 @@ I pressed the vine against the bark. The contact was electric — not painful, b
 
 "I think that's why it could find you. The Silver Wattle couldn't — the Silver Wattle was too deep, too connected to the poisoned source. But the Morning Glory was shallow. It survived because it wasn't plugged into the deep substrate. And because it survived, it could hear you. Could point the way."
 
-The transfer wasn't immediate. It wasn't dramatic. I stood there, holding the vine against the Jacaranda's trunk, feeling the hum build between them. The vine's frequency — lilac, chaotic, fractal — meeting the tree's frequency — violet, ordered but not crystalline, organic but not native.
+The transfer began as a subtle, building hum between plant and tree. I stood there, holding the vine against the Jacaranda's trunk, feeling the vibration rise. The vine's frequency — lilac, chaotic, fractal — meeting the tree's frequency — violet, ordered but not crystalline, organic but not native.
 
 And then, Samanvaya. The Arnam-Rain of memory poured forth. The Morning Glory became a living conduit, its lilac frequency resonating with the Jacaranda, releasing two hundred years of Silver Wattle resonance: the golden Chorus, the Rosella Parliament, the Glory Days that Mum retreated into. The dry code of the world drank deep.
 
-Through the Jacaranda. Into it. Through it.
+Through the Jacaranda.
 
-The tree shuddered. The branches swayed, not with wind but with something internal, something that looked almost like recognition. The violet blooms deepened, intensified, as if the colour was receiving additional saturation, as if the memory of gold was teaching the tree new ways to be purple.
+The tree shuddered. The branches swayed with something that looked almost like recognition. The violet blooms deepened, intensified, as if the colour was receiving additional saturation, as if the memory of gold was teaching the tree new ways to be purple.
 
-And then the lesson came.
+And then the memories came.
 
-Not in words — the Jacaranda doesn't do words. But in resonance, in wood, in the vibration that arrives in the feathers before the thought arrives in the head. The tree showed me why the coring trees had died. Why the Silver Wattle had shattered. Why the Great Wattle at the Crown had fallen generations ago.
+They arrived in resonance, in wood, in the vibration that arrives in the feathers before the thought arrives in the head. The tree showed me why the coring trees had died. Why the Silver Wattle had shattered. Why the Great Wattle at the Crown had fallen generations ago.
 
-It wasn't just the Lattice. It wasn't just the Static creeping up through the substrate.
-
-It was the **Depth**.
+The danger lay in the **Depth**, compounding the Lattice and the rising Static.
 
 The coring trees — the Wattles, the ancient giants — they had all drilled deep. Their taproots reached down into the source, seeking the purest Arnam, the strongest connection. But the deep substrate had become poisoned. The Static had risen from below, and the trees that reached deepest were the first to drink it in. They had sought purity at the source and found only crystal.
 
 The Jacaranda was different. It didn't go deep. It spread **wide** — shallow, lateral, fractal. Its roots floated on the surface of the Static like a raft, touching a thousand weak signals instead of one strong poisoned one. It didn't seek the source. It sought the surface. It didn't dig down. It reached out.
 
-The lesson settled into my bones like a truth I'd always known but never articulated: **Do not dig down. Reach out.**
+The lesson settled into my bones like a truth I'd always known: **Wider, not deeper.**
 
 <!--
 IMAGE PROMPT 27: The Lesson of Depth
@@ -501,9 +505,7 @@ Visual metaphor showing the lesson: The coring trees - Wattles with deep taproot
 
 The old ways had failed because they looked down, because they reached deeper, because they believed the answer was always below in the dark. But the world was dying from below. The Static was rising. And the only way to survive was to spread wide, to touch many, to build connections across the surface rather than plunging into the poisoned depths.
 
-And then the vision came.
-
-It wasn't a memory of the past. It was a projection of the future. The Jacaranda showed me the world not as it was, but as it could be.
+And then the vision. The Jacaranda showed me the world not as it was, but as it could be.
 
 I saw the **Fractal Rainforest**.
 
@@ -512,11 +514,9 @@ IMAGE PROMPT 25: The Vision - Fractal Rainforest
 The vision of the Fractal Rainforest - the Jacaranda's projection of what could be. A violet canopy spreading, interlocking, creating a ceiling that blocks the harsh glare of Elen-Nico. Light filters down soft and diffuse, the killing fire of the Static dispersed into life. Moisture trapped in micro-clouds beneath the leaves, hanging like breath. Ancient ferns thriving in gaps between crystal tiles, their roots finding Compassion Gaps. Abundance through Dispersion - the Static not gone but broken, fractalized, turned from laser into rainbow. A world where life and crystal coexist through width, not depth. Style: visionary landscape, violet canopy, dappled light, utopian ecosystem, hope made visible.
 -->
 
-I saw the violet canopy spreading, interlocking, creating a ceiling that blocked the harsh glare of the Star. I saw the light filtering down, soft and diffuse, creating a twilight where the killing fire of the Static was dispersed into life. I saw moisture trapped in micro-clouds beneath the leaves, hanging in the air like breath. I saw ancient ferns — the ones that had been dying in the open — thriving in the gaps between crystal tiles, their roots finding the Compassion Gaps that the Jacaranda created.
+I saw the violet canopy spreading, interlocking, creating a ceiling that blocked the harsh glare of the Star. I saw the light filtering down, soft and diffuse, creating a twilight where the killing fire of the Static was dispersed into life. I saw moisture trapped in micro-clouds beneath the leaves, hanging in the air like breath. I saw ancient ferns — the ones that had been dying in the open — thriving in the crystal soil, their roots breaking though gaps that the Jacaranda created.
 
 It was a vision of **Abundance**. The Static wasn't gone — it was still there, the bone of the world — but it was broken, fractalized, turned from a laser into a rainbow.
-
-
 
 Not the Primes. Not the Kangaroos bouncing on the hard ground, or the Koalas selling silence, or the Platypus vanishing into the paradox. I saw the **New World**.
 
@@ -525,8 +525,7 @@ IMAGE PROMPT 26: The Five Shapes
 The vision of five abstract shapes moving through violet gloom in the Fractal Rainforest - not clear, not defined, but present. A digger of tunnels reaching sideways. A runner spiraling through chaos. A watcher at the edges. A carrier limping but moving. A screamer with pink and grey feathers. Five forms that together make a shelter. In the shadows beyond, diminished shapes of the old powers wandering, seeking refuge. Style: abstract visionary art, violet atmosphere, dreamlike composition, symbolic figures, new order emerging.
 -->
 
-And in the violet gloom, something moved — not forms, not creatures, but possibilities. A pressure in the earth, reaching sideways. A disturbance in the air, refusing pattern. A watching at the edges, where the light failed. A weight being carried, though by what I could not see. And a sound, rising, holding everything in vibration.
-
+And in the violet gloom, possibilities moved—pressures in the earth, disturbances in the air. A pressure in the earth, reaching sideways. A disturbance in the air, refusing pattern. A watching at the edges, where the light failed. A weight being carried, though by what I could not see. And a sound, rising, holding everything in vibration.
 Five presences. Five resonances. Five notes that together made a chord.
 
 Beyond them, at the edge of seeing, older harmonies faded — the great leaps, the deep silences, the swimming-between — all diminished now, their music threading through shadows. The forest did not reject them. It simply grew around them, offering shade where once they had offered shelter. A becoming-small. A resting. A waiting to be found.

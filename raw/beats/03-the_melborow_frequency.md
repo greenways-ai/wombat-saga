@@ -7,7 +7,7 @@ The chapter opens with a sensory diagnosis of **Melborow's Rain**. It is not wea
 *   **The Setting:** **The Gray Grotto**, Sector 2.4. A "Dead Zone" where the lights have failed due to **Temporal Cropping** (the bureaucratic neglect of the periphery).
 *   **The Characters:**
     *   **Hoebat:** The protagonist. A "Root-Digger" who reads the city through his paws. He sees the structural failure that the Council hides.
-    *   **Lolaboo:** His companion. A "Soft-Paw" from **QueensBorrow** who relies on the **Burrow-Finder App** and believes the Council's marketing ("Emerging District").
+    *   **Lolaboo:** His companion. A "Soft-Paw" from **Queensborow** who relies on the **BorowFinder App** and believes the Council's marketing ("Emerging District").
 *   **The Tension:** The **Frequency** (the digital hum of the city) cuts out. The lights die. The app fails. They are left in "True Silence" — the heavy, geological silence of the substrate.
 
 ## II. The Scavengers and the Code

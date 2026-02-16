@@ -9,14 +9,14 @@ Epic composition for Chapter 3: Hoebat the wombat standing in the rain of the Gr
 
 <!--
 IMAGE PROMPT 1: The Gray Grotto
-The Gray Grotto district of Melborow - a wombat city in the rain. Gray, heavy, oily drizzle that doesn't fall but arrives, carrying rust and neglected drainage. Underground tunnel streets with smashed streetlights, sagging tunnel roofs, cracks in the Grout where water pools. The Glow-Panels flicker in the distance, Council-approved blue light. Two wombats - Hoebat and Lolaboo - stand under a rusted awning. Lolaboo holds a Burrow-Finder app with a blue glow painting her fur. The atmosphere is abandonment made visible. Style: urban fantasy noir, wet surfaces, neon glow in distance, decaying infrastructure, melancholic atmosphere.
+The Gray Grotto district of Melborow - a wombat city in the rain. Gray, heavy, oily drizzle that doesn't fall but arrives, carrying rust and neglected drainage. Underground tunnel streets with smashed streetlights, sagging tunnel roofs, cracks in the Grout where water pools. The Glow-Panels flicker in the distance, Council-approved blue light. Two wombats - Hoebat and Lolaboo - stand under a rusted awning. Lolaboo holds a BorowFinder app with a blue glow painting her fur. The atmosphere is abandonment made visible. Style: urban fantasy noir, wet surfaces, neon glow in distance, decaying infrastructure, melancholic atmosphere.
 -->
 
 There is a kind of rain that doesn't fall. It arrives. It takes up residence in the air the way grief takes up residence in the body — not descending from above but materialising from within, as though the atmosphere itself had remembered something unbearable and begun to weep.
 
 The rain in Melborow is that kind.
 
-Gray, heavy, carrying the taste of rust and neglected drainage from the heights of QueensBorrow to pool in the alleys of the Gray Grotto. It finds every crack where the Grout has failed, every wound the High-Noses left unattended, every seam in the concrete that the Council pretends doesn't exist. It is the city's own sweat. Melborow perspiring through its infrastructure, leaking through its skin, confessing through its pores what its ledgers refuse to admit: that something underneath has gone terribly wrong.
+Gray, heavy, carrying the taste of rust and neglected drainage from the heights of Queensborow to pool in the alleys of the Gray Grotto. It finds every crack where the Grout has failed, every wound the High-Noses left unattended, every seam in the concrete that the Council pretends doesn't exist. It is the city's own sweat. Melborow perspiring through its infrastructure, leaking through its skin, confessing through its pores what its ledgers refuse to admit: that something underneath has gone terribly wrong.
 
 I don't mind rain. Not usually. Rain means the Grout swells. Swelling Grout means work, and work means I can feel the earth through my paws, which is the only honest conversation left in this city. But this rain — this oily, persistent drizzle — feels different. Heavier. Rain as atmosphere. Rain as diagnosis. Rain that doesn't clean the city so much as reveal it, the way a wet cloth reveals the grain of wood that polish has been hiding.
 
@@ -27,11 +27,11 @@ IMAGE PROMPT 27: Temporal Cropping
 A street in the Gray Grotto showing Section 2.4 of the Urban Maintenance Code: Temporal Cropping. The lights stopped working six months ago. Services withdrawn systematically to make residents leave voluntarily. A sagging tunnel roof three burrows down. A hairline fracture in the Grout where water pools. Street signs still claim "up-and-coming" and "emerging district with character." But the signs are weathered, the marketing a lie. The Council pulls resources back to the center, hollowing the periphery. Style: urban decay, institutional neglect, false advertising vs. reality, melancholy atmosphere, critique of gentrification.
 -->
 
-"Signal's weak," Lolaboo mutters. Her claw taps the Burrow-Finder app, that blue glow painting her fur in Council-approved colours. She looks like a creature from a different world — which she is. QueensBorrow. Upper levels. The kind of wombat who still believes the Frequency is singing to her, not at her. "Seventy meters. Almost there."
+"Signal's weak," Lolaboo mutters. Her claw taps the BorowFinder app, that blue glow painting her fur in Council-approved colours. She looks like a creature from a different world — which she is. Queensborow. Upper levels. The kind of wombat who still believes the Frequency is singing to her, not at her. "Seventy meters. Almost there."
 
-Seventy meters. In daylight, with the Frequency humming and the streetlights working, that's nothing. A commute. A stroll through someone else's geography. But the lights in this district stopped working six months ago. Section 2.4 of the Urban Maintenance Code: Temporal Cropping. A beautiful phrase, that. The bureaucratic poetry of planned abandonment. Let the periphery decay. Focus resources on the Cathedral. On the projects that look good in reports.
+Seventy meters. In daylight, with the Frequency humming and the streetlights working, that's nothing. A commute. A stroll through someone else's geography. But the lights in this district stopped working six months ago. A beautiful phrase, that. The bureaucratic poetry of planned abandonment. Let the periphery decay. Focus resources on the Cathedral. On the projects that look good in reports.
 
-Above us, the Glow-Panels flicker in the distance—the ones that still work. They're Muskbat's innovation: bioluminescent tiles powered by the Frequency itself, broadcasting as they illuminate, singing the Melborow hymn in visible light.
+Above us, the Glow-Panels flicker in the distance—the ones that still work. They're the Council's innovation: bioluminescent tiles powered by the Frequency itself, broadcasting as they illuminate, singing the Melborow hymn in visible light.
 
 <!--
 IMAGE PROMPT 16: The Melborow Frequency Tower
@@ -40,10 +40,10 @@ The Melborow Frequency infrastructure - towers broadcasting the constant low-gra
 
 <!--
 IMAGE PROMPT 12: The Deep Sewer
-Cross-section view of the Deep Sewer - not a wombat dig but a Council excavation bored through bedrock with drills and lined with Safety Grout. The Sump Line runs through it - climate-controlled pods carrying High-Noses between Cathedral and QueensBorrow. Weep lines feeding Frequency cables through service chases. Collection sumps clogged with silt. Relief drains capped for more utility conduits. Above, storm water has nowhere to go but through seepage walls into unlined tunnels where Lo Snouts live. The Council calls it "perimeter redistribution." Style: industrial cross-section, infrastructure critique, class stratification, engineering diagram meets social commentary.
+Cross-section view of the Deep Sewer - not a wombat dig but a Council excavation bored through bedrock with drills and lined with Safety Grout. The Sump Line runs through it - climate-controlled pods carrying High-Noses between Cathedral and Queensborow. Weep lines feeding Frequency cables through service chases. Collection sumps clogged with silt. Relief drains capped for more utility conduits. Above, storm water has nowhere to go but through seepage walls into unlined tunnels where Lo Snouts live. The Council calls it "perimeter redistribution." Style: industrial cross-section, infrastructure critique, class stratification, engineering diagram meets social commentary.
 -->
 
-Three levels down, the **Deep Sewer** hums—not a wombat dig but a Council excavation, bored through bedrock with drills and lined with **Safety Grout**. The High-Noses ride the **Sump Line** in climate-controlled pods, buffered from the substrate's vibration, ferried between the Cathedral and QueensBorrow on rails bolted into the **tunnel crown**. I helped install the first **weep lines** that fed the Frequency cables through the **service chase** running parallel to the main flow. I remember when we called it progress.
+Three levels down, the **Deep Sewer** hums—not a wombat dig but a Council excavation, bored through bedrock with drills and lined with **Safety Grout**. The High-Noses ride the **Sump Line** in climate-controlled pods, buffered from the substrate's vibration, ferried between the Cathedral and Queensborow on rails bolted into the **tunnel crown**. I helped install the first **weep lines** that fed the Frequency cables through the **service chase** running parallel to the main flow. I remember when we called it progress.
 
 The Deep Sewer was supposed to be **dual-purpose**: transit below, **storm management** above. But the **collection sumps** clog with silt the Council never budgets to clear, and the **relief drains**—those emergency overflows meant to protect the lower borows—were capped to make room for more **utility conduits**. When the rains come hard, the water has nowhere to go but through the **seepage walls** into the **unlined tunnels** where the Lo Snouts live. The Council calls this "perimeter redistribution." The Lo Snouts call it drowning.
 
@@ -231,10 +231,10 @@ That was the highest compliment a Dingo gives. We never spoke those verses to an
 
 <!--
 IMAGE PROMPT 20: The Lead Scavenger
-Close-up of the lead Lost Dingo Scavenger - scarred, notched ear, teeth that never knew Pack discipline. Lean, rib-thin, desperation in his golden eyes. He's three meters from Hoebat, close enough to smell his breath (rot and hunger), frozen mid-lunge by the Watcher's Frequency. Rain drips from his matted fur. The alley behind him is dark, wet concrete, trash. He sees prey - soft flesh, easy calories, QueensBorrow smell of soap and safety. But the Code has triggered something older than hunger in him. Style: predator portrait, threat moment, rain effects, urban decay, character detail.
+Close-up of the lead Lost Dingo Scavenger - scarred, notched ear, teeth that never knew Pack discipline. Lean, rib-thin, desperation in his golden eyes. He's three meters from Hoebat, close enough to smell his breath (rot and hunger), frozen mid-lunge by the Watcher's Frequency. Rain drips from his matted fur. The alley behind him is dark, wet concrete, trash. He sees prey - soft flesh, easy calories, Queensborow smell of soap and safety. But the Code has triggered something older than hunger in him. Style: predator portrait, threat moment, rain effects, urban decay, character detail.
 -->
 
-The lead Scavenger lunges. Scarred, notched ear, teeth that never knew Pack discipline. He doesn't see me. He sees prey. Soft flesh. Easy calories. The QueensBorrow smell of soap and safety.
+The lead Scavenger lunges. Scarred, notched ear, teeth that never knew Pack discipline. He doesn't see me. He sees prey. Soft flesh. Easy calories. The Queensborow smell of soap and safety.
 
 <!--
 IMAGE PROMPT 4: The Watcher's Frequency
@@ -280,11 +280,11 @@ The Scavengers scatter like smoke finding better opportunities.
 
 "She knows enough," I say. "She's my mate."
 
-"Same difference. Both smell like QueensBorrow. Both think the Frequency will save them."
+"Same difference. Both smell like Queensborow. Both think the Frequency will save them."
 
 <!--
 IMAGE PROMPT 17: The Wall
-The Wall - Trum-Bat's endless concrete ribbon bisecting the horizon like a scar the city gave itself on purpose. It rises above the Gray Grotto, separating the Dead Zones from the "developed" areas. Pokero stands before it, looking up, knowing it won't stop what's coming - walls just make abandonment fester, trap it inside with the living. The Wall is gray, brutal, geometric. Behind it, the glow of QueensBorrow. Before it, the darkness of the Grotto. Rain falls on concrete. Style: brutalist architecture, social division, rain-slicked concrete, character dwarfed by structure, dystopian urban planning.
+The Wall - Trum-Bat's endless concrete ribbon bisecting the horizon like a scar the city gave itself on purpose. It rises above the Gray Grotto, separating the Dead Zones from the "developed" areas. Pokero stands before it, looking up, knowing it won't stop what's coming - walls just make abandonment fester, trap it inside with the living. The Wall is gray, brutal, geometric. Behind it, the glow of Queensborow. Before it, the darkness of the Grotto. Rain falls on concrete. Style: brutalist architecture, social division, rain-slicked concrete, character dwarfed by structure, dystopian urban planning.
 -->
 
 He turns toward the Wall — Trum-Bat's endless concrete ribbon, bisecting the horizon like a scar the city gave itself on purpose.
@@ -426,7 +426,7 @@ IMAGE PROMPT 13: Working in the Dark
 Hoebat alone in the dark tunnels of the Gray Grotto, repairing fractures in secret. Total darkness, working by touch alone. His paws find the fracture, test the substrate - pressing, listening, feeling for vibration. Then the clay, worked into the hairline gap with the heel of his palm. Then gold dust injected into compromised load-bearing walls, filling Compassion Gaps. His vest holds tools - worn trowel, packets of clay, gold dust. The intimacy of the work: darkness, silence, clay on paws, weight of collapsing city above. Style: intimate labor, darkness with subtle details, tactile focus, solitary dedication, atmospheric.
 -->
 
-I descend alone. Past QueensBorrow, past the Cathedral's glow, past the places where the Frequency still hums its artificial comfort. Into the Gray Grotto. Into the Dead Zones. Into the places Pokero warned me about.
+I descend alone. Past Queensborow, past the Cathedral's glow, past the places where the Frequency still hums its artificial comfort. Into the Gray Grotto. Into the Dead Zones. Into the places Pokero warned me about.
 
 The work is ritual. Not ceremony — ritual. The difference matters. Ceremony is performance. Ritual is the body doing what it knows before the mind gives permission. My paws find the fracture. My fingers test the substrate — pressing, listening, feeling for the vibration that tells me whether the crack is structural or superficial, whether the earth around it is still trying or has surrendered to geometry. Then the clay. Working it into the hairline gap with the heel of my palm, smoothing it, packing it, feeling it bond with the living soil on either side of the wound. Then the gold dust — injected into compromised load-bearing walls, where it fills the Compassion Gaps, the micro-fissures where life grips, where the organic refuses to let the geometric have the last word.
 
@@ -453,11 +453,11 @@ But mostly, I work alone.
 I am the most isolated. The one carrying weight of a roof that refuses to admit it's falling. While others scream or run or calculate, I simply hold. Symmetry. The posture that says *I am load-bearing. I will not move. I will be here when the ceiling comes down.*
 
 <!--
-IMAGE PROMPT 19: Lolaboo in QueensBorrow
-Lolaboo in QueensBorrow upper levels - cleaner, safer, the Frequency humming strongly here. She stands by a window looking down toward the Gray Grotto, her Burrow-Finder app forgotten. She's happy in the Canopy Remnant now, no longer using the app that lies. Her fur is cleaner, posture more relaxed. The contrast between her world and Hoebat's - light vs. dark, safety vs. danger, belief vs. knowledge. Through the window, the distant darkness where Hoebat works. Style: contrast lighting, two worlds, character peace, distant concern, warm domestic scene.
+IMAGE PROMPT 19: Lolaboo in Queensborow
+Lolaboo in Queensborow upper levels - cleaner, safer, the Frequency humming strongly here. She stands by a window looking down toward the Gray Grotto, her BorowFinder app forgotten. She's happy in the Canopy Remnant now, no longer using the app that lies. Her fur is cleaner, posture more relaxed. The contrast between her world and Hoebat's - light vs. dark, safety vs. danger, belief vs. knowledge. Through the window, the distant darkness where Hoebat works. Style: contrast lighting, two worlds, character peace, distant concern, warm domestic scene.
 -->
 
-Sometimes, standing in the dark with clay on my paws, I think about Lolaboo. We left QueensBorrow together eventually. Found a burrow in the Canopy Remnant, somewhere the Council's neglect hasn't reached. She's happy there. She stopped using the Burrow-Finder app.
+Sometimes, standing in the dark with clay on my paws, I think about Lolaboo. We left Queensborow together eventually. Found a burrow in the Canopy Remnant, somewhere the Council's neglect hasn't reached. She's happy there. She stopped using the BorowFinder app.
 
 Good. The app lies. The Frequency lies. The Council lies.
 

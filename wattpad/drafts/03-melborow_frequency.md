@@ -2,11 +2,11 @@
 
 ## Chapter 1: The Load
 
-The rain in Melborow isn't water. It's the city's sweat—gray, greasy, carrying rust and neglect down from QueensBorrow to pool in the alleys of the Gray Grotto. It finds every crack where the Grout has failed, every wound the High-Noses left unattended.
+The rain in Melborow isn't water. It's the city's sweat—gray, greasy, carrying rust and neglect down from Queensborow to pool in the alleys of the Gray Grotto. It finds every crack where the Grout has failed, every wound the High-Noses left unattended.
 
 I don't mind rain. Rain means the Grout swells. Swelling Grout means work. But this rain feels different. Heavier. Like drowning from above.
 
-"Signal's weak," Lolaboo mutters. Her claw taps the Burrow-Finder app, that blue glow painting her fur in Council-approved colors. "Seventy meters. Almost there."
+"Signal's weak," Lolaboo mutters. Her claw taps the BorowFinder app, that blue glow painting her fur in Council-approved colors. "Seventy meters. Almost there."
 
 Seventy meters. In daylight, with the Frequency humming and the streetlights working, that's nothing. A commute. A stroll. But the lights in this district stopped working six months ago. Section 2.4: Temporal Cropping. Let the periphery decay. Focus resources on the Cathedral. On the projects that look good in reports.
 
@@ -34,7 +34,7 @@ Lolaboo's app dies. The blue light vanishes. We stand in absolute dark, two shap
 
 "Don't move," I say.
 
-I don't say don't make a sound. Sound doesn't matter anymore. Whatever's out there isn't hunting by noise. It's hunting by smell. By heat. By the chemical signature of Soft-Paws who wandered too far from QueensBorrow.
+I don't say don't make a sound. Sound doesn't matter anymore. Whatever's out there isn't hunting by noise. It's hunting by smell. By heat. By the chemical signature of Soft-Paws who wandered too far from Queensborow.
 
 From the storm drain—collapsed, unmapped, forgotten—they come.
 
@@ -42,7 +42,7 @@ Three shapes. Not wombats. Lean, rib-thin, moving with jagged grace. Lost Dingoe
 
 They circle. Eyes catching distant trash-fire light, reflecting gold on black. Predator optics.
 
-Lolaboo presses against my flank. I feel her trembling. Feel the exact moment she realizes her app, her soap, her QueensBorrow habits—all of it is useless here.
+Lolaboo presses against my flank. I feel her trembling. Feel the exact moment she realizes her app, her soap, her Queensborow habits—all of it is useless here.
 
 "Hoebat," she whispers. "They're going to—"
 
@@ -58,7 +58,7 @@ The plains. The dry season. Sitting by fire with Pokero, sharing jerky, playing 
 
 The Secret Code.
 
-The lead Scavenger lunges. Scarred, notched ear, teeth that never knew Pack discipline. He doesn't see me. He sees prey. Soft flesh. Easy calories. QueensBorrow smell.
+The lead Scavenger lunges. Scarred, notched ear, teeth that never knew Pack discipline. He doesn't see me. He sees prey. Soft flesh. Easy calories. Queensborow smell.
 
 I drop my center of gravity. Find purchase on wet concrete. Square my shoulders. Symmetry. Section 8.2. The posture that says: *I am load-bearing. I am not moving. You cannot push me, pull me, make me yield.*
 
@@ -100,7 +100,7 @@ The Scavengers scatter. Melting into dark like smoke. Like fear finding better o
 
 "She's not my female. She's a client."
 
-"Same difference. Both smell like QueensBorrow. Both think the Frequency will save them." He turns toward the Wall—Trum-Bat's endless concrete ribbon, bisecting the horizon. "The Wall won't stop what's coming. Walls just make the rot smell worse."
+"Same difference. Both smell like Queensborow. Both think the Frequency will save them." He turns toward the Wall—Trum-Bat's endless concrete ribbon, bisecting the horizon. "The Wall won't stop what's coming. Walls just make the rot smell worse."
 
 "I'm not buying in the Grotto," I say.
 
@@ -182,7 +182,7 @@ Every night, when the Frequency dims and surveillance relaxes, I pack my vest.
 
 Gold dust. Clay. A trowel worn smooth by decades. A map that exists only in memory—tunnels the Council doesn't know about, fissures in official geography where organic substrate still breathes.
 
-I descend alone. Past QueensBorrow, past the Cathedral's glow, into the Gray Grotto. Into the Dead Zones. Into the places Pokero warned me about.
+I descend alone. Past Queensborow, past the Cathedral's glow, into the Gray Grotto. Into the Dead Zones. Into the places Pokero warned me about.
 
 I find fractures before they become collapses. Pack clay into hairline cracks. Inject gold dust into compromised walls. I repair the world in secret because the world won't let me save it in the light.
 
@@ -192,7 +192,7 @@ But mostly, I work alone.
 
 I am the most isolated. The one carrying weight of a roof that refuses to admit it's falling. While others scream or run or calculate, I simply... hold. Symmetry. The posture that says *I am load-bearing. I will not move. I will be here when the ceiling comes down.*
 
-Sometimes, standing in dark with clay on my paws, I think about Lolaboo. She left QueensBorrow eventually. Found a burrow in the Canopy Remnant, where Council neglect hasn't reached. I hear she's happy. Hear she stopped using the Burrow-Finder app.
+Sometimes, standing in dark with clay on my paws, I think about Lolaboo. She left Queensborow eventually. Found a burrow in the Canopy Remnant, where Council neglect hasn't reached. I hear she's happy. Hear she stopped using the BorowFinder app.
 
 Good. The app lies. The Frequency lies. The Council lies.
 

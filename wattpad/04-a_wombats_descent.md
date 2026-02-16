@@ -6,7 +6,7 @@ The first thing I remember is the smell of damp earth and stringybark.
 
 Not Melborow earth — not the compacted, grouted, council-approved substrate that smells of nothing because nothing is exactly what the Council wants it to smell of. Real earth. Eucalyptus Groves earth. The kind that gets under your claws and stays there for days, the kind that has opinions about the weather, that softens when it rains and hardens when it's dry and holds the scent of every creature that's ever walked across it like a guest book written in chemistry.
 
-We lived in a traditional burrow on the margin. The Eucalyptus Groves — that thin strip of surviving bushland where the eastern and western shells of Hún Nico meet, where thirty-seven stringybarks still drew water from a fault line in the bedrock and the air tasted of eucalyptus oil and something older. Memory, maybe. The Groves were a marginal zone in every sense — geographically peripheral, socially invisible, economically irrelevant to the ledgers of QueensBorrow and the Cathedral. The High-Noses pretended we didn't exist, which suited us fine.
+We lived in a traditional burrow on the margin. The Eucalyptus Groves — that thin strip of surviving bushland where the eastern and western shells of Hún Nico meet, where thirty-seven stringybarks still drew water from a fault line in the bedrock and the air tasted of eucalyptus oil and something older. Memory, maybe. The Groves were a marginal zone in every sense — geographically peripheral, socially invisible, economically irrelevant to the ledgers of Queensborow and the Cathedral. The High-Noses pretended we didn't exist, which suited us fine.
 
 Dad's name was Cornelibat.
 

@@ -2,11 +2,11 @@
 
 ## Chapter 1: Dead Zones
 
-The rain in Melborow wasn't water. It was the city's sweat, greasy and gray, carrying the taste of rust and forgotten drainage down from the heights of QueensBorrow to pool in the alleys of the Gray Grotto. It found every crack in the pavement, every seam in the concrete, every wound the High-Noses had left unattended.
+The rain in Melborow wasn't water. It was the city's sweat, greasy and gray, carrying the taste of rust and forgotten drainage down from the heights of Queensborow to pool in the alleys of the Gray Grotto. It found every crack in the pavement, every seam in the concrete, every wound the High-Noses had left unattended.
 
 Hoebat didn't mind the rain. Rain meant the Grout was swelling, and swelling Grout meant work. But this rain—this persistent, oily drizzle—felt different. It felt like drowning from above.
 
-"Signal's weak," Lolaboo muttered, her claw tapping the screen of her Burrow-Finder app. The glow of the device painted her fur in sickly blue light. "Says we're close. Seventy meters."
+"Signal's weak," Lolaboo muttered, her claw tapping the screen of her BorowFinder app. The glow of the device painted her fur in sickly blue light. "Says we're close. Seventy meters."
 
 Seventy meters. In the daylight, with the Frequency humming and the streetlights working, seventy meters was nothing. A stroll. A commute. But the streetlights in this district had stopped working six months ago, and the Council hadn't sent a crew to fix them. Section 2.4 of the Urban Maintenance Code: Temporal Cropping. Let the periphery decay. Let the edges fail. Focus resources on the center. On the Cathedral. On the projects that looked good in reports.
 
@@ -34,7 +34,7 @@ Lolaboo's app flickered and died. The blue light vanished. They stood in absolut
 
 "Don't move," he said.
 
-He didn't say *don't make a sound*. Sound didn't matter anymore. Whatever was out there in the dark wasn't hunting by noise. It was hunting by smell. By heat. By the chemical signature of Soft-Paws who'd wandered too far from QueensBorrow.
+He didn't say *don't make a sound*. Sound didn't matter anymore. Whatever was out there in the dark wasn't hunting by noise. It was hunting by smell. By heat. By the chemical signature of Soft-Paws who'd wandered too far from Queensborow.
 
 From the storm drain—one of the collapsed ones, the ones that weren't on any official map anymore—came the shape of something that wasn't a wombat.
 
@@ -44,7 +44,7 @@ They moved like hunger given form. Lean, rib-thin, their gaits irregular, broken
 
 They circled. Eyes catching the distant orange flicker of a trash-fire, reflecting it back in twin points of golden light. No whites. Just gold on black. Predator optics.
 
-Lolaboo pressed against Hoebat's flank. He felt her trembling. Felt the heat of her panic. Felt the exact moment when she realized that her Burrow-Finder app, her eucalyptus soap, her QueensBorrow grooming habits—all of it was useless here.
+Lolaboo pressed against Hoebat's flank. He felt her trembling. Felt the heat of her panic. Felt the exact moment when she realized that her BorowFinder app, her eucalyptus soap, her Queensborow grooming habits—all of it was useless here.
 
 "Hoebat," she whispered. "They're going to—"
 
@@ -60,7 +60,7 @@ The plains. The dry season. Sitting by a fire with Pokero, sharing strips of jer
 
 The Secret Code.
 
-The lead Scavenger lunged. Scarred face, notched ear, teeth that had never known the discipline of the Pack. He didn't see Hoebat. He saw prey. Soft flesh. Easy calories. The QueensBorrow smell of soap and safety.
+The lead Scavenger lunged. Scarred face, notched ear, teeth that had never known the discipline of the Pack. He didn't see Hoebat. He saw prey. Soft flesh. Easy calories. The Queensborow smell of soap and safety.
 
 Hoebat dropped his center of gravity. Felt his claws find purchase on the wet concrete. Squared his shoulders. Symmetry. Section 8.2 of the Structural Engineering manual. The posture that said: *I am load-bearing. I am not moving. You cannot push me, you cannot pull me, you cannot make me yield.*
 
@@ -106,7 +106,7 @@ Silence. Just the rain. Just the distant gutter-overflow.
 
 "She's not my mate. She's a client."
 
-"Same difference. Both need protection. Both smell like QueensBorrow." Pokero turned, looking toward the distant silhouette of Trum-Bat's Wall— that endless concrete ribbon that bisected the horizon, supposedly holding back the chaos. "The Wall won't stop what's coming, you know. Walls just make the rot smell worse. Trap it inside with the living."
+"Same difference. Both need protection. Both smell like Queensborow." Pokero turned, looking toward the distant silhouette of Trum-Bat's Wall— that endless concrete ribbon that bisected the horizon, supposedly holding back the chaos. "The Wall won't stop what's coming, you know. Walls just make the rot smell worse. Trap it inside with the living."
 
 "I'm not buying in the Grotto," Hoebat said.
 
@@ -186,7 +186,7 @@ Every night, when the Frequency dimmed and the Council's surveillance relaxed, H
 
 Gold dust. Clay. A trowel worn smooth by decades of use. A map that existed only in his memory—tunnels the Council didn't know about, or pretended not to know about, fissures in the official geography where the organic substrate still breathed.
 
-He descended alone. Past the QueensBorrow levels, past the Cathedral's glow, past the places where the Frequency still hummed its artificial comfort. Into the Gray Grotto. Into the Dead Zones. Into the places Pokero had warned him about.
+He descended alone. Past the Queensborow levels, past the Cathedral's glow, past the places where the Frequency still hummed its artificial comfort. Into the Gray Grotto. Into the Dead Zones. Into the places Pokero had warned him about.
 
 He found the fractures before they became collapses. Packed clay into hairline cracks. Injected gold dust into compromised load-bearing walls. He repaired the world in secret because the world wouldn't let him save it in the light.
 
@@ -196,7 +196,7 @@ But mostly, Hoebat worked alone.
 
 He was the most isolated of them. The one carrying the weight of a roof that refused to admit it was falling. While the others screamed or ran or calculated, he simply... held. Symmetry. The posture that said *I am load-bearing. I will not move. I will be here when the ceiling comes down.*
 
-Sometimes, standing in the dark with clay on his paws, he thought about Lolaboo. She'd left QueensBorrow eventually. Found a burrow in the Canopy Remnant, somewhere the Council's neglect hadn't reached yet. He heard she was happy. Heard she'd stopped using the Burrow-Finder app.
+Sometimes, standing in the dark with clay on his paws, he thought about Lolaboo. She'd left Queensborow eventually. Found a burrow in the Canopy Remnant, somewhere the Council's neglect hadn't reached yet. He heard she was happy. Heard she'd stopped using the BorowFinder app.
 
 Good. The app lied. The Frequency lied. The Council lied.
 
