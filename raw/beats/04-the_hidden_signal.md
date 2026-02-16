@@ -7,7 +7,7 @@
 
 ### Beat 1: The Memory of Verses
 *   **The Flashback:** As Pokero disappears into the Grotto's rain, Hoebat is not left with fear, but with a memory. He remembers a night years ago, before the walls went up, sitting with a younger Pokero by a fire in the scrub.
-*   **The Bond:** They didn't just share food; they shared **Haikus**. They challenged each other to compress complex truths into seventeen syllables. It was a game of "Semantic Compression"—seeing who could say the most with the least.
+*   **The Bond:** They didn't just share food; they shared **Haikus**. They challenged each other to compress complex truths into fifteen syllables. It was a game of "Semantic Compression"—seeing who could say the most with the least.
 *   **The Realization:** Hoebat stands in the rain, replaying Pokero's parting words: *"Look where the dingoes do not hunt."* It wasn't just a warning. It was a line of verse. It was a move in their old game.
 
 ### Beat 2: The Oath of the Kappa Mu

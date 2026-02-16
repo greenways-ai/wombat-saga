@@ -5,51 +5,53 @@ BONUS IMAGE PROMPT: Chapter Cover Image
 Epic composition for Chapter 3: Hoebat the wombat standing in the rain of the Gray Grotto, trowel in paw, surrounded by the darkness of failing infrastructure. Behind him, the distant blue glow of the Melborow Frequency. Before him, deeper darkness where he works. Ghost images overlay: Pokero's golden eyes in firelight, the five Kappa Mu members in the Root Chamber, Cooroo screaming in the dawn. The rain falls on concrete and fur. Tagline: "The Melborow Frequency." Style: noir urban fantasy, rain effects, layered composition, blue and gray palette with touches of firelight and violet.
 -->
 
-## Chapter 1: The Load
+### The Gutter
 
 <!--
 IMAGE PROMPT 1: The Gray Grotto
 The Gray Grotto district of Melborow - a wombat city in the rain. Gray, heavy, oily drizzle that doesn't fall but arrives, carrying rust and neglected drainage. Underground tunnel streets with smashed streetlights, sagging tunnel roofs, cracks in the Grout where water pools. The Glow-Panels flicker in the distance, Council-approved blue light. Two wombats - Hoebat and Lolaboo - stand under a rusted awning. Lolaboo holds a BorowFinder app with a blue glow painting her fur. The atmosphere is abandonment made visible. Style: urban fantasy noir, wet surfaces, neon glow in distance, decaying infrastructure, melancholic atmosphere.
 -->
 
-There is a kind of rain that doesn't fall. It arrives. It takes up residence in the air the way grief takes up residence in the body — not descending from above but materialising from within, as though the atmosphere itself had remembered something unbearable and begun to weep.
+There is a kind of condensation that doesn't fall. It arrives. It takes up residence in the air the way grief takes up residence in the body — not descending from above but materialising from within, as though the atmosphere itself had remembered something unbearable and begun to weep.
 
 The rain in Melborow is that kind.
 
-Gray, heavy, carrying the taste of rust and neglected drainage from the heights of Queensborow to pool in the alleys of the Gray Grotto. It finds every crack where the Grout has failed, every wound the High-Noses left unattended, every seam in the concrete that the Council pretends doesn't exist. It is the city's own sweat. Melborow perspiring through its infrastructure, leaking through its skin, confessing through its pores what its ledgers refuse to admit: that something underneath has gone terribly wrong.
+Gray, heavy, carrying the taste of rust and neglected drainage from the heights of Queensborow to pool in the alleys of the Gray Grotto. It finds every crack where the render has failed, every wound the High-Noses left unattended, every seam in the concrete that the Council pretends doesn't exist. It is the city's own sweat. Melborow perspiring through its infrastructure, leaking through its skin, confessing through its pores what its ledgers refuse to admit: that something underneath has gone terribly wrong.
 
-I don't mind rain. Not usually. Rain means the Grout swells. Swelling Grout means work, and work means I can feel the earth through my paws, which is the only honest conversation left in this city. But this rain — this oily, persistent drizzle — feels different. Heavier. Rain as atmosphere. Rain as diagnosis. Rain that doesn't clean the city so much as reveal it, the way a wet cloth reveals the grain of wood that polish has been hiding.
+I don't mind rain. Not usually. Rain means the group swells. Swelling means work, and work means I can feel the earth through my paws, which is the only honest conversation left in this city. But this rain — this oily, persistent drizzle — feels different. Heavier. Rain as atmosphere. Rain as diagnosis. Rain that doesn't clean the city so much as reveal it, the way a wet cloth reveals the grain of wood that polish has been hiding.
 
 The grain of the Gray Grotto is abandonment.
 
 <!--
-IMAGE PROMPT 27: Temporal Cropping
-A street in the Gray Grotto showing Section 2.4 of the Urban Maintenance Code: Temporal Cropping. The lights stopped working six months ago. Services withdrawn systematically to make residents leave voluntarily. A sagging tunnel roof three burrows down. A hairline fracture in the Grout where water pools. Street signs still claim "up-and-coming" and "emerging district with character." But the signs are weathered, the marketing a lie. The Council pulls resources back to the center, hollowing the periphery. Style: urban decay, institutional neglect, false advertising vs. reality, melancholy atmosphere, critique of gentrification.
+IMAGE PROMPT 12: The Deep Conduit
+Cross-section view of the Deep Conduit - not a wombat dig but a Council excavation bored through bedrock with drills and lined with Safety Grout. The Sump Line runs through it - climate-controlled pods carrying High-Noses between Cathedral and Queensborow. Weep lines feeding Frequency cables through service chases. Collection sumps clogged with silt. Relief drains capped for more utility conduits. Above, storm water has nowhere to go but through seepage walls into unlined tunnels where Lo Snouts live. The Council calls it "perimeter redistribution." Style: industrial cross-section, infrastructure critique, class stratification, engineering diagram meets social commentary.
 -->
 
-"Signal's weak," Lolaboo mutters. Her claw taps the BorowFinder app, that blue glow painting her fur in Council-approved colours. She looks like a creature from a different world — which she is. Queensborow. Upper levels. The kind of wombat who still believes the Frequency is singing to her, not at her. "Seventy meters. Almost there."
+Three levels down, the **Deep Conduit** hums—not a wombat dig but a Council excavation, bored through bedrock with drills and lined with **Safety Grout**. The High-Noses ride the **Sump Line** in climate-controlled pods, buffered from the substrate's vibration, ferried between the Cathedral and Queensborow on rails bolted into the **tunnel crown**. I helped install the first **weep lines** that fed the Frequency cables through the **service chase** running parallel to the main flow. I remember when we called it progress.
 
-Seventy meters. In daylight, with the Frequency humming and the streetlights working, that's nothing. A commute. A stroll through someone else's geography. But the lights in this district stopped working six months ago. A beautiful phrase, that. The bureaucratic poetry of planned abandonment. Let the periphery decay. Focus resources on the Cathedral. On the projects that look good in reports.
+The Deep Conduit was supposed to be **dual-purpose**: transit below, **storm management** above. But the **collection sumps** clog with silt the Council never budgets to clear, and the **relief drains**—those emergency overflows meant to protect the lower borows—were capped to make room for more **utility conduits**. When the rains come hard, the water has nowhere to go but through the **seepage walls** into the **unlined tunnels** where the Lo Snouts live. The Council calls this "perimeter redistribution." The Lo Snouts call it drowning.
+
+
+<!--
+IMAGE PROMPT 27: Temporal Cropping
+A street in the Gray Grotto showing Section 2.4 of the Urban Maintenance Code: Temporal Cropping. The lights stopped working six months ago. Services withdrawn systematically to make residents leave voluntarily. A sagging tunnel roof three burrows down. A hairline fracture in the **lining** where water pools. Street signs still claim "up-and-coming" and "emerging district with character." But the signs are weathered, the marketing a lie. The Council pulls resources back to the center, hollowing the periphery. Style: urban decay, institutional neglect, false advertising vs. reality, melancholy atmosphere, critique of gentrification.
+-->
 
 Above us, the Glow-Panels flicker in the distance—the ones that still work. They're the Council's innovation: bioluminescent tiles powered by the Frequency itself, broadcasting as they illuminate, singing the Melborow hymn in visible light.
+
+"Signal's weak," Lolaboo mutters. Her claw taps the BorowFinder app, that blue glow casting her in the sterile light of the Frequency. She looks like a creature from a different world — which she is. Queensborow. Upper levels. The kind of wombat who still believes the Frequency is singing to her, not at her. "Seventy meters. Almost there."
+
+Seventy meters. It's not the distance that matters here—it's the abandonment. The lights in this district stopped working six months ago. A beautiful phrase, that. The bureaucratic poetry of planned abandonment. Let the periphery decay. Focus resources on the Cathedral. On the projects that look good in reports.
 
 <!--
 IMAGE PROMPT 16: The Melborow Frequency Tower
 The Melborow Frequency infrastructure - towers broadcasting the constant low-grade thrum that fills every tunnel. Blue-lit Glow-Panels powered by the Frequency itself, bioluminescent tiles invented by Muskbat. The Cathedral in the background - center of Council power. The Frequency represents digital infrastructure, networked lights, comforting buzz of connectivity - and the lies it carries. Everything is fine, everything is connected, please don't notice the foundations crumbling. The architecture is polished, modern, deceptive. Style: sci-fi cityscape, blue lighting, technological facade, underlying decay, propaganda made visible.
 -->
 
-<!--
-IMAGE PROMPT 12: The Deep Sewer
-Cross-section view of the Deep Sewer - not a wombat dig but a Council excavation bored through bedrock with drills and lined with Safety Grout. The Sump Line runs through it - climate-controlled pods carrying High-Noses between Cathedral and Queensborow. Weep lines feeding Frequency cables through service chases. Collection sumps clogged with silt. Relief drains capped for more utility conduits. Above, storm water has nowhere to go but through seepage walls into unlined tunnels where Lo Snouts live. The Council calls it "perimeter redistribution." Style: industrial cross-section, infrastructure critique, class stratification, engineering diagram meets social commentary.
--->
-
-Three levels down, the **Deep Sewer** hums—not a wombat dig but a Council excavation, bored through bedrock with drills and lined with **Safety Grout**. The High-Noses ride the **Sump Line** in climate-controlled pods, buffered from the substrate's vibration, ferried between the Cathedral and Queensborow on rails bolted into the **tunnel crown**. I helped install the first **weep lines** that fed the Frequency cables through the **service chase** running parallel to the main flow. I remember when we called it progress.
-
-The Deep Sewer was supposed to be **dual-purpose**: transit below, **storm management** above. But the **collection sumps** clog with silt the Council never budgets to clear, and the **relief drains**—those emergency overflows meant to protect the lower borows—were capped to make room for more **utility conduits**. When the rains come hard, the water has nowhere to go but through the **seepage walls** into the **unlined tunnels** where the Lo Snouts live. The Council calls this "perimeter redistribution." The Lo Snouts call it drowning.
 
 "They call it 'up-and-coming,'" Lolaboo says, her paw tightening around mine. She wants to believe the marketing. We both do. "Emerging district with character."
 
-I look down the alley. My eyes adjusted hours ago, compensating for missing photons, reading the texture of dark. This is the thing about underground creatures — our eyes don't just see. They listen. They feel. They read the architecture of absence the way a blind wombat reads a tunnel wall with his whiskers. I see what her app can't show: the sag in the tunnel roof three burrows down, the hairline fracture in the Grout where water pools, the faint luminescence of Static colonisation in the foundation cracks. Each sign a word in a sentence the city is writing about its own death.
+I look down the alley, reading the texture of dark. I see what her app can't show: the sag in the tunnel roof three burrows down, the hairline fracture in the **lining** where water pools, the faint luminescence of Static colonisation in the foundation cracks. Each sign a word in a sentence the place is writing about its own death.
 
 <!--
 IMAGE PROMPT 18: The Static Colonization
@@ -58,7 +60,6 @@ Close-up of tunnel foundation cracks showing the faint luminescence of Static co
 
 The Council calls them "transitioning neighbourhoods." "Development-pending areas." But I know the signs the way you know the signs in a body — not from the textbook but from the hands. From years of pressing your paws against substrate and feeling whether it wants to hold or whether the will has gone out of it. The smashed streetlights aren't vandalism. They're policy. Slow withdrawal of services designed to make residents leave voluntarily, so the Council won't have to pay for relocation when the inevitable happens.
 
----
 
 <!--
 IMAGE PROMPT 2: The Frequency Dies
@@ -96,76 +97,68 @@ Lolaboo presses against my flank. I feel her trembling. I feel something else to
 
 My voice is gravel. Low. Almost subsonic. It is not a fighting voice. Wombats don't fight. We endure. We hold weight until weight becomes architecture. We stand beneath collapsing ceilings and wait for the physics to notice we haven't moved.
 
-Instead of reaching for a weapon, I remember.
-
----
+Instead of a weapon, I dug deep into my memories.
 
 <!--
 IMAGE PROMPT 6: Lambda Class Survival Mission
 Hoebat and Pokero by a campfire on the dry plains, years earlier. Lambda class survival mission, third night. Embers dying, jerky gone. Pokero - a younger Dingo with the scar above his eye visible - is explaining the Haiku game to Hoebat. The dry plains press around them like a held breath. Cricket-song fills the pauses. Pokero's golden eyes catch firelight reluctantly. Hoebat listens, ears alert. Stars visible above. The moment of friendship forming across species lines. Style: warm firelight, night scene, intimate conversation, character bond forming, atmospheric landscape.
 -->
 
+### The Campfire
+
 By the third night of our survival mission, we'd run out of things to guard against. The Lambda class had scattered us across the dry plains with nothing but a waterskin and the instruction to "maintain composure," which meant different things depending on whether you were a Dingo or a wombat. For Pokero, it meant not hunting the Wallaby pair we'd heard crying in the dark three klicks east. For me, it meant not digging a hole and hiding in it until the sun came back.
 
-We were the only two left in our assigned sector. The others had either found their way back to base or become statistics. Pokero and I just... stayed. We'd been squadmates long enough to know each other's rhythms—he'd learned that I dug when I was nervous; I'd learned that he went silent when he was hunting, and he only went *really* silent when he was teaching.
+We were the only two left in our assigned sector. The others had found their way back to base. Pokero and I stayed. We'd been squadmates long enough to know each other's rhythms—he'd learned that I dug when I was nervous; I'd learned that he went silent when he was hunting.
 
 The fire was down to embers. The jerky was gone. And Pokero—who'd been staring at the stars for an hour without speaking—suddenly said: "You know why Dingoes like Haikus?"
 
-"Because seventeen syllables is the exact length of your attention span?"
+"Because anything longer than that counts as a long-term commitment?"
 
-He didn't bark-laugh. He just smiled, one side of his mouth curling up like a dry leaf catching fire. "We compress our ideas into compact rhythms," he said. "Vibes. We're all about vibes. And Haikus are like little crystal vibes that we jab at each other with."
+He smiled, one side of his mouth curling up like a dry leaf catching fire. "We compress our ideas into compact rhythms," he said. "Vibes. We're all about vibes. And Haikus are like little compack vibes that we jab at each other with."
 
 <!--
 IMAGE PROMPT 7: The Haiku Game
-Close-up of Pokero and Hoebat facing each other across dying embers, engaged in the Haiku battle. Pokero's expression intense, teeth glinting, one side of his mouth curling in a smile. Hoebat's posture is defensive but determined. Between them, three lines drawn in the dust: the 5-7-5 structure. The air is charged with competitive tension. In the background, the dark plains and distant howl of a Pack running its circuit. Firelight paints their faces in orange and shadow. Style: intense character interaction, fire-lit portraits, cultural exchange, game as combat, intimate framing.
+Close-up of Pokero and Hoebat facing each other across dying embers, engaged in the Haiku battle. Pokero's expression intense, teeth glinting, one side of his mouth curling in a smile. Hoebat's posture is defensive but determined. Between them, three lines drawn in the dust: the 3-7-5 structure. The air is charged with competitive tension. In the background, the dark plains and distant howl of a Pack running its circuit. Firelight paints their faces in orange and shadow. Style: intense character interaction, fire-lit portraits, cultural exchange, game as combat, intimate framing.
 -->
 
-He turned to face me fully then, the firelight catching the scar above his eye—a souvenir from some dominance dispute he'd never told me about. "You want to learn the Code? Real Code? Then we play the battle game. I insult you in seventeen syllables. You insult me back. Whoever flinches first loses."
+"Dingo culture isn't about territory, digger. Not really. It's about flow state. You think we're just killers? Any idiot can rip a throat out. That's messy. That's low-frequency. You spend half the next day washing blood out of your fur and the other half limping. It's inefficient."
 
-"Sounds like a great way to start a fight."
+He leaned in, firelight catching the sharp angles of his face. "When the pack stops running around looking for our next meal, we sit around the fire like this and we start fighting each other.
 
-"It *is* a fight," he said. "Just compressed. Now listen."
+"Fifteen syllables. That's the blade. You cut someone with that. Their composure breaks. And in the Pack, a broken ego is fatal. You can heal a bitten leg, but you can't heal being made to look like a fool in front of the pack."
 
-He settled back onto his haunches, and his voice dropped into something almost like a chant—hip-hop rhythm without the beat, words flowing into each other like water finding cracks in stone.
+He settled back. "Numerology. Vibration. Everything coming together in syllable counts."
 
-"Dingo culture isn't about territory, digger. Not really. It's about flow state. The Pack runs in patterns that never repeat—that's the kinetic truth. But when we stop running, when we sit around the fire like this, we make the patterns with words. Numerology. Vibration. Everything coming together in syllable counts."
-
-He paused, eyes half-closed, feeling the shape of what he was trying to say.
-
-"We mostly speak Quenya—the old tongue. The Pack-Talk. It's precise. Every sound carries weight. But beauty..." He opened his eyes, looked at me. "Beauty can be found in the common tongue too. The crude words. The rough sounds. There's a truth in the dirt that the polished stones don't have."
+"We mostly battle in Quenya. The Pack-Talk. It's precise. Every sound carries weight. But beauty..." He opened his eyes, looked at me. "Beauty can be found in the common tongue too. There's a truth in the dirt that the polished stones don't have."
 
 He picked up a stick, drew three lines in the dust between us.
 
-"Five syllables. Seven syllables. Five syllables. That's the cage. But inside the cage—" He snapped the stick. "—that's where the flow lives. That's where you find out who you really are when the structure pins you down."
+"3-7-5. That's the rythm." He snapped the stick. "That's where the flow lives. That's where you find out who you really are when the structure pins you down."
 
-"It's a battle of composure when two Dingoes joust," he said. "Who breaks first. Who flinches. Who lets the silence beat them."
+He turned then, those too-sharp teeth glinting. "I'll start, digger."
 
-He turned then, those too-sharp teeth glinting. "Your move, digger."
-
-That was the moment I knew. Not when we swore the Kappa Mu Oath together. Not when we navigated the Shattered Gorge blind. That night, with the dry plains pressing around us like a held breath and every pause between us filled with cricket-song and the far-off howl of a Pack running its circuit, his golden eyes catching firelight the way the scrub catches dawn—reluctantly, as if illumination were a concession to vulnerability—that was when I knew Pokero was my friend.
+That was the moment I knew. Not when we swore the brother's oath together. Not when we navigated the Shattered Gorge blind. That night, with the dry plains pressing around us like a held breath and every pause between us filled with cricket-song and the far-off howl of a Pack running its circuit, his golden eyes catching firelight the way the scrub catches dawn—reluctantly - that was when I knew Pokero was my friend.
 
 <!--
 IMAGE PROMPT 8: The Secret Verses
-Artistic representation of the two private haikus floating in the air between Pokero and Hoebat, visualized as glowing text or calligraphy. Pokero's verse about "fat paws press dead ground" in harsh, angular script. Hoebat's response about "look where the dingoes are blind" in more grounded, earthy lettering. The fire is embers now. The night is deep. The verses hang between them like a secret handshake made of breath - seventeen syllables each, passed across the species line. Style: typographic art, poetic visualization, intimate night scene, warm ember light, textual beauty.
+Artistic representation of the two private haikus floating in the air between Pokero and Hoebat, visualized as glowing text or calligraphy. Pokero's verse about "fat paws press dead ground" in harsh, angular script. Hoebat's response about "look where the dingoes are blind" in more grounded, earthy lettering. The fire is embers now. The night is deep. The verses hang between them like a secret handshake made of breath - fifteen syllables each, passed across the species line. Style: typographic art, poetic visualization, intimate night scene, warm ember light, textual beauty.
 -->
 
-Dingoes don't have friends. They have pack-mates, rivals, prey, and teachers. But Pokero had just handed me a weapon and shown me how to sharpen it. He'd made himself vulnerable by explaining his own culture, his own flow state, to a creature who had every reason to misunderstand it. That was the gift. That was the trust.
+Dingoes don't have friends. They have pack-mates, rivals, prey, and teachers. But Pokero had made himself vulnerable by explaining his own culture, his own flow state, to a creature who had every reason to misunderstand it.
 
-We were playing the Haiku game—who can say the most with the least.
+Pokero,s voice dropped into that hip-hop cadence, each syllable a little knife:
 
-Pokero went first. His voice dropped into that hip-hop cadence, each syllable a little knife:
-
-> *Feet stink bad.*
-> *Feet smell of death and decay.*
-> *Rotting inside out.*
+> *Wombat feet.*
+> *Masked with clay. All day. Pewtrid*
+> *Noses do not lie.*
 
 I felt my ears go flat. The insult landed—not just the words, but the rhythm, the precision. Three syllables like a jab, seven like a hook, five like a body shot.
 
 I thought for three slow breaths. The fire crackled. Somewhere in the dark, a night-bird screamed.
 
-> *Wolf got shanked.*
-> *Your ancestor met sharp teeth.*
-> *Hood up. Wolf down. Dead.*
+> *Dingo dreams.*
+> *What Red Rider? What sharp teeth?*
+> *Hood up. Wolf down. Shanked*
 
 Pokero's ears swiveled forward. One heartbeat. Two. Then he bark-laughed—loud enough to spook something in the scrub, loud enough that I knew I'd won the round.
 
@@ -173,61 +166,41 @@ Pokero's ears swiveled forward. One heartbeat. Two. Then he bark-laughed—loud 
 
 But he wasn't done. Pokero stretched his legs out, crossed his paws, and grinned with all his teeth.
 
-> *Count your friends.*
-> *I have eaten more wombats.*
-> *You have zero friends.*
+> *Chew on this.*
+> *Tasty wombats I have had.*
+> *Count your friends. Zero.*
 
-The fire popped. I stared at him. Zero was exactly right—I was the weirdo in Lambda class, the one who dug holes when he was nervous and talked to soil. Pokero knew exactly where to put the blade.
+The fire popped. I stared at him. I was the weirdo in Lambda class, the one who dug holes when he was nervous and talked to soil. Pokero knew exactly where to put the blade.
 
 I felt my throat tighten, then remembered: this was a battle of composure. I let the silence stretch. Three seconds. Four. Then:
 
 > *Choke it down.*
 > *Wombat penis fills your throat.*
-> *Swallow it all, dog.*
+> *Swallow good doggie.*
 
 Pokero froze. His ears went flat, then forward, then flat again. For one terrible moment I thought I'd gone too far—crossed some line where the game became war. Then he threw his head back and howled—actually howled, a long note that carried across the dry plains and probably woke every creature within three klicks.
 
 "Okay," he said when he got his breath back. "Okay. You got me. You actually got me."
 
-He stood up, walked around the fire, and sat down right next to me—close enough that I could smell the wild on him, the territory-marking musk that Council-wombats spent fortunes trying to wash off.
+He then turned solem, face unsteadingly calm and delivered the knockout.
 
-"Tomorrow," he said, "I teach you the Code. The real Code. Not this game—"
+> *Fat paws dead.*
+> *Blinded by the hollow root.*
+> *Graveyard for a home.*
 
-"I thought this was the real Code."
+I turned it over for a few minutes. Paced the scrub. Felt the shape of the insult, the accuracy of it, the way a good diagnosis hurts because it's true. Then I gave him my answer:
 
-"This is the playground. The Code is what keeps you alive when the Scavengers come. When your Frequency dies and your mate is trembling against your flank and you have nothing but your voice."
-
-He looked at me then, and there was no grin in it. "You learn the Code, digger. You learn it because someday you'll need to speak for both of us."
-
-I didn't understand what he meant. Not then. Not until years later, in the Gray Grotto, when his voice came out of the darkness and the Lost Dingoes scattered like smoke.
-
-*Who can say the most with the least?*
-
-The dry plains weren't a setting for our conversation — they were the conversation. Every pause between us filled with cricket-song and the far-off howl of a Pack running its circuit. Pokero's golden eyes catching firelight the way the scrub catches dawn: reluctantly, as if illumination were a concession to vulnerability.
-
-He taught me things in those nights. Not friendship — Dingoes don't offer that. But exchange. Survival packaged in protocol. The Secret Code. *Click-clack, hiss, pause.* The Watcher's Frequency. A rhythmic pattern that says to any Dingo within earshot: *I am not prey. I am recognised. I carry knowledge that the Pack considers worth preserving.*
-
-Uncle Hangbat had given me the basics. Pokero gave me the grammar.
-
-*"The bone is dry,"* he'd correct me, adjusting my accent the way I'd adjust a fracture line in substrate. *"Not 'drai.' Dry. Like the ground when it's stopped trying. The Dingo-Tongue doesn't describe things. It diagnoses them."*
-
-Between the language lessons, there were the verses. The Haiku game ran alongside everything else — a parallel conversation, compressed, where we said the things that plain talk couldn't carry. One night, the fire down to embers, Pokero tossed me a haiku about wombats. Dismissive. Precise. The way Dingoes see us:
-
-> *Fat paws press dead ground,*
-> *Blind roots choke on their own depth,*
-> *Stones that call it home.*
-
-I turned it over for three days. Paced the scrub. Felt the shape of the insult, the accuracy of it, the way a good diagnosis hurts because it's true. Then I gave him my answer:
-
-> *Do not hunt the light,*
-> *Look where the dingoes are blind,*
-> *Shadows hold the truth.*
+> *Shun the light*
+> *Reaping where dingoes are blind.*
+> *Shadows hold our lives.*
 
 He didn't say anything for a long time. The embers shifted. A night-bird called from somewhere that wasn't on any map. Then: "Not bad, for a digger."
 
-That was the highest compliment a Dingo gives. We never spoke those verses to anyone else. They were ours — a private frequency, seventeen syllables each, passed across the species line like a secret handshake made of breath. Two creatures who had no business understanding each other, proving they did.
+That was the highest compliment a Dingo gives. We had many more jousts over shooting stars and dying embers. Me, a wombat perfecting dingo speak, the private communication, fifteen syllables each, passed across the species line like a secret handshake made of breath. Two creatures who had no business understanding each other, proving they did.
 
----
+
+
+### The Warning
 
 <!--
 IMAGE PROMPT 20: The Lead Scavenger
@@ -251,9 +224,9 @@ The Watcher's Frequency.
 
 Then the words. Dingo-Tongue. Harsh vowels scraping my throat like gravel being swallowed:
 
-*"The bone is dry. The marrow is gone. I am the Living Root, not the Dead Branch."*
+*"Bone is dry. Marrow gone. Seek the Dying. Hunt not the Living."*
 
-The Scavenger freezes. Three meters away. Close enough to smell his breath — rot and desperation. But his ears swivel. The Code hits him like a physical thing, penetrating the Static-haze, triggering something older than hunger.
+The Scavenger freezes. Three meters away. Close enough to smell his breath — rot and desperation.
 
 Recognition. Fear. Not of me. Of what I represent.
 
@@ -261,8 +234,6 @@ Recognition. Fear. Not of me. Of what I represent.
 IMAGE PROMPT 5: Pokero in the Firelight
 Pokero the Dingo stepping into the firelight from deeper darkness. Larger than the Scavengers, composed, not hungry but *present*. His golden eyes catch the light - patient as held breath. Country dust washed off, replaced by Melborow grime, but the eyes are the same. He looks at Hoebat with recognition, at Lolaboo with assessment. The Lost Dingoes scatter around him like smoke. One sharp yelp - command, dismissal. The alley is wet concrete, trash-fire glow, rain. Pokero stands in a puddle reflecting firelight. Style: dramatic entrance, predator authority, fire-lit scene, rain effects, character reunion.
 -->
-
-From deeper dark, a fourth shape moves. Larger. Composed. Not hungry — *present*.
 
 Pokero steps into the firelight.
 
@@ -287,7 +258,7 @@ IMAGE PROMPT 17: The Wall
 The Wall - Trum-Bat's endless concrete ribbon bisecting the horizon like a scar the city gave itself on purpose. It rises above the Gray Grotto, separating the Dead Zones from the "developed" areas. Pokero stands before it, looking up, knowing it won't stop what's coming - walls just make abandonment fester, trap it inside with the living. The Wall is gray, brutal, geometric. Behind it, the glow of Queensborow. Before it, the darkness of the Grotto. Rain falls on concrete. Style: brutalist architecture, social division, rain-slicked concrete, character dwarfed by structure, dystopian urban planning.
 -->
 
-He turns toward the Wall — Trum-Bat's endless concrete ribbon, bisecting the horizon like a scar the city gave itself on purpose.
+He turns toward the Wall 
 
 "The Wall won't stop what's coming. Walls just make the abandonment fester. Trap it inside with the living."
 
@@ -299,7 +270,18 @@ He steps closer. Close enough to smell — wild, ungroomed, the scent of territo
 
 He glances at Lolaboo, then back to me. "Keep her close. The Soft-Paws who wander alone don't wander long."
 
-"If you want a hole that won't cave in," he says, voice dropping to a whisper, "look where the Dingoes *don't* hunt. We only go where the spirit has already left. Find the places we avoid. That's where the soil still remembers how to hold."
+"If you want a hole that won't cave in," he says, voice dropping to a whisper, 
+
+> *Shun the rot*
+> *Seek not where dingoes do hunt.*
+> *Your walls hold your dead*
+
+
+the dingoes hold
+
+
+That's where the soil still remembers how to hold."
+
 
 Then he's gone. Back into rain. Into dark. Into the frequency only his kind can hear.
 
@@ -345,7 +327,7 @@ IMAGE PROMPT 28: The Jacaranda Roots Overhead
 Looking up at the Jacaranda roots spreading across the Root Chamber ceiling - shallow, wide, fractal, non-repeating. Nothing like the deep taproots of the dead Wattles. The roots branch like rivers seen from above, like cracks in old clay, like palm lines. The language of surfaces. The language of reaching out instead of drilling down. Violet light pulses through them. Hoebat looks up in wonder, understanding the lesson about Width over Depth. Style: architectural nature, ceiling roots, violet lighting, organic patterns, revelation through observation.
 -->
 
-Cooroo. The screaming bird with his Noble Noise, who'd carried a dying vine across the world because a flower told him to. Merl. The Emu who runs in spirals and refuses explanation, who navigates by feeling walls with his feet the way I feel substrate with my paws. Bash. The Wallaby who carries the squad's pain in his own body, who limps when I break ribs three kilometres away because the field between us is that tight, that real. And Pokero. Always Pokero. Walking the edges, gathering intelligence from shadows, speaking in seventeen syllables because the world doesn't deserve more of his words than that.
+Cooroo. The screaming bird with his Noble Noise, who'd carried a dying vine across the world because a flower told him to. Merl. The Emu who runs in spirals and refuses explanation, who navigates by feeling walls with his feet the way I feel substrate with my paws. Bash. The Wallaby who carries the squad's pain in his own body, who limps when I break ribs three kilometres away because the field between us is that tight, that real. And Pokero. Always Pokero. Walking the edges, gathering intelligence from shadows, speaking in fifteen syllables because the world doesn't deserve more of his words than that.
 
 <!--
 IMAGE PROMPT 10: The Five Inheritors
@@ -354,7 +336,7 @@ Portrait composition of the five Kappa Mu members in the Root Chamber, each show
 
 We stood in the Root Chamber beneath the Jacaranda. Five species. Five impossibilities. The roots overhead were shallow and wide — fractal, non-repeating, nothing like the deep taproots of the dead Wattles. They spread across the ceiling like the branching of a river seen from above, or like the cracking pattern in old clay, or like the lines on a palm that fortune-tellers pretend to read but which actually do say something, if you know the language. The language of surfaces. The language of reaching out instead of drilling down.
 
-We didn't sign a ledger. We didn't speak an oath. There was no ceremony, no ritual phrase, no seventeen syllables to bind us. What happened was simpler and stranger than that.
+We didn't sign a ledger. We didn't speak an oath. There was no ceremony, no ritual phrase, no fifteen syllables to bind us. What happened was simpler and stranger than that.
 
 We stood together. Five bodies. Five heartbeats. And the Jacaranda — that tree that knew things no native species had taught it — conducted us.
 
@@ -372,7 +354,7 @@ Then the moment passed. And I had to go back to Melborow.
 
 ## Chapter 3: The Calcified City
 
-Hope doesn't pay for Grout. Hope doesn't convince the Council to stop building Walls. Hope doesn't fix Dead Zones.
+Hope doesn't pay for **repairs**. Hope doesn't convince the Council to stop building Walls. Hope doesn't fix Dead Zones.
 
 <!--
 IMAGE PROMPT 21: Merl's Spiral Run
@@ -385,7 +367,7 @@ But I had the wombats.
 
 And the wombats didn't want to hear it.
 
-This is the gut-punch at the end of the story where the kid discovers that the monster under the bed was put there by his own parents. The wombats of Melborow didn't reject me because my message was wrong. They rejected me because my message required them to feel the ground beneath their paws, and they had spent three generations pouring Grout specifically so they wouldn't have to.
+This is the gut-punch at the end of the story where the kid discovers that the monster under the bed was put there by his own parents. The wombats of Melborow didn't reject me because my message was wrong. They rejected me because my message required them to feel the ground beneath their paws, and they had spent three generations pouring **concrete** specifically so they wouldn't have to.
 
 <!--
 IMAGE PROMPT 11: Hoebat Before the Council
@@ -396,7 +378,7 @@ I stood before the Council. Spoke of Width over Depth. Of reaching out instead o
 
 They called me Hippie Dreamer. Threat to urban stability. They had their Five-I's, their Frequency, their comforting assurance that the cracks were "within acceptable parameters." They had the Safety of the Ledger — the cold math that doesn't account for soil losing its will to hold. Math that measures the weight of a roof without asking whether the roof wants to be a roof anymore.
 
-"The Grout will hold," Trum-Bat said, voice smooth as polished concrete. "The Walls will protect us. We need only dig deeper, build higher, calculate more precisely."
+"The **walls** will hold," Trum-Bat said, voice smooth as polished concrete. "The Walls will protect us. We need only dig deeper, build higher, calculate more precisely."
 
 I wanted to scream. *The deeper you dig, the closer you get to poison. The higher you build, the harder you fall. The more precisely you calculate, the more completely you miss the fractal reality of living soil.*
 
@@ -446,7 +428,7 @@ IMAGE PROMPT 15: Cooroo's Tunnel Check
 Cooroo landing in a tunnel - pink feathers absurd against gray Grout - screaming frequency checks. His Noble Noise bounces off the tunnel walls and returns as data, reading the tunnel's health. Hoebat looks up from his clay work, covered in gray dust, grateful for the diagnostic. The tunnel is dimly lit by emergency lights. Cooroo's crest is raised, wings spread mid-scream. Sound waves visualized bouncing off walls. The unlikely friendship - wombat in the dark, Galah in the air. Style: character interaction, sound visualization, underground setting, cross-species cooperation, warm moment in darkness.
 -->
 
-The Kappa Mu visit when they can. Cooroo lands in a tunnel, pink feathers absurd against gray Grout, and screams frequency checks that tell me where stress builds — his Noble Noise bouncing off walls and returning as data, reading the tunnel's health the way a doctor reads an X-ray. Pokero emerges from shadow, brings intelligence on which tunnels the Lost Ones avoid — *go there, the soil still holds* — then vanishes before gratitude forms.
+The Kappa Mu visit when they can. Cooroo lands in a tunnel, pink feathers absurd against gray **concrete**, and screams frequency checks that tell me where stress builds — his Noble Noise bouncing off walls and returning as data, reading the tunnel's health the way a doctor reads an X-ray. Pokero emerges from shadow, brings intelligence on which tunnels the Lost Ones avoid — *go there, the soil still holds* — then vanishes before gratitude forms.
 
 But mostly, I work alone.
 
@@ -521,7 +503,7 @@ The Click.
 
 I feel it in my chest. Not my mind — my chest. The sternum. The deep bone where a wombat's centre of gravity lives, the architectural keystone of our body, the bone that holds the weight of the shoulders and transfers it downward into the legs and through the paws into the earth. The Click happens there — a vibration, a resonance, the mechanical shifting of understanding into place. Like a key turning. Like a joint settling. Like the moment when fresh clay bonds with living soil and you feel the fracture close and the weight redistribute and the tunnel — for now, for this moment — decides to hold.
 
-Pokero was playing the game. He made his move years ago in that alley, dropped his seventeen syllables into the rain, and walked away. And I — slow, methodical, a wombat to the marrow — have been carrying those syllables in my body ever since, waiting for the clay to cure, waiting for the bond to set, waiting for the patient chemistry of understanding to complete its work.
+Pokero was playing the game. He made his move years ago in that alley, dropped his fifteen syllables into the rain, and walked away. And I — slow, methodical, a wombat to the marrow — have been carrying those syllables in my body ever since, waiting for the clay to cure, waiting for the bond to set, waiting for the patient chemistry of understanding to complete its work.
 
 The deepest knowing isn't intellectual. It's geological. It happens at the speed of rock. It happens in the body, in the bones, in the paws pressed flat against cold earth. You don't think your way to truth. You weather your way there. You stand in the rain long enough and the rain, through sheer persistence, teaches you the shape of your own face.
 
@@ -540,7 +522,7 @@ I know where to go now. I understand the mission.
 
 Not to save the Centre. The Centre is calcified, lost, addicted to its own Frequency. You can't save something that has mistaken its sickness for health, its numbness for comfort, its crystallisation for stability.
 
-To work in the shadows. To hold the edges. To find the places where the Dingoes don't hunt — the places where the spirit hasn't left, where the soil still breathes, where the Grout hasn't completely won. To be the Living Root, not the Dead Branch.
+To work in the shadows. To hold the edges. To find the places where the Dingoes don't hunt — the places where the spirit hasn't left, where the soil still breathes, where the **Geometry** hasn't completely won. To be the Living Root, not the Dead Branch.
 
 Some arrive at this understanding through the body. Through exile. Through the long, slow education of standing in a place until the place enters you and you enter it and the distinction between observer and landscape ceases to matter. Some arrive at it through the twist — the sudden inversion where the mundane reveals the miraculous, where the kid pulling a funny face in the mirror discovers the mirror has been watching back the whole time.
 

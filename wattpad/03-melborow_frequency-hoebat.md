@@ -66,11 +66,11 @@ We were the only two left in our assigned sector. The others had either found th
 
 The fire was down to embers. The jerky was gone. And Pokero—who'd been staring at the stars for an hour without speaking—suddenly said: "You know why Dingoes like Haikus?"
 
-"Because seventeen syllables is the exact length of your attention span?"
+"Because fifteen syllables is the exact length of your attention span?"
 
 He didn't bark-laugh. He just smiled, one side of his mouth curling up like a dry leaf catching fire. "We compress our ideas into compact rhythms," he said. "Vibes. We're all about vibes. And Haikus are like little crystal vibes that we jab at each other with."
 
-He turned to face me fully then, the firelight catching the scar above his eye—a souvenir from some dominance dispute he'd never told me about. "You want to learn the Code? Real Code? Then we play the battle game. I insult you in seventeen syllables. You insult me back. Whoever flinches first loses."
+He turned to face me fully then, the firelight catching the scar above his eye—a souvenir from some dominance dispute he'd never told me about. "You want to learn the Code? Real Code? Then we play the battle game. I insult you in fifteen syllables. You insult me back. Whoever flinches first loses."
 
 "Sounds like a great way to start a fight."
 
@@ -170,7 +170,7 @@ I turned it over for three days. Paced the scrub. Felt the shape of the insult, 
 
 He didn't say anything for a long time. The embers shifted. A night-bird called from somewhere that wasn't on any map. Then: "Not bad, for a digger."
 
-That was the highest compliment a Dingo gives. We never spoke those verses to anyone else. They were ours — a private frequency, seventeen syllables each, passed across the species line like a secret handshake made of breath. Two creatures who had no business understanding each other, proving they did.
+That was the highest compliment a Dingo gives. We never spoke those verses to anyone else. They were ours — a private frequency, fifteen syllables each, passed across the species line like a secret handshake made of breath. Two creatures who had no business understanding each other, proving they did.
 
 ---
 
@@ -260,11 +260,11 @@ I need to tell this part carefully, because it is the hinge on which everything 
 
 I found them. Or they found me. Or the Jacaranda — that impossible violet tree growing in soil it had no business growing in — drew us together the way a root draws water: not by force but by need, by the physics of thirst, by the simple fact that dry things move toward wet things if you give them long enough.
 
-Cooroo. The screaming bird with his Noble Noise, who'd carried a dying vine across the world because a flower told him to. Merl. The Emu who runs in spirals and refuses explanation, who navigates by feeling walls with his feet the way I feel substrate with my paws. Bash. The Wallaby who carries the squad's pain in his own body, who limps when I break ribs three kilometres away because the field between us is that tight, that real. And Pokero. Always Pokero. Walking the edges, gathering intelligence from shadows, speaking in seventeen syllables because the world doesn't deserve more of his words than that.
+Cooroo. The screaming bird with his Noble Noise, who'd carried a dying vine across the world because a flower told him to. Merl. The Emu who runs in spirals and refuses explanation, who navigates by feeling walls with his feet the way I feel substrate with my paws. Bash. The Wallaby who carries the squad's pain in his own body, who limps when I break ribs three kilometres away because the field between us is that tight, that real. And Pokero. Always Pokero. Walking the edges, gathering intelligence from shadows, speaking in fifteen syllables because the world doesn't deserve more of his words than that.
 
 We stood in the Root Chamber beneath the Jacaranda. Five species. Five impossibilities. The roots overhead were shallow and wide — fractal, non-repeating, nothing like the deep taproots of the dead Wattles. They spread across the ceiling like the branching of a river seen from above, or like the cracking pattern in old clay, or like the lines on a palm that fortune-tellers pretend to read but which actually do say something, if you know the language. The language of surfaces. The language of reaching out instead of drilling down.
 
-We didn't sign a ledger. We didn't speak an oath. There was no ceremony, no ritual phrase, no seventeen syllables to bind us. What happened was simpler and stranger than that.
+We didn't sign a ledger. We didn't speak an oath. There was no ceremony, no ritual phrase, no fifteen syllables to bind us. What happened was simpler and stranger than that.
 
 We stood together. Five bodies. Five heartbeats. And the Jacaranda — that tree that knew things no native species had taught it — conducted us.
 
@@ -386,7 +386,7 @@ The Click.
 
 I feel it in my chest. Not my mind — my chest. The sternum. The deep bone where a wombat's centre of gravity lives, the architectural keystone of our body, the bone that holds the weight of the shoulders and transfers it downward into the legs and through the paws into the earth. The Click happens there — a vibration, a resonance, the mechanical shifting of understanding into place. Like a key turning. Like a joint settling. Like the moment when fresh clay bonds with living soil and you feel the fracture close and the weight redistribute and the tunnel — for now, for this moment — decides to hold.
 
-Pokero was playing the game. He made his move years ago in that alley, dropped his seventeen syllables into the rain, and walked away. And I — slow, methodical, a wombat to the marrow — have been carrying those syllables in my body ever since, waiting for the clay to cure, waiting for the bond to set, waiting for the patient chemistry of understanding to complete its work.
+Pokero was playing the game. He made his move years ago in that alley, dropped his fifteen syllables into the rain, and walked away. And I — slow, methodical, a wombat to the marrow — have been carrying those syllables in my body ever since, waiting for the clay to cure, waiting for the bond to set, waiting for the patient chemistry of understanding to complete its work.
 
 The deepest knowing isn't intellectual. It's geological. It happens at the speed of rock. It happens in the body, in the bones, in the paws pressed flat against cold earth. You don't think your way to truth. You weather your way there. You stand in the rain long enough and the rain, through sheer persistence, teaches you the shape of your own face.
 

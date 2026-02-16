@@ -60,7 +60,7 @@ Close-up of Pokero and Hoebat facing each other across dying embers, engaged in 
 **Scene:** Private poetry exchange
 
 **Prompt:**
-Artistic representation of the two private haikus floating in the air between Pokero and Hoebat, visualized as glowing text or calligraphy. Pokero's verse about "fat paws press dead ground" in harsh, angular script. Hoebat's response about "look where the dingoes are blind" in more grounded, earthy lettering. The fire is embers now. The night is deep. The verses hang between them like a secret handshake made of breath - seventeen syllables each, passed across the species line. Style: typographic art, poetic visualization, intimate night scene, warm ember light, textual beauty.
+Artistic representation of the two private haikus floating in the air between Pokero and Hoebat, visualized as glowing text or calligraphy. Pokero's verse about "fat paws press dead ground" in harsh, angular script. Hoebat's response about "look where the dingoes are blind" in more grounded, earthy lettering. The fire is embers now. The night is deep. The verses hang between them like a secret handshake made of breath - fifteen syllables each, passed across the species line. Style: typographic art, poetic visualization, intimate night scene, warm ember light, textual beauty.
 
 ---
 
