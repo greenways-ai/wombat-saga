@@ -1,6 +1,6 @@
-# The Old Friends (The Fiveways Crew)
+#    (The Fiveways Crew)
 
-*The childhood companions of Hoebat, Scribat, and Rumbat. While Hoebat went underground, Rumbat went to the Council, and Scribat went to the server room, Duzbat and Flickbat chose the third path: they grew up, settled down, and tried to survive the "New Ways" by living inside them.*
+*The childhood companions of Hoebat, Scribat, and Rumbat. While Hoebat went underground, Rumbat went to the Council, and Scribat went to the server room, Duzbat and Flickboo chose the third path: they grew up, settled down, and tried to survive the "New Ways" by living inside them.*
 
 ---
 
@@ -22,12 +22,12 @@ Duzbat was once the unstoppable force of the outer ring, a wombat who dug becaus
 
 ---
 
-## 🕸️ Flickbat (The Stifled Ghost)
+## 🕸️ Flickboo (The Stifled Ghost)
 
 **"Don't look at the cracks, kids. Just paint over them."**
 
 ### I. The Archetype: The Caged Bird
-Flickbat was the ghost who could fit through any gap, the spirit of agility and freedom. Now, she lives in a world where **"Safety" means "Sealed."** There are no gaps in the Great Retaining Wall. There are no cracks in the Frequency. She represents the **Psychological Toll**—the anxiety of a creature designed for freedom trapped in a grid.
+Flickboo was the ghost who could fit through any gap, the spirit of agility and freedom. Now, she lives in a world where **"Safety" means "Sealed."** There are no gaps in the Great Retaining Wall. There are no cracks in the Frequency. She represents the **Psychological Toll**—the anxiety of a creature designed for freedom trapped in a grid.
 
 ### II. Current Status
 *   **Occupation:** Quality Control Inspector for "Mural Harmony." She ensures that the distraction-murals covering the cracks are straight.

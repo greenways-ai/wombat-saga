@@ -35,17 +35,19 @@ Die Saga der Wombat-Welten kann auf mehrere Arten gelesen werden:
 
 - Website: [wombat-saga.example.com](https://wombat-saga.example.com)
 - GitHub: [github.com/example/wombat-saga](https://github.com/example/wombat-saga)
-- E-Mail: oracle@wombat-saga.example.com
+- E-Mail: <oracle@wombat-saga.example.com>
 
 ## Lizenz
 
 Dieses Werk ist unter [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) lizenziert.
 
 Sie sind frei zu:
+
 - Teilen: Das Material zu kopieren und weiterzuverbreiten
 - Bearbeiten: Das Material zu remixen, zu verändern und darauf aufzubauen
 
 Unter den folgenden Bedingungen:
+
 - Namensnennung: Angemessene Anerkennung geben
 - Weitergabe unter gleichen Bedingungen: Beiträge unter derselben Lizenz verteilen
 

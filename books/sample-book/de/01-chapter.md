@@ -7,7 +7,7 @@ chapter: 1
 title: "Die Morgenröte"
 ---
 
-# Kapitel Eins: Die Morgenröte
+## Kapitel Eins: Die Morgenröte
 
 Die Tunnel von Melborow hatten den Morgen seit dreitausend Jahren nicht gesehen, aber die Wombats erinnerten sich.
 

@@ -7,7 +7,7 @@ chapter: 1
 title: "La Gloria de la Mañana"
 ---
 
-# Capítulo Uno: La Gloria de la Mañana
+## Capítulo Uno: La Gloria de la Mañana
 
 Los túneles de Melborow no habían visto la mañana en tres mil años, pero los wombats recordaban.
 

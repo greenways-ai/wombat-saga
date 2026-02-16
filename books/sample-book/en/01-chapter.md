@@ -7,7 +7,7 @@ chapter: 1
 title: "The Morning Glory"
 ---
 
-# Chapter One: The Morning Glory
+## Chapter One: The Morning Glory
 
 The tunnels of Melborow had not seen morning in three thousand years, but the wombats remembered.
 

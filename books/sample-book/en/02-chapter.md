@@ -7,7 +7,7 @@ chapter: 2
 title: "Cooroo's Journey"
 ---
 
-# Chapter Two: Cooroo's Journey
+## Chapter Two: Cooroo's Journey
 
 The western tunnels were forbidden.
 
@@ -39,6 +39,6 @@ A machine. Ancient, corroded, but unmistakably a machine.
 
 And inscribed on its side, barely visible through the corrosion, were words in a script that neither wombat could read but both somehow understood:
 
-*PROJECT ARNAM — EMERGENCY PROTOCOL 7*
+### PROJECT ARNAM — EMERGENCY PROTOCOL
 
 *To be continued...*

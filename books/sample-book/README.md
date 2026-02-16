@@ -4,7 +4,7 @@ This directory contains a complete scaffolding for publishing a book in multiple
 
 ## Directory Structure
 
-```
+```text
 books/sample-book/
 ├── config.yml              # Main configuration file
 ├── README.md               # This file
@@ -37,6 +37,7 @@ books/sample-book/
 ## Quick Start
 
 1. **Copy this scaffold** to create a new book:
+
    ```bash
    cp -r books/sample-book books/my-new-book
    ```
@@ -48,6 +49,7 @@ books/sample-book/
 4. **Add translations** in respective language directories
 
 5. **Tag a release** to trigger the publishing workflow:
+
    ```bash
    git tag book-my-new-book-v1.0.0
    git push origin book-my-new-book-v1.0.0
@@ -74,6 +76,7 @@ The `config.yml` file controls:
 ## Cover Images
 
 Place cover images in `assets/covers/`:
+
 - `cover-en.png` - English cover
 - `cover-es.png` - Spanish cover
 - `cover-en-print.png` - English print-ready cover (higher res)
@@ -103,6 +106,7 @@ The workflow `.github/workflows/publish-book-to-pages.yml` publishes an online b
 **Published URL**: `https://[username].github.io/wombat-saga/books/sample-book/`
 
 Features:
+
 - Beautiful web reader interface
 - Multi-language switching
 - Chapter navigation (arrow keys work!)
@@ -110,6 +114,7 @@ Features:
 - Dark mode support
 
 **To publish**:
+
 ```bash
 # Push to main (auto-deploys)
 git push origin main

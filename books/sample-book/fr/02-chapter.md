@@ -7,7 +7,7 @@ chapter: 2
 title: "Le Voyage de Cooroo"
 ---
 
-# Chapitre Deux : Le Voyage de Cooroo
+## Chapitre Deux : Le Voyage de Cooroo
 
 Les tunnels occidentaux étaient interdits.
 
@@ -39,6 +39,6 @@ Une machine. Ancienne, corrodée, mais incontestablement une machine.
 
 Et gravées sur son côté, à peine visibles à travers la corrosion, se trouvaient des mots dans une écriture qu'aucun wombat ne pouvait lire mais que tous deux comprenaient d'une certaine manière:
 
-*PROJET ARNAM — PROTOCOLE D'URGENCE 7*
+### PROJET ARNAM — PROTOCOLE D'URGENCE
 
 *À suivre...*

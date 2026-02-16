@@ -7,7 +7,7 @@ chapter: 2
 title: "Cooroos Reise"
 ---
 
-# Kapitel Zwei: Cooroos Reise
+## Kapitel Zwei: Cooroos Reise
 
 Die westlichen Tunnel waren verboten.
 
@@ -39,6 +39,6 @@ Eine Maschine. Alt, korrodiert, aber unverkennbar eine Maschine.
 
 Und eingraviert auf ihrer Seite, kaum sichtbar durch die Korrosion, waren Worte in einer Schrift, die kein Wombat lesen konnte, die beide aber irgendwie verstanden:
 
-*PROJEKT ARNAM — NOTFALLPROTOKOLL 7*
+### PROJEKT ARNAM — NOTFALLPROTOKOLL
 
 *Fortsetzung folgt...*

@@ -1,6 +1,7 @@
 ## Word Count Statistics
 
-### By Category
+### By Book
 
+- **sample-book**:     6748 words
 
-### Total:        0 words
+### Total:     7046 words

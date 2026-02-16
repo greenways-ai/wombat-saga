@@ -11,6 +11,6 @@ lang: en
 
 ---
 
-*First Edition*
+First Edition
 
-*Version 1.0.0*
+Version 1.0.0

@@ -4,7 +4,7 @@ This directory contains published books from the Wombat Worlds Saga, organized f
 
 ## Directory Structure
 
-```
+```text
 books/
 ├── README.md              # This file
 ├── sample-book/           # Example book with full scaffolding
@@ -23,6 +23,7 @@ books/
 ## Creating a New Book
 
 1. **Copy the sample scaffolding:**
+
    ```bash
    cp -r books/sample-book books/your-book-name
    ```
@@ -34,6 +35,7 @@ books/
 4. **Add translations** in respective language directories
 
 5. **Publish** by pushing a tag:
+
    ```bash
    git tag book-your-book-name-v1.0.0
    git push origin book-your-book-name-v1.0.0

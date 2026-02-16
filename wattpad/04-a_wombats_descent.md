@@ -54,7 +54,7 @@ He sat two rows ahead, a stocky, persuasive wombat with a nose that always seeme
 
 "Behind the gym," he whispered one morning, sliding a crude map across the desk. "There's tunnels. Unauthorised. No Grout. No permits. Just dirt."
 
-He wasn't alone. Duzbat was there — a quiet giant who could move rocks that machines struggled with, already looking tired even at twelve. And Flickbat — nervous, quick, always checking the exits, terrified of getting caught but terrified of missing out even more.
+He wasn't alone. Duzbat was there — a quiet giant who could move rocks that machines struggled with, already looking tired even at twelve. And Flickboo — nervous, quick, always checking the exits, terrified of getting caught but terrified of missing out even more.
 
 I looked at the map. It was drawn on the back of a Static-Logic worksheet, which felt appropriate.
 
@@ -84,13 +84,13 @@ Not a big one — Melborow gets micro-tremors weekly, the substrate adjusting to
 
 We noticed.
 
-We were in the unauthorised tunnels — Barnabat, me, Duzbat, Flickbat, and two others from Class 4-B. The tremor hit, and the ungrouted ceiling gave way.
+We were in the unauthorised tunnels — Barnabat, me, Duzbat, Flickboo, and two others from Class 4-B. The tremor hit, and the ungrouted ceiling gave way.
 
 Not everywhere. Not all at once. The collapse was surgical — a section of roof maybe four meters wide, where the substrate had been weakened by water seepage from the Academy's relief drains overhead. The drains the maintenance crew should have cleared.
 
 Clay fell. Dust exploded.
 
-Flickbat was fast — she was through the crack in the service wall before the first clod hit the floor. Duzbat was slower, but strong; he took a hit to the shoulder that would have crushed a smaller wombat, stumbled, and dragged himself out.
+Flickboo was fast — she was through the crack in the service wall before the first clod hit the floor. Duzbat was slower, but strong; he took a hit to the shoulder that would have crushed a smaller wombat, stumbled, and dragged himself out.
 
 The two from 4-B — I never knew their names properly, just that they liked to dig — were under the main fall. There was no sound. Just the sickening *thump* of wet earth closing a conversation forever.
 
@@ -148,9 +148,9 @@ The room tilted. I could feel the floor beneath my chair — the Grouted, sealed
 
 "Barnabat's statement says you blocked the exit," Sektorbat read from the file. "That in your panic, you collapsed the secondary support, sealing the tunnel and preventing the other two students from escaping. He claims he only survived because he managed to dig around you."
 
-"He's lying! I pulled him out! Ask Duzbat. Ask Flickbat."
+"He's lying! I pulled him out! Ask Duzbat. Ask Flickboo."
 
-"Duzbat and Flickbat have declined to comment," the Auditor said. "Which, under the circumstances, is the only intelligent structural decision they've made."
+"Duzbat and Flickboo have declined to comment," the Auditor said. "Which, under the circumstances, is the only intelligent structural decision they've made."
 
 I stared at the document. The signature. The betrayal.
 

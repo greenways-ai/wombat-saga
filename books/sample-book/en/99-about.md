@@ -31,23 +31,24 @@ The Wombat Worlds Saga can be read in multiple ways:
 3. **Chronological**: Follow the timeline of Arnamland (see `timeline/`)
 4. **Random**: Let the Oracle guide you
 
-## Connect
+If you find an error or want to suggest an improvement:
 
-- Website: [wombat-saga.example.com](https://wombat-saga.example.com)
-- GitHub: [github.com/example/wombat-saga](https://github.com/example/wombat-saga)
-- Email: oracle@wombat-saga.example.com
+- **Email**: <oracle@wombat-saga.example.com>
+- **GitHub**: Open an issue in the repository
 
 ## License
 
-This work is licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 You are free to:
-- Share: copy and redistribute the material
+
+- Share: copy and redistribute the material in any medium or format
 - Adapt: remix, transform, and build upon the material
 
 Under the following terms:
-- Attribution: Give appropriate credit
-- ShareAlike: Distribute contributions under the same license
+
+- Attribution: Give appropriate credit, provide a link to the license, and indicate if changes were made.
+- ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 ---
 

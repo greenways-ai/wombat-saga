@@ -3,7 +3,7 @@
 ## Overview
 
 | Language | Status | Progress | Reviewer | Last Updated |
-|----------|--------|----------|----------|--------------|
+| :--- | :--- | :--- | :--- | :--- |
 | English (en) | ✅ Published | 100% | Original | 2024-01-01 |
 | Spanish (es) | 📝 In Review | 100% | @translator-es | 2024-02-16 |
 | French (fr) | 📝 In Review | 100% | @translator-fr | 2024-02-16 |
@@ -12,6 +12,7 @@
 ## Detailed Progress
 
 ### English (en) - Source Language
+
 - [x] Frontmatter (cover, title, toc, dedication)
 - [x] Part One: The Burrow
   - [x] Chapter 1: The Morning Glory
@@ -22,6 +23,7 @@
 - [x] Backmatter (glossary, about)
 
 ### Spanish (es)
+
 - [x] Frontmatter (cover, title, dedication)
 - [x] Part One: The Burrow
   - [x] Chapter 1: The Morning Glory (La Gloria de la Mañana)
@@ -29,6 +31,7 @@
 - [x] Backmatter (glossary, about)
 
 ### French (fr)
+
 - [x] Frontmatter (cover, title, dedication)
 - [x] Part One: The Burrow
   - [x] Chapter 1: The Morning Glory (La Gloire du Matin)
@@ -36,6 +39,7 @@
 - [x] Backmatter (glossary, about)
 
 ### German (de)
+
 - [x] Frontmatter (cover, title, dedication)
 - [x] Part One: The Burrow
   - [x] Chapter 1: The Morning Glory (Die Morgenröte)
@@ -45,17 +49,22 @@
 ## Translation Guidelines
 
 ### Character Names
+
 Character names should remain consistent across all translations unless culturally adapted:
+
 - Hoebat → Hoebat (keep original)
 - Cooroo → Cooroo (keep original)
 - Lolaboo → Lolaboo (keep original)
 
 ### Place Names
+
 Place names generally kept in original form with translation in parentheses on first mention:
+
 - Melborow → Melborow (or adapted form if appropriate)
 - Arnamland → Arnamland
 
 ### Technical Terms
+
 Maintain a glossary of technical terms. See `glossary/sample-book-glossary.csv`.
 
 ## Review Process
