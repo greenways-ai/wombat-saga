@@ -1,0 +1,104 @@
+name: Publish Site
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'wombat-saga/**/*.md'
+      - '.github/workflows/publish-site.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build Static Site
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install mdBook
+        run: |
+          curl --proto '=https' --tlsv1.2 -sSf -y https://sh.rustup.rs | sh -s -- -y
+          source $HOME/.cargo/env
+          cargo install mdbook
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+      - name: Build navigation structure
+        run: |
+          mkdir -p site
+          
+          # Create index page
+          cat > site/index.md << 'EOF'
+          # The Wombat Worlds Saga
+          
+          **A Narrative Simulation of Arnamland**
+          
+          Welcome to the Wombat Worlds Saga — a story about Hoebat, a wombat architect
+          fighting to save his city from the Great Crystalisation.
+          
+          ## Start Reading
+          
+          - [Meta-Narrative](meta-narrative.md) — The themes and philosophy
+          - [Lore](lore.md) — The world of Arnamland
+          - [Story](storyline.md) — The narrative arc
+          - [Characters](characters.md) — The cast
+          
+          ## The Story
+          
+          In the underground city of Melborow, wombats have forgotten the Old Ways.
+          The Five Sovereigns rule with their Frequency, their Walls, their Ledger.
+          But in the shadows, Hoebat and the Kappa Mu squad work to hold the world together.
+          
+          > *"Are you servicing the land?"*
+          EOF
+          
+          # Copy main content files
+          cp wombat-saga/*.md site/ 2>/dev/null || true
+          
+          # Create subdirectories
+          for dir in stories lore characters locations songs plot groups constants; do
+            if [ -d "wombat-saga/$dir" ]; then
+              mkdir -p "site/$dir"
+              cp wombat-saga/$dir/*.md "site/$dir/" 2>/dev/null || true
+            fi
+          done
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Build with Jekyll (GitHub Pages default)
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./site
+          destination: ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    name: Deploy to GitHub Pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

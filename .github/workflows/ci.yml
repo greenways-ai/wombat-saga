@@ -1,0 +1,91 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'wombat-saga/**/*.md'
+      - '.github/workflows/**'
+  pull_request:
+    branches: [main, master]
+    paths:
+      - 'wombat-saga/**/*.md'
+
+jobs:
+  validate:
+    name: Validate Markdown
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install markdownlint
+        run: npm install -g markdownlint-cli
+
+      - name: Lint Markdown
+        run: |
+          markdownlint "wombat-saga/**/*.md" \
+            --ignore "wombat-saga/wattpad/**" \
+            --ignore "wombat-saga/drafts/**" \
+            --config .github/markdownlint.json || true
+
+  links:
+    name: Check Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check internal links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: |
+            --base .
+            --exclude-path wombat-saga/wattpad/
+            --exclude-path wombat-saga/drafts/
+            --exclude-path wombat-saga/exploratory/
+            --exclude-all-private
+            --timeout 30
+            wombat-saga/**/*.md
+          fail: false
+
+  stats:
+    name: Generate Stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Count words
+        run: |
+          echo "## Word Count Statistics" > stats.txt
+          echo "" >> stats.txt
+          
+          # Count by directory
+          echo "### By Category" >> stats.txt
+          echo "" >> stats.txt
+          
+          for dir in stories lore characters locations songs plot; do
+            if [ -d "wombat-saga/$dir" ]; then
+              count=$(find "wombat-saga/$dir" -name "*.md" -exec cat {} \; | wc -w)
+              echo "- **$dir**: $count words" >> stats.txt
+            fi
+          done
+          
+          # Total
+          total=$(find wombat-saga -name "*.md" -not -path "*/drafts/*" -not -path "*/wattpad/*" -exec cat {} \; | wc -w)
+          echo "" >> stats.txt
+          echo "### Total: $total words" >> stats.txt
+          
+          cat stats.txt
+
+      - name: Upload stats
+        uses: actions/upload-artifact@v4
+        with:
+          name: word-count-stats
+          path: stats.txt

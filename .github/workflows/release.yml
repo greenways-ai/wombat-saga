@@ -1,0 +1,106 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-ebooks:
+    name: Build E-Books
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
+
+      - name: Build EPUB
+        run: |
+          # Create ordered list of files for the book
+          cat > book-order.txt << 'EOF'
+          wombat-saga/meta_narrative.md
+          wombat-saga/lore.md
+          wombat-saga/storyline.md
+          wombat-saga/characters.md
+          wombat-saga/locations.md
+          EOF
+          
+          # Add stories in order
+          for story in wombat-saga/stories/the_morning_glory.md \
+                      wombat-saga/stories/the_kappa_mu_assembly.md \
+                      wombat-saga/stories/the_council_fractures.md \
+                      wombat-saga/stories/the_wall_goes_up.md \
+                      wombat-saga/stories/the_freeze_room_audit.md; do
+            if [ -f "$story" ]; then
+              echo "$story" >> book-order.txt
+            fi
+          done
+          
+          # Build EPUB
+          pandoc \
+            --from markdown \
+            --to epub \
+            --output wombat-saga.epub \
+            --metadata title="The Wombat Worlds Saga" \
+            --metadata author="The Oracle" \
+            --metadata lang="en" \
+            --toc \
+            --toc-depth=2 \
+            $(cat book-order.txt | tr '\n' ' ')
+
+      - name: Build PDF
+        run: |
+          pandoc \
+            --from markdown \
+            --to pdf \
+            --output wombat-saga.pdf \
+            --metadata title="The Wombat Worlds Saga" \
+            --metadata author="The Oracle" \
+            --metadata lang="en" \
+            --toc \
+            --toc-depth=2 \
+            --pdf-engine=xelatex \
+            -V geometry:margin=1in \
+            -V documentclass=report \
+            $(cat book-order.txt | tr '\n' ' ')
+        continue-on-error: true
+
+      - name: Build Wattpad Compilation
+        run: |
+          # Combine Wattpad chapters
+          if [ -d "wombat-saga/wattpad" ]; then
+            cat wombat-saga/wattpad/*.md > wombat-saga-wattpad.txt
+            
+            pandoc \
+              --from markdown \
+              --to plain \
+              --output wombat-saga-wattpad.txt \
+              wombat-saga/wattpad/*.md
+          fi
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ebooks
+          path: |
+            wombat-saga.epub
+            wombat-saga.pdf
+            wombat-saga-wattpad.txt
+
+      - name: Create Release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            wombat-saga.epub
+            wombat-saga.pdf
+            wombat-saga-wattpad.txt
+          generate_release_notes: true
