@@ -122,8 +122,7 @@ jobs:
             texlive-xetex \
             texlive-fonts-recommended \
             texlive-lang-all \
-            fonts-dejavu \
-            yq
+            fonts-dejavu
 
       - name: Build EPUB
         if: matrix.format == 'epub'
