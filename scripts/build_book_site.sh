@@ -73,7 +73,7 @@ for LANG in $LANGUAGES; do
         FIRST=true
         for FILE in $CHAPTER_FILES; do
             BASENAME=$(basename "$FILE" .md)
-            CHAPTER_TITLE=$(grep -m1 "^title:" "$FILE" 2>/dev/null | sed 's/title: *//' | sed 's/["'"]//g' | xargs || echo "$BASENAME")
+            CHAPTER_TITLE=$(grep -m1 "^title:" "$FILE" 2>/dev/null | sed 's/title: *//' | sed 's/["'"'"']//g' | xargs || echo "$BASENAME")
             
             if [ "$FIRST" = true ]; then
                 FIRST=false

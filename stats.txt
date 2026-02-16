@@ -3,5 +3,6 @@
 ### By Book
 
 - **sample-book**:     6748 words
+- **the-jacaranda-prophecy**:     2350 words
 
-### Total:     7046 words
+### Total:     9396 words

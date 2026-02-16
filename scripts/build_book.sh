@@ -74,7 +74,7 @@ for LANG in $LANGUAGES; do
     
     # Gather files
     # We use yq to get the file list in order from the structure
-    FILES=$(yq e '.structure[] | .chapters[] | select(.type != "cover") | .file' "$CONFIG_FILE")
+    FILES=$(yq e '.structure[] | .chapters[] | select(.type != "cover" and .type != "toc") | .file' "$CONFIG_FILE")
     
     # Copy files to build dir
     for file in $FILES; do

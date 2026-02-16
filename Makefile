@@ -1,4 +1,4 @@
-BOOK_ID ?= sample-book
+BOOK_ID ?= the-jacaranda-prophecy
 LANGS ?= all
 FORMATS ?= epub,pdf,html
 OS_NAME := $(shell uname -s)
@@ -21,7 +21,7 @@ install:
 	@echo "Installing dependencies for $(OS_NAME)..."
 	@if [ "$(OS_NAME)" = "Darwin" ]; then \
 		if command -v brew >/dev/null 2>&1; then \
-			brew install pandoc yq node; \
+			brew install pandoc yq node basictex; \
 			npm install -g markdownlint-cli; \
 		else \
 			echo "Homebrew not found. Please install Homebrew or manually install: pandoc, yq, node, markdownlint-cli"; \
