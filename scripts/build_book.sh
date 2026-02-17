@@ -41,7 +41,7 @@ fi
 
 # Resolve Languages
 if [ "$LANGUAGES" = "all" ]; then
-    LANGUAGES=$(yq e '.languages | keys | .[]' "$CONFIG_FILE")
+    LANGUAGES=$(yq -r '.languages | keys | .[]' "$CONFIG_FILE")
 else
     # Replace commas with spaces
     LANGUAGES=${LANGUAGES//,/ }
@@ -49,7 +49,7 @@ fi
 
 # Resolve Formats
 if [ "$FORMATS" = "all" ]; then
-    FORMATS=$(yq e '.outputs | to_entries | map(select(.value.enabled == true)) | .[].key | .[]' "$CONFIG_FILE")
+    FORMATS=$(yq -r '.outputs | to_entries | map(select(.value.enabled == true)) | .[].key' "$CONFIG_FILE")
 else
     FORMATS=${FORMATS//,/ }
 fi
@@ -74,7 +74,7 @@ for LANG in $LANGUAGES; do
     
     # Gather files
     # We use yq to get the file list in order from the structure
-    FILES=$(yq e '.structure[] | .chapters[] | select(.type != "cover" and .type != "toc") | .file' "$CONFIG_FILE")
+    FILES=$(yq -r '.structure[] | .chapters[] | select(.type != "cover" and .type != "toc") | .file' "$CONFIG_FILE")
     
     # Copy files to build dir
     for file in $FILES; do
@@ -86,8 +86,8 @@ for LANG in $LANGUAGES; do
         fi
     done
     
-    TITLE=$(yq e ".book.title.$LANG" "$CONFIG_FILE")
-    AUTHOR=$(yq e ".book.author" "$CONFIG_FILE")
+    TITLE=$(yq -r ".book.title.$LANG" "$CONFIG_FILE")
+    AUTHOR=$(yq -r ".book.author" "$CONFIG_FILE")
     
     # Build Formats
     for FMT in $FORMATS; do
