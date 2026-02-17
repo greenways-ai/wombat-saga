@@ -238,7 +238,7 @@ done
 cat >> "$SITE_DIR/index.html" << EOF
       </div>
     </div>
-    <a href="../" class="back-link">All Books</a>
+    <a href="../../" class="back-link">All Books</a>
   </div>
 </body>
 </html>

@@ -4,6 +4,9 @@ set -e
 SITE_ROOT="_site"
 mkdir -p "$SITE_ROOT"
 
+# Ensure GitHub Pages processes all files (bypassing Jekyll)
+touch "$SITE_ROOT/.nojekyll"
+
 echo "Building All Books..."
 
 # Start creating the index.html content
