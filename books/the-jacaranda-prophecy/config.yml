@@ -5,6 +5,7 @@ book:
   id: the-jacaranda-prophecy
   title:
     en: "The Jacaranda Prophecy"
+    zh: "蓝花楹预言"
   author: "The Oracle"
   version: "1.0.0"
   default_language: en
@@ -17,6 +18,12 @@ languages:
     rtl: false
     review_status: published
     translator: null  # Original author
+  zh:
+    name: 中文
+    locale: zh-CN
+    rtl: false
+    review_status: in_review
+    translator: "Translation Team ZH"
 
 # Book structure - chapters in order
 structure:
@@ -41,23 +48,28 @@ structure:
     type: part
     title:
       en: "Part One: The Burrow"
+      zh: "第一部：洞穴"
     chapters:
       - id: chapter01
         file: 01-chapter.md
         title:
           en: "The Morning Glory"
+          zh: "晨曦之花"
       - id: chapter02
         file: 02-chapter.md
         title:
           en: "Cooroo's Journey"
+          zh: "库鲁的旅程"
       - id: chapter03
         file: 03-chapter.md
         title:
           en: "The Melborow Frequency"
+          zh: "梅尔博罗频率"
       - id: chapter04
         file: 04-chapter.md
         title:
           en: "A Wombat's Descent"
+          zh: "一只袋熊的坠落"
   
   - id: backmatter
     type: backmatter
@@ -120,6 +132,7 @@ publishing:
   release_languages:
     - en
     - es
+    - zh
   
   # CDN or storage settings (optional)
   cdn:
