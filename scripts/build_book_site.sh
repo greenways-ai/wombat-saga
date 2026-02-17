@@ -73,14 +73,31 @@ for LANG in $LANGUAGES; do
         FIRST=true
         for FILE in $CHAPTER_FILES; do
             BASENAME=$(basename "$FILE" .md)
-            CHAPTER_TITLE=$(grep -m1 "^title:" "$FILE" 2>/dev/null | sed 's/title: *//' | sed 's/["'"'"']//g' | xargs || echo "$BASENAME")
+
+            # Try to extract title from frontmatter
+            # Remove title:, remove surrounding quotes, trim whitespace
+            CHAPTER_TITLE=$(grep -m1 "^title:" "$FILE" 2>/dev/null | sed 's/^title:[[:space:]]*//' | sed "s/^[\"']//;s/[\"']$//" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+
+            # If empty, try to extract first markdown header
+            if [ -z "$CHAPTER_TITLE" ]; then
+                # Remove header marker, trim whitespace
+                CHAPTER_TITLE=$(grep -m1 -E "^#{1,6} " "$FILE" 2>/dev/null | sed -E 's/^#{1,6}[[:space:]]*//' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+            fi
+
+            # If still empty, use basename
+            if [ -z "$CHAPTER_TITLE" ]; then
+                CHAPTER_TITLE="$BASENAME"
+            fi
+
+            # Escape double quotes for JSON
+            CHAPTER_TITLE_JSON=$(echo "$CHAPTER_TITLE" | sed 's/"/\\"/g')
             
             if [ "$FIRST" = true ]; then
                 FIRST=false
             else
                 echo ","
             fi
-            echo -n '    {"file": "'$BASENAME'.html", "title": "'$CHAPTER_TITLE'"}'
+            echo -n "    {\"file\": \"$BASENAME.html\", \"title\": \"$CHAPTER_TITLE_JSON\"}"
             
             # Convert to HTML
             pandoc \
