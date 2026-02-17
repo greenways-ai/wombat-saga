@@ -23,7 +23,7 @@ Here is why Kintsugi is central to the Wombat identity and survival:
 ### 4. A Return to "Noble Intent"
 
 * The "Way of the Wombat" rejects the "transactionalization" of relationships pushed by **Vitabat** (Investment).
-* Kintsugi-Mahatahto replaces "Root-Loans" and debt-cycles with the "Gold" of shared survival and collective responsibility.
+* Kintsugi-Mahatahto replaces **Tally-Advances** and **Tally-Debt cycles** with the "Gold" of shared survival and collective responsibility.
 * It is the practical application of the **Kappa Mu Oath**: "To protect the Field when the Individual fails".
 
 In the **Atha-Maha-Sutra**, this is summarized as the highest law: "Broken vessels are joined with gold... the wholeness is not as it was before, but something greater/transcendent".

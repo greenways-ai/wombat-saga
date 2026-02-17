@@ -8,7 +8,7 @@ The schism between **Trumbaram** (Trumbat) and **Howlbaram** (Hangbat) was not s
 
 ## The Wombiki and the Wombarams
 Melborow was governed by two halves of the same heart:
-1.  **The Wombarams:** The priestly administration and architects (led by Trumbaram). They managed the ledgers, the Grout, and the safety codes.
+1.  **The Wombarams:** The priestly administration and architects (led by Trumbaram). They managed the **Tallies**, the Grout, and the safety codes.
 2.  **The Wombiki:** The ancient order of dancers. They performed the **Spiral-Step**—a rhythmic packing of the soil that maintained the organic integrity of the burrows.
 
 ## The Justification: "Stopping the Crystallization"
@@ -19,7 +19,7 @@ They told the public that the only way to "bond" the Grout against the crystalli
 ## The Discovery: The Efficacy Gap
 As the High Priest of Rites, **Howlbaram** (Hangbat) was tasked with the spiritual oversight of these events. But when he looked for the results, he found a void.
 
-1.  **No Documentation:** There were no ledgers tracking the "Stabilization Rates." No scientific evidence that a sacrificed dancer actually slowed the lattice spread.
+1.  **No Documentation:** There were no **Tallies** tracking the "Stabilization Rates." No scientific evidence that a sacrificed dancer actually slowed the lattice spread.
 2.  **The "Hope" Metric:** When he confronted Trumbaram, the response was chillingly pragmatic. Trumbat didn't claim the sacrifices worked; he claimed they were **Necessary for Morale**.
     > *"A wombat who believes their neighbor died to save them will work ten hours longer without complaining about the cracks. We aren't selling safety, Howlbaram. We are selling Hope. And Hope requires a price."*
 3.  **The Routine:** What Howlbaram thought was a rare, tragic necessity was actually a routine industrial process. Wombiki dancers were being "retired" into the concrete foundations of every new sector, regardless of the soil's actual health.

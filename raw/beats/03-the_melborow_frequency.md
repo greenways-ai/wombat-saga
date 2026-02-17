@@ -21,7 +21,7 @@ In the dark, they are hunted by **Lost Dingoes** (Scavengers who have fallen out
 Hoebat recalls the formation of the **Kappa Mu**.
 *   **The Location:** Beneath the **Jacaranda**. Shallow roots, not deep taproots.
 *   **The Squad:** **Cooroo** (Galah), **Merl** (Emu), **Bash** (Wallaby), **Pokero** (Dingo), and **Hoebat** (Wombat).
-*   **The Bond:** No oath, no ledger. Just five bodies vibrating at the same frequency, conducted by the tree. For a moment, Hoebat felt "Safe" — the dissolution of the boundary between self and world.
+*   **The Bond:** No oath, no **Tally**. Just five bodies vibrating at the same frequency, conducted by the tree. For a moment, Hoebat felt "Safe" — the dissolution of the boundary between self and world.
 
 ## IV. The Exile
 Hoebat tries to warn the Council about the "Structural Rigidity" and the dying soil.

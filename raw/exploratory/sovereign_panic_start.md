@@ -11,7 +11,7 @@ The more rigid the system (The Static), the more vulnerable it is to a single po
 **The Subjects: The Five-I's Inner Circle**
 *   **Trumbat (Priest):** Denial. "It's fake news."
 *   **Vitabat (Enforcer):** Aggression. "Kill it."
-*   **Zuckbat (Ledger):** Analysis. "The math says it's already too late."
+*   **Zuckbat (The Tally):** Analysis. "The math says it's already too late."
 
 ---
 
@@ -23,7 +23,7 @@ The more rigid the system (The Static), the more vulnerable it is to a single po
 
 ### Chapter 1: 0.01%
 
-The room was silent, except for the hum of the servers cooling the **Ledger**.
+The room was silent, except for the hum of the servers managing the **Tally**.
 
 Zuckbat sat at the head of the table. He didn't look like a Wombat anymore; he looked like a hoodie filled with shadows. He slid a single sheet of digital paper across the obsidian table. The table surface was so perfectly polished it reflected the ceiling, the floor, and the emptiness of the souls sitting around it.
 
@@ -65,13 +65,13 @@ He paused, looking at his two co-conspirators.
 
 "This one does," Zuckbat said. "The algorithm decoded the vibration pattern. The root is asking: *Are you servicing the land?*"
 
-Vitabat turned from the window. His face was a mask of cold, corporate violence.
+Vitabat turned from the window. His face was a mask of cold, Imperial violence.
 
 "Authorize **Protocol Grey**," Vitabat said.
 
 "That will collapse Sector 7," Zuckbat warned. "Thousands of Diggers will be crushed. The loss of labor capital would be... statistically significant."
 
-"They are assets," Vitabat said. "Assets depreciate. But if that root connects to the Aquifer... if the water starts flowing again... we lose the Ledger. We lose the Debt. We lose everything."
+"They are assets," Vitabat said. "Assets depreciate. But if that root connects to the Aquifer... if the water starts flowing again... we lose the **Tally**. We lose the **Tally-Debt**. We lose everything."
 
 He looked at the hologram of the purple line.
 

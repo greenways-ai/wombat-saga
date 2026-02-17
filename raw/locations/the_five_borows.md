@@ -36,13 +36,13 @@ Melborow is not a single hole; it is a sprawling subterranean megalopolis divide
 
 *   **Sovereign:** **Vitabat** (The Auditor/Enforcer).
 *   **Landscape:** Rough, unpolished sandstone and deep, reinforced bunkers. The tunnels here are built for defense and durability—thick buttresses at the springline, crowned arches that flex under pressure rather than shattering. The Dingo Packs know how to read a tunnel's stress fractures.
-*   **Function:** The Vaults. This is where the **Liquid Ledger** servers are kept. It is the center of debt-collection and physical enforcement.
+*   **Function:** The Vaults. This is where the **Tally** servers are kept. It is the center of debt-collection and physical enforcement.
 *   **Vibe:** Gritty, dangerous, and honest. This is **Pokero's** primary stomping ground—the place where the Dingo gangs and the Wombat laborers share a mutual, violent understanding of the world.
 
 ## 5. Statborow (The Reach)
 *The Staten Island of Arnamland*
 
-*   **Sovereign:** **Zuckbat** (The Ledger/Omniscience).
+*   **Sovereign:** **Zuckbat** (The Magistrate of the Tally/Omniscience).
 *   **Landscape:** Isolated from the main city by the **Shattered Gorge** (The Narrows). It is a suburban, sprawling landscape of "Managed Memory" centers.
 *   **Function:** The Archive and Waste Processing. It is the "Forgotten Borow" where the Council puts the things it doesn't want to see—including the **Closing Node**.
 *   **Vibe:** Quiet, eerie, and heavily surveilled. The "Old Ways" linger here in the shadows because the Sovereigns rarely visit.

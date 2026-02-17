@@ -75,7 +75,7 @@ The finest type of **Calcified Decay** you'll see.
 **[Verse 4: Tatebat (The Pimp/Marketer)]**
 *(Style: Manic, visionary, grandiose)*
 **Listen!** I'm designing the dream! The aesthetic is pure!
-I took the debt and I turned it into **High-Art Couture**!
+I took the **Tally** and I turned it into **High-Art Couture**!
 It's funny, you looking at the numbers like they real
 I'm looking at the **Vibe**, I'm looking at the **Feel**!
 I had two rivals overthrown just to clear the **View**
@@ -102,7 +102,7 @@ My street scramblers chop it and bag it.
 
 ---
 
-**[Verse 6: Zuckbat (The Ledger/Surveillance)]**
+**[Verse 6: Zuckbat (The Magistrate of the Tally/Surveillance)]**
 *(Style: Cold, observant, threatening)*
 Taking pictures and tapping stones
 Debating snitches and cracking codes

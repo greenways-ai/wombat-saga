@@ -24,7 +24,7 @@ Trumbat paved the garden with a heavy stone
 He said, "Stay inside, you'll never be alone."
 Muskbat filled the silence with a buzzing sound
 So you couldn't hear the heartbeat of the ground.
-Vitabat is collecting every single debt
+Vitabat is collecting every **Tally-Debt**
 Telling you that freedom is something you gotta get.
 Tatebat is pointing at the ceiling made of gold
 But he never looks down at the story being told.
@@ -54,7 +54,7 @@ We don’t need a pedigree to hold the earth
 We just need the labor to prove our worth.
 Belonging isn't heritage, belonging is a verb
 It's the paw in the clay, it's the peace in the curb.
-So let the Wall crumble, let the Ledger burn
+So let the Wall crumble, let the **Tally** burn
 Let the seasons of the fire and the rain return.
 You are not a tenant, you are not a slave
 You are the water that the thirsty roots crave.

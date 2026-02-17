@@ -12,7 +12,7 @@
 
 ### Beat 2: The Oath of the Kappa Mu
 *   **The Parallel Memory:** Hoebat’s mind jumps to the moment of the **Kappa Mu Assembly**. He sees the five of them—Wombat, Dingo, Wallaby, Emu, Galah—standing in the Root Chamber.
-*   **The Swearing In:** They didn't sign a ledger. They spoke a poem. They swore their loyalty to the **Master Haiku**:
+*   **The Swearing In:** They didn't notch a **Tally**. They spoke a poem. They swore their loyalty to the **Master Haiku**:
     > *Do not hunt the light,*
     > *Look where the dingoes are blind,*
     > *Shadows hold the truth.*

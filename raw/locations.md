@@ -14,7 +14,7 @@ The "top" of the heart, closest to the Star.
 *   **Melborow (Osto Tumba):** The central wombat metropolis, located underground beneath the Ridge.
     *   **The Cathedral:** The elite district (High-Noses).
     *   **The Gray Grotto:** The working-class district (Lo Snouts) in Brookborow. A warren of unlined tunnels with sagging crowns and weeping walls, currently being crushed between the Great Retaining Wall and the human skyscraper foundation above. The Council calls it "perimeter redistribution." The Lo Snouts call it drowning.
-    *   **The Freeze Room:** Sub-Level 4, below grade. The server farm for the Liquid Ledger, housed in a climate-controlled vault with a dish-shaped invert to channel condensation.
+    *   **The Freeze Room:** Sub-Level 4, below grade. The server farm for the **Tally**, housed in a climate-controlled vault with a dish-shaped invert to channel condensation.
 *   **The Windbreak Cliffs:** Red sandstone cliffs, former Galah roosts.
 *   **The Rosella Heights:** Abandoned rock outcrops, once the parliament of the Rosellas.
 

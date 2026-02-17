@@ -38,5 +38,5 @@
 *   **The Mission:** The squad was tasked by the Great Jacaranda to return to their respective societies and spread the **Mahatahto**—the message of "Width over Depth" and the "Rule of the New."
 *   **The Effort:** While the others have found varying success in their domains (Cooroo in the high perches, Pokero in the Static-Unit), **Hoebat** has failed to move the Wombat mainstream.
 *   **The Barrier:** Melborow is too "calcified." The Wombat society is addicted to the **Vertical Doctrine** and the perceived safety of **Safety Grout**. 
-*   **The Rejection:** When Hoebat tried to "speak the truth" to the Council and the Lo-Snout workers, he was mocked as a "Hippie Dreamer" and a threat to urban stability. They chose the "Safety of the Ledger" over the "Chaos of the Root."
+*   **The Rejection:** When Hoebat tried to "speak the truth" to the Council and the Lo-Snout workers, he was mocked as a "Hippie Dreamer" and a threat to urban stability. They chose the "Safety of the **Tally**" over the "Chaos of the Root."
 *   **The Isolation:** Because his message was rejected, Hoebat is forced back into the shadows. He continues his work in the dark, repairing the world in secret because the world won't let him save it in the light. He is the most isolated member of the squad, burdened by the weight of a roof that refuses to admit it's falling.

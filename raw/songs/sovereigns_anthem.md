@@ -68,12 +68,12 @@ We are the Enforcers who are here to collect what the Council has sold.
 We got the white suit clean, and the metal arm heavy,
 We are breaking the legs of the ones who ain't ready.
 Your labor is holy, don't ever forget,
-We are the literal physical weight of the debt!
+We are the literal physical weight of the **Tally-Debt**!
 Don't talk to us 'bout mercy, we are here to ascend,
 We are the soul of the reservoir, on whom you depend.
 Foreclosure.
 
-[Verse 4: Muskbat (The Tech - Eminem Flow)]
+[Verse 4: Muskbat (The Technocrat - Eminem Flow)]
 (Rapid-fire technical delivery, hyper-complex internal rhymes, twitchy)
 We are maniacs, brainiacs, coding the static, the frequency’s magic,
 We are patching the logic, it’s tragic, the Static is a bio-hazard!
@@ -89,13 +89,13 @@ We are hyper-accelerated, the ones who leave you in awe.
 System error? No, it’s intentional!
 We are four-dimensional!
 
-[Verse 5: Zuckbat (The Ledger - Immortal Technique Flow)]
+[Verse 5: Zuckbat (The Magistrate of the Tally - Immortal Technique Flow)]
 (Forensic, aggressive, multi-syllabic, cold truth-telling)
 We track the Arnam through the grit, every digital bit,
 The systemic corruption where the Sovereigns sit!
 We are the silent surveillance, the architects of the gaze,
 Mapping every movement through the subterranean maze!
-You think you’re free in the cage? You’re just a number on the page,
+You think you’re free in the cage? You’re just a number on the stone,
 We are the omnipresent witnesses to the dawn of the age!
 We synthesized the spirit from the Static and the stone,
 Watching over the harvest so you're never alone!

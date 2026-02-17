@@ -12,7 +12,7 @@ Merl kept his neck folded — chin tucked to chest, spine curved into a question
 
 He did not complain. Complaining was a luxury species. Merl was an operative.
 
-The service corridor ran parallel to the main conduit that connected the Cathedral's upper chambers to Sub-Level 4 — the Freeze Room, where **[[../../characters/antagonists#Zuckbat (The Ledger)|Zuckbat]]** kept his servers and his secrets at temperatures designed to prevent both from overheating. Merl had mapped this corridor three nights ago by pressing his foot against the wall and feeling the vibrations of the server fans through the clay. The **[[../../lore#The Threads (The Sutras)|Ninth Thread]]** — Systems Logic — did not require sight. It required patience, and a body that could read a building the way a seismograph reads the earth.
+The service corridor ran parallel to the main conduit that connected the Cathedral's upper chambers to Sub-Level 4 — the Freeze Room, where **[[../../characters/antagonists#Zuckbat (The Magistrate of the Tally)|Zuckbat]]** kept his servers and his secrets at temperatures designed to prevent both from overheating. Merl had mapped this corridor three nights ago by pressing his foot against the wall and feeling the vibrations of the server fans through the clay. The **[[../../lore#The Threads (The Sutras)|Ninth Thread]]** — Systems Logic — did not require sight. It required patience, and a body that could read a building the way a seismograph reads the earth.
 
 His feet were his instruments. Each step sent a pulse into the floor and received a return — a tiny echo that told him the density of the clay ahead, the presence of voids, the proximity of water pipes or data-roots. The left foot measured. The right foot confirmed. Together, they built a three-dimensional map of the tunnel system that existed only in the architecture of his legs.
 
@@ -26,11 +26,11 @@ His mob was small. Twelve adults, five juveniles, a roaming territory that cover
 
 The trouble started with the Water Rights.
 
-**[[../../characters/antagonists#Trumbat (The Priest)|Trumbat]]** — or rather, Trumbat's bureaucrats, the faceless clerks who transformed rhetoric into regulation — had declared that the water holes along the Southern Corridor were "Strategic Infrastructure Assets" requiring "Sovereign Access Permits." The permits cost Root-Credits that emus did not have, because emus did not participate in Vitabat's debt economy. They drank when they were thirsty. They moved when the water moved. The concept of *owning* water was as alien to them as the concept of standing still.
+**[[../../characters/antagonists#Trumbat (The Grand Architect)|Trumbat]]** — or rather, Trumbat's bureaucrats, the faceless clerks who transformed rhetoric into regulation — had declared that the water holes along the Southern Corridor were "Strategic Infrastructure Assets" requiring "Sovereign Access Permits." The permits cost Tally-credits that emus did not have, because emus did not participate in Vitabat's **Tally-Debt** economy. They drank when they were thirsty. They moved when the water moved. The concept of *owning* water was as alien to them as the concept of standing still.
 
 The mob ignored the permits. They drank anyway.
 
-The Enforcement came at dawn. Not soldiers — Vitabat's enforcement crew were still being drilled in the Cathedral at that point — but surveyors. Wombats with measuring sticks and ledger-tablets who staked claims around the water holes and posted signs in a language emus couldn't read, written in a script designed for paws, not feet.
+The Enforcement came at dawn. Not soldiers — Vitabat's enforcement crew were still being drilled in the Cathedral at that point — but surveyors. Wombats with measuring sticks and Tally-stones who staked claims around the water holes and posted signs in a language emus couldn't read, written in a script designed for paws, not feet.
 
 "You are trespassing on Sovereign Water," the lead surveyor told Merl's mother.
 
@@ -38,7 +38,7 @@ The Enforcement came at dawn. Not soldiers — Vitabat's enforcement crew were s
 
 "It does now."
 
-The mob moved south. Then further south. Then further. Each water hole had a sign. Each sign had a number. Each number had a debt attached to it. The land that had been infinite became a series of locked doors.
+The mob moved south. Then further south. Then further. Each water hole had a sign. Each sign had a number. Each number had a Tally-Debt attached to it. The land that had been infinite became a series of locked doors.
 
 Merl's mother died three days from the border. Not from thirst — an emu can survive on dew and the moisture in seeds for weeks. She died from stopping. She lay down in the spinifex and closed her eyes and did not get up, because a creature that lives to run cannot survive in a world that has decided movement is trespass.
 
@@ -64,7 +64,7 @@ His claustrophobia did not go away. He simply built a room inside himself that w
 
 Tonight's mission was reconnaissance. Hoebat wanted a map of Zuckbat's surveillance coverage in the Cathedral sub-levels — every camera angle, every sensor node, every data-root that pulsed with the Termite Squad's feed.
 
-Merl had been working the corridors for three hours, pressing his feet to walls and floors, building the map in his legs. The coverage was dense. **[[../../characters/antagonists#Zuckbat (The Ledger)|Zuckbat]]** had woven his Root-Network through the Cathedral's infrastructure with the thoroughness of fungal mycelium. Every junction had a sensor. Every ventilation shaft had a camera. Every six metres, a data-root pulsed with the bioluminescent red of active surveillance.
+Merl had been working the corridors for three hours, pressing his feet to walls and floors, building the map in his legs. The coverage was dense. **[[../../characters/antagonists#Zuckbat (The Magistrate of the Tally)|Zuckbat]]** had woven his Root-Network through the Cathedral's infrastructure with the thoroughness of fungal mycelium. Every junction had a sensor. Every ventilation shaft had a camera. Every six metres, a data-root pulsed with the bioluminescent red of active surveillance.
 
 Every six metres — except one.
 

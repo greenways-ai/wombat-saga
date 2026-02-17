@@ -6,7 +6,7 @@ There is a kind of rain that doesn't fall. It arrives. It takes up residence in 
 
 The rain in Melborow is that kind.
 
-Gray, heavy, carrying the taste of rust and neglected drainage from the heights of Queensborow to pool in the alleys of the Gray Grotto. It finds every crack where the Grout has failed, every wound the High-Noses left unattended, every seam in the concrete that the Council pretends doesn't exist. It is the city's own sweat. Melborow perspiring through its infrastructure, leaking through its skin, confessing through its pores what its ledgers refuse to admit: that something underneath has gone terribly wrong.
+Gray, heavy, carrying the taste of rust and neglected drainage from the heights of Queensborow to pool in the alleys of the Gray Grotto. It finds every crack where the Grout has failed, every wound the High-Noses left unattended, every seam in the concrete that the Council pretends doesn't exist. It is the city's own sweat. Melborow perspiring through its infrastructure, leaking through its skin, confessing through its pores what its **Tallies** refuse to admit: that something underneath has gone terribly wrong.
 
 I don't mind rain. Not usually. Rain means the Grout swells. Swelling Grout means work, and work means I can feel the earth through my paws, which is the only honest conversation left in this city. But this rain — this oily, persistent drizzle — feels different. Heavier. Rain as atmosphere. Rain as diagnosis. Rain that doesn't clean the city so much as reveal it, the way a wet cloth reveals the grain of wood that polish has been hiding.
 
@@ -264,7 +264,7 @@ Cooroo. The screaming bird with his Noble Noise, who'd carried a dying vine acro
 
 We stood in the Root Chamber beneath the Jacaranda. Five species. Five impossibilities. The roots overhead were shallow and wide — fractal, non-repeating, nothing like the deep taproots of the dead Wattles. They spread across the ceiling like the branching of a river seen from above, or like the cracking pattern in old clay, or like the lines on a palm that fortune-tellers pretend to read but which actually do say something, if you know the language. The language of surfaces. The language of reaching out instead of drilling down.
 
-We didn't sign a ledger. We didn't speak an oath. There was no ceremony, no ritual phrase, no fifteen syllables to bind us. What happened was simpler and stranger than that.
+We didn't notch a **Tally**. We didn't speak an oath. There was no ceremony, no ritual phrase, no fifteen syllables to bind us. What happened was simpler and stranger than that.
 
 We stood together. Five bodies. Five heartbeats. And the Jacaranda — that tree that knew things no native species had taught it — conducted us.
 
@@ -294,7 +294,7 @@ This is the gut-punch at the end of the story where the kid discovers that the m
 
 I stood before the Council. Spoke of Width over Depth. Of reaching out instead of digging down. Of the poison rising from below, the Static claiming the deep substrate, the madness of continuing to drill into a source that had turned to crystal. I spoke with my paws held open — a wombat gesture of vulnerability, of offering the soft pads where the nerves live, the surfaces through which we read the world. I was showing them my hands. I was saying: *feel what I feel. The soil is dying.*
 
-They called me Hippie Dreamer. Threat to urban stability. They had their Five-I's, their Frequency, their comforting assurance that the cracks were "within acceptable parameters." They had the Safety of the Ledger — the cold math that doesn't account for soil losing its will to hold. Math that measures the weight of a roof without asking whether the roof wants to be a roof anymore.
+They called me Hippie Dreamer. Threat to urban stability. They had their Five-I's, their Frequency, their comforting assurance that the cracks were "within acceptable parameters." They had the **Safety of the Tally** — the cold math that doesn't account for soil losing its will to hold. Math that measures the weight of a roof without asking whether the roof wants to be a roof anymore.
 
 "The Grout will hold," Trum-Bat said, voice smooth as polished concrete. "The Walls will protect us. We need only dig deeper, build higher, calculate more precisely."
 

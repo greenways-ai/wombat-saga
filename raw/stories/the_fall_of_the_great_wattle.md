@@ -96,7 +96,7 @@ Then: the Mega Pool. [[../characters/antagonists#Vitabat (The Enforcer)|Vitabat'
 
 Then: the retaining wall. The surface above the Eastern Ridge was unstable — the construction had loosened the topsoil, and the slope was beginning to slide. Trumbat's solution was more Grout. A wall, poured deep, cutting vertically through the substrate like a blade. The wall stabilised the slope. It also severed every lateral root system that crossed its path — the roots of the scrub, the roots of the grass, the roots of everything that had been holding the organic layer together.
 
-Nobody noticed. Or rather — the [[../groups/dust_bearers#I. The Kintsugi-Mu (The Menders)|Kintsugi-Mu]] noticed. Of course they noticed. A Kintsugi-Mu could feel a hairline crack through three metres of clay. But the Kintsugi-Mu had been declared unlicensed. Their warnings were filed under "unregistered structural assessments" and archived in [[../characters/antagonists#Zuckbat (The Ledger)|Zuckbat's]] ledger, where warnings went to become data and data went to become silence.
+Nobody noticed. Or rather — the [[../groups/dust_bearers#I. The Kintsugi-Mu (The Menders)|Kintsugi-Mu]] noticed. Of course they noticed. A Kintsugi-Mu could feel a hairline crack through three metres of clay. But the Kintsugi-Mu had been declared unlicensed. Their warnings were filed under "unregistered structural assessments" and notched into **[[../characters/antagonists#Zuckbat (The Magistrate of the Tally)|Zuckbat's]] Tally**, where warnings went to become data and data went to become silence.
 
 The construction took three seasons. When it was done, the Eastern Ridge had a grid of new tunnels, a centralised Resonance Pool, a retaining wall, and a surface that looked — from above, from any distance at all — exactly the same as before.
 
@@ -350,7 +350,7 @@ The fall of the Great Wattle is the founding trauma of the split between the [[.
 * [[../groups/dust_bearers|dust_bearers.md]] — The Kintsugi-Mu, the Tahl-Mu, the Ghar-Mu, the Sovereign Displacement
 * [[../groups/high_noses|high_noses.md]] — The -ikis, the Theological Conflict, the Sovereign Origins
 * [[../groups/galahs|galahs.md]] — The Rosella fall, the Galah succession, the Noble Noise, the Violet Resonance
-* [[../characters/antagonists|antagonists.md]] — Trumbat (Safety Grout, grid tunnels), Vitabat (Mega Pool, centralisation), Zuckbat (the Ledger)
+* [[../characters/antagonists|antagonists.md]] — Trumbat (Safety Grout, grid tunnels), Vitabat (Mega Pool, centralisation), Zuckbat (the Tally)
 * [[../characters/cooroo/the_violet_sentinel|the_violet_sentinel.md]] — Cooroo's backstory, Cooriki
 * [[../constants/the_siddhis|the_siddhis.md]] — The Golden Repair (Rosella Siddhi)
 * [[../constants/animal_societies|animal_societies.md]] — The Galah Colonies, the Rosella Parliament

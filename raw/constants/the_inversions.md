@@ -98,7 +98,7 @@ This is the path of the **Sorcerer** (The High-Nose). It grants immense, short-t
     *   "If it's green, pave it. If it moves, grout it."
     *   "Safety is the absence of sensation."
 *   **The Power:** The ability to remove all risk, and therefore all feeling, from the environment.
-*   **The Mechanic:** Replacing the complex, living feedback of the earth with dead, predictable uniformity. The Sorcerer fears the chaos of the organic, so they pave over it. Root-Counting (Spreadsheets) replaces Root-Feeling (Touch).
+*   **The Mechanic:** Replacing the complex, living feedback of the earth with dead, predictable uniformity. The Sorcerer fears the chaos of the organic, so they pave over it. **Tallying (Notches)** replaces Root-Feeling (Touch).
 *   **In Melborow:** Vitabat pours grout over the clay walls "for safety." The wombats stop feeling the earth's vibrations. They stop knowing when the ceiling is stressed. They become numb, dependent on sensors to tell them what their paws used to know.
 *   **The Antagonist:** **Cornelibat / Vitabat.**
 *   **The Karmic Cost:** **Atrophy.** The senses die. The user becomes numb, clumsy, and unable to navigate the real world. When the grout finally cracks (and it always does, because it cannot bend), they are helpless, crushed by the reality they tried to pave over.
@@ -117,13 +117,15 @@ This is the path of the **Sorcerer** (The High-Nose). It grants immense, short-t
 
 ### 9. The Panopticon (Inverted Systems Logic)
 *   **Thread:** 9 (Systems Logic - The Map)
-*   **The Inversion:** **"The Ledger."**
+*   **The Inversion:** **"The Tally."**
+*   **The Philosophy:** "Verification over trust." If a thing is not notched in the **Tally**, it does not exist.
+*   **The Shadow:** The loss of direct perception.
 *   **The High-Nose Logic:**
     *   "Privacy is theft."
     *   "I don't need to ask you. I already know."
 *   **The Power:** The ability to see everyone else, while remaining unseen.
 *   **The Mechanic:** Mapping the relationships not to navigate them, but to exploit them. The Sorcerer turns connections into data points, and data points into leverage. They know who you owe, who you love, and where you sleep.
-*   **In Melborow:** Zuckbat's Root-Network. It doesn't carry water; it carries debt. Every interaction between wombats is recorded and monetized. Friendship is reduced to a "Social Graph."
+*   **In Melborow:** Zuckbat's Root-Network. It doesn't carry water; it carries **Tally-Debt**. Every interaction between wombats is recorded and monetized. Friendship is reduced to a "Social Graph."
 *   **The Antagonist:** **Zuckbat.**
 *   **The Karmic Cost:** **Paranoia.** The observer knows that everyone is watching, because he is watching everyone. He can never trust, never sleep, never connect. He is the prisoner of his own watchtower, terrified that someone, somewhere, has a camera pointed at *him*.
 

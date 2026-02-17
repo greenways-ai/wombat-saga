@@ -168,7 +168,7 @@ And the wombats didn't want to hear it.
 
 He tried. He stood before the Council and spoke of Width over Depth. Of reaching out instead of digging down. Of the poison rising from below, the Static claiming the deep substrate, the madness of continuing to drill into a source that had turned to crystal.
 
-They called him a Hippie Dreamer. A threat to urban stability. They had their Five-I's, their Frequency, their comforting assurance that the cracks were "within acceptable parameters." They had the Safety of the Ledger—the cold math of load-bearing calculations that didn't account for the soil losing its will to hold.
+They called him a Hippie Dreamer. A threat to urban stability. They had their Five-I's, their Frequency, their comforting assurance that the cracks were "within acceptable parameters." They had the **Safety of the Tally** — the cold math of load-bearing calculations that didn't account for the soil losing its will to hold.
 
 "The Grout will hold," Trum-Bat had said, his voice smooth as polished concrete. "The Walls will protect us. We need only dig deeper, build higher, calculate more precisely."
 

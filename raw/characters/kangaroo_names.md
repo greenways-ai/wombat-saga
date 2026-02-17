@@ -11,12 +11,12 @@ In the saga, the Kangaroo is the "Great Leap" (*Bun-darra*) and the Wallaby is t
 | Name | Role | Mythological Status |
 | :--- | :--- | :--- |
 | **Mountbatten** | The High-Peak | The supreme leader of the Mob. He sits on the highest ridge of the Shattered Gorge and decides when the Mob will move against the Yellow Monsters. |
-| **Mountrich** | The Treasurer | A massive Red Kangaroo who manages the "Energy-Debt" of the mob. He is the Macropod counter to Vitabat’s Investment Council. |
+| **Mountrich** | The Treasurer | A massive Red Kangaroo who manages the "Kinetic Debt" of the mob. He is the Macropod counter to Vitabat’s Investment Council. |
 | **Mount-Storm** | The Vanguard | The first to leap into the Burnt Scrub during a conflict. He uses pure Fire (Panic) energy to disrupt enemy formations. |
 | **Mount-Iron** | The Enforcer | A Wallaby who has mastered Sutra 2 (Metal). He is the one who trains the young in the Old Way Dance. |
 
 ### **Mountrich (The Treasurer)**
-*   **The Vault of Momentum:** He sits upon the highest peaks of the Shattered Gorge, overseeing the physical "Root-Loans" of the mob. He ensures that no Kangaroo or Wallaby exhausts their kinetic energy on "frivolous leaps."
+*   **The Vault of Momentum:** He sits upon the highest peaks of the Shattered Gorge, overseeing the physical **Kinetic Tally** of the mob. He ensures that no Kangaroo or Wallaby exhausts their kinetic energy on "frivolous leaps."
 *   **The Fixed Order:** Mount-Rich is the only one authorized to approve a "Great Leap" (*Bun-darra*).
 *   **The Oath:** "Gold is a ghost, but the leap is real. I do not count bits; I count the strength in the tendon."
 
@@ -30,11 +30,11 @@ Bash is a core member of the **Kappa Mu** initiation squad. While his nickname i
 
 *   **Bob Alastair:** His "High-Ground" identifiers.
 *   **Slater:** Identifies him as a master of the **Stone-Skimming** kinetic (low-altitude, high-velocity movement).
-*   **Hillrich:** Identifies him as part of the **Kinetic Auditors** lineage (Small-Scale Energy-Debt).
+*   **Hillrich:** Identifies him as part of the **Kinetic Tally-keepers** lineage (Small-Scale Kinetic Debt).
 *   **The 2nd (II):** Denotes a "Succession of Impact." He is the second to carry this specific kinetic resonance.
 
 **The Role:**
-*   **Formal:** A biological safeguard against the debt-cycles of Vitabat.
+*   **Formal:** A biological safeguard against the **Tally-Debt** cycles of Vitabat.
 *   **Hidden:** As **Bash**, he provides the raw physical power to crack the "Safety Concrete" of Trumbat's infrastructure for Hoebat’s secret repairs.
 
 ---

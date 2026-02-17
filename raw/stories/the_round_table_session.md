@@ -32,13 +32,13 @@ Vitabat’s metal arm whirred. "If they stop digging," he said, his voice like c
 
 ## II. The Vision (The Architect vs. The Enforcer)
 
-"So primitive," Tatebat scoffed, adjusting his oversized robes. "You break a leg, you lose a worker. You lose a worker, Zuckbat logs a deficit. It’s bad design, V. It’s ugly. I’m talking about *elevation*. We don't force them to build the Great Retaining Wall. We make it *aspirational*."
+"So primitive," Tatebat scoffed, adjusting his oversized robes. "You break a leg, you lose a worker. You lose a worker, Zuckbat notches a deficit. It’s bad design, V. It’s ugly. I’m talking about *elevation*. We don't force them to build the Great Retaining Wall. We make it *aspirational*."
 
 He stood up, throwing his arms wide. "Imagine! We tell them the Great Retaining Wall isn't a barrier. It's a canvas! 'The Great Canvas of Melborow.' We sell them squares. They pay *us* to paint their names on the prison bars! It’s genius! It’s the Ye-Flow!"
 
 "It is a security risk," Vitabat grunted.
 
-"It is a revenue stream," Zuckbat corrected, the equations around him turning from red to blue. "If we monetize the surface area of the containment structure... the debt cycle stabilizes for three quarters."
+"It is a revenue stream," Zuckbat corrected, the equations around him turning from red to blue. "If we monetize the surface area of the containment structure... the **Tally-Debt** cycle stabilizes for three quarters."
 
 Trumbat raised a silky paw. The room went silent.
 
@@ -67,4 +67,4 @@ Trumbat closed his purple eyes.
 
 "The meeting is adjourned. Go forth and protect them from the truth."
 
-Zuckbat watched them leave. He stayed in his chair, watching the math equations turn blood red as they drifted toward the ceiling. He wrote a single number in his ledger: *Zero.*
+Zuckbat watched them leave. He stayed in his chair, watching the math equations turn blood red as they drifted toward the ceiling. He notched a single mark on his **Tally**: *Zero.*

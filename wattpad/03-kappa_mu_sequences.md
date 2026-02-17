@@ -29,7 +29,7 @@ Portrait composition of the five Kappa Mu members in the Root Chamber, each show
 
 We stood in the Root Chamber beneath the Jacaranda. Five species. Five impossibilities. The roots overhead were shallow and wide — fractal, non-repeating, nothing like the deep taproots of the dead Wattles. They spread across the ceiling like the branching of a river seen from above, or like the cracking pattern in old clay, or like the lines on a palm that fortune-tellers pretend to read but which actually do say something, if you know the language. The language of surfaces. The language of reaching out instead of drilling down.
 
-We didn't sign a ledger. We didn't speak an oath. There was no ceremony, no ritual phrase, no fifteen syllables to bind us. What happened was simpler and stranger than that.
+We didn't notch a **Tally**. We didn't speak an oath. There was no ceremony, no ritual phrase, no fifteen syllables to bind us. What happened was simpler and stranger than that.
 
 We stood together. Five bodies. Five heartbeats. And the Jacaranda — that tree that knew things no native species had taught it — conducted us.
 
@@ -64,12 +64,12 @@ This is the gut-punch at the end of the story where the kid discovers that the m
 
 <!--
 IMAGE PROMPT 11: Hoebat Before the Council
-Hoebat standing before the Melborow Council - Trum-Bat and other High-Nose wombats in formal Council attire. Hoebat holds his paws open in vulnerability, showing the soft pads, offering the tactile truth of dying soil. The Council members look dismissive, comfortable, surrounded by their Five-I's, their Frequency, their ledgers. Behind them, the Cathedral's glow - the center that eats its edges. Hoebat speaks of Width over Depth, but they call him Hippie Dreamer, threat to urban stability. The architecture is polished concrete, Grout, artificial light. Style: political confrontation, class divide, warm bureaucratic lighting, rejected truth, institutional blindness.
+Hoebat standing before the Melborow Council - Trum-Bat and other High-Nose wombats in formal Council attire. Hoebat holds his paws open in vulnerability, showing the soft pads, offering the tactile truth of dying soil. The Council members look dismissive, comfortable, surrounded by their Five-I's, their Frequency, their **Tallies**. Behind them, the Cathedral's glow - the center that eats its edges. Hoebat speaks of Width over Depth, but they call him Hippie Dreamer, threat to urban stability. The architecture is polished concrete, Grout, artificial light. Style: political confrontation, class divide, warm bureaucratic lighting, rejected truth, institutional blindness.
 -->
 
 I stood before the Council. Spoke of Width over Depth. Of reaching out instead of digging down. Of the poison rising from below, the Static claiming the deep substrate, the madness of continuing to drill into a source that had turned to crystal. I spoke with my paws held open — a wombat gesture of vulnerability, of offering the soft pads where the nerves live, the surfaces through which we read the world. I was showing them my hands. I was saying: *feel what I feel. The soil is dying.*
 
-They called me Hippie Dreamer. Threat to urban stability. They had their Five-I's, their Frequency, their comforting assurance that the cracks were "within acceptable parameters." They had the Safety of the Ledger — the cold math that doesn't account for soil losing its will to hold. Math that measures the weight of a roof without asking whether the roof wants to be a roof anymore.
+They called me Hippie Dreamer. Threat to urban stability. They had their Five-I's, their Frequency, their comforting assurance that the cracks were "within acceptable parameters." They had the **Safety of the Tally** — the cold math that doesn't account for soil losing its will to hold. Math that measures the weight of a roof without asking whether the roof wants to be a roof anymore.
 
 "The **walls** will hold," Trum-Bat said, voice smooth as polished concrete. "The Walls will protect us. We need only dig deeper, build higher, calculate more precisely."
 

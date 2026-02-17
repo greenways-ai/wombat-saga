@@ -12,7 +12,7 @@ My mother was a runner. Not "running from" — that's a wombat word. Running *wi
 
 My father ran the **[[../../lore#The Static (The Digital Fester)|Static Fields]]**. That's a different kind of running. The Tall-Ones dump their data-waste into the ground — all the forgotten code, the algorithmic refuse, the digital rot that leaks from their machines into Arnamland like sewage into a river. Most creatures fear the Static. It pools in the low places, corrupts the unwary, turns good soil into fever-mud. But the Dingoes? We learned to *read* it. We developed **Static-Logic** — the art of filtering the God-Waste, repurposing the digital refuse, turning the Tall-Ones' garbage into currency. My father built the first Static-Unit in the Western borows. A crew of Dingoes harvesting what the Humans discarded, getting rich off the excess data that the wombats were too afraid to touch.
 
-The other Dingoes got fat on the Static. Built empires. The Static-Unit bosses in the Western borows now have more Root-Credits than Vitabat's enforcers can count. But my father — I don't talk about my father. Not because of the Static. Because of what the Static showed him, and what it cost.
+The other Dingoes got fat on the Static. Built empires. The Static-Unit bosses in the Western borows now have more **Tally-credits** than Vitabat's enforcers can count. But my father — I don't talk about my father. Not because of the Static. Because of what the Static showed him, and what it cost.
 
 You know what they say about Dingoes in Melborow, Hoebat. I've heard it since I was a pup, when my mother brought me south because the Wild Lands were going cactus and the water holes were drying into dust-bowls.
 

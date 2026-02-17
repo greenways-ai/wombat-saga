@@ -34,7 +34,7 @@ They didn't know that the ceiling above their heads was currently groaning in D-
 
 "Easy, old girl," Hoebat whispered, pressing his paw against the cold concrete of the retaining wall. "I hear you. You're heavy tonight. It's the new Density Legislation. Too much law, not enough physics."
 
-He wasn't supposed to be here. According to the **Digital Ledger**, Hoebat was currently asleep in Pod 44-B. But the Ledger didn't know geology. The Ledger didn't know that the **Great Calcification** was shifting the tectonic plates, and that the beautiful, seamless murals of "Trumbat the Provider" in the lobby were actually structural fracture points waiting to snap.
+He wasn't supposed to be here. According to the **Tally**, Hoebat was currently asleep in Pod 44-B. But the Tally didn't know geology. The Tally didn't know that the **Great Calcification** was shifting the tectonic plates, and that the beautiful, seamless murals of "Trumbat the Provider" in the lobby were actually structural fracture points waiting to snap.
 
 Hoebat reached into his utility belt—worn leather, stained with real clay, passed down from Cornelibat—and pulled out his trowel. It was the only tool he owned that wasn't connected to the Wi-Fi. It was heavy, analog, and stubbornly real.
 

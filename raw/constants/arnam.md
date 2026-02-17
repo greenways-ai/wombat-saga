@@ -21,7 +21,7 @@ Traditionally, Arnam was a **free gift** from the God-Kind (Humans).
 The central conflict of the Saga involves the "Great Crystalisation" of Human empathy, which caused the natural flow of Arnam to sputter. This led to the rise of the **Five-I's Sovereign Council** and the corruption of the High Noses:
 
 * **The Securitization of Compassion**: When the "voluntary contributions" of Arnam stopped, **Vitabat** (The Auditor) arrived. He replaced the "Grace" of the Nico Star with the **"Trust Protocol"**.
-* **Liquid Dirt**: Arnam was transformed from a free blessing into a speculative asset class called "Liquid Asset" or "Credit".
+* **Tally-Debt**: Arnam was transformed from a free blessing into a speculative asset class called **Tally-credits**.
 * **The Frequency Trap**: **Muskbat** sells a synthetic version of Arnam called the **"Melborow Frequency"**—a digital broadcast that tricks wombats into feeling "connected" even as their actual borows dry out and crumble.
 
 ### Summary of Arnam's Forms
@@ -119,12 +119,12 @@ Because the reality of the Wombat is a downstream effect of the Human condition,
 * **The Crystalisation of the Source:** Just as physical global warming is driven by carbon, the Wombat version is driven by the loss of **Arnam** (Compassion/Empathy). Traditionally, this energy flowed freely from the **Nico Star**; now, it is a sputtering, scarce resource.
 * **Calcification and Rigidity:** In a healthy world, Arnamland is a lush, muddy mess. As the Arnam yield drops, the mud hardens into **"Structural Rigidity"** and "Safety Grout". The soil becomes brittle, and the "Pillow" of the earth loses its structural integrity.
 * **The Loss of the "Small Yield":** Originally, there were thousands of small, decentralized resonance pools maintained by individual families. As the "rain" of compassion stopped, these small pools dried up because they no longer had the yield to sustain themselves.
-* **Centralization as a Crisis Response:** The shift to "Big Pools" like **Vitabat's Liquid Ledger** was a desperate attempt to consolidate what little Arnam remained. While it saved the borow from immediate collapse, it created a centralized system prone to corruption, debt-cycles, and "Bureaucratic Numbness".
+* **Centralization as a Crisis Response:** The shift to "Big Pools" like **Vitabat's Tally** was a desperate attempt to consolidate what little Arnam remained. While it saved the borow from immediate collapse, it created a centralized system prone to corruption, **Tally-Debt cycles**, and "Bureaucratic Numbness".
 * **The Great Calcification:** This is the physical symptom of the crisis—the process of paving over the organic, shifting earth with rigid, high-frequency structures. The "Yellow Monsters" (excavators) represent a "Natural Disaster" caused by the Tall-Ones’ lack of awareness or care for the grounding hardware beneath them.
 * **The "Cactus" World:** This is the term the wombats use for a world that has gone dry and dangerous. It refers to a state where the "Old Ways" of grounding are ignored in favor of synthetic "Frequencies" that provide a broadcast of connection while the actual foundations crumble.
 
 
-In the Wombat Saga, the transition from small, decentralized **Resonance Pools** to **Mega Pools** (like Vitabat’s *Liquid Ledger*) is the ultimate "well-intentioned disaster." While they were built to save the borow from the drying up of Arnam, they introduced existential dangers that threaten the very nature of what it means to be a wombat.
+In the Wombat Saga, the transition from small, decentralized **Resonance Pools** to **Mega Pools** (like Vitabat’s *Tally*) is the ultimate "well-intentioned disaster." While they were built to save the borow from the drying up of Arnam, they introduced existential dangers that threaten the very nature of what it means to be a wombat.
 
 Here are the primary dangers of the Mega Pools:
 
@@ -139,12 +139,12 @@ Traditionally, wombats did things because they "meant well." The Mega Pools expl
 
 Small pools were stable because they were anchored in the deep earth. Mega Pools are anchored in **The Frequency**.
 
-* **The Danger:** Because the Arnam is stored as "Liquid Assets," it is prone to sudden drops in "yield" if the **God Kind** (Humans) suddenly shift their attention or lose compassion.
+* **The Danger:** Because the Arnam is stored as **Tally-credits**, it is prone to sudden drops in "yield" if the **God Kind** (Humans) suddenly shift their attention or lose compassion.
 * **The Outcome:** A single "Great Crystalisation" in the human world can cause a Mega Pool to "flash-dry," leaving thousands of dependent borows without structural integrity overnight.
 
 ### 3. Bureaucratic Numbness (The Loss of the Snout)
 
-In a small pool, you can smell the moisture; you know the health of your dirt. In a Mega Pool, you only see the "Ledger."
+In a small pool, you can smell the moisture; you know the health of your dirt. In a Mega Pool, you only see the **Tally**.
 
 * **The Danger:** Wombats stop trusting their own snouts and start trusting the **Tally**. They become "numb" to the physical vibrations of the earth.
 * **The Horror:** A wombat might stand in a crumbling tunnel, ignoring the tremors of a "Yellow Monster" (excavator) simply because the High-Nose report says the Mega Pool's "Stability Index" is at 100%.

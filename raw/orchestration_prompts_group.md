@@ -9,7 +9,7 @@
 "Characters: The 5 Sovereign Wombats, lined up like the Olympic Rings (overlapping circles of power).
 
 1.  **Center (Earth):** **Trumbat**. Radiant white fur, deep purple eyes, golden mitre, silky gold robes. He stands tallest, arms raised in a priestly blessing.
-2.  **Left Inner (Water):** **Vitabat**. Scarred, wearing a tailored white suit with an ice-blue tie. His metal robotic left arm is resting ominously on a frozen ledger. He looks cold and menacing.
+2.  **Left Inner (Water):** **Vitabat**. Scarred, wearing a tailored white suit with an ice-blue tie. His metal robotic left arm is resting ominously on a frozen **Tally**. He looks cold and menacing.
 3.  **Right Inner (Metal):** **Tatebat**. Manicured purple fur, shutter shades, oversized Yeezy-style robes. He is striking a manic 'Visionary' pose, holding a glowing Arnam-Mic like a sceptre.
 4.  **Left Outer (Fire):** **Muskbat**. Twitchy, wearing a sleek black batsuit with an Inspector Gadget-style jetpack and AR goggles. He is hovering slightly off the ground, surrounded by holographic error messages.
 5.  **Right Outer (Wood):** **Zuckbat**. A hooded figure in a dark green robe/hoodie. Static blue and red math equations are growing out of his pockets like magical vines. He is looking down at a datapad, ignoring the camera."

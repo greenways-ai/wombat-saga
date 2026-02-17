@@ -133,7 +133,7 @@ A vast flat basin in the south-west where evaporated Arnam has left mineral crus
 
 Scattered single-wombat burrows in the marginal zone, beyond Melborow's influence. This is the same scrubland as the Eucalyptus Groves — the back of the heart, where the eastern and western shells meet. The flat map splits this zone in two, putting the Groves on the right edge and the Lone Borows on the left, but a wombat walking east from the Groves would arrive at the Lone Borows without ever reaching an edge. The easterners call it the Groves. The westerners call it the Lone Borows. It is one place with two names, which is what happens when your cartographer cuts the map along the meridian that runs through your backyard.
 
-Where exiles, independents, and creatures who don't fit the schism live. Pokero operates from a Lone Borow — a shallow scrape in hard ground with no Safety Grout, no grid tunnel access, and no ledger entry. The Lone Borows follow no plan. Each is dug by one set of paws, shaped by one body, and maintained by one snout. They are the oldest form of wombat architecture: personal, imperfect, and adequate.
+Where exiles, independents, and creatures who don't fit the schism live. Pokero operates from a Lone Borow — a shallow scrape in hard ground with no Safety Grout, no grid tunnel access, and no **Tally-notch**. The Lone Borows follow no plan. Each is dug by one set of paws, shaped by one body, and maintained by one snout. They are the oldest form of wombat architecture: personal, imperfect, and adequate.
 
 ---
 
@@ -242,7 +242,7 @@ Cold. Dark. Essential. This is where the real machinery lives — and where the 
 
 ##### The Freeze Room / *Ringasambë* ("Cold-Chamber")
 
-Sub-Level 4. A super-cooled chamber beneath the Cathedral where Vitabat and Zuckbat conduct their audits. Functions as a server farm for the Liquid Ledger and a situation room for the Council. The temperature is maintained at four degrees — cold enough to preserve data integrity, cold enough to remind everyone present that warmth is a resource the Council controls.
+Sub-Level 4. A super-cooled chamber beneath the Cathedral where Vitabat and Zuckbat conduct their audits. Functions as a server farm for the **Tally** and a situation room for the Council. The temperature is maintained at four degrees — cold enough to preserve data integrity, cold enough to remind everyone present that warmth is a resource the Council controls.
 
 ##### The Seep-bed / *Néncaima* ("Water-Bed")
 
@@ -254,7 +254,7 @@ An ancient ceremonial chamber deep below Melborow, where the oldest root-network
 
 ##### The Secret Resonance Pools / *Muina Lírë* ("Hidden Song")
 
-Illegal. Maintained by Hoebat and the Hidden Root in deep tunnels beyond the reach of Zuckbat's ledger. These are the Old Way pools — small, decentralised, tuned to the ancient frequency *"Yanda hlar-ya yanda"* (The ground hears the ground). They are the last functioning version of the original Arnam storage system. The pools are warm. The water hums. The walls around them are not Grout — they are living clay, maintained by Kintsugi-Mu techniques, cracked and mended and cracked and mended, each repair a golden seam that makes the wall stronger than it was before.
+Illegal. Maintained by Hoebat and the Hidden Root in deep tunnels beyond the reach of **Zuckbat's Tally**. These are the Old Way pools — small, decentralised, tuned to the ancient frequency *"Yanda hlar-ya yanda"* (The ground hears the ground). They are the last functioning version of the original Arnam storage system. The pools are warm. The water hums. The walls around them are not Grout — they are living clay, maintained by Kintsugi-Mu techniques, cracked and mended and cracked and mended, each repair a golden seam that makes the wall stronger than it was before.
 
 ---
 
@@ -282,7 +282,7 @@ Trumbat's replacement corridors. Straight-line passages, efficient, uniform, pou
 
 #### The Mega Pool / *Nén Halla* ("Great Water")
 
-Vitabat's centralised Resonance Pool. Replaces the old decentralised system. Enormous, metered, taxed, controlled. The Pool stores Arnam not as a shared blessing but as a speculative asset managed by the Liquid Ledger. The water does not hum. The water calculates.
+Vitabat's centralised Resonance Pool. Replaces the old decentralised system. Enormous, metered, taxed, controlled. The Pool stores Arnam not as a shared blessing but as a speculative asset managed by **the Tally**. The water does not hum. The water calculates.
 
 #### The Great Retaining Wall / *Ramba Halla* ("Great Wall")
 
@@ -290,7 +290,7 @@ Trumbat's masterwork. A wall of Safety Grout poured deep through the substrate, 
 
 #### The Melborow Perimeter / *Ramba Ostova* ("City-Wall")
 
-A massive, circular industrial sprawl of Safety Grout designed to patch the "cracks" in the sphere's inner lining. The Perimeter marks the boundary between Melborow's controlled interior and the wild substrate beyond. Inside: Grid Tunnels, Grout, the Ledger. Outside: root-networks, fractal corridors, the Old Ways. The Perimeter is maintained by the Five-I's Council as a "safety" measure. It is also, effectively, a wall around a prison that the inmates built themselves.
+A massive, circular industrial sprawl of Safety Grout designed to patch the "cracks" in the sphere's inner lining. The Perimeter marks the boundary between Melborow's controlled interior and the wild substrate beyond. Inside: Grid Tunnels, Grout, **the Tally**. Outside: root-networks, fractal corridors, the Old Ways. The Perimeter is maintained by the Five-I's Council as a "safety" measure. It is also, effectively, a wall around a prison that the inmates built themselves.
 
 ---
 

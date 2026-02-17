@@ -187,7 +187,7 @@ The theology beneath the joke is older than the joke:
 
 The Galahs' ridiculousness is not a flaw. It is a *defence*. A prophet who looks like a fool is a prophet who cannot be co-opted. [[../characters/antagonists#Tatebat (The Pimp)|Tatebat]] cannot brand a Galah. [[../characters/antagonists#Trumbat (The Priest)|Trumbat]] cannot platform a Galah. [[../characters/antagonists#Muskbat (The Tech/Batman)|Muskbat]] cannot synthesise a Galah's scream into the Frequency without producing feedback so chaotic that the whole system destabilises. The Noble Noise resists integration because it is, by its nature, too much — too loud, too emotional, too pink, too *present* to be absorbed into any system that depends on managed silence.
 
-Zuckbat understood this. His analysis of the [[../stories/the_observers_dilemma|Galah Dividend]] — the measurable health impact of Cooroo's screaming — led him to a conclusion he recorded in his private ledger but never shared with the Council:
+Zuckbat understood this. His analysis of the [[../stories/the_observers_dilemma|Galah Dividend]] — the measurable health impact of Cooroo's screaming — led him to a conclusion he notched into his private **Tally** but never shared with the Council:
 
 *"The Galah's value is inversely proportional to the seriousness with which he is taken. The moment we acknowledge the Noble Noise as a structural asset, we will attempt to regulate it. The moment we regulate it, we will attempt to optimise it. The moment we optimise it, it will stop working. The Galah Dividend exists precisely because it is unregistered, unmanaged, and delivered by a creature the Council considers a pest."*
 

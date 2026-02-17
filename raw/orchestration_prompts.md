@@ -187,12 +187,12 @@
 "Character: Vitabat (A scarred Chibi Wombat). Appearance: Hardened features, cold dead eyes, muscular build. Attire: A tailored suit made of Kevlar-root, ice-blue tie. Vibe: 'The Enforcer'; freezing the assets."
 
 **[PAGE-SPECIFIC ACTION]:**
-"Scene: Vitabat stands in a frozen boardroom. He is slamming a frozen 'Ledger' onto the table, shattering it. Icicles are forming on the walls around him. He points a finger, and the air freezes into a 'Debt' contract."
+"Scene: Vitabat stands in a frozen boardroom. He is slamming a frozen **Tally** onto the table, shattering it. Icicles are forming on the walls around him. He points a finger, and the air freezes into a 'Debt' contract."
 
 **[GLOBAL STYLE END]:**
 "Aesthetic: Frost textures, shattered glass/ice effects, cold blue color grading, 'The Enforcer' atmosphere, masterpiece quality."
 
-## 👁️ Zuckbat (The Ledger - Wood)
+## 👁️ Zuckbat (The Magistrate of the Tally - Wood)
 
 **[GLOBAL STYLE START]:**
 "A shadowy, melancholic Chibi Anime illustration. Style: Spoken Word / Lo-Fi Jazz / Noir Detective aesthetic mixed with overgrown ruins. Color Palette: Moss Green, Sepia, and Surveillance Red. 8k resolution, low-key lighting, textured detail."
@@ -201,10 +201,10 @@
 "Character: Zuckbat (A hooded Chibi Wombat). Appearance: Barely visible face, eyes are tired and scrolling with data. Attire: A dark green robe that is more like a hoodie, blending into the tunnel walls. Static blue and red arterial light math equations grow out of his pockets like a sorcerer. Vibe: 'The Tragic Observer'; bearing the weight of the math."
 
 **[PAGE-SPECIFIC ACTION]:**
-"Scene: Zuckbat sits at a solitary wooden desk in a dark, root-filled chamber, lit only by a single candle. He looks weary, holding a fiber-optic quill over a massive, glowing Ledger. Faint 'Static-Ghosts' (translucent, glitchy figures) float around him, whispering secrets he tries to ignore. Rain shadows cast by a grate above slide across his face."
+"Scene: Zuckbat sits at a solitary wooden desk in a dark, root-filled chamber, lit only by a single candle. He looks weary, holding a fiber-optic quill over a massive, glowing **Tally**. Faint 'Static-Ghosts' (translucent, glitchy figures) float around him, whispering secrets he tries to ignore. Rain shadows cast by a grate above slide across his face."
 
 **[GLOBAL STYLE END]:**
-"Aesthetic: Film Noir lighting (chiaroscuro), rain window shadows, vinyl crackle texture, organic root textures mixed with digital lines, 'The Ledger' atmosphere, masterpiece quality."
+"Aesthetic: Film Noir lighting (chiaroscuro), rain window shadows, vinyl crackle texture, organic root textures mixed with digital lines, **'The Tally'** atmosphere, masterpiece quality."
 
 ---
 

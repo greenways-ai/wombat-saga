@@ -108,7 +108,7 @@ Cooroo screamed it from the treetop. His voice — trained by eleven months of f
 
 Below, in the tunnels, Bash caught the pulse.
 
-His relay array — designed to jam the Frequency — was also designed to amplify. The copper coils received Cooroo's 7.83 Hz scream, cleaned it, amplified it, and rebroadcast it through the Root-Network itself. The same roots that Zuckbat had turned into a surveillance system now carried a different signal — not data, not debt, not the monitored heartbeat of a panopticon. A pulse. The ancient pulse. The one that said: *The ground hears the ground.*
+His relay array — designed to jam the Frequency — was also designed to amplify. The copper coils received Cooroo's 7.83 Hz scream, cleaned it, amplified it, and rebroadcast it through the Root-Network itself. The same roots that Zuckbat had turned into a surveillance system now carried a different signal — not data, not **Tally-Debt**, not the monitored heartbeat of a panopticon. A pulse. The ancient pulse. The one that said: *The ground hears the ground.*
 
 The Lo Snouts in Sector 10 felt it in their paws. They felt it in their feet, their backs, their bellies pressed against the sleeping pallets. The pulse was not a message. It was not words. It was direction. It said: *This way is down. This way is breaking. Move the other way.*
 
@@ -162,7 +162,7 @@ A section fell. Then another. The grout fragments hit the floor in a cascade of 
 
 The air that came through the opening was wet.
 
-Not damp. Not humid. *Wet.* The kind of wetness that existed in the deep substrate before the Great Calcification, before the Safety Grout, before the Frequency and the Ledger and the wall. The air carried the scent of clay and river-stone and the mineral sweetness of water that had been imprisoned in the substrate for years, released now by the breaking of the barrier that had sealed it in.
+Not damp. Not humid. *Wet.* The kind of wetness that existed in the deep substrate before the Great Calcification, before the Safety Grout, before the Frequency and the **Tally** and the wall. The air carried the scent of clay and river-stone and the mineral sweetness of water that had been imprisoned in the substrate for years, released now by the breaking of the barrier that had sealed it in.
 
 For the first time in anyone's memory, the Gray Grotto smelled like rain.
 

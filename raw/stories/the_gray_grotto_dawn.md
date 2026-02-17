@@ -21,7 +21,7 @@ Old Brenner, the shift boss, counted them out by scent. He'd lost his left eye t
 
 "The root-water down there tastes like pennies, boss. Goes right through you."
 
-Brenner grunted. The root-water in Sector Twelve had tasted like pennies since **[[../characters/antagonists#Vitabat (The Enforcer)|Vitabat's]]** enforcement division had rerouted the aquifer to service the Cathedral's cooling system. The Lo Snouts weren't supposed to know this, but Lo Snouts always knew everything about water because their grandmothers had taught them to read the soil the way the High-Noses read ledgers — with their whole bodies.
+Brenner grunted. The root-water in Sector Twelve had tasted like pennies since **[[../characters/antagonists#Vitabat (The Enforcer)|Vitabat's]]** enforcement division had rerouted the aquifer to service the Cathedral's cooling system. The Lo Snouts weren't supposed to know this, but Lo Snouts always knew everything about water because their grandmothers had taught them to read the soil the way the High-Noses read **Tallies** — with their whole bodies.
 
 The day crew waited at the junction, stamping their paws in the cold. The Gray Grotto held its temperature at a steady eleven degrees — warm enough to prevent hypothermia, cold enough to remind you that comfort was a luxury reserved for higher sub-levels. The day-crew foreman, a thick-shouldered wombat named Darragh, exchanged nods with Brenner.
 
@@ -51,7 +51,7 @@ The Gray Grotto Marketplace woke in stages, like a creature reluctant to face it
 
 First came the root-sellers. They arrived before dawn because the roots were freshest when pulled in the dark — a superstition that happened to be true, because sunlight (or the closest equivalent that filtered through the ventilation shafts) caused the sugars to retract into the deeper tendrils. The sellers arranged their wares on flat stones worn smooth by generations of commerce: ginger-roots twisted into arthritic knots, turmeric stumps that stained their paws yellow, and the prized **sweet-tap** — a thumb-thick rootlet that tasted of honey and eucalyptus and was the last organic connection to the **[[../locations#The Eucalyptus Groves|Eucalyptus Groves]]** that most Lo Snouts would ever experience.
 
-Sweet-tap was expensive. Three Root-Credits for a single finger-length. The sellers handled it with the reverence of jewellers, wrapping each piece in damp moss to preserve the moisture.
+Sweet-tap was expensive. Three **Tally-credits** for a single finger-length. The sellers handled it with the reverence of jewellers, wrapping each piece in damp moss to preserve the moisture.
 
 "Used to grow wild," muttered Old Peg, a root-seller who claimed to remember the time before the **[[../lore#The New Ways (The Melborow Frequency)|Melborow Frequency]]**. "You'd just reach into the wall and pull. Didn't cost nothing. The earth *gave*."
 
@@ -131,7 +131,7 @@ He reached into his pocket and pulled out a piece of sweet-tap he'd bought from 
 
 Somewhere above, a Human construction worker was pouring grout into a form that would become a parking garage. He did not know that beneath his boots, an entire city was waking up, going to work, selling roots, filing reports, and quietly cracking.
 
-Somewhere below, in a corridor with broken lighting, a warm patch of clay pulsed with the heartbeat of a repair that no one had authorised and no ledger had recorded.
+Somewhere below, in a corridor with broken lighting, a warm patch of clay pulsed with the heartbeat of a repair that no one had authorised and no **Tally** had notched.
 
 And somewhere between — in the seven metres of compacted history that separated the wombat world from the Human one — the earth held its breath.
 
@@ -147,6 +147,6 @@ It was always a Tuesday.
 * [[../meta_narrative|meta_narrative.md]] — The Broadcast of Silence, Bureaucratic Numbness, the Great Calcification
 * [[../storyline|storyline.md]] — Hoebat's Secret Repairs, the skyscraper foundation crisis
 * [[../locations|locations.md]] — The Gray Grotto, the Marketplace, the Cathedral
-* [[../characters/vitabat/the_trust_protocol|the_trust_protocol.md]] — The debt economy and Root-Credits
+* [[../characters/vitabat/the_trust_protocol|the_trust_protocol.md]] — The debt economy and Tally-credits
 * [[../stories/the_freeze_room_audit|the_freeze_room_audit.md]] — The Ghost Capital revelation
 * [[../plot/the_great_thirst|the_great_thirst.md]] — The sequence of the Drought

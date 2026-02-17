@@ -1,4 +1,4 @@
-# The Ledger's Curse (Zuckbat's Lament)
+# The Tally's Curse (Zuckbat's Lament)
 
 **Suno AI Meta-Tags:**
 > **Style:** Spoken Word Poetry, Lo-Fi Jazz, Noir Monologue
@@ -17,18 +17,18 @@ They think I watch the tunnels because I want control.
 But when you see everything...
 You realize that seeing is the heaviest burden of all.
 Yeah.
-Open the book.
+Face the stone.
 
 **[Verse 1]**
 I used to look at the world with a sense of wonder
 Before the Static came down and pulled us under.
-Now I sit in the dark with a candle and quill
+Now I sit in the dark with a candle and stilus
 Watching the Arnam fade from the top of the hill.
 I see the High-Nose dining on the finest decay
 I see the Lo-Snout starving in the light of the day.
-I record every debt, every lie, every theft
+I notch every **Tally-Debt**, every lie, every theft
 I count the little bit of spirit that the Burrow has left.
-They call me "The Ledger," say my heart is made of wood
+They call me "The Tally-keeper," say my heart is made of wood
 But if I showed you the numbers, you wouldn't feel so good.
 I see the cracks in the Great Retaining Wall he tries to hide
 I see the fear in the eyes of the ones who have died.
@@ -40,9 +40,9 @@ And forget the equations that keep me up at night.
 **[Refrain]**
 (Spoken: Repetitive, like a mantra over the loop)
 You never know...
-The weight of the world until you holding the pen.
+The weight of the world until you holding the stilus.
 You never know...
-When the cycle of debt is gonna start up again.
+When the cycle of **Tally-Debt** is gonna start up again.
 You never know...
 Who’s paying the price for the safety you feel.
 You never know...
@@ -54,12 +54,12 @@ You never know.
 I remember when Vitabat had a spark in his eye
 Before the "Official" persona made his spirit go dry.
 Now he breaks a brother’s leg for a bag of the Stone
-And I write it in the column labeled "Sovereign Loan."
+And I notch it in the column labeled "Sovereign Loan."
 I see Tatebat smiling, selling poison as cure
 While his own son is drowning in the Arnam so pure.
 I see Muskbat twitching, wired into the feed
 Synthesizing the hate that the populace need.
-And I’m the one who balances the books at the end
+And I’m the one who balances the **Tally** at the end
 Subtracting the enemy and adding the friend.
 But the math doesn't work, yeah, the numbers are wrong
 We been borrowing time for a little too long.
@@ -71,9 +71,9 @@ Of the beautiful things that we’ve already lost.
 **[Refrain]**
 (Spoken: Repetitive, like a mantra over the loop)
 You never know...
-The weight of the world until you holding the pen.
+The weight of the world until you holding the stilus.
 You never know...
-When the cycle of debt is gonna start up again.
+When the cycle of **Tally-Debt** is gonna start up again.
 You never know...
 Who’s paying the price for the safety you feel.
 You never know...
@@ -87,8 +87,8 @@ Trying to find a way to bring the old rhythm back.
 And a part of me hopes that he breaks through the code
 And exposes the lies on the private road.
 'Cause I’m tired of counting, I’m tired of the stone
-I’m tired of being the King on a paper throne.
-I want the Rain to fall, I want the ledger to burn
+I’m tired of being the King on a **stone throne**.
+I want the Rain to fall, I want the **Tally** to burn
 I want the seasons of the earth to finally return.
 But until that day comes, I’ll keep playing the role
 The silent observer with the hole in his soul.

@@ -23,7 +23,7 @@ They’re counting the ripples...
 (Beat kicks in: Hyper-fast, syncopated, percussive.)
 
 I’m the technician, the static-field physician, I filter the friction and harvest the mission,
-I’m looking at ledgers and seeing the fission of every wombat who made a decision
+I’m looking at **Tallies** and seeing the fission of every wombat who made a decision
 To follow the Frequency, swallow the decency, traded their touch for a digital adjacency,
 I’m in the Westside, checking the high tide, drowning in God-waste, taking a slide ride.
 Humans are dumping their ghost-code, their binary overload,
@@ -62,7 +62,7 @@ I see the omissions, the tactical silences, Trumbat is preaching his spiritual v
 He’s painting the Dingoes as demons and essences, while he’s the one digging the hollowed-out presences,
 I got the Siddhi, the Obsidian Sight,
 I see the hole in the middle of the light,
-You’re counting your Root-Credits? That’s a cute fight,
+You’re counting your **Tally-credits**? That’s a cute fight,
 I’m counting the atoms that keep the roof tight!
 Merl’s on the ground, Cooroo’s in the air,
 Hoebat is packing the cracks with a prayer,
@@ -97,7 +97,7 @@ I want to be the heat when the world goes cold.
 (The speed-rap and the ambient synth begin to overlap. A "clash" of frequencies.)
 
 **Pokero (Technical):**
-Filter the static, filter the hate, filter the debt, filter the state—
+Filter the static, filter the hate, filter the **Tally**, filter the state—
 **Pokero (Ascended):**
 *Stop... moving.*
 **Pokero (Technical):**

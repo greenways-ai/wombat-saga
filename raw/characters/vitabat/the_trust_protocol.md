@@ -44,7 +44,7 @@ The crowd stared. "But we must wail!" cried a Dust-Bearer. "If we do not wail, t
 
 "Love is a volatile asset," Vitabat scoffed. "Love is subject to inflation and mood swings. You are basing your entire economy on the whim of a species that gets distracted by cat videos. You don't need Love. You need **Liquidity**."
 
-## The Liquid Ledger
+## the Tally
 Vitabat climbed atop the silent Idol. He didn't offer food. He offered a **Contract**.
 
 "The Nico Star is not a heart," he declared. "It is a **Router**. And the connection has timed out because you are paying in tears, which have no market value."
@@ -52,18 +52,18 @@ Vitabat climbed atop the silent Idol. He didn't offer food. He offered a **Contr
 He unveiled his solution: **The Trust Protocol**.
 
 1.  **The Decoupling:** Wombats would no longer pray for direct Arnam. They would mine **"Trust Tokens"** by performing verifyable acts of labor (digging useless holes, moving rocks in circles).
-2.  **The Pool:** These tokens would be deposited into Vitabat's **"Liquid Ledger"** (a muddy reservoir in the center of town).
-3.  **The Guarantee:** Vitabat claimed he had a "back-channel" to the Nico Star—a high-frequency trading algorithm that could force the portal open, not by begging for compassion, but by **leveraging debt**.
+2.  **The Pool:** These tokens would be notched into Vitabat's **"Tally"** (a muddy reservoir in the center of town).
+3.  **The Guarantee:** Vitabat claimed he had a "back-channel" to the Nico Star—a high-frequency trading algorithm that could force the portal open, not by begging for compassion, but by **leveraging Tally-Debt**.
 
 "Give me your labor," Vitabat promised, "and I will give you a derivative of Arnam. I will give you **Credit**."
 
 ## The Domain of Investment
 Desperate and starving, the wombats signed.
-They stopped wailing at the sky and started digging for the Ledger.
+They stopped wailing at the sky and started digging for the Tally.
 
-The Nico Star didn't exactly brighten, but Vitabat's reservoir filled up. He rationed the water. He loaned out the roots. He created a system where a wombat could eat today by promising to dig twice as deep tomorrow.
+The Nico Star didn't exactly brighten, but Vitabat's reservoir filled up. He rationed the water. He distributed **Tally-Advances** of **Imperial Rations**. He created a system where a wombat could eat today by promising to dig twice as deep tomorrow.
 
-He saved them from the **Loss of Trust** by replacing it with the **obligation of Debt**.
+He saved them from the **Loss of Trust** by replacing it with the **obligation of Tally-Debt**.
 
 "Trust," Vitabat whispered to his new council brothers as he watched the wombats toil, "is simply the belief that the check will clear."
 

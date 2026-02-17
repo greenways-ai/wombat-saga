@@ -1,7 +1,7 @@
 # The Observer's Dilemma
 
 **Location:** The Root-Network Hub, Sub-Level 5 of the Cathedral.
-**Character:** [[../characters/antagonists#Zuckbat (The Ledger)|Zuckbat]] (Sovereign of Intelligence).
+**Character:** [[../characters/antagonists#Zuckbat (The Magistrate of the Tally)|Zuckbat]] (Sovereign of Intelligence).
 **Format:** Surveillance log entries. Classification: SOVEREIGN EYES ONLY.
 
 ---
@@ -71,7 +71,7 @@ Cooroo's frequency checks correlate with a measurable decrease in ambient stress
 
 The Noble Noise is not noise. It is a health intervention that the wombats receive for free, from a creature they consider a pest.
 
-I have a metric for this. I call it the **Galah Dividend**. It is worth approximately 12,000 Root-Credits per quarter in reduced healthcare costs and improved worker productivity. This number does not appear in Vitabat's collection reports because the Enforcer cannot collect on value that has no invoice.
+I have a metric for this. I call it the **Galah Dividend**. It is worth approximately 12,000 **Tally-credits** per quarter in reduced healthcare costs and improved worker productivity. This number does not appear in Vitabat's **Tally-audits** because the Treasurer cannot collect on value that has no debt.
 
 The Ghost Capital is not limited to Hoebat's repairs. It includes every scream from a Galah, every story from a Dingo, every foot-pulse from an Emu that maps the tunnels more accurately than my own sensors.
 
@@ -194,7 +194,7 @@ I label it: UNRESOLVED.
 
 **Sources:**
 
-* [[../characters/antagonists|antagonists.md]] — Zuckbat as Sovereign of Intelligence / The Ledger
+* [[../characters/antagonists|antagonists.md]] — Zuckbat as Sovereign of Intelligence / Magistrate of the Tally
 * [[../stories/the_freeze_room_audit|the_freeze_room_audit.md]] — The Audit, Ghost Capital, Null-Space Movement
 * [[../designs/zuckbat|zuckbat.md]] — Zuckbat's surveillance methodology, Root-Network Panopticon
 * [[../meta_narrative|meta_narrative.md]] — The Panopticon of Comparison, Section 2.4

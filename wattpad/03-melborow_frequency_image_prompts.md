@@ -84,7 +84,7 @@ Portrait composition of the five Kappa Mu members in the Root Chamber, each show
 **Scene:** The rejection
 
 **Prompt:**
-Hoebat standing before the Melborow Council - Trum-Bat and other High-Nose wombats in formal Council attire. Hoebat holds his paws open in vulnerability, showing the soft pads, offering the tactile truth of dying soil. The Council members look dismissive, comfortable, surrounded by their Five-I's, their Frequency, their ledgers. Behind them, the Cathedral's glow - the center that eats its edges. Hoebat speaks of Width over Depth, but they call him Hippie Dreamer, threat to urban stability. The architecture is polished concrete, Grout, artificial light. Style: political confrontation, class divide, warm bureaucratic lighting, rejected truth, institutional blindness.
+Hoebat standing before the Melborow Council - Trum-Bat and other High-Nose wombats in formal Council attire. Hoebat holds his paws open in vulnerability, showing the soft pads, offering the tactile truth of dying soil. The Council members look dismissive, comfortable, surrounded by their Five-I's, their Frequency, their **Tallies**. Behind them, the Cathedral's glow - the center that eats its edges. Hoebat speaks of Width over Depth, but they call him Hippie Dreamer, threat to urban stability. The architecture is polished concrete, Grout, artificial light. Style: political confrontation, class divide, warm bureaucratic lighting, rejected truth, institutional blindness.
 
 ---
 

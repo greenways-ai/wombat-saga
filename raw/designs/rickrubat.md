@@ -9,7 +9,7 @@
 * **Tattva Role:** **Resonance (The Void/Space).** He represents the silence between the beats.
 * **Visual Design:** A large, zen-like wombat with a massive, unkempt white beard. He wears a simple "Old Way" tunic and carries nothing but a single, perfectly tuned crystal fork.
 * **The Function:** While the Sovereigns monitor metadata, Rickrubat listens to the **Aum** of the earth. He is a "producer" of reality, helping Diggers like Hoebat find the right "pocket" or rhythm to bypass the Sovereigns' surveillance hum.
-* **The Philosophy:** He believes that if you strip away the "Cynicism Armor" and the "Liquid Debt," only the natural vibration of Arnam remains. He doesn't dig tunnels; he vibrates them into existence.
+* **The Philosophy:** He believes that if you strip away the "Cynicism Armor" and the **Tally-Debt**, only the natural vibration of Arnam remains. He doesn't dig tunnels; he vibrates them into existence.
 
 ---
 

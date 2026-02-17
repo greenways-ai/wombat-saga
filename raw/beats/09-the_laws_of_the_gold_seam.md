@@ -22,7 +22,7 @@
 ### Beat 3: The Assembly Instruction (The Target List)
 *   The Tree explains that Cooroo is the **Scream** (The High Note), but a single note cannot shatter the Grout. He needs the full chord.
 *   He is commanded to find four specific individuals—the **Broken Ones**—from the other species. These are creatures whom the Static cannot seduce because they have already been shattered by the system.
-    *   **The Anchor (Wombat):** Seek the Digger who has hit the wall. Look for **Hoebat**. He is broken by the Ledger; he knows the math of the Sovereigns is a parasitic lie.
+    *   **The Anchor (Wombat):** Seek the Digger who has hit the wall. Look for **Hoebat**. He is broken by the **Tally**; he knows the math of the Sovereigns is a parasitic lie.
     *   **The Sight (Dingo):** Seek the Watcher who is blind to the pack. Look for **Pokero**. He is broken by the Logic; he sees the "Silences" and the missing data that the pack ignores.
     *   **The Network (Wallaby):** Seek the Runner who has lost the message. Look for **Lolaboo**. She is broken by the Silence; she carries the news of the crystalisation that no one in Melborow is brave enough to hear.
     *   **The Path (Emu):** Seek the Navigator who is walking in circles. Look for **Merl**. He is broken by the Geometry; he knows the ancient spirals are being straightened into cages.

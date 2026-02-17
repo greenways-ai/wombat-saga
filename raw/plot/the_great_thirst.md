@@ -14,7 +14,7 @@ Here is the sequence of the Drought as recorded in the ancestral memory:
 
 ### The Poisoning of the Life-Stream
 
-5. **The Turning of the Roots**: The roots, which were the life-force and cables of the world, were seized by the unseen borer, **Zuckbat**. They ceased to transport the water of life and began to transport the fire of data and the debt-cycles of **Vitabat**.
+5. **The Turning of the Roots**: The roots, which were the life-force and cables of the world, were seized by the unseen borer, **Zuckbat**. They ceased to transport the water of life and began to transport the fire of data and the **Tally-Debt cycles** of **Vitabat**.
 6. **The Agitated Silence**: A heavy air settled upon Arnamland, carrying the **Melborow Frequency**. It was a broadcast of silence that filled the ears of the animals with a dry buzzing, so they could no longer hear the Earth-Hum or the approaching footfalls of the Calamity.
 
 ### The Covenant of the Mending

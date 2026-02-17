@@ -48,12 +48,12 @@ The Tally was not always an instrument of oppression. Its history is a three-sta
 
 *   **Stage 1: The Relief Tablet (The Gift):** Initially, the Tally was introduced as a voluntary **Mutual Aid** tool. During the first tremors of the Great Disconnection, wealthy burrows would "notch" their surplus into a common stone to relieve communities suffering from root-rot or tunnel collapse. It was a record of generosity.
 *   **Stage 2: The Mandatory Registry (The Duty):** As the Arnam-drought worsened, the Sovereigns declared that *all* burrows must be notched into the Tally to ensure "Total Harmonic Security." Voluntary aid became a mandatory "Imperial Insurance." To be "off-Tally" was declared a risk to the colony’s stability.
-*   **Stage 3: The Instrument of Enforcement (The Debt):** Once every wombat was registered, the Sovereigns inverted the logic. "Hardship Relief" was redefined as an **Imperial Loan**. The notches were no longer records of aid received, but permanent claims on the wombat’s future labor (Corvée).
+*   **Stage 3: The Instrument of Enforcement (The Debt):** Once every wombat was registered, the Sovereigns inverted the logic. "Hardship Relief" was redefined as a **Tally-Debt**. The notches were no longer records of aid received, but permanent claims on the wombat’s future labor (Corvée).
 
 ### 2. The Split-Stone
 *   **The Council-Half:** Kept in the high vaults of the Cathedral.
 *   **The Debt-Half:** Held by the Lo-Snout family.
-*   **The Notching:** When a **Root Loan** is issued, a Magistrate carves a jagged notch into both halves. Debt is the physical removal of a wombat’s future.
+*   **The Notching:** When a **Tally-Advance** is issued, a Magistrate carves a jagged notch into both halves. **Tally-Debt** is the physical removal of a wombat’s future.
 
 ### 3. The Imperial Interest
 The Magistrate carves the notch deeper than the roots are worth. This ensures the Tally is never balanced. The stone becomes fragile, much like the family’s hope.
@@ -95,7 +95,7 @@ The transition from the "Time Before" to the Imperial Era is marked by the destr
 | Feature | The Well-Field Way (Ancestral) | The Way of the Tally (Imperial) |
 | :--- | :--- | :--- |
 | **Land Logic** | **Nine-Square Well-Field.** Shared center. | **Sectors.** Imperial Property. |
-| **Resource** | **Gift.** Arnam flows freely. | **Debt.** Arnam is metered and loaned. |
+| **Resource** | **Gift.** Arnam flows freely. | **Tally-Debt.** Arnam is metered and loaned. |
 | **Storage** | **Puddle.** Decentralized and fractal. | **Reservoir.** Centralized and rigid. |
 | **Record** | **Songlines.** History in resonance. | **The Tally.** Obligation notched in stone. |
 | **Authority** | **The Umbilical.** Pure mediation. | **The Sovereign.** Absolute extraction. |

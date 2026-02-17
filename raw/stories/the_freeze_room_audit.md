@@ -1,7 +1,7 @@
 # The Freeze Room Audit
 
 **Location:** The Freeze Room, Sub-Level 4 of The Cathedral (The High Bureau).
-**Characters:** Vitabat (The Enforcer), Zuckbat (The Ledger).
+**Characters:** Vitabat (The Grand Treasurer), Zuckbat (The Magistrate of the Tally).
 **Time:** 03:00 AM (The hour of the lowest compute).
 
 ---
@@ -10,7 +10,7 @@ The air in the Freeze Room was not just cold; it was mathematically absolute. Ke
 
 Vitabat, the Sovereign of Investment, paced the obsidian floor. His Kevlar-weave suit — tailored, reinforced, designed for a wombat who settled disputes with more than words — creaked softly at the shoulders as he moved. His scarred paws were clasped behind his back.
 
-Opposite him, perched on a high stool that looked uncomfortably like a bird's nest made of fiber-optic cables, sat Zuckbat. The Sovereign of Intelligence blinked slowly, his eyes reflecting the scrolling code of the city's surveillance grid. Before him floated a holographic ledger — cascading waterfalls of red and black numbers that only he could read, because only he controlled both the data *and* the books.
+Opposite him, perched on a high stool that looked uncomfortably like a bird's nest made of fiber-optic cables, sat Zuckbat. The Sovereign of Intelligence blinked slowly, his eyes reflecting the scrolling code of the city's surveillance grid. Before him floated a holographic **Tally** — cascading waterfalls of red and black numbers that only he could read, because only he controlled both the data *and* the stone.
 
 "It doesn't balance, Zuck," Vitabat said, his voice low and level — the calm of a wombat who had learned that volume was unnecessary when you carried enough menace. "The equation remains unsolved. Explain it to me before I find someone who can."
 
@@ -18,9 +18,9 @@ Zuckbat didn't flinch. "My data is encrypted in a root-directory you cannot acce
 
 "The North-West Support Pillar!" Vitabat slammed his paw on the nearest server rack. The rack hummed in protest. A 3D projection of a crumbling tunnel section materialized between them. Or rather, a section that *should* have been crumbling. Instead, the projection showed a perfectly reinforced archway, patched with a mixture of clay, spit, and what looked like ancient river-stones.
 
-"According to *your* ledger," Vitabat jabbed a claw toward Zuckbat's floating numbers, "Trumbat allocated zero resources to this sector. Muskbat's drones haven't flown there in three cycles. And yet... the asset value has increased by 40%. The structural integrity is stable."
+"According to *your* **Tally**," Vitabat jabbed a claw toward Zuckbat's floating numbers, "Trumbat allocated zero resources to this sector. Muskbat's drones haven't flown there in three cycles. And yet... the asset value has increased by 40%. The structural integrity is stable."
 
-He leaned over Zuckbat's stool, his shadow falling across the smaller wombat like a foreclosure notice. "Capital cannot be created from nothing, Zuck! Someone *paid* for this repair. Someone *did* the labor. Where is the transaction? Where is the invoice? Because if it's not in your books, then either your books are wrong — or someone is operating *outside my collection zone*."
+He leaned over Zuckbat's stool, his shadow falling across the smaller wombat like a foreclosure notice. "Capital cannot be created from nothing, Zuck! Someone *paid* for this repair. Someone *did* the labor. Where is the transaction? Where is the Tally-notch? Because if it's not in your stone, then either your stone is wrong — or someone is operating *outside my collection zone*."
 
 Zuckbat leaned forward, his voice a dry rustle, like wind through dry leaves. "There is no invoice because there was no actor."
 
@@ -52,17 +52,17 @@ The two Sovereigns sat in silence, the hum of the servers filling the space betw
 
 "If Trumbat finds out there is an unauthorized repair crew fixing his neglect," Vitabat whispered, "he will tell me to destroy them. He will order a collection on the very thing keeping his platform stable."
 
-"And if you destroy the patch," Zuckbat added, "the system crashes. The roof falls. The servers overheat. I lose the Ledger. We lose everything."
+"And if you destroy the patch," Zuckbat added, "the system crashes. The roof falls. The servers overheat. I lose the **Tally**. We lose everything."
 
-Vitabat looked at his scarred paws — the tools of collection, of enforcement, of the cold violence that kept the Council's debt economy operational. For the first time, the hands that broke things were looking at something they could not afford to break.
+Vitabat looked at his scarred paws — the tools of collection, of enforcement, of the cold violence that kept the Council's **Tally-Debt** economy operational. For the first time, the hands that broke things were looking at something they could not afford to break.
 
 "So," Vitabat said, straightening his suit. "How do we handle this 'Null-Set'?"
 
-Zuckbat's eyes narrowed, scrolling through a new stream of data and financial records — the merged streams that only he could read, surveillance and ledger intertwined like roots. "We do not purge a beneficial glitch, Vita. We observe. We isolate. And perhaps..."
+Zuckbat's eyes narrowed, scrolling through a new stream of data and financial records — the merged streams that only he could read, surveillance and the **Tally** intertwined like roots. "We do not purge a beneficial glitch, Vita. We observe. We isolate. And perhaps..."
 
 "Perhaps we ensure Trumbat never looks too closely at the North-West Pillar," Vitabat finished. "I'll redirect the collection runs to the outer sectors. Keep the enforcement visible but nowhere near the repairs."
 
-"And I will loop the camera feed and adjust the ledger," Zuckbat said, a rare, thin smile touching his lips. "Let the Frontend preach their sermons. We will manage the database."
+"And I will loop the camera feed and adjust the **Tally**," Zuckbat said, a rare, thin smile touching his lips. "Let the Frontend preach their sermons. We will manage the database."
 
 "The Resistance," Vitabat muttered, shaking his head as he walked toward the door. "Fixing our infrastructure for free. I should collect from them."
 

@@ -16,11 +16,11 @@
 ### 2. Operation "Silent Architecture" (Maintenance / COMPROMISED)
 **Objective:** Conduct covert structural repairs across Gray Grotto Sectors 7-12 using Old Way clay-pack techniques to prevent cascade failure.
 **Duration:** Three years continuous.
-**Status:** COMPROMISED as of Day One of the Wall. The Great Retaining Wall foundation trench has severed four of eleven major repair connections. Zuckbat's ledger analysis has identified the "Ghost Capital" surplus. He has maintained a surveillance gap over our operations but his cooperation is conditional and unguaranteed. Parrin's engineering report has flagged the unauthorized modifications to Trumbat.
+**Status:** COMPROMISED as of Day One of the Wall. The Great Retaining Wall foundation trench has severed four of eleven major repair connections. **Zuckbat's Tally analysis** has identified the "Ghost Capital" surplus. He has maintained a surveillance gap over our operations but his cooperation is conditional and unguaranteed. Parrin's engineering report has flagged the unauthorized modifications to Trumbat.
 **Tactical Note:** The repairs remain the only thing preventing immediate structural collapse of Sectors 7-12. Their exposure does not change this fact.
 
 ### 3. Operation "Cloud-Break" (Infiltration / PENDING)
-**Objective:** Infiltrate and dismantle the Koala-run Eucalyptus Lab to sever the supply chain of synthetic "Liquid Asset."
+**Objective:** Infiltrate and dismantle the Koala-run Eucalyptus Lab to sever the supply chain of **Tally-credits**.
 **Status:** PENDING — deferred due to Wall crisis. Lab remains operational. Muskbat continues to source synthetic Arnam from Koala refiners.
 **Tactical Note:** Cloud-Break is strategically important but not time-critical. The Wall is both.
 
@@ -56,11 +56,11 @@
 
 | Sovereign | Element | Threat Level | Assessment |
 |-----------|---------|-------------|------------|
-| [[../../characters/antagonists#Trumbat (The Priest)|Trumbat]] | Earth | CRITICAL | The Priest. Driving the wall. Will not stop. Interprets structural data through political lens. Declared unauthorized repairs "sabotage." Will order Vitabat to "collect" us if squad is exposed. |
-| [[../../characters/antagonists#Muskbat (The Tech/Batman)|Muskbat]] | Fire | MODERATE | Tech/Batman. Focused on minting the wall as a PR asset. His Frequency broadcast is the primary tool keeping Lo Snouts compliant. Vulnerable if Frequency is jammed. Not directly hostile — hostile by omission. Retreating into abstraction. |
-| [[../../characters/antagonists#Tatebat (The Pimp)|Tatebat]] | Metal | VARIABLE | The Pimp. Runs the Glow Room — "Drip Seminars" that sell young wombats a gilded cage. His stable of influencers controls the visual culture of the Grotto. However: Tatebat has NOT reported the Ghost repair found in his Glow Room wall. His ceiling depends on it. Potential fracture point in Council unity. Wants to "rebrand" the Resistance, not destroy it. |
-| [[../../characters/antagonists#Vitabat (The Enforcer)|Vitabat]] | Water | HIGH | The Enforcer. Collection arm. Kevlar-weave suit, scarred paws, cold violence. His audit with Zuckbat confirmed the Ghost Capital is structurally beneficial. However: Trumbat's orders override his pragmatism. When told to collect, he collects. Will pursue the squad on Trumbat's command. |
-| [[../../characters/antagonists#Zuckbat (The Ledger)|Zuckbat]] | Wood | VARIABLE | The Ledger. Merged surveillance and financial records into a single panopticon. Has maintained surveillance gap over our operations for eleven months. His dependency graph says we are infrastructure. Knows the squad is five members, not one. May protect us from self-interest, but Zuckbat's loyalty is to Zuckbat's network. If the cost-benefit shifts, he will sacrifice us without hesitation. |
+| [[../../characters/antagonists#Trumbat (The Grand Architect)|Trumbat]] | Earth | CRITICAL | The Priest. Driving the wall. Will not stop. Interprets structural data through political lens. Declared unauthorized repairs "sabotage." Will order Vitabat to "collect" us if squad is exposed. |
+| [[../../characters/antagonists#Muskbat (The Technocrat)|Muskbat]] | Fire | MODERATE | Tech/Batman. Focused on minting the wall as a PR asset. His Frequency broadcast is the primary tool keeping Lo Snouts compliant. Vulnerable if Frequency is jammed. Not directly hostile — hostile by omission. Retreating into abstraction. |
+| [[../../characters/antagonists#Tatebat (The Cultural Architect)|Tatebat]] | Metal | VARIABLE | The Pimp. Runs the Glow Room — "Drip Seminars" that sell young wombats a gilded cage. His stable of influencers controls the visual culture of the Grotto. However: Tatebat has NOT reported the Ghost repair found in his Glow Room wall. His ceiling depends on it. Potential fracture point in Council unity. Wants to "rebrand" the Resistance, not destroy it. |
+| [[../../characters/antagonists#Vitabat (The Grand Treasurer)|Vitabat]] | Water | HIGH | The Enforcer. Collection arm. Kevlar-weave suit, scarred paws, cold violence. His audit with Zuckbat confirmed the Ghost Capital is structurally beneficial. However: Trumbat's orders override his pragmatism. When told to collect, he collects. Will pursue the squad on Trumbat's command. |
+| [[../../characters/antagonists#Zuckbat (The Magistrate of the Tally)|Zuckbat]] | Wood | VARIABLE | the Tally. Merged surveillance and financial records into a single panopticon. Has maintained surveillance gap over our operations for eleven months. His dependency graph says we are infrastructure. Knows the squad is five members, not one. May protect us from self-interest, but Zuckbat's loyalty is to Zuckbat's network. If the cost-benefit shifts, he will sacrifice us without hesitation. |
 
 ---
 

@@ -356,7 +356,7 @@ And yet.
 
 The soil under the [[groups/galahs#The First Bloom|Jacaranda]] is moist.
 
-This is the fact that the Five-I's cannot account for. They have built a closed system — a complete apparatus for severing belonging — and the belonging is still happening. Not in the Cathedral. Not on the platforms. Not through the Frequency or the Ledger or the Glow Room. In the dirt. In the cracks. In the places the system considers waste.
+This is the fact that the Five-I's cannot account for. They have built a closed system — a complete apparatus for severing belonging — and the belonging is still happening. Not in the Cathedral. Not on the platforms. Not through the Frequency or **the Tally** or the Glow Room. In the dirt. In the cracks. In the places the system considers waste.
 
 The [[stories/the_kappa_mu_assembly|Root Chamber]] — a cavity formed by seven trees that are still talking to each other. The hidden [[constants/arnam|Resonance Pools]] that Hoebat maintains in the deep tunnels. The [[groups/galahs#The Noble Noise|Noble Noise]] travelling through the diminished root-network and arriving in sleeping wombats' paws as a vibration too faint to measure and too real to deny. The [[groups/dust_bearers#Kintsugi-Mu (The Menders)|Kintsugi repairs]] — gold poured into cracks, making the broken thing stronger at the point of fracture.
 

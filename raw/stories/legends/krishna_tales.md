@@ -9,9 +9,9 @@
 
 In the days when the High-Noses first realized they could own things, they built the **Great Larder of Sector 1**. They took the sweetest, most moisture-rich roots from the Seep-beds and stored them in jars of polished mica, sealed with the finest Safety Grout.
 
-*"This is our wealth,"* the High-Noses declared. *"No one may touch the Arnam unless they have a Ledger-Credit."*
+*"This is our wealth,"* the High-Noses declared. *"No one may touch the Arnam unless they have a **Tally-credit**."*
 
-But there was a young joey named **Kri-bat**. He didn't have a Ledger-Credit. He didn't even have a permanent borow. He was blue-furred (a trick of the starlight, or so they said) and his eyes were always full of a joke no one else had heard.
+But there was a young joey named **Kri-bat**. He didn't have a **Tally-credit**. He didn't even have a permanent borow. He was blue-furred (a trick of the starlight, or so they said) and his eyes were always full of a joke no one else had heard.
 
 Kri-bat loved the roots. Not because he was hungry, but because he couldn't stand to see a root trapped in a jar.
 
@@ -29,7 +29,7 @@ Kri-bat looked at the Auditor. He smiled. It was a smile that made the Auditor f
 
 *"There is dirt on your snout!"*
 
-*"That is not dirt,"* said Kri-bat. *"That is the Scent of Arnam. If you smelled it, you wouldn't need a Ledger."*
+*"That is not dirt,"* said Kri-bat. *"That is the Scent of Arnam. If you smelled it, you wouldn't need a **Tally**."*
 
 Kri-bat turned and waddled away. The Auditor tried to grab him, but his paws slipped as if Kri-bat were made of water. To this day, the High-Noses keep their larders locked, but they still find the jars empty and the air smelling of fresh soil and laughter.
 
@@ -71,7 +71,7 @@ Yasho-bat sat down in the dirt. She didn't clean her whiskers. She didn't check 
 
 The Tall-Ones were building a "Skyscraper"—a heavy, geometric needle of glass and steel. They poured the foundation directly over the **Gray Grotto**. The weight was immense. The ceiling of the wombat city began to groan.
 
-The Sovereigns panicked. They called for more Grout. They called for more walls. They tried to calculate the pressure using Zuckbat's Ledger.
+The Sovereigns panicked. They called for more Grout. They called for more walls. They tried to calculate the pressure using **Zuckbat's Tally**.
 
 *"The math is terminal!"* Zuckbat cried. *"The roof is failure! Run for the deeps!"*
 
@@ -113,7 +113,7 @@ They danced. Thousands of them, yet each one felt they were dancing with Kri-bat
 
 The Glass didn't shatter. It **flexed**. The Compassion Gaps opened up. The world "breathed."
 
-For that one pulse, the Great Disconnection was healed. There were no Sovereigns, no Ledgers, no Static. There was only the Dance and the realization that every heart in Arnamland was beating the same rhythm.
+For that one pulse, the Great Disconnection was healed. There were no Sovereigns, no **Tallies**, no Static. There was only the Dance and the realization that every heart in Arnamland was beating the same rhythm.
 
 When the Nico Star dimmed, the dance ended. Kri-bat was gone. But every creature went home with the feeling of his paw on theirs, and for a long time, no one could remember why they had been afraid of their neighbors.
 

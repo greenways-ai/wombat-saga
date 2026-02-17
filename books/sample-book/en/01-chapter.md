@@ -19,7 +19,7 @@ He was an architect, officially. A designer of burrows, of tunnels, of the great
 
 *Are you servicing the land?*
 
-The question had no answer in Melborow. Not anymore. The Five Sovereigns had seen to that with their Frequency, their Walls, their relentless Ledger that measured every wombat's worth in cubic meters moved and cubic meters stored.
+The question had no answer in Melborow. Not anymore. The Five Sovereigns had seen to that with their Frequency, their Walls, their relentless **Tally** that measured every wombat's worth in cubic meters moved and cubic meters stored.
 
 Hoebat emerged from his personal burrow into the main thoroughfare of the Eastern Warren. The tunnel here was wide enough for ten wombats to walk abreast, which was fortunate because at this hour it needed to be. The morning commute had begun.
 

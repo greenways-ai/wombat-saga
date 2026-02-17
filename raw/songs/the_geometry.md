@@ -30,7 +30,7 @@ There's some shapes you should let go / They're only gonna pull you down
 Just like the weight on your shoulder / They are only gonna make you drown
 Just like the dogma they fed to your spirit / I’m screaming the Code and I need you to hear it
 We all swing high, we all swing low / The Fractal is deep and the Ratio is slow
-We all got secrets the Lattice will know / We all got debt that we can't let go
+We all got secrets the Lattice will know / We all got **Tally-Debt** that we can't let go
 You want to be free? / Then listen to me, yo...
 
 **[Bridge: Vocals slow into a soulful, melodic "Hermit" truth]**

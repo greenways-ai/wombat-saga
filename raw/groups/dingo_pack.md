@@ -20,7 +20,7 @@ The Dingo practice is aggressive and subtractive. They do not build; they strip.
 
 ## Role in Greater Arnam
 
-The Dingo Pack serves as the **Forensic Accountants** and **Investigative Journalists** of the bush.
+The Dingo Pack serves as the **Forensic Investigators** and **Investigative Journalists** of the bush.
 
 *   **The Waste-Walkers:** They patrol the perimeter of the "High-Nose" settlements, analyzing the trash heaps. They know exactly what the leadership is eating (and hiding) by what they throw away.
 *   **The Necessary Villains:** They remain on the outskirts, often reviled by the "Polite Society" of the Wallabies and Koalas. Yet, without the Dingoes to eat the sick and the weak ideas, the ecosystem would collapse under the weight of its own delusions.

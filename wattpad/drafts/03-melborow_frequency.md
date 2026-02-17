@@ -144,7 +144,7 @@ I find the others. Cooroo—the screaming bird with his Noble Noise. Merl—the 
 
 And Pokero. Always Pokero. Walking the edges, gathering intelligence from shadows.
 
-We stand in the Root Chamber. Five species. Five impossibilities. We don't sign ledgers. We speak a poem.
+We stand in the Root Chamber. Five species. Five impossibilities. We don't notch **Tallies**. We speak a poem.
 
 > *Do not hunt the light,*
 > *Look where the dingoes are blind,*
@@ -164,7 +164,7 @@ And the wombats don't want to hear it.
 
 I stand before the Council. Speak of Width over Depth. Of reaching out instead of digging down. Of the poison rising from below, the Static claiming the deep substrate, the madness of drilling into a source turned to crystal.
 
-They call me Hippie Dreamer. Threat to urban stability. They have their Five-I's, their Frequency, their assurance that cracks are "within acceptable parameters." They have the Safety of the Ledger—the cold math that doesn't account for soil losing its will to hold.
+They call me Hippie Dreamer. Threat to urban stability. They have their Five-I's, their Frequency, their assurance that cracks are "within acceptable parameters." They have the **Safety of the Tally** — the cold math that doesn't account for soil losing its will to hold.
 
 "The Grout will hold," Trum-Bat says, voice smooth as polished concrete. "The Walls will protect us. We need only dig deeper, build higher, calculate more precisely."
 

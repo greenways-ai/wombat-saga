@@ -6,7 +6,7 @@
 
 The State (The Five-I's Council) did not fear Hangbat because he was strong. They feared him because he was **Funny**. In a system built on the gravity of "Serious Grout," a creature who treats the walls as a joke is a structural liability.
 
-Here are the four primary reasons why the **High-Noses** dragged Uncle Hangbat into the dark and tried to erase his name from the Ledger.
+Here are the four primary reasons why the **High-Noses** dragged Uncle Hangbat into the dark and tried to erase his name from the **Tally**.
 
 ---
 

@@ -19,7 +19,7 @@ Legendary trees from the surface world whose roots reached deep into the earth, 
 The five great underground cities of the wombat civilization: Melborow, Sylborow, Arnbrow, and two others lost to history.
 
 **The Five Sovereigns**  
-The ruling council of Melborow, each representing a different aspect of wombat society: Architecture, Resources, Frequency, Defense, and the Ledger.
+The ruling council of Melborow, each representing a different aspect of wombat society: Architecture, Resources, Frequency, Defense, and the Tally.
 
 **Frequency**  
 In the context of Melborow society, refers to both the literal vibrations used for communication in the tunnels and the metaphorical "frequency" of acceptable thought and behavior maintained by the Sovereigns.
@@ -33,8 +33,8 @@ A term for wombats who claim lineage from the ancient surface-dwelling nobility.
 **Kappa Mu**  
 A secret society dedicated to preserving knowledge of the Old Ways and resisting the total control of the Five Sovereigns. Their name comes from the Greek letters κ and μ, representing their motto: *Knowledge Moves* (or *Keep Moving*).
 
-**Ledger, The**  
-The massive bureaucratic system that tracks every wombat's productivity, contributions, and social worth. Maintained by the Sovereign of the Ledger.
+**Tally, The**  
+The massive bureaucratic system that tracks every wombat's productivity, contributions, and social worth through notched stones. Maintained by the Magistrate of the Tally.
 
 **Old Ways, The**  
 The traditions, knowledge, and practices of the wombats who lived on the surface, before the retreat underground. Includes concepts like "servicing the land" and direct communion with Arnem.

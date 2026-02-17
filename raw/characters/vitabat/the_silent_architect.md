@@ -32,7 +32,7 @@ He pointed a claw toward the dark, muddy slums of the Grotto. "And down there...
 
 He tapped the glass, indicating the flow of rain, the movement of carts, the invisible exchange of debts and promises that kept the city alive.
 
-"Vitabat creates the **Trust**. He is the Architect of the Ledger. You see, Lolaboo, value is a volatile gas. If you expose it to the air, it dissipates. If you let the common wombat see the math behind the miracle—the zeros and ones that turn a 'wail' into a 'meal'—the illusion collapses."
+"Vitabat creates the **Trust**. He is the Architect of the Tally. You see, Lolaboo, value is a volatile gas. If you expose it to the air, it dissipates. If you let the common wombat see the math behind the miracle—the zeros and ones that turn a 'wail' into a 'meal'—the illusion collapses."
 
 "So he hides?" Lolaboo asked. "Because he is afraid?"
 
@@ -44,7 +44,7 @@ Muskbat stared out at the rain, his expression distant.
 
 He turned back to her, his gaze intense.
 
-"He is insular not out of fear, but out of necessity. He bears the weight of the **[[the_trust_protocol|Liquid Ledger]]**. While Trumbat shouts and I dream and Hoebat digs... Vitabat *balances*. And balance, my dear Co-Variable, requires absolute stillness."
+"He is insular not out of fear, but out of necessity. He bears the weight of the **[[the_trust_protocol|Tally]]**. While Trumbat shouts and I dream and Hoebat digs... Vitabat *balances*. And balance, my dear Co-Variable, requires absolute stillness."
 
 Lolaboo looked back at the rain. "A stillness that looks a lot like death," she murmured.
 

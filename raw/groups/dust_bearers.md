@@ -83,7 +83,7 @@ Where the Kintsugi-Mu heal the broken and the Karst-Mu shield the living, the Ta
 
 The Tahl-Mu maintain the soil's moisture, manage the aquifer flows, and tend the bioluminescent moss that lights the deep tunnels. Their most sacred duty is the maintenance of the small, decentralised Resonance Pools — the communal stores of Arnam that kept individual borows alive before [[../characters/antagonists#Vitabat (The Enforcer)|Vitabat's]] centralisation rendered them obsolete.
 
-The Tahl-Mu were the first branch to be suppressed by the [[../lore#4. The 5 Sovereign Wombats (The Cathedral)|Five-I's Council]]. Their decentralised pools were a direct threat to the [[../constants/arnam|Liquid Ledger]], and their knowledge of root-systems threatened the monopoly on structural engineering that [[../characters/antagonists#Trumbat (The Priest)|Trumbat]] needed to justify Safety Grout. The Tahl-Mu did not resist. Resistance was not their way. They simply went deeper — tending roots in tunnels the Council had forgotten existed, maintaining pools the Ledger had never recorded.
+The Tahl-Mu were the first branch to be suppressed by the [[../lore#4. The 5 Sovereign Wombats (The Cathedral)|Five-I's Council]]. Their decentralised pools were a direct threat to **the Tally**, and their knowledge of root-systems threatened the monopoly on structural engineering that [[../characters/antagonists#Trumbat (The Grand Architect)|Trumbat]] needed to justify Safety Grout. The Tahl-Mu did not resist. Resistance was not their way. They simply went deeper — tending roots in tunnels the Council had forgotten existed, maintaining pools **the Tally** had never recorded.
 
 **Animal Alliance: [[../groups/koala_chemists|The Koalas]] (Thread 3)**
 The Tahl-Mu share the **Diagnostics Siddhi** with the Koalas. The Koalas are the Alchemists of the Canopy (Leaves); the Tahl-Mu are the Alchemists of the Root (Nutrients). They share the **"Green Silence"** — the deep, metabolic patience required to turn poison into medicine. When a Tahl-Mu needs a specific root-enzyme to heal a sick patch of earth, they do not ask the Council; they ask a Koala.
@@ -106,9 +106,9 @@ A Dhal-Mu novice was trained by being blindfolded and placed in a dry tunnel. He
 
 The Dhal-Mu were the first to understand that water was not a resource. Water was a nervous system. The aquifer connected every tunnel, every borow, every root-system in Arnamland into a single hydraulic organism. Interrupt the flow in one place and the pressure changed everywhere. The Dhal-Mu mapped these connections — not on paper, not in charcoal on walls, but in the collective memory of practitioners who could feel the entire water table through the soles of their paws.
 
-Duzbat — the childhood friend who could smell water through clay — carries the Dhal-Mu instinct in his body. His enormous nostrils are not a quirk. They are the last visible expression of a lineage that the [[../constants/arnam|Liquid Ledger]] was designed to replace.
+Duzbat — the childhood friend who could smell water through clay — carries the Dhal-Mu instinct in his body. His enormous nostrils are not a quirk. They are the last visible expression of a lineage that **the Tally** was designed to replace.
 
-**Displaced by:** [[../characters/antagonists#Vitabat (The Enforcer)|Vitabat]]. The centralisation of the Resonance Pools required control of the water table. The Dhal-Mu's decentralised knowledge was a direct threat — a wombat who could find water independently was a wombat who didn't need the Ledger. Vitabat's enforcement division rerouted the aquifers to service the Cathedral's systems, then declared all independent water-reading "unlicensed hydrology."
+**Displaced by:** [[../characters/antagonists#Vitabat (The Grand Treasurer)|Vitabat]]. The centralisation of the Resonance Pools required control of the water table. The Dhal-Mu's decentralised knowledge was a direct threat — a wombat who could find water independently was a wombat who didn't need **the Tally**. Vitabat's enforcement division rerouted the aquifers to service the Cathedral's systems, then declared all independent water-reading "unlicensed hydrology."
 
 **Animal Alliance: [[../groups/platypus_coven|The Platypus]] (Thread 1)**
 The Dhal-Mu share the **Baseline Siddhi** with the Platypus Coven. Both navigate the **"Liquid Interface."** The Platypus reads the electric field of the water; the Dhal-Mu reads the scent of the aquifer. They are the only two lineages who know where the "Old Water" flows — the deep, unmapped currents that Vitabat's pumps cannot reach.
@@ -170,7 +170,7 @@ The Sutr-Mu maintained the network. They pruned dead root-nodes, grafted new con
 
 The Kappa Mu squad uses Root-Tapping in the present day. Hoebat taps coded vibrations into root-nodes to communicate with Merl, Bash, Cooroo, and Pokero. He does not know that the code he uses is a Sutr-Mu code, preserved through the Seventh Thread, transmitted down a lineage that forgot its name but not its rhythm.
 
-**Displaced by:** [[../characters/antagonists#Zuckbat (The Ledger)|Zuckbat]]. The **Root-Network** that Zuckbat built his surveillance system on *is* the Sutr-Mu's communication network — hijacked, repurposed, turned from a commons into a panopticon. The same roots that once carried warnings between borows now carry data to the Ledger. The same vibrations that once said *the ceiling is cracking* now say *your debt is overdue*. Zuckbat did not invent the network. He colonised it.
+**Displaced by:** [[../characters/antagonists#Zuckbat (The Magistrate of the Tally)|Zuckbat]]. The **Root-Network** that Zuckbat built his surveillance system on *is* the Sutr-Mu's communication network — hijacked, repurposed, turned from a commons into a panopticon. The same roots that once carried warnings between borows now carry data to **the Tally**. The same vibrations that once said *the ceiling is cracking* now say *your Tally-Debt is overdue*. Zuckbat did not invent the network. He colonised it.
 
 **Animal Alliance: [[../groups/wallaby_network|The Wallabies]] (Thread 4)**
 The Sutr-Mu share the **Integration Siddhi** with the Wallabies. The Wallabies run the "Social Graph" (The Hop-Link) on the surface; the Sutr-Mu run the "Physical Graph" (The Root-Tap) below. When the Wallabies need to send a message that cannot be intercepted by the air (or the Frequency), they tap it into a root for a Sutr-Mu to catch.
@@ -204,7 +204,7 @@ The pattern is not coincidence. Each of the [[../lore#4. The 5 Sovereign Wombats
 |-----------|--------|-------------|-----------------|----------------------|
 | **Trumbat** | Infrastructure (Earth) | Kintsugi-Mu + Nakh-Mu | Golden Repair, Echo-Walking | Safety Grout, Grid Tunnels |
 | **Muskbat** | Innovation (Fire) | Vahl-Mu | Breath-Mapping | The Melborow Frequency |
-| **Vitabat** | Investment (Water) | Dhal-Mu | Water-Reading | The Liquid Ledger |
+| **Vitabat** | Investment (Water) | Dhal-Mu | Water-Reading | the Tally |
 | **Tatebat** | Influence (Metal) | Ghar-Mu | Rhythm Archives | Mural Harmony |
 | **Zuckbat** | Intelligence (Wood) | Sutr-Mu | Root-Tapping | The Root-Network Panopticon |
 
@@ -256,7 +256,7 @@ The Walking Form is the Kintsugi-Mu equivalent of a patrol. A trained mender per
 **~Year 500 — The Hush-Chambers Expand**
 The Kintsugi-Mu established a network of Hush-Chambers throughout Deep Arnamland — training centres where novices learned the The Listening Stance and the Walking Form, and where experienced menders maintained a continuous practice of Soil-Listening that served as an early-warning system for structural failure. The network was never centralised. Each chamber was autonomous, answering to its own elder, connected to the others only through the [[../lore#The Threads (The Sutras)|Seventh Thread]] — the shared muscle memory that allowed any mender to read any other mender's repairs by touch.
 
-During this period, the Kintsugi-Mu were revered. They lived simply — no property, no Root-Credits, no status beyond the condition of the walls they tended. A Kintsugi-Mu elder was identifiable by two things: the golden clay stains on her paws that never fully washed out, and the quality of the tunnel walls in her territory, which were warmer, more flexible, and more alive than any other section of the borow.
+During this period, the Kintsugi-Mu were revered. They lived simply — no property, no **Tally-credits**, no status beyond the condition of the walls they tended. A Kintsugi-Mu elder was identifiable by two things: the golden clay stains on her paws that never fully washed out, and the quality of the tunnel walls in her territory, which were warmer, more flexible, and more alive than any other section of the borow.
 
 **~Year 600 — The First Collaboration with the Karst-Mu**
 The **Siege of Dry Basin**: an extended drought that caused widespread tunnel failure across the southern reaches of Arnamland. The Kintsugi-Mu could not mend fast enough. The Karst-Mu could not brace indefinitely. For the first time, the two branches worked in concert — Karst-Mu defenders holding the failing sections while Kintsugi-Mu menders worked behind them, packing clay into fractures that were still actively propagating.
@@ -282,7 +282,7 @@ The practice of performing the Walking Form in public tunnels ceased. The increa
 ### The Silence (approx. Year 1000 — present)
 
 **~Year 1000 — The Rise of the Five-I's**
-The [[../lore#4. The 5 Sovereign Wombats (The Cathedral)|Five-I's Sovereign Council]] consolidated power. Safety Grout replaced organic clay. Structural engineering became a licensed profession controlled by Trumbat's Engineering Division. The Kintsugi-Mu practice — unlicensed, unregistered, performed by wombats with golden paws and no credentials — was declared illegal under the **Structural Sovereignty Act**. Any wombat found performing unauthorized repairs faced confiscation of rations and notation in [[../characters/antagonists#Zuckbat (The Ledger)|Zuckbat's]] ledger.
+The [[../lore#4. The 5 Sovereign Wombats (The Cathedral)|Five-I's Sovereign Council]] consolidated power. Safety Grout replaced organic clay. Structural engineering became a licensed profession controlled by Trumbat's Engineering Division. The Kintsugi-Mu practice — unlicensed, unregistered, performed by wombats with golden paws and no credentials — was declared illegal under the **Structural Sovereignty Act**. Any wombat found performing unauthorized repairs faced confiscation of rations and notation in **[[../characters/antagonists#Zuckbat (The Magistrate of the Tally)|Zuckbat's]] Tally**.
 
 The Kintsugi-Mu did not protest. Protesting was a Karst-Mu instinct. The Kintsugi-Mu yielded. They went silent. They folded their golden clay into pockets that Vitabat's enforcers never searched. They performed the The Listening Stance in their sleeping niches, paws pressed against the wall, body swaying to vibrations that the Frequency was designed to drown out but couldn't quite reach.
 
@@ -339,7 +339,7 @@ The alliance between the Dust-Bearers and the Surface Animals is known as the **
 
 * [[../lore|lore.md]] — The Old Ways, the Seventh Thread, the Kappa Mu Oath, Kintsugi-Mahatahto, the Melborow Frequency, Section 2.4
 * [[../plot/the_way_of_the_wombat|the_way_of_the_wombat.md]] — Kintsugi as the Way of the Wombat
-* [[../constants/arnam|arnam.md]] — Arnam, Resonance Pools, the Arnam Tribute, the Great Calcification, the Liquid Ledger
+* [[../constants/arnam|arnam.md]] — Arnam, Resonance Pools, the Arnam Tribute, the Great Calcification, **the Tally**
 * [[../groups/groups|groups.md]] — Lo Snout lineage, the Dust-Bearer identity
 * [[../groups/wombats|wombats.md]] — Lo Snout / High Nose separation of functions
 * [[../meta_narrative|meta_narrative.md]] — The Great Crystalisation, Structural Rigidity, curved vs. square tunnels, the Sovereign displacements

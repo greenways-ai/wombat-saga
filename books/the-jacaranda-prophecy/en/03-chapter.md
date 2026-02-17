@@ -16,7 +16,7 @@ There is a kind of condensation that doesn't fall. It arrives. It takes up resid
 
 The rain in Melborow is that kind.
 
-Gray, heavy, carrying the taste of rust and neglected drainage from the heights of Queensborow to pool in the alleys of the Gray Grotto. It finds every crack where the render has failed, every wound the High-Noses left unattended, every seam in the concrete that the Council pretends doesn't exist. It is the city's own sweat. Melborow perspiring through its infrastructure, leaking through its skin, confessing through its pores what its ledgers refuse to admit: that something underneath has gone terribly wrong.
+Gray, heavy, carrying the taste of rust and neglected drainage from the heights of Queensborow to pool in the alleys of the Gray Grotto. It finds every crack where the render has failed, every wound the High-Noses left unattended, every seam in the concrete that the Council pretends doesn't exist. It is the city's own sweat. Melborow perspiring through its infrastructure, leaking through its skin, confessing through its pores what its **Tallies** refuse to admit: that something underneath has gone terribly wrong.
 
 I don't mind rain. Not usually. Rain means the group swells. Swelling means work, and work means I can feel the earth through my paws, which is the only honest conversation left in this city. But this rain — this oily, persistent drizzle — feels different. Heavier. Rain as atmosphere. Rain as diagnosis. Rain that doesn't clean the city so much as reveal it, the way a wet cloth reveals the grain of wood that polish has been hiding.
 

@@ -1,18 +1,18 @@
-The silence in the **High Auditor’s Vault** was not peaceful; it was a pressurized, clinical void. Cornelibat stood at the center of the **Shifting Ledger**, his paws empty, his ceremonial counting-stilus lying snapped on the floor.
+The silence in the **High Tally-magistrate’s Vault** was not peaceful; it was a pressurized, clinical void. Cornelibat stood at the center of the **Shifting Tally**, his paws empty, his ceremonial counting-stilus lying snapped on the floor.
 
-**The High Auditor**, a wombat whose fur had the texture of fossilized limestone, peered down from the obsidian dais. “Cornelibat of the North Wall,” the Auditor’s voice grated like shifting shale. “You have allowed your coordinates to drift. You have breathed the air of the surface, and in doing so, you have poisoned the purity of the **Root-Counting**.”
+**The High Tally-magistrate**, a wombat whose fur had the texture of fossilized limestone, peered down from the obsidian dais. “Cornelibat of the North Wall,” the Tally-magistrate’s voice grated like shifting shale. “You have allowed your coordinates to drift. You have breathed the air of the surface, and in doing so, you have poisoned the purity of **the Tallying**.”
 
 “It wasn't poison,” Cornelibat said, his voice unusually steady. “It was **Noble Intent**. I looked at Agathabat and I saw a truth that doesn't fit in your squares.”
 
-A shudder of collective horror rippled through the gathered Root-Counters—a catastrophic disruption of airflow.
+A shudder of collective horror rippled through the gathered Tally-Clerks—a catastrophic disruption of airflow.
 
-“He speaks her name!” hissed a Senior Auditor. “He acknowledges the **Moving Being**!”
+“He speaks her name!” hissed a Senior Tally-Clerk. “He acknowledges the **Moving Being**!”
 
-“Enough,” the High Auditor commanded. He held up a single, shriveled yam—the gift Cornelibat had intended for Agathabat. “To gift is to admit that the world has value beyond the ledger. You have chosen the 'Breather' over the **Ancestral Dust**. You have failed to **Temporally Crop** your heart.”
+“Enough,” the High Tally-magistrate commanded. He held up a single, shriveled yam—the gift Cornelibat had intended for Agathabat. “To gift is to admit that the world has value beyond the **Tally**. You have chosen the 'Breather' over the **Ancestral Dust**. You have failed to **Temporally Crop** your heart.”
 
-With a slow, deliberate movement, the High Auditor reached into Cornelibat’s lapel and tore away his official **Root-Counter Monocle**. “You are stripped of your vision. You are stripped of your rank. You are hereby exiled to the **Wider Arnam**, to wander among the Galahs and the Dingo-Light.”
+With a slow, deliberate movement, the High Tally-magistrate reached into Cornelibat’s lapel and tore away his official **Tally-magistrate Monocle**. “You are stripped of your vision. You are stripped of your rank. You are hereby exiled to the **Wider Arnam**, to wander among the Galahs and the Dingo-Light.”
 
-Cornelibat felt the cold draft of the exit tunnel hitting his back. He looked at the rows of petrified accountants, their spirits compressed into joyless cubes.
+Cornelibat felt the cold draft of the exit tunnel hitting his back. He looked at the rows of petrified Tally-Clerks, their spirits compressed into joyless cubes.
 
 “I may be blind to your squares,” Cornelibat whispered, “but I can finally smell the rain.”
 
