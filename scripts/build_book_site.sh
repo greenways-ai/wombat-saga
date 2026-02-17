@@ -194,7 +194,7 @@ cat > "$SITE_DIR/index.html" << EOF
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      background: linear-gradient(135deg, #4a148c 0%, #000000 100%);
       min-height: 100vh;
       display: flex;
       align-items: center;
@@ -232,9 +232,9 @@ cat > "$SITE_DIR/index.html" << EOF
       font-weight: 500;
       transition: all 0.2s;
     }
-    .lang-btn:hover { background: #667eea; color: white; transform: translateY(-2px); }
+    .lang-btn:hover { background: #7b1fa2; color: white; transform: translateY(-2px); }
     .lang-code { font-size: 0.75rem; opacity: 0.6; text-transform: uppercase; }
-    .back-link { display: inline-block; margin-top: 2rem; color: #667eea; text-decoration: none; }
+    .back-link { display: inline-block; margin-top: 2rem; color: #7b1fa2; text-decoration: none; }
     .back-link:hover { text-decoration: underline; }
   </style>
 </head>

@@ -61,7 +61,7 @@ I found a line of air moving southeast, the Rómen-Sírë, a rare East-Flow carr
 The vine approved. The hum steadied, became a drone, a carrier wave that my skull chambers could lock onto. It was pulling me toward the Rómen-Sírë — the East-Flow from the Jacaranda territory, a wind that shouldn't exist in the normal circulation of Hún Nico (Heart of Nico), but did. It was like having a map written directly into my nervous system. Southeast. Always southeast. If I were a better flier, I might have found a Tië-Ringa — a Cloud Street, a highway of thermals allowing for long glides without flapping. But I didn't have the skill to read the air that way. I just followed the hum.
 
 
-I flew for an hour. Then two. My wings burned. My chest heaved. The Thúlë Lunga (Heavy Breath) was thinner now, colder, closer to the Law-Wind layer where the real fliers — the Wedgies, the Eagles, the predators who owned the sky — made their territory.
+I flew for an hour. Then two. My wings burned. My chest heaved. The Thúlë Lunga (Heavy Breath) was thinner now, colder, closer to the Súrë Axan (Law-Wind) layer where the real fliers — the Wedgies, the Eagles, the predators who owned the sky — made their territory.
 
 Below me, the landscape changed. Groves spread out in a charcoal wasteland, eucalyptus trunks standing like the fingers of a corpse, still dropping bark, still waiting for fires they couldn't survive. I saw movement down there — something large and dark prowling between the trees — but I was too high and too tired to identify it. Dingo, maybe. Or something worse.
 
@@ -95,7 +95,7 @@ Terrifying because they're enormous. Their wingspans are wider than I am long. T
 
 Sterile because they have no imagination whatsoever. None. Zero. You could tell a Wedgie the most elaborate joke in the history of avian comedy — and I'm talking about the one where the Kookaburra walks into the burrow — and it would stare at you with those golden eyes and calculate the vector of your voice and determine whether you represented a caloric investment worth pursuing.
 
-They don't see birds. They don't see prey, or threats, or even "pink, which is an unusual colour for anything that wants to survive." They see trajectories. Lines extending through space-time. Probability cones. They have something called Vector Sight — the Instinct of their species, though they'd never use a word as messy as "Instinct" — which lets them predict exactly where a target will be three seconds from now, ten seconds from now, thirty. They fly in "Glass-Air" — that's what the old lexicon calls the high Law-Wind — tiled air that carries them like they own it. Which, mostly, they do.
+They don't see birds. They don't see prey, or threats, or even "pink, which is an unusual colour for anything that wants to survive." They see trajectories. Lines extending through space-time. Probability cones. They have something called Vector Sight — the Instinct of their species, though they'd never use a word as messy as "Instinct" — which lets them predict exactly where a target will be three seconds from now, ten seconds from now, thirty. They fly in "Glass-Air" — that's what the old lexicon calls the high Súrë Axan (Law-Wind) — tiled air that carries them like they own it. Which, mostly, they do.
 
 They love the Static. Did I mention that? They absolutely love it. The crystal's perfect geometry makes flight predictable. In a fully crystallised world, every trajectory would be calculable. Every outcome would be known. The Wedgies would finally be able to relax, secure in the knowledge that nothing surprising could ever happen.
 
@@ -380,7 +380,7 @@ IMAGE PROMPT 20: The Changing Landscape
 The landscape changing color as the Emu runs - grey-brown of the Steppe giving way to scrubland, then to zones where crystal formations are visible but broken. The Static tried to claim territory here and failed. Fractured geometry, broken crystal tiles. The air carries moisture and scent from somewhere alive. Purple tints appear in the vegetation - the influence of the Jacaranda already disrupting the lattice, creating defects where life can grip. The Rómen-Sírë (East-Flow) strengthening. Cooroo looks ahead with hope, the vine humming urgently. Style: transition landscape, hope emerging, broken crystal vs living vegetation, purple tones entering palette, journey progression.
 -->
 
-I saw one of the Wedgies break formation, angle its wings toward the upper atmosphere. It was signaling — not to the others, but up, toward the Law-Wind, toward the Frequency Void where the big birds lived. The message was clear enough even for me to read: *"The Walker has a rider. Just wait until the Shogun hears about this."*
+I saw one of the Wedgies break formation, angle its wings toward the upper atmosphere. It was signaling — not to the others, but up, toward the Súrë Axan (Law-Wind), toward the Frequency Void where the big birds lived. The message was clear enough even for me to read: *"The Walker has a rider. Just wait until the Shogun hears about this."*
 
 I didn't know who the Shogun was. I had a feeling I would find out.
 
