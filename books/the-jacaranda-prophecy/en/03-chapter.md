@@ -78,14 +78,12 @@ There is a quality to silence in underground places that surface creatures never
 
 "Don't move," I say.
 
-I don't say *don't make a sound*. Sound doesn't matter anymore. Whatever's out there isn't hunting by noise. It's hunting by smell. By heat. By the chemical signature of those who wandered too far from the upper levels.
-
 <!--
 IMAGE PROMPT 3: The Lost Dingoes Emerge
 Three Lost Dingoes emerging from a storm drain in the darkness of the Gray Grotto. Lean, rib-thin, moving with jagged grace. Creatures of appetite without purpose - what happens when a Dingo's covenant with the world breaks down. Their eyes catch distant trash-fire light, reflecting gold on black - predator optics. They circle Hoebat and Lolaboo, who press together in fear. The lead Scavenger has a scarred, notched ear, teeth that never knew Pack discipline. Rain drips behind them. Style: horror-tinged urban fantasy, predator silhouettes, golden eye reflections, threat implied, rain-slicked darkness.
 -->
 
-From the storm drain they come. Three shapes. Lean, rib-thin, moving with jagged grace. Lost Dingoes. Scavengers. The ones who fell out of the Pack structure, who only know hunger and desperation. They are what happens when a creature's covenant with the world breaks down and nothing fills the gap — not code, not instinct, not belonging. Just appetite. That's what a Lost Dingo is. The reflection that escaped. The hunger that used to serve a purpose now serving only itself.
+From the storm drain they come. Three shapes. Lean, rib-thin, moving with jagged grace. Lost Dingoes. Scavengers. The ones who fell out of the pack, who only know hunger and desperation. They are what happens when a creature's covenant with the world breaks down and appetite fills the gap. That's what a Lost Dingo is. The hunger that used to serve a purpose now serving only itself.
 
 They circle. Eyes catching distant trash-fire light, reflecting gold on black. Predator optics.
 
@@ -106,7 +104,7 @@ Hoebat and Pokero by a campfire on the dry plains, years earlier. Lambda class s
 
 ### The Campfire
 
-By the third night of our survival mission, we'd run out of things to guard against. The Lambda class had scattered us across the dry plains with nothing but a waterskin and the instruction to "maintain composure," which meant different things depending on whether you were a Dingo or a wombat. For Pokero, it meant not hunting the Wallaby pair we'd heard crying in the dark three klicks east. For me, it meant not digging a hole and hiding in it until the sun came back.
+The Lambda class scattered across the dry plains with nothing but a waterskin and the instruction to "maintain composure," which meant different things depending on whether you were a Dingo or a wombat. For Pokero, it meant not hunting the Wallaby pair we'd heard crying in the dark three klicks east. For me, it meant not digging a hole and hiding in it until the sun came back.
 
 We were the only two left in our assigned sector. The others had found their way back to base. Pokero and I stayed. We'd been squadmates long enough to know each other's rhythms—he'd learned that I dug when I was nervous; I'd learned that he went silent when he was hunting.
 
@@ -114,7 +112,7 @@ The fire was down to embers. The jerky was gone. And Pokero—who'd been staring
 
 "Because anything longer than that counts as a long-term commitment?"
 
-He smiled, one side of his mouth curling up like a dry leaf catching fire. "We compress our ideas into compact rhythms," he said. "Vibes. We're all about vibes. And Haikus are like little compack vibes that we jab at each other with."
+He smiled, one side of his mouth curling up like a dry leaf catching fire. "We compress our ideas into compact rhythms," he said. "Vibes. We're all about vibes. Haikus are like little pocket sized vibes that we collect and then detonate on each other."
 
 <!--
 IMAGE PROMPT 7: The Haiku Game
@@ -123,9 +121,9 @@ Close-up of Pokero and Hoebat facing each other across dying embers, engaged in 
 
 "Dingo culture isn't about territory, digger. Not really. It's about flow state. You think we're just killers? Any idiot can rip a throat out. That's messy. That's low-frequency. You spend half the next day washing blood out of your fur and the other half limping. It's inefficient."
 
-He leaned in, firelight catching the sharp angles of his face. "When the pack stops running around looking for our next meal, we sit around the fire like this and we start fighting each other.
+He leaned in, firelight catching the sharp angles of his face. "When the pack stops running around looking for our next meal, we sit around the fire like this and we start dropping haikus.
 
-"Fifteen syllables. That's the blade. You cut someone with that. Their composure breaks. And in the Pack, a broken ego is fatal. You can heal a bitten leg, but you can't heal being made to look like a fool in front of the pack."
+"Fifteen syllables. That's the blade. You cut someone with that. Their composure breaks. That's how we rise in the pack, a broken ego is fatal. You can heal a bitten leg, but you can't heal being made to look like a fool."
 
 He settled back. "Numerology. Vibration. Everything coming together in syllable counts."
 
@@ -135,18 +133,16 @@ He picked up a stick, drew three lines in the dust between us.
 
 "3-7-5. That's the rythm." He snapped the stick. "That's where the flow lives. That's where you find out who you really are when the structure pins you down."
 
-He turned then, those too-sharp teeth glinting. "I'll start, digger."
+He turned then, those too-sharp teeth glinting. "I'll start."
 
-That was the moment I knew. Not when we swore the brother's oath together. Not when we navigated the Shattered Gorge blind. That night, with the dry plains pressing around us like a held breath and every pause between us filled with cricket-song and the far-off howl of a Pack running its circuit, his golden eyes catching firelight the way the scrub catches dawn—reluctantly - that was when I knew Pokero was my friend.
+That was the moment. This was the exact moment. Not when we swore the brother's oath together. Not when we navigated the Shattered Gorge blind. That night, with the dry plains pressing around us like a held breath and every pause between us filled with cricket-song - that was the moment when I knew Pokero was my friend.
 
 <!--
 IMAGE PROMPT 8: The Secret Verses
 Artistic representation of the two private haikus floating in the air between Pokero and Hoebat, visualized as glowing text or calligraphy. Pokero's verse about "fat paws press dead ground" in harsh, angular script. Hoebat's response about "look where the dingoes are blind" in more grounded, earthy lettering. The fire is embers now. The night is deep. The verses hang between them like a secret handshake made of breath - fifteen syllables each, passed across the species line. Style: typographic art, poetic visualization, intimate night scene, warm ember light, textual beauty.
 -->
 
-Dingoes don't have friends. They have pack-mates, rivals, prey, and teachers. But Pokero had made himself vulnerable by explaining his own culture, his own flow state, to a creature who had every reason to misunderstand it.
-
-Pokero,s voice dropped into that hip-hop cadence, each syllable a little knife:
+Pokero had opened up, by showing me his own culture, his own flow state, to a creature who had every reason to misunderstand it. His voice dropped into that hip-hop cadence, each syllable a little knife:
 
 > *Wombat feet.*
 > *Masked with clay. All day. Pewtrid*
@@ -154,10 +150,10 @@ Pokero,s voice dropped into that hip-hop cadence, each syllable a little knife:
 
 I felt my ears go flat. The insult landed—not just the words, but the rhythm, the precision. Three syllables like a jab, seven like a hook, five like a body shot.
 
-I thought for three slow breaths. The fire crackled. Somewhere in the dark, a night-bird screamed.
+I thought for seven slow breaths. The fire crackled. Somewhere in the dark, a night-bird screamed.
 
 > *Dingo dreams.*
-> *What Red Rider? What sharp teeth?*
+> *What red rider? What sharp teeth?*
 > *Hood up. Wolf down. Shanked*
 
 Pokero's ears swiveled forward. One heartbeat. Two. Then he bark-laughed—loud enough to spook something in the scrub, loud enough that I knew I'd won the round.
@@ -206,14 +202,14 @@ IMAGE PROMPT 20: The Lead Scavenger
 Close-up of the lead Lost Dingo Scavenger - scarred, notched ear, teeth that never knew Pack discipline. Lean, rib-thin, desperation in his golden eyes. He's three meters from Hoebat, close enough to smell his breath (rot and hunger), frozen mid-lunge by the Watcher's Frequency. Rain drips from his matted fur. The alley behind him is dark, wet concrete, trash. He sees prey - soft flesh, easy calories, Queensborow smell of soap and safety. But the Code has triggered something older than hunger in him. Style: predator portrait, threat moment, rain effects, urban decay, character detail.
 -->
 
-The lead Scavenger lunges. Scarred, notched ear, teeth that never knew Pack discipline. He doesn't see me. He sees prey. Soft flesh. Easy calories. The Queensborow smell of soap and safety.
+The lead Scavenger lunges. Scarred, notched ear, teeth that never knew Pack discipline. He sees prey. Soft flesh. Easy calories. The Queensborow smell of soap and safety.
 
 <!--
 IMAGE PROMPT 4: The Watcher's Frequency
 Hoebat the wombat squaring his shoulders in the rain, adopting Section 8.2 posture - symmetry, load-bearing stance. His center of gravity dropped, finding purchase on wet concrete. From his throat comes the Watcher's Frequency: *Click-clack, hiss, pause.* The rhythmic pattern that says to any Dingo: "I am not prey. I am recognised. I carry knowledge worth preserving." Lolaboo presses against his flank, terrified. The Lost Dingoes freeze mid-circle, ears swiveling. The Code hits them like a physical thing. Style: defensive stance, moment of power, sound visualization, tension, rain-soaked heroism.
 -->
 
-I drop my centre of gravity. Find purchase on wet concrete. Square my shoulders. Symmetry. Section 8.2. The posture that says: *I am load-bearing. I am not moving. You cannot push me, pull me, make me yield.*
+I drop my centre of gravity. Find purchase on wet concrete. Square my shoulders. Symmetry. The posture that says: *I am load-bearing. I am not moving. You cannot push me, pull me, make me yield.*
 
 From my throat, I make a sound.
 
@@ -244,7 +240,7 @@ He doesn't bark. Doesn't growl. One sharp yelp. Command. Dismissal.
 
 The Scavengers scatter.
 
-"You always did have a big mouth, Hoebat," Pokero says. His voice is smoke and gravel. "I heard you halfway from the surface. Does a digger have a death wish, or did you know I get here in save your bacon?"
+"You always did have a big mouth, Hoebat," Pokero says. His voice is smoke and gravel. "I heard you halfway from the surface. Does a digger have a death wish, or did you know I'd be here to save your chinny-chin-chin?"
 
 "Looking for a home. Thought the Council sold honest burrows."
 
@@ -257,25 +253,21 @@ The Wall - Trum-Bat's endless concrete ribbon bisecting the horizon like a scar 
 
 He turns, and his gaze falls on the half-finished skeleton of the Wall rising in the distance, a silhouette of concrete against a sky the colour of a bruise.
 
-"I've seen the schematics, Hoebat," he says, his voice a low rumble that barely carries over the rain. "I've sat in the meetings. Listened to Trum-Bat sell it to the delegation." He lets out a short, humourless laugh. "He calls it 'civic armature.' Says it will protect you."
+"I've seen the schematics, Hoebat," he says, his voice a low rumble that barely carries over the rain. "I've sat in the meetings. Listened to Trumbat sell it to the delegation." He lets out a short, humourless laugh. "He calls it 'civic armature.' Says it will protect you."
 
 He looks back at me, his golden eyes burning in the gloom. "That Wall isn't for keeping things out. It's for keeping you *in*. It's a lid for a coffin."
 
-"I'm not buying in the Grotto," I say, my own voice sounding hollow.
+"You've definitely helped changed our minds." I say, my own voice sounding hollow.
 
-"Good," he snaps, the sound sharp as cracking bone. "This place is Dead Tissue. Section 3.1, if you're keeping score. The spirit's already left the body. My kind are just the maggots. We hunt here because there's nothing left to damage."
+"Good," he snaps, the sound sharp as cracking bone. "This place is Dead Tissue. We hunt here because there's nothing left to damage." "Keep her close. The Council's 'perimeter redistribution' is just a pretty name for flushing the unwanted. The Soft-Paws who wander alone don't wander long."
 
-He steps closer, invading my space, until I can smell the wild, ungroomed scent of him—the smell of territories that don't appear on maps, of a creature who still belongs to the earth. He glances at Lolaboo, a flicker of assessment, then fixes his gaze on me.
-
-"Keep her close. The Council's 'perimeter redistribution' is just a pretty name for flushing the unwanted. The Soft-Paws who wander alone don't wander long."
-
-His voice drops to a whisper, urgent and conspiratorial. This isn't a friend giving advice. This is an operative passing a critical directive. "If you want a hole that won't cave in," he breathes, the words meant only for me, "you listen to the intelligence, not the marketing."
+His voice drops to a whisper, urgent and conspiratorial. This was not just friendly advice. This is an operative passing a critical directive. "If you want a hole that won't cave" he breathes:
 
 > *Shun the rot*
 > *Seek not where dingoes do hunt.*
 > *Your walls hold your dead*
 
-Then he's gone. A ghost melting back into the rain. A shadow slipping back into the Council chambers where he never belonged.
+Then he's gone. A ghost melting back into the rain. A shadow slipping back into the darkness.
 
 Part of me is furious. The anger is a hot, solid knot in my gut. *Years, Pokero. Not a word.* I wanted to grab him by the scruff, to demand an explanation for the silence. But the part of me that felt the Scavenger's hunger in the air knows we'd be dead without him. The anger and the gratitude mix like oil and water, leaving a bitter taste in the back of my throat.
 The lights flicker back on. Sickly yellow. The Frequency returns — that electronic hum telling us everything is fine, everything is connected, please don't notice the foundations crumbling.
@@ -284,7 +276,7 @@ Lolaboo's app reboots. Cheerful chime. Seventy meters to property. Great investm
 
 "How did you do that?" she breathes.
 
-"The Council thinks the world is math," I say, my voice flat. "The Dingos know better. The world is a song. And when you get the rhythm wrong," I glance toward the storm drain the Scavengers came from, "it eats you."
+"We wombats believe that the world is math," I say, my voice flat. "The dingos know better. Their world is a song. And when you get the rhythm wrong," I glance toward the storm drain the Scavengers came from, "it eats you."
 
 "We aren't buying here, Lolaboo."
 
@@ -299,12 +291,14 @@ Lolaboo follows.
 
 We walk. The rain doesn't stop. My mind is a grinding stone, turning over the two haikus, feeling their edges, the new one scraping against the old.
 
-The first was my philosophy:
+The first was that memory of my winning desert verse:
+
 > *Shun the light*
 > *Reaping where dingoes are blind.*
 > *Shadows hold our lives.*
 
-The second was his directive:
+The second was Pokero's reply:
+
 > *Shun the rot*
 > *Seek not where dingoes do hunt.*
 > *Your walls hold your dead*
@@ -324,19 +318,17 @@ The constants. The subject and the verb. The actor and the action.
 
 The dingoes hold.
 
-That's the message. Not just that they are holding a position, but that they are holding to the pact. To the oath we all took under the Jacaranda. While the wombats have broken faith with the earth and each other, the dingoes are still sticking to the Kappa Mu pact. They hold.
+That's the message. Not just that they are holding a position, but that they are holding to the pact. To the oath we all took under the Jacaranda. The dingoes are holding to the Kappa Mu pact.
 
-But which dingoes? The question surfaces immediately, sharp and necessary. Not all of them. Not the Scavengers in the alley, the Lost Ones who answer only to hunger. It has to be a faction. Pokero's faction. The ones who still know the Code, who still battle with fifteen syllables instead of with their teeth. The ones loyal to him, and through him, to us.
+But which dingoes? The question surfaces immediately, sharp and necessary. Not all of them surely. Not the Scavengers in the alley, the Lost Ones who answer only to hunger. It has to be a faction. Pokero's faction. The ones who still know the Code, who still battle with fifteen syllables instead of with their teeth. The ones loyal to him, and through him, to us.
 
-But why now? After all these years, why a message now? The anger from the alley returns. This isn't a friendly check-in; it's an activation. A signal that the game has moved to a new, more dangerous phase. 
+But why now? After all these years, why a message now? The anger returns. This isn't a friendly check-in; it's an activation. A signal that the game has moved to a new, more dangerous phase. 
 
-And the other Lambdas? My mind scrolls through the faces from our class. Bash, Cooroo, Merl. Are they part of this? Or have they been like me, lost causes in their society? Pokero wouldn't risk contact unless the stakes were absolute. And if the stakes are the Jacaranda Prophecy, then all five of us are needed. That's what the prophecy says. Which means they must be out there. Somewhere. Pokero would know. He has to.
-
-Pokero didn't just give me advice. He gave me a key and a lock. He took our old private language and upgraded it from philosophy to espionage. The first haiku was about *being*. The new one is about *doing*.
+And the other Lambdas? My mind scrolls through the faces from our class. Bash, Cooroo, Merl. Are they part of this? Or have they been like me, lost in their society? Pokero wouldn't risk contact unless the stakes were absolute. And if the stakes are the Jacaranda Prophecy, then all five of us are needed. That's what the prophecy says. Which means they must be out there. Somewhere. Pokero would know. He has to.
 
 He's telling me our situation has changed. The game isn't about poetic insults by a campfire anymore. It's about survival in a city that's actively trying to bury its living. Trum-Bat is building tombs.
 
-And Pokero — my friend, my brother in the Kappa Mu, the operative sitting in the room with the morticians—is defining the battlefield. With classic Dingo misdirection, he's telling me that to find him, I have to go right into the pack.
+And Pokero — my friend, my brother in the Kappa Mu, the operative sitting in the room with the wombat sovereigns has defined the battlefield. With classic Dingo misdirection, he's telling me that to find him, I have to go right into the pack.
 
 *Seek not where dingoes do hunt.*
 
