@@ -35,9 +35,9 @@ fi
 SITE_DIR="_site/books/$BOOK_ID"
 mkdir -p "$SITE_DIR"
 
-BOOK_TITLE=$(yq e '.book.title.en' "$CONFIG_FILE")
-BOOK_AUTHOR=$(yq e '.book.author' "$CONFIG_FILE")
-LANGUAGES=$(yq e '.languages | keys | .[]' "$CONFIG_FILE")
+BOOK_TITLE=$(yq -r '.book.title.en' "$CONFIG_FILE")
+BOOK_AUTHOR=$(yq -r '.book.author' "$CONFIG_FILE")
+LANGUAGES=$(yq -r '.languages | keys | .[]' "$CONFIG_FILE")
 
 echo "Building Book Site: $BOOK_ID"
 echo "Languages: $LANGUAGES"
@@ -51,7 +51,7 @@ for LANG in $LANGUAGES; do
         continue
     fi
     
-    LANG_TITLE=$(yq e ".book.title.$LANG" "$CONFIG_FILE")
+    LANG_TITLE=$(yq -r ".book.title.$LANG" "$CONFIG_FILE")
     [ "$LANG_TITLE" = "null" ] && LANG_TITLE="$BOOK_TITLE"
     
     LANG_SITE_DIR="$SITE_DIR/$LANG"
@@ -152,7 +152,7 @@ echo "Generating languages.json..."
     echo "["
     FIRST_LANG=true
     for LANG in $LANGUAGES; do
-        LANG_NAME=$(yq e ".languages.\"$LANG\".name" "$CONFIG_FILE")
+        LANG_NAME=$(yq -r ".languages.\"$LANG\".name" "$CONFIG_FILE")
         if [ "$FIRST_LANG" = true ]; then
             FIRST_LANG=false
         else
@@ -231,7 +231,7 @@ cat > "$SITE_DIR/index.html" << EOF
 EOF
 
 for LANG in $LANGUAGES; do
-    LANG_NAME=$(yq e ".languages.\"$LANG\".name" "$CONFIG_FILE")
+    LANG_NAME=$(yq -r ".languages.\"$LANG\".name" "$CONFIG_FILE")
     echo "        <a href=\"$LANG/\" class=\"lang-btn\"><span>$LANG_NAME</span><span class=\"lang-code\">$LANG</span></a>" >> "$SITE_DIR/index.html"
 done
 
