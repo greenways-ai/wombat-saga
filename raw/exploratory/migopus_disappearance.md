@@ -3,7 +3,7 @@
 ## I. The Narrative Frame
 
 **The Central Conflict:** **Flow vs. Freeze.**
-The Platypus represented the *flow* of Arnam (The River Monks). Their removal allowed Vitabat to *freeze* the water rights into the Ledger. The mystery of their disappearance is the "Cold Case" that haunts the city.
+The Platypus represented the *flow* of Arnam (The River Monks). Their removal allowed Vitabat to *freeze* the water rights into the **Tally**. The mystery of their disappearance is the "Cold Case" that haunts the city.
 
 **The Theme:** **The Encryption of the Flow.**
 The Migopus Trio didn't just disappear; they *uploaded* themselves. Realizing they couldn't stop the physical privatization of the water, they encoded the "Map of the Aquifer" into a song—**"Majestic Arnam"**—and broadcast it into the Static before they vanished.

@@ -28,7 +28,7 @@ The central conflict of the Saga involves the "Great Crystalisation" of Human em
 
 * **The Source**: Pure Human empathy.
 * **The Physical Manifestation**: Nutrient-rich soil, sweet roots, and structural stability.
-* **The Corrupted Form**: **the Tally**, debt-based tokens, and the "Melborow Frequency".
+* **The Corrupted Form**: **the Tally**, **Tally-Debts**, and the "Melborow Frequency".
 * **The Mending Agent**: In the **Maha Tahto**, Arnam is the "Gold" of Noble Intent used to join the broken pieces of the world back together.
 
 
@@ -160,7 +160,7 @@ The most terrifying danger of the Mega Pool is that it requires **Structural Rig
 
 Because the "Small Yield" is gone, wombats have no choice but to use the Mega Pools.
 
-* **The Danger:** **Vitabat** doesn't give Arnam away; he loans it. Wombats are born into a "Debt-Cycle" where they must dig for the pool just to pay for the right to breathe the resonance they themselves produced.
+* **The Danger:** **Vitabat** doesn't give Arnam away; he loans it. Wombats are born into a "Debt-Cycle" where they must dig for the pool just to pay for the right to breathe the resonance they themselves produced. Rations are issued as **Tally-Advances**, which must be paid back in sweat.
 * **The Social Cost:** This turns the "Separation of Functions" (Lo Snout and High Nose) into an Imperial hierarchy, where the High Noses are the Tally-Magistrates and the Lo Snouts are the Corvée laborers.
 
 ### Summary: The "Cactus" Inevitability

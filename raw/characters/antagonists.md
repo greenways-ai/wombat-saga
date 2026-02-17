@@ -42,8 +42,8 @@
 *   **Rap Style:** TI.
 *   **Role:** The Imperial Collector.
 *   **Appearance:** Hardened features, cold dead eyes, tailored white suit. Metal robotic arm on the left side.
-*   **Evolution:** He manages the **Imperial Granary** and the distribution of roots.
-*   **Function:** He owns the **Tally**. If you can't pay back the roots, he "notches" your future and collects your body for the Board of Works.
+*   **Evolution:** He manages the **Imperial Granary** and the distribution of **Imperial Rations**.
+*   **Function:** He owns the **Tally**. If you can't pay back the rations, he "notches" your future and collects your body for the **Corvée Labor** on the Wall.
 
 ### Zuckbat (The Magistrate of the Tally) — The Censorate (*Ducha-yuan*)
 *   **Element:** **Wood** (Intelligence).

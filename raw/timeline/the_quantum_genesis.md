@@ -1,7 +1,7 @@
 # The Quantum Genesis: A Study in Coevolution
 
 ## The Three-Fold Symmetry
-Before the walls, before the debt, and before the "Melborow Frequency," there was the **Field**.
+Before the walls, before the **Tally-Debt**, and before the "Melborow Frequency," there was the **Field**.
 
 In the beginning, the cosmos was balanced by the **Three-Fold Symmetry**:
 1.  **The Human (The Creator/Code):** The Tall-One who dreams in logic and commands the lightning. They are the Architects of Chaos.
@@ -20,7 +20,7 @@ They were archetypes. Pure, distilled mindsets floating in the cloud, desperate 
 *   **The Orange Glitch** (Trumbat) floated in the sector of "Blocked IPs and Firewalls," dreaming of a boundary that could not be crossed.
 *   **The Electric Narcissist** (Muskbat) buzzed in the sector of "Vaporware and Rocket Fuel," dreaming of a battery that never died.
 *   **The Silent Eye** (Zuckbat) grew in the "Metadata," watching the connections between things rather than the things themselves.
-*   **The Liquid Ledger** (Vitabat) flowed in the "Rounding Errors," counting the fractions of cents that no one noticed.
+*   **the Tally** (Vitabat) flowed in the "Rounding Errors," counting the fractions of cents that no one noticed.
 *   **The Iron Fist** (Tatebat) sat in the "Comment Section," a ball of compressed rage waiting to punch a hole in the screen.
 
 ## The Great Compute (The Systemic Failure)

@@ -51,6 +51,24 @@ The suffix **-iki** implies "Small," "Manicured," or "Controlled." It is the opp
 
 ---
 
+## The Great Descent: From Umbilicals to Administrators
+
+The transition from **Sacred Umbilicals** to **Imperial Administrators** was a slow, desperate descent triggered by the **Great Disconnection**. It is the tragedy of a priesthood that tried to survive the death of their God by becoming the God’s bookkeepers.
+
+### 1. The Death of the "Small Yield"
+In the Old Way, the High Noses were supported by the Common Square of the Well-Field. When Human empathy crystallized, the Arnam Rain sputtered. The roots in the Common Square didn't just wither; they stopped vibrating. The High Noses, who once had "no want for material goods," felt physical hunger for the first time. They moved from *receiving* a gift to *auditing* a resource out of sheer panic.
+
+### 2. Verification over Trust
+Originally, High Noses were **conductors** who tuned the colony to the frequency of the Star. When the Star went quiet, they lost the ability to "listen." They replaced the **Song of the Soil** with **the Tally** because they needed a way to prove the world was still working. If they couldn't feel the Arnam, they would count it.
+
+### 3. The Centralization Crisis
+As the aquifers dried up, the High Noses argued that decentralized puddles were "inefficient." To save the colony, they consolidated resources into **Mega-Pools**. A Mega-Pool cannot be managed by a Songline; it requires a **Metering Official**. This centralization birthed the **Board of Revenue** and the **Board of Works**.
+
+### 4. Securitizing the Void
+By positioning themselves as the only ones who could filter the human "Static" into a usable "Frequency," the High Noses made themselves indispensable. They turned **Compassion into Debt**, telling the Lo Snouts that Arnam was no longer a gift, but an Imperial Asset. They are no longer priests; they are middlemen taxing the distance between the Star and the Earth.
+
+---
+
 ## The Sovereign Origins (The Split)
 
 The [[../characters/antagonists|Five Sovereigns]] are the supreme masters of the High Nose world. But they are not all "born" High Noses. They are divided into two distinct lineages: **The Fallen** (who corrupted their ancient ways) and **The Synthetics** (who were born into the lie).
@@ -78,7 +96,7 @@ The [[../characters/antagonists|Five Sovereigns]] are the supreme masters of the
 
 *   **VITABAT (The Enforcer)**
     *   **Origin:** **Dhal-iki** (Synthetic Diviner).
-    *   **The Void:** He was not a Dhal-Mu (Water-Reader). He was raised in the Tahl-iki hydroponic vats. He doesn't know water as a flow; he knows it as a pipe. His "Enforcement" is the hydraulic pressure of a closed system. He is the plumber who thinks he owns the ocean.
+    *   **The Void:** He was not a Dhal-Mu (Water-Reader). He was raised in the Tahl-iki hydroponic vats. He doesn't know water as a flow; he knows it as a pipe. His "Enforcement" is the hydraulic pressure of a closed system. He manages the **Tally-Advances** of **Imperial Rations**, turning food into a chain.
     *   **Domain:** Investment (Water).
 
 *   **TATEBAT (The Pimp)**

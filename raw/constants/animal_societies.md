@@ -58,11 +58,11 @@
 ## The Wombat Borows (The Foundation)
 *   **Thread:** 7 (Lived Experience)
 *   **Siddhi:** Seismic Proprioception
-*   **Structure:** **The Deep State.**
+*   **Structure:** **The Well-Field System.**
     *   Wombat society is geologically stratified.
-    *   **Lo-Snouts:** Live in the clay. They retain the Siddhi (Touch). They are the "Actuals"—the ones who keep the ceiling up. They despise abstraction.
-    *   **High-Noses:** Live in the "Air-Con." They have lost the Siddhi. They try to replicate "Structure" with "Bureaucracy" (Root-Counting).
-    *   **The Conflict:** The entire Wombat civil war is a battle between **Thread 7** (The Paw) and **Inversion 7** (The Spreadsheet).
+    *   **The Well-Field:** Originally a nine-square grid where families worked a common center to support the High Nose Umbilicals.
+    *   **The Inversion:** In the modern era, the Well-Field was demolished and replaced by **the Tally**. The "Gift of Arnam" was replaced by "Tally-Debt."
+    *   **The Conflict:** The entire Wombat civil war is a battle between **Thread 7** (The Paw/Songline) and **Inversion 7** (The Tally/Spreadsheet).
 
 ## The Dog-Brahman (The Ascended)
 *   **Thread:** 8 (The Bridge)
