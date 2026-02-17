@@ -4,12 +4,12 @@ on:
   push:
     branches: [main, master]
     paths:
-      - 'wombat-saga/**/*.md'
+      - 'books/**/*.md'
       - '.github/workflows/**'
   pull_request:
     branches: [main, master]
     paths:
-      - 'wombat-saga/**/*.md'
+      - 'books/**/*.md'
 
 jobs:
   validate:
@@ -29,9 +29,9 @@ jobs:
 
       - name: Lint Markdown
         run: |
-          markdownlint "wombat-saga/**/*.md" \
-            --ignore "wombat-saga/wattpad/**" \
-            --ignore "wombat-saga/drafts/**" \
+          markdownlint "books/**/*.md" \
+            --ignore "books/**/assets/**" \
+            --ignore "books/**/scripts/**" \
             --config .github/markdownlint.json || true
 
   links:
@@ -46,12 +46,11 @@ jobs:
         with:
           args: |
             --base .
-            --exclude-path wombat-saga/wattpad/
-            --exclude-path wombat-saga/drafts/
-            --exclude-path wombat-saga/exploratory/
+            --exclude-path books/**/assets/
+            --exclude-path books/**/scripts/
             --exclude-all-private
             --timeout 30
-            wombat-saga/**/*.md
+            books/**/*.md
           fail: false
 
   stats:
@@ -62,27 +61,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Count words
-        run: |
-          echo "## Word Count Statistics" > stats.txt
-          echo "" >> stats.txt
-          
-          # Count by directory
-          echo "### By Category" >> stats.txt
-          echo "" >> stats.txt
-          
-          for dir in stories lore characters locations songs plot; do
-            if [ -d "wombat-saga/$dir" ]; then
-              count=$(find "wombat-saga/$dir" -name "*.md" -exec cat {} \; | wc -w)
-              echo "- **$dir**: $count words" >> stats.txt
-            fi
-          done
-          
-          # Total
-          total=$(find wombat-saga -name "*.md" -not -path "*/drafts/*" -not -path "*/wattpad/*" -exec cat {} \; | wc -w)
-          echo "" >> stats.txt
-          echo "### Total: $total words" >> stats.txt
-          
-          cat stats.txt
+        run: ./scripts/run_checks.sh
 
       - name: Upload stats
         uses: actions/upload-artifact@v4

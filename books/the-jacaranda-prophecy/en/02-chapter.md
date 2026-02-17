@@ -246,13 +246,7 @@ IMAGE PROMPT 13: The Weaponized Scream
 Cooroo opening his beak in the crystal chamber, producing the ugliest, most fractal, deliberately messy scream possible. The sound visualized as chaotic waves, jagged frequencies, amplifying off the crystal walls. The Noble Noise weaponized - striking the walls at their resonance frequency. Crystal actually fracturing - a whole section of Gorge wall exploding into quartz dust. Ten meters of half-formed hexagonal lattice shattering. The feedback loop of chaos feeding on itself. Cooroo's feathers fluffed, crest fully erect, whole body engaged in the scream. Style: dramatic action, visible sound waves, crystal shattering, chaotic energy, intense moment.
 -->
 
-<<<<<<< Local Changes
 The sound hit the walls and shattered.
-||||||| Old File
-The sound hit the walls and shattered.
-=======
-The sound hit the walls and physically shattered them. The Noble Noise, weaponized, focused by the geometry of the chamber, struck the crystal walls at their resonance frequency — which, it turns out, is a very specific note that I happened to hit by accident because I have no training and even less control.
->>>>>>> External Changes
 
 Not metaphorically. Actually. The Noble Noise, weaponized, focused by the geometry of the chamber, struck the crystal walls at their resonance frequency — which, it turns out, is a very specific note that I happened to hit by accident because I have no training and even less control.
 
