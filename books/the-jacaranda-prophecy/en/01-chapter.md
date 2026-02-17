@@ -25,7 +25,7 @@ IMAGE PROMPT 3: The Failed Scream
 Close-up of Cooroo with his beak wide open at the swell - the moment when every Galah in Hún Nico screams at Elen-Nico. But from his beak comes only a ghost, a whisper, the shape of a scream without the sound. Visualized as faint wisps of pinkish air instead of the bold resonance other Galahs emit. His crest is half-raised in effort, his eyes show confusion and fear. Background shows other distant Galahs screaming properly toward the center star. The light is the bright gold of the swell phase. Mood: shame, isolation, the wrongness of silence. Style: emotional character moment, soft lighting, visible breath/vapor trails.
 -->
 
-Three weeks ago, I opened my beak at the swell — the moment the pulse brightens, when every Galah in Hún Nico screams — and nothing came out.
+Three weeks ago, I opened my beak at the swell — the moment the pulse brightens, when every Galah in Hún Nico (Heart of Nico) screams — and nothing came out.
 
 Well — not nothing. Something came out. But it was the ghost of a scream. The shape without the guts. Like blowing through a trumpet and getting a whisper.
 
@@ -35,19 +35,19 @@ I haven't told Mum. She's got enough quiet of her own.
 
 I should tell you about the world, because the world is shaped wrong and it matters.
 
-Hún Nico — that's what we call it, the Heart of Nico — is a heart. Not a metaphor. An actual heart-shaped world, and we live on the inside. The old stories say it's shaped like the heart of the Tall-Ones — the giants who appear in dreams, enormous and strange, who feel things so big that the feeling leaks through into our world as light. No one has ever seen a Tall-One awake. But every creature in Hún Nico has dreamed of them — vague shapes, vast and sorrowful, and the weight of their caring pressing down like weather. We live inside their heart. That's the shape of the world: the shape of something a giant feels.
+Hún Nico — that's what we call it, the Heart of Nico — is a heart. Not a metaphor. An actual heart-shaped world, and we live on the inside. The old stories say it's shaped like the heart of the Tall-Ones — the giants who appear in dreams, enormous and strange, who feel things so big that the feeling leaks through into our world as light. No one has ever seen a Tall-One awake. But every creature in Hún Nico (Heart of Nico) has dreamed of them — vague shapes, vast and sorrowful, and the weight of their caring pressing down like weather. We live inside their heart. That's the shape of the world: the shape of something a giant feels.
 
 The ground curves up. You stand on the surface and look out and the horizon doesn't drop away. It rises. The ridge in front of you climbs, and the ridge beyond that climbs higher, and the ridges beyond that keep climbing until they blur into haze and meet the light at the centre.
 
-The centre is Elen-Nico. The Star. It hangs up there — not "up" the way birds mean up, where you just keep going and eventually there's nothing. Up the way the inside of a bowl means up: toward the middle. Elen-Nico sits at the geometric heart of the Heart, 140 kilometres above the Crown, radiating golden light in every direction onto everything. When you fly — when you could fly — you fly toward it. When you look up, you see the other side of the world curving overhead, faint and enormous, lit by the same star from the other direction.
+The centre is Elen-Nico. The Star. It hangs up there — not "up" the way birds mean up, where you just keep going and eventually there's nothing. Up the way the inside of a bowl means up: toward the middle. Elen-Nico (The Star) sits at the geometric heart of the Heart, 140 kilometres above the Crown, radiating golden light in every direction onto everything. When you fly — when you could fly — you fly toward it. When you look up, you see the other side of the world curving overhead, faint and enormous, lit by the same star from the other direction.
 
 It does your head in, honestly. You'd think a bird would be used to it. But there's a difference between knowing you live inside a heart and seeing it — seeing the ground rise on every side until it closes above you, seeing the whole world wrapped around a point of light like cupped hands around a candle.
 
 And the light beats.
 
-Elen-Nico pulses. Not steadily, not like a clock — like a heart. It swells bright and holds for hours: the day, golden, warm, full. Then it dims and holds for hours: the night, not dark — Elen-Nico never goes out — but low, ember-red, the light of a fire that's decided to rest but not to die. The whole world breathes with it. Swell, hold, dim, hold. The rhythm isn't regular. Some days are longer than others. Some nights barely happen. It depends — Mum says it depends on what the Tall-Ones are feeling, up in whatever layer they dream from. When they care, the pulse is strong. When they forget, it gutters.
+Elen-Nico (The Star) pulses. Not steadily, not like a clock — like a heart. It swells bright and holds for hours: the day, golden, warm, full. Then it dims and holds for hours: the night, not dark — Elen-Nico (The Star) never goes out — but low, ember-red, the light of a fire that's decided to rest but not to die. The whole world breathes with it. Swell, hold, dim, hold. The rhythm isn't regular. Some days are longer than others. Some nights barely happen. It depends — Mum says it depends on what the Tall-Ones are feeling, up in whatever layer they dream from. When they care, the pulse is strong. When they forget, it gutters.
 
-And between the dim and the bright — in the held breath before the swell — there's a moment. Five minutes, maybe less. The pause between beats. Elen-Nico hasn't committed to the next pulse yet. The light is neither gold nor ember. It's something in between. Something uncertain.
+And between the dim and the bright — in the held breath before the swell — there's a moment. Five minutes, maybe less. The pause between beats. Elen-Nico (The Star) hasn't committed to the next pulse yet. The light is neither gold nor ember. It's something in between. Something uncertain.
 
 <!--
 IMAGE PROMPT 7: The Lilac Pause
@@ -58,7 +58,7 @@ That's when the world goes lilac.
 
 ### The Winds
 
-Old Cookeerik — he was the farthest flier in the colony before his wings gave out — told me once what it's like to fly toward Elen-Nico. You push off the surface and the first ten kilometres are easy. The Heavy Breath — Thúlë Lunga — is thick and warm, the air you know, full of moisture and scent and the weight of living things. Your wings have something to push against.
+Old Cookeerik — he was the farthest flier in the colony before his wings gave out — told me once what it's like to fly toward Elen-Nico (The Star). You push off the surface and the first ten kilometres are easy. The Heavy Breath — Thúlë Lunga — is thick and warm, the air you know, full of moisture and scent and the weight of living things. Your wings have something to push against.
 
 Then you hit the Law-Wind. Súrë Axan. The air thins. Gets colder. Gets cleaner, in a way that doesn't feel clean — it feels stripped. The wind up there moves in patterns, and the patterns are regular, and your feathers start to flatten the way they do near the Bad Grounds. The Wedgies — Wedge-tailed Eagles — call this layer home, which tells you everything about Eagles. Cookeerik said the Law-Wind is where most birds turn back. The ones with sense, anyway.
 
@@ -71,11 +71,11 @@ Old Cookeerik, an elder Galah with faded pink feathers, tumbling through nine ki
 
 Cookeerik got close enough to feel his feathers change colour. The pink shifted. Went deeper. The lilac that lives in every Galah breast concentrated, intensified, until he said he felt like a single note being sung by something enormous. Then his wings failed and he fell for nine kilometres before he caught a thermal in the Law-Wind and came home shaking.
 
-No bird has reached Elen-Nico. No bird ever will. But we're the species that gets closest, and getting close to a thing you can never reach is — according to Cookeerik, who said it while staring at his own claws — "the whole point of being a Galah."
+No bird has reached Elen-Nico (The Star). No bird ever will. But we're the species that gets closest, and getting close to a thing you can never reach is — according to Cookeerik, who said it while staring at his own claws — "the whole point of being a Galah."
 
 ### The Crystallisation
 
-The two lobes of the heart — that's the widest bit, where the Eastern Shell and the Western Shell curve out like shoulders — are about 300 kilometres across. The Crown is at the top, where the lobes meet. The Closing Node is at the bottom, the tip, the point of the heart. And Elen-Nico sits between them, burning, 140 klicks from anything solid.
+The two lobes of the heart — that's the widest bit, where the Eastern Shell and the Western Shell curve out like shoulders — are about 300 kilometres across. The Crown is at the top, where the lobes meet. The Closing Node is at the bottom, the tip, the point of the heart. And Elen-Nico (The Star) sits between them, burning, 140 klicks from anything solid.
 
 The ground under your claws — and this bit matters — is only about 10 kilometres deep. Below that, it's Glass. The outer boundary. Five centimetres of mirrored surface, and that's it. That's the edge of everything. Five centimetres of Glass holding an entire world. I try not to think about that too often.
 
@@ -101,7 +101,7 @@ IMAGE PROMPT 5: Cooriki on the Eucalyptus Branch
 An adult Galah with dusty, unkempt feathers sits motionless on a thin Eucalyptus branch, staring into the void where the great Silver Wattle once stood. Her posture is slumped, crest flat, eyes distant and unfocused. Behind her, empty space where the magnificent tree should be - just a pale stump visible in the distance. The branch she's on looks thin and insignificant compared to the missing tree. Light filters through sparse Eucalyptus leaves. Mood: catatonic grief, internal retreat, absence, the grey of lost memory. Style: somber, muted colors, soft focus background, emotional portrait.
 -->
 
-Mum's name is Cooriki and she used to be the Lead Caller of the Eastern Ridge Colony, which is a massive deal if you're a Galah and means absolutely nothing if you're not. She could read the air like a map — knew the Andunë-Sírë from the Rómen-Sírë, could find the Yá of a thermal by the way the dust spiraled below. She could throw a swell-call that rode the Halla-Hwë — the wind gradient — up through three atmospheric layers and came back carrying data from each. Her scream was so good the wombats used it to calibrate their tunnel acoustics, though they'd never admit that because wombats don't admit things — they "note observations" and "file findings" and generally pretend they worked it all out themselves.
+Mum's name is Cooriki and she used to be the Lead Caller of the Eastern Ridge Colony, which is a massive deal if you're a Galah and means absolutely nothing if you're not. She could read the air like a map — knew the Andunë-Sírë (Western Air Flow) from the Rómen-Sírë (Eastern Air Flow), could find the Yá of a thermal by the way the dust spiraled below. She could throw a swell-call that rode the Halla-Hwë — the wind gradient — up through three atmospheric layers and came back carrying data from each. Her scream was so good the wombats used it to calibrate their tunnel acoustics, though they'd never admit that because wombats don't admit things — they "note observations" and "file findings" and generally pretend they worked it all out themselves.
 
 Now she sits on a branch of a Eucalyptus — not even a proper tree, just a tree that's a tree and nothing else — and stares at the place where the **Silver Wattle** used to stand. Twenty-one days she's been doing this. I bring her seeds. Fat ones, dark shells, because she won't bother cracking anything that takes effort. She eats when I bring them. Drinks when it rains. That's it.
 
@@ -183,7 +183,7 @@ The Silver Wattle wasn't cut down. It broke.
 
 The **Great Wattle** (*Malinalda Arata*) at the Crown had shattered generations ago—the King Tree's fall was the first sign of the Great Crystalisation, a mythic disaster from the time of my great-grandparents. After that, the others fell one by one. The Black Wattle of the Western Shell. The Golden Wattle of the Southern Reach. Each one reaching deep, seeking the source, finding only poison. The Silver Wattle was the last Coring Tree standing on the Eastern Ridge—the final ancient giant that hadn't yet learned what the others had died to discover.
 
-In the heart worlds, all coring trees possess extremely deep roots to maintain the connection. That was their purpose, their sacred duty: to drill down, to anchor, to drink from the deepest Arnam and conduct it upward for all the world. But the deep substrate had turned to crystal. The Static had risen from below, filling the aquifers, claiming the source itself. And the coring trees, faithful to their nature, had kept reaching deeper.
+In the heart worlds, all coring trees possess extremely deep roots to maintain the connection. That was their purpose, their sacred duty: to drill down, to anchor, to drink from the deepest Arnam (Essential Reality) and conduct it upward for all the world. But the deep substrate had turned to crystal. The Static had risen from below, filling the aquifers, claiming the source itself. And the coring trees, faithful to their nature, had kept reaching deeper.
 
 <!--
 IMAGE PROMPT 19: Wombat Engineering
@@ -240,9 +240,9 @@ It's been there my whole life. The older birds say the slope used to be grass an
 
 Hexagons.
 
-Not scattered. Not random. Interlocking. Tessellating. Every hexagon the same size, every edge the same length, every angle precisely 120 degrees, repeating in a lattice that extends in every direction without a single flaw, a single gap, a single moment of hesitation. The pattern doesn't vary. The pattern doesn't need to vary. Variation is what happens when something is trying. The lattice has finished trying. The lattice has arrived.
+Not scattered. Not random. Interlocking. A sickening tessellation of near-hexagons, their angles subtly wrong, their sizes varying just enough to be unsettling. It’s a lattice that mimics order, repeating with flaws that feel more like a disease than a pattern. The variation isn't the organic mess of life; it's the cold, calculated deviation of a machine with a flaw in its code. The lattice doesn't try. It expands.
 
-If you look at one hexagon — just one, close up, eye level — it's almost beautiful. The surface catches Elen-Nico's light and splits it into prismatic arcs. Each face is a tiny mirror showing a fractured version of the world. But the beauty is wrong. It's the beauty of a skeleton, all structure and no flesh. The geometry has answered the question "how do I exist?" and forgotten to ask "why?"
+If you look at one hexagon — just one, close up, eye level — it's almost beautiful. The surface catches Elen-Nico (The Star)'s light and splits it into prismatic arcs. Each face is a tiny mirror showing a fractured version of the world. But the beauty is wrong. It's the beauty of a skeleton, all structure and no flesh. The geometry has answered the question "how do I exist?" and forgotten to ask "why?"
 
 If you look at the slope — the half-tiled, still-failing, not-yet-finished slope — it's worse than perfection. It's a promise. The lattice isn't done. It hasn't arrived. It's arriving. Marching up the ridge one cell at a time, converting, transforming, promising that someday soon the whole ridge will be hexagons. The whole Eastern Shell. The whole heart.
 
@@ -263,7 +263,7 @@ Which is true. Creatures had been seeing Yellow Monsters for seasons — those e
 
 So when the tree fell, the story wrote itself: the Yellow Monsters did it. The Tall-Ones' spirits destroyed the Wattle. An external force. Something you can point at and scream at and blame. Stories are how Galahs deal with things. You scream the story at the sky and the sky takes it and you feel a tiny bit better.
 
-Here's what actually happened: the wombats killed it themselves.
+Here's what actually happened: the wombats did it.
 
 Yeah. I know.
 
@@ -278,15 +278,15 @@ The Silver Wattle was the last one. Last of thousands. The others had been dying
 
 Not because it was tougher. Because it was surrounded. All those scrubby little plants, all that grass, all those root-networks threading through the dirt in every direction — they were messing up the crystal. The organic layer was messy and rough and fractal, and the lattice couldn't tile properly through it. Hexagons need order. Roots are not orderly. The Wattle's immune system wasn't its own roots. It was everyone else's roots. The whole boring, tangled, unremarkable ground-cover that nobody thought about until it was gone.
 
-Then the wombats started building.
+Then the wombats started building. They were trying to save it, I think. Trying to contain the sickness before it spread. Galahs don't go underground and wombats don't explain themselves to birds, but you could feel their purpose through your claws. They were building a cage for the cancer, a rigid support system to hold the tree up.
 
-I don't know the details. Galahs don't go underground and wombats don't explain themselves to birds. But you didn't need to be underground to know what was happening. You could feel it through your claws. The vibrations changed — deeper, sharper, more regular. The rhythm of digging became the rhythm of pouring. Something rigid and dead was being set into the earth in straight lines, and every root it crossed stopped carrying signal.
+The vibrations changed — deeper, sharper, more regular. The rhythm of digging became the rhythm of pouring. Their Grout, their strange, dead earth-glue, was being set in straight lines, a desperate geometry against the creeping chaos. But every living root it crossed stopped carrying signal.
 
-Season after season. The ground under the Silver Wattle got quieter. The branches got harder. The bark cracked in lines that were too straight to be natural. Whatever the wombats were doing down there, they were doing a lot of it, and they were doing it in straight lines, and straight lines in a world built on curves cut everything they cross.
+Season after season, they worked with that grim determination. The ground under the Silver Wattle got quieter as their rigid walls cut off the living threads. The branches got harder. The bark cracked in lines that were too straight to be natural. They were building a splint for a broken bone, but their cure was a poison. In a world built on curves, their straight lines cut everything they crossed.
 
 Three seasons of building. When they finished, the surface looked exactly the same.
 
-Underneath, every root that had been protecting the Wattle was in pieces.
+Underneath, in their fierce, methodical effort to protect the Wattle, they had severed every living root that was actually holding it together.
 
 The tree died slowly. That's the thing about the real version — there's no single moment, no big dramatic scene you can point to and say there, that's when it happened. It just... drained.
 
@@ -311,9 +311,9 @@ IMAGE PROMPT 23: The Three Primes Broken
 Triptych showing the Three Primes in their decline. Left: Kangaroos running endless violent circuits, their Friction Engine driving nothing but conflict - "muscles without purpose." Center: Koalas in drugged stupor among Lyptus leaves, their alchemical Silence corrupted into narcotic escape - "Quiet that stops thought." Right: Empty ripples in water where Platypus should be - the Paradox that couldn't exist in a binary world - "vanished, not dead, because 'where' may not be the question." Above all, crystallization spreading. Style: symbolic triptych, dark fantasy, showing decay of order, contrasting panels.
 -->
 
-In the old days — the days before the Static started creeping up, before the wombats started pouring Grout, before anything went wrong — Hún Nico had the Three Primes. Not rulers. Not governors. Emblems. The three species whose nature most purely expressed what the world was. The face of Hún Nico, if a heart-shaped world can have a face.
+In the old days — the days before the Static started creeping up, before anything went wrong — Hún Nico had the Three Primes. Not rulers. Not governors. Emblems. The three species whose nature most purely expressed what the world was. The face of Hún Nico, if a heart-shaped world can have a face.
 
-The Kangaroos were the first. The Vita Patrolum — that's what the old stories call it. They ruled the surface, maintained the boundaries, converted resistance into energy through something called the Friction Engine. Every mob, every patrol, every territorial circuit was a machine that turned movement into stability. The Kangaroos were the muscles of the world. They're still here, technically. But they've devolved into fight clubs and territorial gangs, running circuits that used to mean something and now just mean violence. The engine still turns. It just doesn't drive anything.
+The Kangaroos were the first. The Vita Patrolum (Surface Patrol) — that's what the old stories call it. They ruled the surface, maintained the boundaries. Every mob, every patrol, every territorial circuit meant the stability of the land. The Kangaroos were the muscles of the world. They're still here, technically. But they've devolved into fight clubs and territorial gangs, running circuits that used to mean something and now just mean violence. 
 
 The Koalas were the second. Alchemical Silence. They sat in the canopy — barely moving, barely awake — reading the thermal gradients of the world, maintaining what they called the Quiet: the background hum that every other sound is measured against. Without the Quiet, you can't hear anything, because hearing requires a silence to hear against. The Koalas held the silence. Now they deal Lyptus — the narcotic extract of their own sacred leaves — and the silence they sell is the wrong kind of silence. The kind that stops you thinking, not the kind that lets you hear.
 
@@ -327,7 +327,7 @@ Three Primes. One devolved. One corrupted. One vanished.
 
 And then there were the Rosellas.
 
-The Rosellas weren't Primes. They were something else — the Fifth Thread, Synthesis, the creatures whose job it was to take all the Primes' separate truths and braid them into one Song. The Chorus. That was the Rosellas' covenant with the Silver Wattle.
+The Rosellas weren't Primes. They were something else - Synthesis, the creatures whose job it was to take all the Primes' separate truths and braid them into one Song. The Chorus. That was the Rosellas' covenant with the Silver Wattle.
 
 I need you to understand what the Chorus actually was, because everyone talks about it like it was music and it wasn't. It was governance.
 
@@ -340,11 +340,11 @@ The Lattice Song rising through the Silver Wattle's wood - visualized as a singl
 
 When they agreed — when every voice found its place — the Chorus resolved into a major chord and the Silver Wattle's heartwood amplified it and the whole world heard. Red for the heartwood. Blue for the aquifer. Green for the canopy. Yellow for the pollen. Each colour a frequency. Each frequency a truth. The Chorus was the health report of the world braided into music, and the Silver Wattle was the antenna that broadcast it.
 
-The Rosellas roosted in the Wattle's highest branches — the ones we Galahs never touched, out of respect for something so far above our station it might as well have been Elen-Nico itself. They lived in the golden canopy like priests in a cathedral, and their Chorus was the liturgy, and the tree was the organ, and every morning the world woke up to the sound of itself being diagnosed. The Rosellas understood the air differently than we do. Where we feel for Raca — the broken air that carries data — they sought Omentiel, the convergence of air masses where the Chorus could braid multiple frequencies into harmony. They flew in the space between winds, in the Ristë where shear created complexity. They would have called the Lattice Song a perfect Omentiel — all winds converged into one — and that was their undoing.
+The Rosellas roosted in the Wattle's highest branches — the ones we Galahs never touched, out of respect for something so far above our station it might as well have been Elen-Nico itself. They lived in the golden canopy like priests in a cathedral, and their Chorus was the liturgy, and the tree was the organ, and every morning the world woke up to the sound of itself being diagnosed. The Rosellas understood the air differently than we do. Where we feel for Raca — the broken air that carries data — they sought Omentiel, the convergence of air masses where the Chorus could braid multiple frequencies into harmony. They flew in the space between winds, in the Ristë where shear created complexity. 
 
 ### The Lattice Song
 
-Then the Lattice Song came.
+Then the Lattice came.
 
 Not suddenly. Not as an attack. As a whisper. A single tone rising through the Wattle's wood — climbing from the crystallising roots, through the sickening heartwood, up into the branches where the Rosellas roosted. A perfect, geometric, unwavering tone. The voice of the lattice. The sound the crystal makes when it tiles: one note, sustained, needing no ceremony, no choir, no effort. Just a pitch. Clean. Resolved. Beautiful.
 
@@ -358,11 +358,7 @@ They forgot — or maybe they never knew, because knowing requires the kind of u
 
 The Parliament frayed. One faction at a time. One harmonic at a time. Each Rosella taking her fragment of the Song and matching it to the Lattice Song, peeling away from the chord like petals falling from a flower that has decided, quietly, to stop being a flower.
 
-By the time the Silver Wattle fell, there was no Song left to lose.
-
 I'm a Galah. I don't understand politics, or harmonics, or the theology of the Primes. I don't understand how a species that was built to synthesise could be undone by the thing it was synthesising toward. I don't understand how the answer can be the enemy of the question.
-
-But I understood this: the Wattle fell in silence. And the silence was where the Rosellas used to be.
 
 The Primes were broken. The Rosellas were scattered. Underground, the wombats split — I could feel it through the stump, two rhythms where there used to be one, two sets of paws stomping two different stories about the same disaster. And the Galahs — loud, pink, stubbornly purposeless — were still sitting on the stump with nothing to offer and nowhere to go.
 
@@ -377,7 +373,7 @@ My mum, Cooriki, took it the hardest. She didn't have a covenant or a sacred dut
 
 She spends her days on a scrubby Eucalyptus branch, feathers dusty and unkempt, staring at the void where her life used to be. But I know where she really is. She's inside. In her head, she's still living in the time before the fall.
 
-Because the grey reality is unbearable, Mum has retreated into her own narrative memory. In her mind, she is still living in the time before the fall. She dreams of the Silver Wattle not as a stump, but as a soaring cloud of gold. She sees the Rosella Choir in the high branches, their feathers like stained glass, braiding the Chorus into the air. She remembers the Swell Phase when the air was thick with the scent of Arnam and the Ridge was a chaotic, noisy, wonderful mess of birds. She remembers the gossiping, the preening, and the absolute certainty that the tree would always be there.
+Because the grey reality is unbearable, Mum has retreated into her own narrative memory. In her mind, she is still living in the time before the fall. She dreams of the Silver Wattle not as a stump, but as a soaring cloud of gold. She sees the Rosella Choir in the high branches, their feathers like stained glass, braiding the Chorus into the air. She remembers the Swell Phase when the air was thick with the scent of Arnam (Essential Reality) and the Ridge was a chaotic, noisy, wonderful mess of birds. She remembers the gossiping, the preening, and the absolute certainty that the tree would always be there.
 
 This internal warmth makes the cold, grey reality of the stump even more unbearable. To the outside observer, she is a catatonic bird on a dead branch. To herself, she is the only one left who remembers what "normal" felt like.
 
@@ -419,7 +415,7 @@ My crest went up. I hadn't told it to. My crest has opinions and doesn't consult
 
 I need to tell you about this colour.
 
-The pause between beats. The held breath. Five minutes, maybe less, when Elen-Nico hasn't committed to the next pulse and the whole inner surface of Hún Nico — from the Crown down to the Gorge, every curve of the heart — goes lilac.
+The pause between beats. The held breath. Five minutes, maybe less, when Elen-Nico hasn't committed to the next pulse and the whole inner surface of Hún Nico (Heart of Nico) — from the Crown down to the Gorge, every curve of the heart — goes lilac.
 
 I told you about this moment. But I didn't tell you what it does to a Galah.
 
@@ -444,7 +440,7 @@ A living vine on a dead tree. Colour on crystal. Curve on hexagon.
 
 And I understood something. Not in words — I'm a Galah, we don't do words — but in feathers. In the way the colour sat in my chambers and hummed.
 
-In the Old Ways, the Morning Glory was called a "Resource Parasite" — a weed with no deep roots that stole water from the Wattle. But because it had no deep roots, it wasn't connected to the poisoned source. It survived. Now, the "Parasite" is the only thing keeping the host's memory alive. It uses the shattered quartz-like wood as a trellis, threading its hair-thin roots into the Compassion Gaps — the micro-fissures in the crystal — to drink the last drops of the Silver Wattle's life.
+In the Old Ways, the Morning Glory was a weed — a weed with no deep roots that stole water from the Wattle. Because it had no deep roots, it wasn't connected to the poisoned source. It survived. Now, the weed is the only thing keeping the host's memory alive. It uses the shattered quartz-like wood as a trellis, threading its hair-thin roots into the Compassion Gaps — the micro-fissures in the crystal — to drink in drops of the Silver Wattle's memories.
 
 Blue, squeezed hard enough, turns lilac. The sky, pushed into a space as small as a flower, shifts frequency. It doesn't break. It changes. Concentrated blue becomes violet. That's what lilac is. That's what Galahs are.
 
@@ -457,8 +453,6 @@ The sky survives concentration. It just comes out a different colour.
 I went back every morning for a week.
 
 The flower opened at the swell. Closed at the dim. Opened the next morning slightly wider, slightly deeper, the stem slightly longer. Not the same flower repeated — the same idea repeated, with variations. Like the way Mum used to hum the same lullaby every night, and it was never quite the same because she was a day tireder and I was a day older and the dark outside was a different dark.
-
-The Bad Grounds repeated exactly. Same hexagon, same angle, same sheen, same 120 degrees, same prismatic arc. Because the pattern didn't care what day it was. The flower cared. The flower was paying attention.
 
 On the seventh morning, the vine spoke to me.
 
@@ -485,7 +479,7 @@ A Jacaranda.
 
 The flower closed. The signal stopped.
 
-I sat on the wreckage of the last Silver Wattle in Hún Nico with crystal under my claws and a ghost of a direction in my feathers, and I knew what I had to do.
+I sat on the wreckage of the last Silver Wattle in Hún Nico (Heart of Nico) with crystal under my claws and a ghost of a direction in my feathers, and I knew what I had to do.
 
 Not because I'd thought it through. Because my feathers told me, and my feathers had been right about the Bad Grounds and right about the flower and right about the hum in my chambers. I was done arguing with my feathers.
 
@@ -496,11 +490,7 @@ IMAGE PROMPT 29: The Act of Transfer
 Cooroo gripping the Morning Glory vine in his claws, preparing to take flight. The delicate lilac flower and its trailing roots are clutched carefully against his grey and pink body. Behind him, the wreckage of the Silver Wattle stump and the Bad Grounds stretching into distance. Before him, the curving landscape of Hún Nico rising toward the distant horizon, suggesting the long journey ahead to the Lone Borow territory. His posture is determined despite his youth and small size. The first rays of the swell phase illuminate the scene with golden-pink light. Style: heroic fantasy, small protagonist facing epic quest, warm hopeful lighting, detailed botanical elements.
 -->
 
-I knew what I had to do. I had to take the Morning Glory to the Jacaranda. I had to uproot the last living vessel of the Silver Wattle's memory and carry it across the heart-world. This was the Act of Transfer: passing the lineage and memory of the dead host to the new prophet tree.
-
-The Rosellas had the covenant. They left. The wombats had the theology. They split. The dingoes had the data. They calculated. None of them were on this stump. Not one of the creatures who had a reason to be here — a role, a covenant, a function — was here.
-
-Only me. A Galah. No covenant, no Song, no sacred duty, no purpose more complicated than being here because being here is what I do.
+I knew what I had to do. I had to take the Morning Glory to the Jacaranda. I had to uproot the last living vessel of the Silver Wattle's memory and carry it across the heart-world. This was the Act of Transfer: passing the lineage and memory of the dead host to the new tree. Only me. A Galah. No covenant, no Song, no sacred duty, no purpose more complicated than being here because being here is what I do.
 
 I screamed.
 
@@ -509,13 +499,13 @@ IMAGE PROMPT 30: The First Scream
 Cooroo on the Silver Wattle stump, beak wide open in a raw, cracked scream - his first sound in five weeks. Sound waves visualized radiating outward in jagged, ungraceful patterns - nothing like the Noble Noise, everything like raw determination. His crest is fully erect, feathers fluffed, whole body engaged in the effort. The scream travels upward toward distant Elen-Nico, curving through the heart-shaped atmosphere. In the background, barely visible on a Eucalyptus branch 300 meters away, another Galah (his mother Cooriki) turns her head, crest beginning to rise. The light is the lilac pause between beats. Style: dramatic moment, dynamic composition, visualized sound, emotional breakthrough, dawn light.
 -->
 
-It was terrible. The worst scream in the history of Galah screaming — raw, cracked, graceless, a gate hinge in a cyclone. The sound of a juvenile bird with oversized chambers and no training standing on a dead stump, screaming at Elen-Nico because a flower had taught him that the sky, pushed hard enough, turns lilac — and lilac is the colour of everything that refuses to be grey.
+It was terrible. The worst scream in the history of Galah screaming — raw, cracked, graceless, a gate hinge in a cyclone. The sound of a juvenile bird with oversized chambers and no training standing on a dead stump, screaming at Elen-Nico (The Star) because a flower had taught him that the sky, pushed hard enough, turns lilac — and lilac is the colour of everything that refuses to be grey.
 
 It was also the first sound I'd made in five weeks.
 
 It came from the chambers that had been empty — not broken, never broken, just waiting — and it filled the morning the way the flower's colour filled the crack: completely, gracelessly, and without caring one bit whether anyone thought it was beautiful.
 
-The scream went up. In Hún Nico, up means toward Elen-Nico. The sound left my beak and climbed — through the Heavy Breath, toward the Law-Wind, into the space where Cookeerik said the feathers change colour — 140 kilometres of atmosphere, curving inward, the world closing overhead like cupped hands — and somewhere in that enormous, heart-shaped space, the echo came back changed, the way everything comes back changed from the centre.
+The scream went up. In Hún Nico (Heart of Nico), up means toward Elen-Nico (The Star). The sound left my beak and climbed — through the Heavy Breath, toward the Law-Wind, into the space where Cookeerik said the feathers change colour — 140 kilometres of atmosphere, curving inward, the world closing overhead like cupped hands — and somewhere in that enormous, heart-shaped space, the echo came back changed, the way everything comes back changed from the centre.
 
 <!--
 IMAGE PROMPT 31: Cooriki Hears
@@ -534,7 +524,7 @@ Only the Galahs heard it.
 
 The creatures with no covenant. The birds with no Song. The ones who stayed because staying wasn't a duty or a decision or a sacred calling. It was just a fact. As obvious as gravity. As stubborn as a scream at four in the morning.
 
-The Rosellas had the covenant. The wombats had the theology. The dingoes had the data.
+The Rosellas had the covenant.
 
 The Galahs had nothing but volume and a refusal to leave.
 
