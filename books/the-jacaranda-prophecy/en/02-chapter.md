@@ -9,12 +9,12 @@ Epic composition for Chapter 2: Cooroo in mid-flight, clutching the glowing Morn
 
 <!--
 IMAGE PROMPT 1: The Departure
-A juvenile Galah standing on the jagged edge of the Silver Wattle stump, the Morning Glory vine gripped carefully in his claws. The vine thrums with visible lilac energy, vibrating against his talons. His crest is raised with determination, his too-short wings slightly spread. Behind him, his mother Cooriki is a tiny pink shape on a distant Eucalyptus branch, her own crest just visible - raised for the first time. The curved world of Hún Nico rises in the background, Elen-Nico burning at the center. The light is the swell phase, golden and warm. Mood: reluctant heroism, the weight of mission, leaving without goodbye. Style: fantasy illustration, epic departure moment, atmospheric lighting.
+A juvenile Galah standing on the jagged edge of the Silver Wattle stump, the Morning Glory vine gripped carefully in his claws. The vine thrums with visible lilac energy, vibrating against his talons. His crest is raised with determination, his too-short wings slightly spread. Behind him, his mother Cooriki is a tiny pink shape on a distant Eucalyptus branch, her own crest just visible - raised for the first time. The curved world of Hún Nico (Heart of Nico) rises in the background, Elen-Nico (The Star) burning at the center. The light is the swell phase, golden and warm. Mood: reluctant heroism, the weight of mission, leaving without goodbye. Style: fantasy illustration, epic departure moment, atmospheric lighting.
 -->
 
 Here's something they don't tell you about saving the world: it involves a lot of physical exertion.
 
-You'd think a grand mission would come with some kind of fitness exemption. Nope. Apparently "bearing the memory of a dead god-tree across a heart-shaped world to graft onto a foreign sapling" still requires cardio. Who knew.
+You'd think a grand mission would come with some kind of fitness exemption. Nope. Apparently "bearing the memory of an ancient god-tree across a heart-shaped world to graft onto a foreign sapling" still requires cardio. Who knew.
 
 I stood on the edge of the **Silver Wattle** stump with the Morning Glory vine gripped in my claws and seriously reconsidered my life choices. The vine was surprisingly heavy for something that looked like a piece of coloured string. It thrummed against my talons — that lilac hum that had settled in my skull chambers, vibrating at a frequency that felt less like "carrying a plant" and more like "holding onto a live electrical wire that happens to be photosynthetic."
 
@@ -26,7 +26,7 @@ The resonance in my skull chambers pulled me southeast like a compass needle, a 
 
 I looked back at Mum one last time. She was still on her Eucalyptus branch, still staring at the void where the Silver Wattle used to be, but her crest had gone up when I screamed. That was something. That was a crack in her internal sanctuary, a hairline fracture in the crystal of her grief. I wanted to say goodbye properly, to explain that I was carrying the Silver Wattle's memory to a new tree, to tell her that the Noble Noise had a return again if she would just listen for it.
 
-But world-saviours don't get proper goodbyes. They get jumped-off-stumps with wilting vines and the vague hope that their mothers might notice they're gone.
+But saviours don't get proper goodbyes. They get jumped-off-stumps with wilting vines and the vague hope that their mothers might notice they're gone.
 
 I jumped.
 
@@ -35,9 +35,9 @@ IMAGE PROMPT 2: Into the Heavy Breath
 Cooroo jumping from the stump into Thúlë Lunga - the Heavy Breath atmospheric layer. The air is visibly thick, dense, humid, carrying scents of eucalyptus and distant rain. The young Galah's wings are spread awkwardly, too short for his body, flapping with desperate uneven strokes. His beak is enormous and pink, comically oversized for his juvenile head. The Morning Glory vine trails from his claws, its leaves streaming in the wind. Below, the Eastern Ridge falls away - the crystalline Bad Grounds gleaming. Style: dynamic action, sense of physical struggle, thick atmospheric effects, early morning light.
 -->
 
-The Heavy Breath — Thúlë Lunga — caught me immediately. This is the lowest atmospheric layer, the dense, humid, mud-scented air near the surface. It's the only layer I'm technically rated for, being a juvenile with delusions of prophecy. In the Heavy Breath, the air is so thick you can almost chew it. It smells of eucalyptus and distant rain and the particular mineral tang that the wombats call "Arnam-potential" — the possibility of compassion, not yet actualized, hanging in the atmosphere like humidity before a storm. If I were a proper flier, I'd be looking for Arnam-Ringa — thermal columns rising from warm patches below — but I don't have the experience to spot the Palar-Tinta, the thermal triggers, so I just flapped and hoped.
+The Thúlë Lunga (Heavy Breath) caught me immediately. This is the lowest atmospheric layer, the dense, humid, mud-scented air near the surface. It's the only layer I'm technically rated for, being a juvenile with delusions of prophecy. In the Thúlë Lunga (Heavy Breath), the air is so thick you can almost chew it. It smells of eucalyptus and distant rain and the particular mineral tang that the wombats call "Arnam-potential" — the possibility of compassion, not yet actualized, hanging in the atmosphere like humidity before a storm. If I were a proper flier, I'd be looking for Arnam-Ringa — thermal columns rising from warm patches below — but I don't have the experience to spot the Palar-Tinta, the thermal triggers, so I just flapped and hoped.
 
-My wings have something to push against here. The problem is, the Jacaranda wasn't in the Heavy Breath. The Jacaranda was far. Past the Burnt Scrub, past the Gorge, into territory my wings couldn't possibly reach.
+My wings have something to push against here. The problem is, the Jacaranda wasn't in the Heavy Breath. The Jacaranda was far. , past the Gorge, past the Emu Steppes, into territory my wings couldn't possibly reach.
 
 I flapped. The motion was wrong — too desperate, too uneven, the wingbeats of a bird who hasn't learned the proper technique for distance flight. Proper Galahs don't flap continuously; they ride thermals, they spiral upward on columns of warm air, they let the world do the work. But I didn't have thermals. I had a vine that hummed and pulled and insisted on southeast.
 
@@ -54,20 +54,16 @@ It would attract attention. But it was the only way to fly.
 
 I rose. Slowly, jerkily, like a kite being pulled by a child who hasn't quite figured out how wind works. The Eastern Ridge fell away beneath me — the stump where I'd spent five weeks in silence, the Bad Ground with its hexagonal sheen, Mum's tiny pink shape on her Eucalyptus branch. I wanted to call out to her, but I needed every breath for flight, every heartbeat for keeping my wings moving.
 
-The Heavy Breath got colder as I climbed. That's the thing about heart-shaped worlds — up means toward the center, toward Elen-Nico, and the center is 140 kilometres away. The air thins gradually, not all at once. You don't hit a wall; you just notice, gradually, that your wings are working harder for less result.
+The Thúlë Lunga (Heavy Breath) got colder as I climbed. That's the thing about heart-shaped worlds — up means toward the center, toward Elen-Nico (The Star), and the center is 140 kilometres away. The air thins gradually, not all at once. You don't hit a wall; you just notice, gradually, that your wings are working harder for less result.
 
 I found a line of air moving southeast, the Rómen-Sírë, a rare East-Flow carrying moist air from the Jacaranda territory. I locked into it, letting the current do the work while my wings rested in brief, precious glides. My Talan-Tië — my actual track across the ground — was southeast, even if my Napa-Tië — where my beak pointed — kept drifting with the Lasta, the lateral offset of crosswinds.
 
-The vine approved. The hum steadied, became a drone, a carrier wave that my skull chambers could lock onto. It was pulling me toward the Rómen-Sírë — the East-Flow from the Jacaranda territory, a wind that shouldn't exist in the normal circulation of Hún Nico, but did. It was like having a map written directly into my nervous system. Southeast. Always southeast. If I were a better flier, I might have found a Tië-Ringa — a Cloud Street, a highway of thermals allowing for long glides without flapping. But I didn't have the skill to read the air that way. I just followed the hum.
+The vine approved. The hum steadied, became a drone, a carrier wave that my skull chambers could lock onto. It was pulling me toward the Rómen-Sírë — the East-Flow from the Jacaranda territory, a wind that shouldn't exist in the normal circulation of Hún Nico (Heart of Nico), but did. It was like having a map written directly into my nervous system. Southeast. Always southeast. If I were a better flier, I might have found a Tië-Ringa — a Cloud Street, a highway of thermals allowing for long glides without flapping. But I didn't have the skill to read the air that way. I just followed the hum.
 
-<!--
-IMAGE PROMPT 4: The Burnt Scrub Below
-Aerial view of the Burnt Scrub - a charcoal wasteland of dead eucalyptus, the blackened trunks standing like the fingers of a corpse. Bark still dropping from skeletal branches. The landscape is grey and black, devoid of green. From high above, movement visible between the trees - something large and dark prowling, possibly a dingo or something worse. The ground is ash and crystallized patches. Cooroo's small pink form flies high above, vulnerable and exposed. Light: harsh, unforgiving, midday. Style: post-apocalyptic landscape, aerial perspective, desolation, threat implied.
--->
 
-I flew for an hour. Then two. My wings burned. My chest heaved. The Heavy Breath was thinner now, colder, closer to the Law-Wind layer where the real fliers — the Wedgies, the Eagles, the predators who owned the sky — made their territory.
+I flew for an hour. Then two. My wings burned. My chest heaved. The Thúlë Lunga (Heavy Breath) was thinner now, colder, closer to the Law-Wind layer where the real fliers — the Wedgies, the Eagles, the predators who owned the sky — made their territory.
 
-Below me, the landscape changed. The Burnt Scrub spread out in a charcoal wasteland, eucalyptus trunks standing like the fingers of a corpse, still dropping bark, still waiting for fires they couldn't survive. I saw movement down there — something large and dark prowling between the trees — but I was too high and too tired to identify it. Dingo, maybe. Or something worse.
+Below me, the landscape changed. Groves spread out in a charcoal wasteland, eucalyptus trunks standing like the fingers of a corpse, still dropping bark, still waiting for fires they couldn't survive. I saw movement down there — something large and dark prowling between the trees — but I was too high and too tired to identify it. Dingo, maybe. Or something worse.
 
 The vine didn't care about the dangers below. It pulled. I followed.
 
@@ -75,7 +71,7 @@ My wings were failing. Juvenile feathers aren't built for marathon flight. I cou
 
 That's when I felt them.
 
-A disturbance in the Heavy Breath. The air suddenly too orderly, too patterned, as if someone had drawn lines through it and expected the wind to follow. I looked up and my heart — already overworked, already terrified — did something complicated involving stopping and starting at the same time.
+A disturbance in the Thúlë Lunga (Heavy Breath). The air suddenly too orderly, too patterned, as if someone had drawn lines through it and expected the wind to follow. I looked up and my heart — already overworked, already terrified — did something complicated involving stopping and starting at the same time.
 
 <!--
 IMAGE PROMPT 5: The Wedgies Appear
@@ -103,7 +99,7 @@ They don't see birds. They don't see prey, or threats, or even "pink, which is a
 
 They love the Static. Did I mention that? They absolutely love it. The crystal's perfect geometry makes flight predictable. In a fully crystallised world, every trajectory would be calculable. Every outcome would be known. The Wedgies would finally be able to relax, secure in the knowledge that nothing surprising could ever happen.
 
-They, the murderous geometricians of the air. And I, a glitch in their perfect sky.
+They, the murderous geometricians of the air. I, a glitch in their perfect sky.
 
 <!--
 IMAGE PROMPT 30: The Notched Feather
@@ -133,11 +129,11 @@ I banked right. The southern Eagle shifted. The gap closed.
 
 The vine hummed, pulled, insisted on southeast. But southeast was where the notched Eagle waited, its talons already extending, already calculating the exact moment when our trajectories would intersect.
 
-I was going to die. And not even an interesting death — not the heroic sacrifice of a messenger completing his mission, not the tragic fall of a young bird who reached too high. I was going to be deleted. A rounding error in the sky's calculations. "Subject eliminated due to Raca in Axan-Vilya." Locked into their probability cone, my Talan-Tië diverging from my Napa-Tië until there was nowhere left to fly.
+I was going to die. And not even an interesting death — not the heroic sacrifice of a messenger completing his mission, not the tragic fall of a young bird who reached too high. I was going to be deleted. A rounding error in the sky's calculations. "Subject eliminated due to Raca (Broken Air) in Axan-Vilya (Law-Wind Air)." Locked into their probability cone, my Talan-Tië diverging from my Napa-Tië until there was nowhere left to fly.
 
 The notched Eagle began its approach. A gradual adjustment of velocity and angle, closing the distance at exactly the speed required to intercept me at exactly the moment when my wings would be too tired to evade.
 
-I looked down. The Burnt Scrub was far below. Too far to fall into, not that falling into charcoal wasteland was an improvement. The Gorge was visible in the distance — a crack in the world, a place where the crystal had failed to tile properly. But I couldn't reach it. The geometry was wrong.
+I looked down. The Gorge was visible in the distance — a crack in the world, a place where the crystal had failed to tile properly. But I couldn't reach it. The geometry was wrong.
 
 The geometry was always wrong when you were a Galah.
 
@@ -289,12 +285,12 @@ And immediately crashed.
 
 <!--
 IMAGE PROMPT 15: Crash on the Steppe
-Cooroo hitting the ground of the Emu Steppe with all the elegance of a thrown rock. The Morning Glory cushions his impact slightly before being squashed beneath him. He lies there, wings sprawled, feathers frayed, utterly exhausted. The sky curves up around him in all directions - the bowl of Hún Nico's inner surface. His juvenile wings are done - finished, muscles spasming, joints screaming. He's a flightless bird in a world designed for fliers. The Steppe grass is grey-brown, sparse. The Wedgies are visible as dark shapes emerging from the Gorge behind him. Style: impact moment, exhaustion, defeat, ground-level perspective, vulnerable protagonist.
+Cooroo hitting the ground of the Emu Steppe with all the elegance of a thrown rock. The Morning Glory cushions his impact slightly before being squashed beneath him. He lies there, wings sprawled, feathers frayed, utterly exhausted. The sky curves up around him in all directions - the bowl of Hún Nico (Heart of Nico)'s inner surface. His juvenile wings are done - finished, muscles spasming, joints screaming. He's a flightless bird in a world designed for fliers. The Steppe grass is grey-brown, sparse. The Wedgies are visible as dark shapes emerging from the Gorge behind him. Style: impact moment, exhaustion, defeat, ground-level perspective, vulnerable protagonist.
 -->
 
 The Emu Steppe isn't a place you choose to land. It's a place you end up when better options have expired.
 
-I hit the ground with all the elegance of a pink rock, the Morning Glory vine cushioning my impact slightly before being squashed beneath me. For a moment, I just lay there, contemplating the many ways in which prophecy was overrated. The sky was doing that thing where it curves up in every direction, the inner surface of Hún Nico wrapping around me like a bowl, and I was the pathetic little piece of debris at the bottom.
+I hit the ground with all the elegance of a pink rock, the Morning Glory vine cushioning my impact slightly before being squashed beneath me. For a moment, I just lay there, contemplating the many ways in which prophecy was overrated. The sky was doing that thing where it curves up in every direction, the inner surface of Hún Nico (Heart of Nico) wrapping around me like a bowl, and I was the pathetic little piece of debris at the bottom.
 
 My wings were done. Finished. The juvenile feathers were frayed, the muscles spasming, the joints screaming in protest. I couldn't fly anymore. I could barely walk. I was a flightless bird in a world designed for fliers, carrying a dying plant to a tree I couldn't reach.
 
@@ -317,16 +313,16 @@ If you've never seen an Emu up close, congratulations on your sensible life choi
 
 This one ran in a spiral, a vast, looping, non-repeating pattern that carved a groove in the Steppe grass and shredded the air currents with its passage.
 
-The Emu's feet struck the earth in rhythms that made no sense — left, then right, then somehow both and neither — each step landing where geometry said it shouldn't, where prediction failed, where the neat lines of probability frayed into chaos. The air around it curdled, curdled and churned, tearing itself apart in the wake of that impossible gait. What had been Glass-Air — smooth, tiled, predictable — became Raca, became brokenness, became the kind of turbulence that laughed at vectors and mocked trajectories. The Wedgies' perfect mathematics crumbled before it, their calculated certainties dissolving into the swirling madness of the Emu's wake.
+The Emu's feet struck the earth in rhythms that made no sense — left, then right, then somehow both and neither — each step landing where geometry said it shouldn't, where prediction failed, where the neat lines of probability frayed into chaos. The air around it curdled, curdled and churned, tearing itself apart in the wake of that impossible gait. What had been Glass-Air — smooth, tiled, predictable — became Raca (Broken Air), became brokenness, became the kind of turbulence that laughed at vectors and mocked trajectories. The Wedgies' perfect mathematics crumbled before it, their calculated certainties dissolving into the swirling madness of the Emu's wake.
 
 <!--
 IMAGE PROMPT 17: The Walker and the Wedgies
-The Emu standing absolutely still after its spiral run - one second a blur of motion, the next absolute coiled potential. Around it, the air still churns with the turbulence of its passing. The three Wedgies circle helplessly at the edge of visibility, unable to approach the Spiral Zone of pure unpredictability. Their Vector Sight cannot penetrate Raca - broken air. The Emu's dried-blood eyes track them without fear. The Steppe stretches in all directions. Cooroo is a small pink shape huddled nearby, watching this impossible bird disrupt the sky through sheer aggressive movement. Style: standoff, tense stillness after motion, predator intimidation, atmospheric disturbance, power dynamic.
+The Emu standing absolutely still after its spiral run - one second a blur of motion, the next absolute coiled potential. Around it, the air still churns with the turbulence of its passing. The three Wedgies circle helplessly at the edge of visibility, unable to approach the Spiral Zone of pure unpredictability. Their Vector Sight cannot penetrate Raca (Broken Air) - broken air. The Emu's dried-blood eyes track them without fear. The Steppe stretches in all directions. Cooroo is a small pink shape huddled nearby, watching this impossible bird disrupt the sky through sheer aggressive movement. Style: standoff, tense stillness after motion, predator intimidation, atmospheric disturbance, power dynamic.
 -->
 
 The Wedgies broke. Immediately. No calculation, no geometric adjustment — just pure, panicked evasion as the Emu's wake turbulence tore their formation apart.
 
-The spiral tightened. The Emu wasn't just running; it was weaving chaos itself into the air, each impossible step churning the atmosphere into Raca — broken air, turbulent madness. The Wedgies' Vector Sight couldn't penetrate it. Their mathematics failed them here. You can't calculate the trajectory of Raca. The Spiral Zone was pure unpredictability, and the Wedgies kept their distance from it, circling at the edge like dogs afraid of fire.
+The spiral tightened. The Emu wasn't just running; it was weaving chaos itself into the air, each impossible step churning the atmosphere into Raca (Broken Air) — broken air, turbulent madness. The Wedgies' Vector Sight couldn't penetrate it. Their mathematics failed them here. You can't calculate the trajectory of Raca (Broken Air). The Spiral Zone was pure unpredictability, and the Wedgies kept their distance from it, circling at the edge like dogs afraid of fire.
 
 I watched, beak open, vine forgotten, as this impossible bird disrupted the sky through sheer aggressive movement. The Emu was grey-brown, the colour of the Steppe itself, and its feathers — coarse, lacquered, evolution's answer to body armor — caught the light in a way that made it shimmer, made it hard to track, made it impossible to predict.
 
@@ -402,7 +398,7 @@ The vine revived. The chaos of the Emu's wake — the non-repeating pattern, the
 
 We passed through regions I didn't have names for. The Steppe gave way to scrubland, then to a zone where the crystal formations were visible at the surface — not the perfect tiling of the Bad Ground, but broken crystal, fractured geometry, places where the Static had tried to claim territory and failed. The Jacaranda's influence, I realized. The tree was already disrupting the lattice, already creating defects where life could grip.
 
-The landscape changed color. The grey-brown of the Steppe shifted, became tinged with... I squinted against the wind. Was that purple? The Rómen-Sírë was strengthening, carrying moisture and scent from somewhere alive. Somewhere that shouldn't exist.
+The landscape changed color. The grey-brown of the Steppe shifted, became tinged with... I squinted against the wind. Was that purple? The Rómen-Sírë (Eastern Air Flow) was strengthening, carrying moisture and scent from somewhere alive. Somewhere that shouldn't exist.
 
 The Emu slowed to a canter, then a trot, the spiral tightening as we approached something significant.
 
@@ -449,7 +445,7 @@ IMAGE PROMPT 23: The Impossible Tree
 The Jacaranda filling the frame - wider than the Silver Wattle ever was, ancient, foreign. Its trunk is smooth, grey-brown, nothing like the Wattle's rough gold. Cascades of violet blooms pour from every branch, spilling down in waterfalls of color that catch Elen-Nico's light and transform it. The flowers are the color of the pause between beats, concentrated sky made permanent. The tree radiates presence, awareness, weight of attention. Cooroo stands before it, tiny, holding the wilted Morning Glory vine. The transfer is about to begin. Style: epic tree portrait, violet color palette, sense of awe, spiritual presence, scale contrast.
 -->
 
-It was enormous. Ancient. Its trunk was wider than the Silver Wattle had been — wider than any tree I'd ever seen. And it was covered in flowers. Not just covered — consumed. Cascades of violet blooms poured from every branch, spilling down in waterfalls of colour that caught Elen-Nico's light and held it, transformed it, sent it back into the world as something that wasn't gold and wasn't ember.
+It was enormous. Ancient. Its trunk was wider than the Silver Wattle had been — wider than any tree I'd ever seen. And it was covered in flowers. Not just covered — consumed. Cascades of violet blooms poured from every branch, spilling down in waterfalls of colour that caught Elen-Nico (The Star)'s light and held it, transformed it, sent it back into the world as something that wasn't gold and wasn't ember.
 
 The pause between beats, made permanent. The concentrated sky, made wood.
 
@@ -514,7 +510,7 @@ IMAGE PROMPT 25: The Vision - Fractal Rainforest
 The vision of the Fractal Rainforest - the Jacaranda's projection of what could be. A violet canopy spreading, interlocking, creating a ceiling that blocks the harsh glare of Elen-Nico. Light filters down soft and diffuse, the killing fire of the Static dispersed into life. Moisture trapped in micro-clouds beneath the leaves, hanging like breath. Ancient ferns thriving in gaps between crystal tiles, their roots finding Compassion Gaps. Abundance through Dispersion - the Static not gone but broken, fractalized, turned from laser into rainbow. A world where life and crystal coexist through width, not depth. Style: visionary landscape, violet canopy, dappled light, utopian ecosystem, hope made visible.
 -->
 
-I saw the violet canopy spreading, interlocking, creating a ceiling that blocked the harsh glare of the Star. I saw the light filtering down, soft and diffuse, creating a twilight where the killing fire of the Static was dispersed into life. I saw moisture trapped in micro-clouds beneath the leaves, hanging in the air like breath. I saw ancient ferns — the ones that had been dying in the open — thriving in the crystal soil, their roots breaking though gaps that the Jacaranda created.
+I saw the violet canopy spreading, interlocking, creating a ceiling that blocked the harsh glare of Elen-Nico (The Star). I saw the light filtering down, soft and diffuse, creating a twilight where the killing fire of the Static was dispersed into life. I saw moisture trapped in micro-clouds beneath the leaves, hanging in the air like breath. I saw ancient ferns — the ones that had been dying in the open — thriving in the crystal soil, their roots breaking though gaps that the Jacaranda created.
 
 It was a vision of **Abundance**. The Static wasn't gone — it was still there, the bone of the world — but it was broken, fractalized, turned from a laser into a rainbow.
 

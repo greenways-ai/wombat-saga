@@ -60,16 +60,16 @@ That's when the world goes lilac.
 
 Old Cookeerik — he was the farthest flier in the colony before his wings gave out — told me once what it's like to fly toward Elen-Nico (The Star). You push off the surface and the first ten kilometres are easy. The Heavy Breath — Thúlë Lunga — is thick and warm, the air you know, full of moisture and scent and the weight of living things. Your wings have something to push against.
 
-Then you hit the Law-Wind. Súrë Axan. The air thins. Gets colder. Gets cleaner, in a way that doesn't feel clean — it feels stripped. The wind up there moves in patterns, and the patterns are regular, and your feathers start to flatten the way they do near the Bad Grounds. The Wedgies — Wedge-tailed Eagles — call this layer home, which tells you everything about Eagles. Cookeerik said the Law-Wind is where most birds turn back. The ones with sense, anyway.
+Then you hit the Law-Wind. Súrë Axan. The air thins. Gets colder. Gets cleaner, in a way that doesn't feel clean — it feels stripped. The wind up there moves in patterns, and the patterns are regular, and your feathers start to flatten the way they do near the Bad Grounds. The Wedgies — Wedge-tailed Eagles — call this layer home, which tells you everything about Eagles. Cookeerik said the Súrë Axan (Law Wind) is where most birds turn back. The ones with sense, anyway.
 
-Above the Law-Wind is the Frequency Void — Lusta Ómëa, the Empty Resonance. That's Galah territory. Or it was, once. The air is almost nothing. Your lungs burn. Your wings have to work twice as hard for half the lift. But the sound — Cookeerik's eyes went distant when he talked about the sound. The Void is where Elen-Nico's frequency is loudest, and it's not a sound you hear with your ears. It's a sound you hear with your whole body, every feather vibrating, every chamber in your skull resonating, and the resonance is so pure it's like the crystal's hum except it isn't dead — it's alive, it's the living version of what the lattice is the dead version of, and the difference between them is the Compassion Gaps, the spaces between, the breath.
+Above the Súrë Axan (Law Wind) is the Frequency Void — Lusta Ómëa, the Empty Resonance. That's Galah territory. Or it was, once. The air is almost nothing. Your lungs burn. Your wings have to work twice as hard for half the lift. But the sound — Cookeerik's eyes went distant when he talked about the sound. The Void is where Elen-Nico's frequency is loudest, and it's not a sound you hear with your ears. It's a sound you hear with your whole body, every feather vibrating, every chamber in your skull resonating, and the resonance is so pure it's like the crystal's hum except it isn't dead — it's alive, it's the living version of what the lattice is the dead version of, and the difference between them is the Compassion Gaps, the spaces between, the breath.
 
 <!--
 IMAGE PROMPT 10: Cookeerik's Fall
 Old Cookeerik, an elder Galah with faded pink feathers, tumbling through nine kilometers of atmosphere after his wings failed near the Frequency Void. Above him, the impossibly distant Elen-Nico burning bright. Around him, the thinning air of the Law-Wind layer, feathers flattening unnaturally. His expression is not terror but transcendent wonder - he has seen what no bird should see. The curve of the heart-world below, getting closer. Style: dramatic vertical composition, sense of height and fall, atmospheric layers visible, sublime terror and beauty.
 -->
 
-Cookeerik got close enough to feel his feathers change colour. The pink shifted. Went deeper. The lilac that lives in every Galah breast concentrated, intensified, until he said he felt like a single note being sung by something enormous. Then his wings failed and he fell for nine kilometres before he caught a thermal in the Law-Wind and came home shaking.
+Cookeerik got close enough to feel his feathers change colour. The pink shifted. Went deeper. The lilac that lives in every Galah breast concentrated, intensified, until he said he felt like a single note being sung by something enormous. Then his wings failed and he fell for nine kilometres before he caught a thermal in the Súrë Axan (Law Wind) and came home shaking.
 
 No bird has reached Elen-Nico (The Star). No bird ever will. But we're the species that gets closest, and getting close to a thing you can never reach is — according to Cookeerik, who said it while staring at his own claws — "the whole point of being a Galah."
 
@@ -166,7 +166,7 @@ IMAGE PROMPT 22: The Galah Colony Scattered
 Various groups of Galahs flying away from the Eastern Ridge to different destinations. Callers heading south to the Canopy Remnant - Aldar Lemnë, scattered clusters of surviving Eucalyptus. Fliers heading to the Windbreak Cliffs - Ramba Súrëa, rough sandstone caves pockmarked and too rough for the lattice. Others flying around the back of the heart, past the Lone Borows where the ground is scrubby. Cooroo watches them go from the stump, his wings too young for the distance. Style: migration, dispersal, multiple destinations, youth left behind, community fracturing.
 -->
 
-After the Wattle fell, the other Galahs scattered too. The Callers went south to the Canopy Remnant — Aldar Lemnë, the Trees Remaining — those scattered clusters of surviving Eucalyptus and lesser Wattles south-east of the ridge. Ornamental plantings along the Halla Ristë — the Tall-Ones' Scars, where the giants' dreaming presses through the substrate and the ground dents in geometrically perfect depressions, and the trees that grow there are strange and stunted. The kind of trees that are to a proper resonant tree what tomato sauce is to a tomato: technically related, spiritually embarrassing. The Fliers went further — some to the Windbreak Cliffs, Ramba Súrëa, where the old roosting caves are pockmarked in sandstone too rough for the lattice to tile. Some made it around the back of the heart, past the margins where east meets west, where the Eucalyptus Groves thin out into the Lone Borows and the ground is scrubby and doesn't care who you are.
+After the Wattle fell, the other Galahs scattered too. The Callers went south to the Canopy Remnant — Aldar Lemnë, the Trees Remaining — those scattered clusters of surviving Eucalyptus and lesser Wattles south-east of the ridge. Ornamental plantings along the Halla Ristë — the Tall-Ones' Scars, where the giants' dreaming presses through the substrate and the ground dents in geometrically perfect depressions, and the trees that grow there are strange and stunted. The kind of trees that are to a proper resonant tree what tomato sauce is to a tomato: technically related, spiritually embarrassing. The Fliers went further — some to the Windbreak Cliffs, Ramba Súrëa, where the old roosting caves are pockmarked in sandstone too rough for the lattice to tile. Some flew even further south, toward the Lone Borows, that unstable, transitional zone where the Emu Steppe, Burnt Scrub, and Crystal Plains all bleed into one another.
 
 I stayed. My wings were too young for the distance, and I was too stubborn to say so. Mum once screamed at a thunderstorm for forty minutes because it interrupted her swell-call. The storm moved on. Mum didn't. Stubbornness: it's a family thing.
 
@@ -466,7 +466,7 @@ The signal came up through dead roots, through the living vine, through the stem
 
 <!--
 IMAGE PROMPT 28: The Direction - South-East
-Cooroo looking south-east from the stump, the Morning Glory's signal still resonating in his feathers. The landscape curves upward in that direction - past the Ridge, past the Burnt Scrub, toward the distant Gorge where living stone meets crystal. The journey ahead seems impossible for his young wings. But somewhere in the Lone Borow territory, beyond the map's end, something violet is blooming. The light shows the way - a subtle violet tint in the air pointing the direction. Style: epic landscape, journey beginning, impossible distance, hope against odds, atmospheric perspective.
+Cooroo looking south-east from the stump, the Morning Glory's signal still resonating in his feathers. The landscape curves upward in that direction - past the Ridge, past the Burnt Scrub, toward the distant Gorge where living stone meets crystal. The journey ahead seems impossible for his young wings. But somewhere in the Lone Borow territory, camouflaged and hidden, something violet is blooming. The light shows the way - a subtle violet tint in the air pointing the direction. Style: epic landscape, journey beginning, impossible distance, hope against odds, atmospheric perspective.
 -->
 
 It was a direction. South-east. Far. Past the Ridge, past the Burnt Scrub, past the Gorge where living stone meets crystal, past everywhere my useless young wings could reach. Somewhere out there — somewhere on the curving inner surface of Hún Nico, where the world bends up and away and Elen-Nico's light arrives at different angles — the lattice was thin and the ground still held moisture and the old channels connected to something that was — impossibly, unaccountably — still growing.
@@ -483,7 +483,7 @@ I sat on the wreckage of the last Silver Wattle in Hún Nico (Heart of Nico) wit
 
 Not because I'd thought it through. Because my feathers told me, and my feathers had been right about the Bad Grounds and right about the flower and right about the hum in my chambers. I was done arguing with my feathers.
 
-Find the tree. The one with the violet bloom. The one growing somewhere in the Lone Borow territory, beyond the map's end, conducting a new signal through wood that isn't gold but is alive, blooming a colour that isn't the Wattle's colour but is the sky's colour, compressed and condensed and changed into something new.
+Find the tree. The one with the violet bloom. The one growing somewhere in the Lone Borow territory, camouflaged and hidden, conducting a new signal through wood that isn't gold but is alive, blooming a colour that isn't the Wattle's colour but is the sky's colour, compressed and condensed and changed into something new.
 
 <!--
 IMAGE PROMPT 29: The Act of Transfer
@@ -505,7 +505,7 @@ It was also the first sound I'd made in five weeks.
 
 It came from the chambers that had been empty — not broken, never broken, just waiting — and it filled the morning the way the flower's colour filled the crack: completely, gracelessly, and without caring one bit whether anyone thought it was beautiful.
 
-The scream went up. In Hún Nico (Heart of Nico), up means toward Elen-Nico (The Star). The sound left my beak and climbed — through the Heavy Breath, toward the Law-Wind, into the space where Cookeerik said the feathers change colour — 140 kilometres of atmosphere, curving inward, the world closing overhead like cupped hands — and somewhere in that enormous, heart-shaped space, the echo came back changed, the way everything comes back changed from the centre.
+The scream went up. In Hún Nico (Heart of Nico), up means toward Elen-Nico (The Star). The sound left my beak and climbed — through the Thúlë Lunga (Heavy Breath), toward the Súrë Axan (Law Wind), into the space where Cookeerik said the feathers change colour — 140 kilometres of atmosphere, curving inward, the world closing overhead like cupped hands — and somewhere in that enormous, heart-shaped space, the echo came back changed, the way everything comes back changed from the centre.
 
 <!--
 IMAGE PROMPT 31: Cooriki Hears
@@ -524,9 +524,7 @@ Only the Galahs heard it.
 
 The creatures with no covenant. The birds with no Song. The ones who stayed because staying wasn't a duty or a decision or a sacred calling. It was just a fact. As obvious as gravity. As stubborn as a scream at four in the morning.
 
-The Rosellas had the covenant.
-
-The Galahs had nothing but volume and a refusal to leave.
+The Rosellas had the covenant. The Galahs had nothing but volume and a refusal to leave.
 
 It was enough.
 

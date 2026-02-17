@@ -39,7 +39,6 @@ Reading the Heart Projection from top to bottom:
 *Left Lobe — The Western Shell / Númen Pata:*
 - The Dry Channels / *Sírë Parca* — drawn as dotted curved lines winding across the left lobe, following the Serpent's Spine. The curves are conspicuous on a map dominated by straight grid-lines and hexagonal hatching
 - The Salt Pan / *Palar Lossë* — a large white oval in the lower-left quadrant. Dingo relay stations are marked as small triangles around its perimeter
-- The Lone Borows / *Erehróta* — scattered single dots at the left edge of the left lobe. This is the same marginal scrubland as the Eucalyptus Groves on the right edge — the back of the heart, split in two by the projection. The easterners call it the Groves. The westerners call it the Lone Borows. Unlabelled on the Council's version of the map. Labelled on Pokero's.
 
 **The Mid-Latitudes** (where the two lobes narrow toward the waist of the heart — the world is ~200km across here)
 
@@ -50,6 +49,8 @@ Reading the Heart Projection from top to bottom:
 - The Gorge / *Ristë Ondova* — drawn as a heavy dark line cutting across the full width of the map. The northern face is shaded organic (rough, irregular). The southern face is shaded crystalline (smooth, geometric). The Gorge is the most prominent surface feature on any projection — a crack that runs from edge to edge, dividing the living north from the crystallising south.
 
 **The Southern Shell** (below the Gorge, the heart narrows toward the point — the world compresses from ~150km down to nothing)
+
+- The Lone Borows / *Erehróta* — a crucial, unstable intersection point in the deep south where the Emu Steppe, Burnt Scrub, and Crystal Plains converge and bleed into each other. It is not a place of clear boundaries, but a transitional zone where the dominant geographies lose their definition. Unlabelled on the Council's version of the map. Labelled on Pokero's.
 
 - The Burnt Scrub / *Nártaurë* — stippled shading in the upper-south, right of centre. Fire-scar patterns. Kangaroo mob territory markers (which the Council's cartographers do not recognise and the Kangaroos do not care about)
 - The Emu Steppe / *Palar Tírima* — open grassland shading, mid-south, with curved dotted lines showing Emu patrol routes that spiral and never repeat
