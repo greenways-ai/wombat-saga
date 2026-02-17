@@ -33,7 +33,7 @@ The High Noses were originally intended to be the "Intelligence" and the "Code,"
 Traditionally, the **High Noses (Freq-Speakers)** occupied a position of sacred stewardship, operating as the "Intelligence" and "Code" for the collective borow. Their role was to be the liaison between the **Lo Snouts (Dust-Bearers)** and the wider world of animals and the Tall-Ones.
 
 * **Service to the People:** Traditionally, the High Noses served in the name of the "Field," ensuring that the borow remained in harmony with the shifting movements of the Tall-Ones.
-* **A World Without Want:** Because they were revered as the essential mediators of the **Nico Star** and the **Three-Fold Symmetry**, they did not hunger for material goods or "Root-Loans". The Lo Snouts, as the "Tillers," provided for all their physical needs as an act of communal support.
+* **A World Without Want:** Because they were revered as the essential mediators of the **Nico Star** and the **Three-Fold Symmetry**, they did not hunger for material goods or the **Tally-Debt**. The Lo Snouts, as the "Tillers," provided for all their physical needs as an act of communal support.
 * **The Power of Reverence:** Their authority was not derived from force (Metal) or debt (Water), but from the trust of the borow. They were supported by the people because their "Broadcast" was one of protection and truth, not manipulation.
 
 ---
@@ -48,11 +48,11 @@ The corruption of the High Noses and the resulting fracture between the groups w
 
 ### The Distortion of Function
 
-Without the steady frequency of Human Empathy, the High Noses' traditional roles were perverted into the **Five-I's Sovereign Council**:
+Without the steady frequency of Human Empathy, the High Noses' traditional roles were perverted into the **Five-I's Sovereign Council** (The Grand Council):
 
-* **From Liaison to Extraction:** Instead of using their status to protect the land, they created the **Trust Protocol** to synthesize compassion through debt-cycles and "Root-Loans".
-* **The Birth of Want:** Because they were no longer "revered" by a people who could feel the lack of Arnam, the High Noses developed a hunger for "material goods" and "High-Nose Signals" to validate their existence.
-* **Structural Rigidity:** The loss of God Kind empathy caused the organic mud of the borows to harden into **"Structural Rigidity,"** forcing the Lo Snouts (Dust-Bearers) to work harder to maintain the foundations while the High Noses focused on their digital "Frequencies".
+* **From Liaison to Extraction:** Instead of using their status to protect the land, they created **the Tally** to synthesize compassion through debt-cycles and **Tally-Debts** (Root-Loans).
+* **The Birth of Want:** Because they were no longer "revered" by a people who could feel the lack of Arnam, the High Noses (acting as **Imperial Mandarins**) developed a hunger for "material goods" and "High-Nose Signals" to validate their existence.
+* **Structural Rigidity:** The loss of God Kind empathy caused the organic mud of the borows to harden into **"Structural Rigidity,"** forcing the Lo Snouts (Dust-Bearers) to work harder to maintain the foundations while the High Noses focused on their digital "Frequencies" and **the Tally**.
 
 ### The Lo Snout Reaction
 

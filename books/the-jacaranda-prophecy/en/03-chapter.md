@@ -1,4 +1,4 @@
-# The Melborow Frequency
+# Chapter 3: The Melborow Frequency
 
 <!--
 BONUS IMAGE PROMPT: Chapter Cover Image

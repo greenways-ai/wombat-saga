@@ -145,6 +145,24 @@ for LANG in $LANGUAGES; do
         <a href="../" class="nav-btn">All Books</a>
         <button id="next-btn" class="nav-btn" disabled>Next</button>
       </nav>
+      <div id="comments" style="margin-top: 3rem; max-width: var(--content-max-width); margin-left: auto; margin-right: auto;">
+        <script src="https://giscus.app/client.js"
+                data-repo="greenways-ai/wombat-saga"
+                data-repo-id="R_kgDORRLkUw"
+                data-category="General"
+                data-category-id="DIC_kwDORRLkU84C2nH1"
+                data-mapping="title"
+                data-strict="1"
+                data-reactions-enabled="1"
+                data-emit-metadata="1"
+                data-input-position="top"
+                data-theme="purple_dark"
+                data-lang="en"
+                data-loading="lazy"
+                crossorigin="anonymous"
+                async>
+        </script>
+      </div>
     </main>
   </div>
   <script src="../assets/book.js"></script>

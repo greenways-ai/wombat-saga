@@ -1,6 +1,6 @@
 # Characters of The Wombat Worlds Saga
 
-This document outlines the key figures in the Wombat Saga, categorizing them by their role in the conflict between the "Old Ways" and the "New Ways" of Melborow.
+This document outlines the key figures in the Wombat Saga, categorizing them by their role in the conflict between the "Old Ways" and the "Imperial Ways" of Melborow.
 
 ## The Protagonists: "The 5"
 *The new team rising to replace the fallen Primes.*
@@ -13,14 +13,14 @@ This document outlines the key figures in the Wombat Saga, categorizing them by 
 
 *See [[characters/protagonists|The Protagonists]] for full profiles.*
 
-## The Antagonists: The 5 Sovereign Wombats
-*The ruling body of the "New Ways," evolved into new personas.*
+## The Antagonists: The Five Sovereigns (The Grand Council)
+*The ruling body of the "New Ways," modeled after an **Imperial Bureaucracy**.*
 
-*   **Trumbat (Priest):** Infrastructure (Earth). Rap Style: Mellow Gospel.
-*   **Muskbat (Tech/Batman):** Innovation (Fire). Rap Style: Eminem.
-*   **Tatebat (Pimp):** Influence (Metal). Rap Style: Kanye West.
-*   **Vitabat (Enforcer):** Investment (Water). Rap Style: TI.
-*   **Zuckbat (Ledger):** Intelligence (Wood). Rap Style: Immortal Technique.
+*   **Trumbat (Grand Architect):** Board of Works (Earth). Rap Style: Mellow Gospel.
+*   **Muskbat (Technocrat):** Board of Rites (Fire). Rap Style: Eminem.
+*   **Tatebat (Cultural Architect):** Board of Influence (Metal). Rap Style: Kanye West.
+*   **Vitabat (Grand Treasurer):** Board of Revenue (Water). Rap Style: TI.
+*   **Zuckbat (Magistrate of the Tally):** The Censorate (Wood). Rap Style: Immortal Technique.
 
 *See [[characters/antagonists|The Antagonists]] for full profiles.*
 
@@ -41,4 +41,3 @@ This document outlines the key figures in the Wombat Saga, categorizing them by 
 *   **Disguise:** Posed as a "Beggar Fool" on the street.
 *   **Secret:** Feigned madness to escape the "Fixed Borow" of the family.
 *   **Action:** When Hoebat gave him a fermented root, he whispered the secret frequency of the **Dingo Code**.
-

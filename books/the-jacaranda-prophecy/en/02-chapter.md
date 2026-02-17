@@ -1,4 +1,4 @@
-# Cooroo's Journey
+# Chapter 2: Cooroo's Journey
 
 <!--
 BONUS IMAGE PROMPT: Chapter Cover Image
@@ -380,7 +380,7 @@ IMAGE PROMPT 20: The Changing Landscape
 The landscape changing color as the Emu runs - grey-brown of the Steppe giving way to scrubland, then to zones where crystal formations are visible but broken. The Static tried to claim territory here and failed. Fractured geometry, broken crystal tiles. The air carries moisture and scent from somewhere alive. Purple tints appear in the vegetation - the influence of the Jacaranda already disrupting the lattice, creating defects where life can grip. The Rómen-Sírë (East-Flow) strengthening. Cooroo looks ahead with hope, the vine humming urgently. Style: transition landscape, hope emerging, broken crystal vs living vegetation, purple tones entering palette, journey progression.
 -->
 
-I saw one of the Wedgies break formation, angle its wings toward the upper atmosphere. It was signaling — not to the others, but up, toward the Súrë Axan (Law-Wind), toward the Frequency Void where the big birds lived. The message was clear enough even for me to read: *"The Walker has a rider. Just wait until the Shogun hears about this."*
+I saw one of the Wedgies break formation, angle its wings toward the upper atmosphere. It was signaling — not to the others, but up, toward the Súrë Axan (Law-Wind), toward the Lusta Ómëa (Frequency Void) where the big birds lived. The message was clear enough even for me to read: *"The Walker has a rider. Just wait until the Shogun hears about this."*
 
 I didn't know who the Shogun was. I had a feeling I would find out.
 

@@ -9,7 +9,7 @@
 **"I don't dig for fun anymore. I dig for diapers."**
 
 ### I. The Archetype: The Silent Provider
-Duzbat was once the unstoppable force of the outer ring, a wombat who dug because his body demanded it. Now, he is the **Atlas of Sector 7**. He carries the weight of a large family and a crushing mortgage in Vitabat's ledger. He represents the **Physical Toll** of the modern era—strength harvested for someone else's profit.
+Duzbat was once the unstoppable force of the outer ring, a wombat who dug because his body demanded it. Now, he is the **Atlas of Sector 7**. He carries the weight of a large family and a crushing notch in **Vitabat’s Tally**. He represents the **Physical Toll** of the modern era—strength harvested for someone else's profit.
 
 ### II. Current Status
 *   **Occupation:** Senior Load-Lifter at the Batch Seven Mixing Plant. He lifts the heavy sacks of calciumite that other wombats need machines to move.
@@ -31,7 +31,7 @@ Flickboo was the ghost who could fit through any gap, the spirit of agility and 
 
 ### II. Current Status
 *   **Occupation:** Quality Control Inspector for "Mural Harmony." She ensures that the distraction-murals covering the cracks are straight.
-*   **Family:** Married to a nervous accountant. She has twin joeys whom she protects with a ferocity that borders on paranoia.
+*   **Family:** Married to a nervous Tally-Clerk. She has twin joeys whom she protects with a ferocity that borders on paranoia.
 *   **The Change:** Her "competitive streak" has morphed into hyper-vigilance. She constantly checks the air vents, seals the windows, and obsessively monitors the Frequency, terrified that "The Yellow Monsters" will return. She can still fit into small spaces, but now she uses that skill to hide her children's unauthorized "Old Way" drawings from the inspectors.
 
 ### III. Relationship to the Saga

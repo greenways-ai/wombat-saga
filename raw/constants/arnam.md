@@ -28,7 +28,7 @@ The central conflict of the Saga involves the "Great Crystalisation" of Human em
 
 * **The Source**: Pure Human empathy.
 * **The Physical Manifestation**: Nutrient-rich soil, sweet roots, and structural stability.
-* **The Corrupted Form**: "Liquid Ledger," debt-based tokens, and the "Melborow Frequency".
+* **The Corrupted Form**: **the Tally**, debt-based tokens, and the "Melborow Frequency".
 * **The Mending Agent**: In the **Maha Tahto**, Arnam is the "Gold" of Noble Intent used to join the broken pieces of the world back together.
 
 
@@ -45,16 +45,16 @@ In the traditional theology and ecology of the Southern Land, **Arnam** (the "Ra
 The nature of these pools changed significantly after the **Great Crystalisation** of Human empathy:
 
 * **The Traditional Way**: Resonance pools were communal and maintained by the **Lo Snouts (Dust-Bearers)** through the **Old Way Dance** and collective "Noble Intent".
-* **The Modern Way (The Liquid Ledger)**: The Council member **Vitabat** replaced these natural resonance pools with a centralized **"Liquid Ledger"**.
-* This is a "muddy reservoir" in the center of Melborow that stores Arnam not as a shared blessing, but as a speculative asset.
-* Instead of vibrating with the earth-hum, this pool is managed by a "high-frequency trading algorithm" that treats trust as a derivative of debt.
+* **The Modern Way (the Tally)**: The Council member **Vitabat** replaced these natural resonance pools with a centralized **Tally** of Arnam.
+* This is a "muddy reservoir" in the center of Melborow that stores Arnam not as a shared blessing, but as a speculative asset notched into the Tally-stones.
+* Instead of vibrating with the earth-hum, this pool is managed by a "high-frequency Tally-audit" that treats trust as a derivative of debt.
 
 
 
-While the **High Noses** control the visible "Liquid Ledger," **Hoebat** and the **Hidden Root** maintain secret resonance pools in the deep tunnels.
+While the **High Noses** control the visible **Tally**, **Hoebat** and the **Hidden Root** maintain secret resonance pools in the deep tunnels.
 
 * **Secret Repairs**: They use the stored resonance from these hidden pools to perform "Secret Repairs" at night, reinforcing the foundations that the High Noses' "Frequency" has allowed to crumble.
-* **The Ground Hears the Ground**: These pools are tuned to the ancient frequency **"Yanda hlar-ya yanda"** (The ground hears the ground), ensuring that the "Old Ways" of Arnamland remain alive even as the surface goes "cactus".
+* **The Ground Hears the Ground**: These pools are tuned to the ancient frequency **"Yanda hlar-ya yanda"** (The ground hears the ground), ensuring that the "Old Ways" of Arnamland remain alive even as the surface goes "cactus", far from the notches of the Tally-magistrates.
 
 
 In the traditional functionalism of the Southern Land, the **Arnam Tribute** was the sacred mechanism that maintained the structural integrity of the world. This ritual represents the original covenant where the two groups operated in a "Separation of Functions" similar to the Abel and Cain myth.
@@ -88,16 +88,16 @@ The creation of the larger resonance pools was initially a collaborative emergen
 
 Because the wombats "meant well," they trusted the **High Noses** to conduct the **Arnam Tribute** and manage the big pools. This noble intent was the "Gold" that eventually turned into a trap.
 
-* **The Entry of the Auditor**: As the pools grew, they required a "ledger" to manage who contributed and who consumed. **Vitabat** stepped into this void, replacing the natural resonance of the pools with the **Trust Protocol**.
-* **The Shift to Debt**: What started as a communal storage system became **The Liquid Ledger**. The High Noses began to treat the stored Arnam as a speculative asset rather than a shared blessing.
-* **The Result**: The wombats found themselves digging not to fertilize the land, but to pay back **"Root-Loans"** for Arnam that used to be free.
+* **The Entry of the Auditor**: As the pools grew, they required a method to manage who contributed and who consumed. **Vitabat** stepped into this void, replacing the natural resonance of the pools with the **Tally**.
+* **The Shift to Debt**: What started as a communal storage system became the **Board of Revenue's** primary instrument. The High Noses began to treat the stored Arnam as a speculative asset notched into stones rather than a shared blessing.
+* **The Result**: The wombats found themselves digging not to fertilize the land, but to pay back the **Tally-Debt** for Arnam that used to be free.
 
 ### 4. The Modern State: The Freq-Speaker Monopoly
 
 Today, the big pools are the only ones left, and they are controlled entirely by the **Five-I's Sovereign Council**.
 
 * **Muskbat’s Frequency**: He uses the **Melborow Frequency** to broadcast a synthetic sense of "Fullness" that keeps wombats from noticing the big pools are actually draining the life out of the deep earth.
-* **Hoebat’s Secret**: This is why **Hoebat** and the **Hidden Root** are so vital—they are trying to restore the "Small Yield" by maintaining secret, illegal resonance pools in the dark, away from the High-Nose ledgers.
+* **Hoebat’s Secret**: This is why **Hoebat** and the **Hidden Root** are so vital—they are trying to restore the "Small Yield" by maintaining secret, illegal resonance pools in the dark, away from the Tally-magistrates.
 
 
 In the traditional theology of the Southern Land, the process of the earth losing its organic, shifting depth is known as **The Great Calcification**.
@@ -146,7 +146,7 @@ Small pools were stable because they were anchored in the deep earth. Mega Pools
 
 In a small pool, you can smell the moisture; you know the health of your dirt. In a Mega Pool, you only see the "Ledger."
 
-* **The Danger:** Wombats stop trusting their own snouts and start trusting the **Trust Protocol**. They become "numb" to the physical vibrations of the earth.
+* **The Danger:** Wombats stop trusting their own snouts and start trusting the **Tally**. They become "numb" to the physical vibrations of the earth.
 * **The Horror:** A wombat might stand in a crumbling tunnel, ignoring the tremors of a "Yellow Monster" (excavator) simply because the High-Nose report says the Mega Pool's "Stability Index" is at 100%.
 
 ### 4. The Creation of "Safety Grout" (The End of Shifting)
@@ -156,12 +156,12 @@ The most terrifying danger of the Mega Pool is that it requires **Structural Rig
 * **The Problem:** To manage that much Arnam in one place, the High Noses had to "pave over" the organic, shifting mud. They turned the living earth into **Safety Grout**.
 * **The Consequence:** A world made of grout cannot shift with the earth. It can only crack. By centralizing the pools, the High Noses effectively turned the Southern Land into a brittle shell that will eventually shatter under the weight of the human skyscrapers.
 
-### 5. Securitized Debt (The Root-Loan Trap)
+### 5. Securitized Debt (The Tally-Debt Trap)
 
 Because the "Small Yield" is gone, wombats have no choice but to use the Mega Pools.
 
 * **The Danger:** **Vitabat** doesn't give Arnam away; he loans it. Wombats are born into a "Debt-Cycle" where they must dig for the pool just to pay for the right to breathe the resonance they themselves produced.
-* **The Social Cost:** This turns the "Separation of Functions" (Lo Snout and High Nose) into a "Class War," where the High Noses are the bankers and the Lo Snouts are the "God-Slaves."
+* **The Social Cost:** This turns the "Separation of Functions" (Lo Snout and High Nose) into an Imperial hierarchy, where the High Noses are the Tally-Magistrates and the Lo Snouts are the Corvée laborers.
 
 ### Summary: The "Cactus" Inevitability
 

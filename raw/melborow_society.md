@@ -1,4 +1,4 @@
-# The Melborow Social Structure & The Frequency Trade
+# The Melborow Imperial Structure & The Frequency Tribute
 
 ## I. The Core Crisis: The Drowning of the Roots
 In the "Time Before," the Wombats navigated by **The Pure Signal (Arnam)**—a subtle, bio-electric vibration from the earth and roots. It was quiet, communal, and required silence to hear.
@@ -11,87 +11,70 @@ As the God-Kind (Humans) expanded their digital networks above, their excess dat
 
 ---
 
-## II. The Rise of the 5i's (The Cathedral)
-The Five Sovereigns rose to power not by restoring the Arnam, but by manufacturing a substitute.
+## II. The Rise of the Mandate (The Cathedral)
+The Five Sovereigns (The **Grand Council** / *Junji-chu*) rose to power not by restoring the Arnam, but by manufacturing a substitute and claiming the **Mandate of the Star**.
 
 **The Solution: The Frequency (The Synthetic Signal)**
-Muskbat (Innovation) developed a way to filter the chaotic Static and re-synthesize it into a rhythmic, steady pulse called **The Frequency**.
+Muskbat developed a way to filter the chaotic Static and re-synthesize it into a rhythmic, steady pulse called **The Frequency**.
 *   It mimics the comfort of Arnam but is artificial and amplified.
-*   It does not require silence to hear; it overpowers the noise.
-*   **The Trade-Off:** While Arnam promotes empathy and connection, The Frequency stimulates the "Fight or Flight" amygdala response.
+*   **The Trade-Off:** While Arnam promotes empathy and connection, The Frequency stimulates the "Fight or Flight" response, ensuring the population remains in a state of manageable panic.
 
 ---
 
-## III. The Social Hierarchy (The Grout Caste)
-Society is now stratified by access to the "purity" of this synthetic signal.
+## III. The Imperial Bureaucracy (The High Noses)
+The High Noses have transformed from community liaisons into a rigid **Imperial Bureaucracy** modeled after the ancient Courts.
 
-### 1. The Cathedral (The Source)
-*   **The 5 Sovereigns:** They control the generation and distribution of The Frequency. They are the only ones who know the Signal is fake.
+### 1. The Board of Revenue (*Hu-bu*) — Masters of the Tally
+Led by **Vitabat** and **Zuckbat**, this board manages the census, the root-tribute, and **the Tally**. 
+*   They treat every wombat as a "Labor Asset" on a Tally-stone. 
+*   They issue **Root Loans** (advances from the Imperial Granary) to survive the droughts of compassion.
 
-### 2. The High-Noses (The Subscribers)
-*   **Status:** The Elite, the wealthy merchants, and the compliant.
-*   **The Privilege:** They pay exorbitant rates for **"Clean Signal."** This is a highly refined version of the Frequency that is soothing, numbing, and induces a feeling of superiority.
-*   **The Lifestyle:** They live in the "Upper Burrows," insulated by thick grout walls that block out the raw Static. They believe they are "civilized" because they don't hear the chaos, only the curated hum.
+### 2. The Board of Works (*Gong-bu*) — Architects of the Grout-Tide
+Led by **Trumbat**, this board oversees the construction of the Great Retaining Wall and the "Grid Tunnels."
+*   They manage the **Corvée Labor** (forced labor). If a wombat cannot pay their Tally-debt, they are drafted into the Board of Works to dig until the debt is "cleared."
 
-### 3. The Fixed (The Middle Management)
-*   **Status:** The Bureaucrats, the foremen (like Rumbat), and the enforcers.
-*   **The Reality:** They receive a "Functional Signal"—a mix of rhythm and command. It keeps them productive and obedient but lacks the euphoria of the Clean Signal. They are terrified of losing their status and falling into the noise.
-
-### 4. The Lo-Snouts (The Exposed)
-*   **Status:** The laborers, the diggers, and the outcasts (Hoebat’s kin).
-*   **The Burden:** They cannot afford the filters. They are exposed to **"Raw Static"** or "Dirty Signal"—a jagged, static-filled noise that causes headaches, confusion, and erratic behavior.
-*   **The Stigma:** Their erratic behavior (caused by the noise) is used by the High-Noses to label them as "dangerous" and "savage," justifying their oppression.
+### 3. The Censorate (*Ducha-yuan*) — Listeners of Harmonic Vigilance
+These officials carry resonance-tuned bells and monitor the tunnels for **"Dissonant Noise."** 
+*   Singing an "Old Way" song is considered sedition against the Emperor’s Harmony. 
+*   They ensure the only sound in the tunnels is the approved Imperial Frequency.
 
 ---
 
-## IV. The Perverse Feedback Loop (The Violence Economy)
-The tragedy of Melborow is that the cure is the cause of the disease.
+## IV. The Tally (The Instrument of Debt)
+The **Tally** is the physical instrument of control. It is not a paper ledger; it is a split-stone made of **Melborow’s Finest**.
 
-**1. The Side Effect:**
-The Frequency (even the Clean version) is derived from human digital aggression. Long-term exposure rewires the wombat brain.
-*   **High-Noses:** Become paranoid, cold, and sociopathic (The "Ice" demeanor).
-*   **Lo-Snouts:** Become erratic, twitchy, and prone to sudden outbursts of rage (The "Rabies").
+**1. The Split-Stone:**
+*   **The Council-Half:** Kept in the high vaults of the Cathedral.
+*   **The Debt-Half:** Held by the Lo-Snout family.
+*   **The Notching:** When a **Root Loan** is issued, a Magistrate carves a jagged notch into both halves. Debt is the physical removal of a wombat’s future.
 
-**2. The Cycle of Control:**
-*   **Step A:** The Frequency makes the population violent and paranoid.
-*   **Step B:** The High-Noses see the violence (especially among the Lo-Snouts) and demand "Safety."
-*   **Step C:** Trumbat (Infrastructure) argues for more walls (Grout).
-*   **Step D:** Muskbat (Innovation) argues for a stronger, more controlling Signal to "calm" the populace.
-*   **Step E:** Vitabat (Investment) raises the price of the Signal to pay for the walls.
-
-**The Result:** The more violent the society becomes, the more they rely on the 5i's for protection, giving the Council absolute power.
+**2. The Imperial Interest:**
+The Magistrate carves the notch deeper than the roots are worth. This ensures the Tally is never balanced. The stone becomes fragile, much like the family’s hope.
 
 ---
 
-## V. The Dual Purpose of the Wall (The Grout Anchor)
-The **Great Retaining Wall** is not merely a barrier against the "Mad Dingoes." It serves a critical geological function necessitated by the industrialization of spirit.
+## V. The Imperial Hierarchy (The Grout Caste)
+
+### 1. The Grand Council (The Source)
+The 5 Sovereigns who sit in the highest, most resonant chamber. They contemplate the "Clean Signal" while the world below burns.
+
+### 2. The High-Noses (The Mandarins)
+The Elite who pay for **"Clean Signal."** They live in the "Upper Burrows," insulated by thick grout walls that block out the raw Static. They believe their comfort is a sign of their "Virtue."
+
+### 3. The Fixed (Local Magistrates)
+The "Father and Mother" officials assigned to rule over Lo-Snout family burrows. They settle disputes and collect the Tally-tribute, often skimming Arnam for their own Silent Sanctuaries.
+
+### 4. The Lo-Snouts (The Peasants / Corvée Laborers)
+The laborers who are exposed to **"Raw Static."** They are the ones who dig the Wall to pay off the notches on their Tally-stones. Their erratic behavior (caused by the noise) is used to justify their "re-education" by the Censorate.
+
+---
+
+## VI. The Dual Purpose of the Wall (The Grout Anchor)
+The **Great Retaining Wall** is the Emperor's vanity project and a geological dampener.
 
 **1. From Puddles to Reservoirs (The Storage Crisis):**
-In the Old Ways, Arnam collected in small, localized "Puddles" found in every family burrow, naturally replenished by the daily "Yield on the Wails" (the compassionate response of Humans to Wombat cries).
-*   **The Drought:** As the Static rose, the Humans became distracted. The "Yield on the Wails" collapsed; no matter how loud the Wombats cried, the sky remained cold.
-*   **The Aggregation:** To survive the drought, the Council forced the consolidation of these small sources into massive, centralized **Arnam Reservoirs**.
-*   **The Consequence:** Instead of a million small stabilizing anchors, the Borow now sits on top of a few unstable, churning oceans of liquid resonance.
+The Council forced the consolidation of family "Puddles" into massive, centralized **Imperial Arnam Reservoirs** (Mega-Pools).
+*   **The Tally Connection:** You borrow your own ancestral water as a **Tally-Loan**.
 
-**2. Stabilizing the Mega-Pools:**
-These unnatural "Mega-Pools" created massive structural instability. The concentration of so much energy in one place threatened to cause a "Liquefaction Event," where the ground would simply dissolve.
-*   **The Wall as Anchor:** The heavy grout of the Wall acts as a "Dampener." It physically weighs down the earth, compressing the soil around the volatile reservoirs to keep them from breaching.
-
-**3. The Irony of Stability:**
-*   The Wall *does* stabilize the ground, preventing immediate collapse.
-*   **However:** By "capping" the pools under gigatons of grout, the Wall prevents the natural Arnam from rising to the surface. It stops the land from "breathing."
-*   **The Outcome:** The land is stable (safe) but dead (spiritless). The Wombats are physically secure but spiritually starved, making them even more dependent on the synthetic Frequency.
-
----
-
-## VII. Melborow’s Finest (The Blocks)
-The physical foundation of Melborow—the blocks used for the Wall and the elite burrows—is a substance known as **Melborow’s Finest**.
-
-**1. The Synthesis (Noise into Matter):**
-Melborow’s Finest is not natural rock. It is a synthetic polymer created by Muskbat by compressing the solid by-products of the Static refinement process.
-*   **The Irony:** To get "Silence" (the block), the Council must harvest more "Noise" (the Static).
-*   **The Property:** The stone is hyper-dense and acts as a physical firewall. It absorbs digital interference, turning the chaotic Static into heat and silence.
-
-**2. The Commodity of Separation:**
-Because it is the only thing that provides relief from the auditory hell of the upper crust, Melborow’s Finest is the primary currency of the elite.
-*   **The Black Market:** Blocks are skimmed from the Great Wall's construction to build private "Silent Sanctuaries" for the High-Noses.
-*   **The Trap:** The more a wombat surrounds themselves with Melborow’s Finest, the more "Static" must be harvested to maintain the supply, ensuring the world outside their walls becomes increasingly toxic.
+**2. The Wall as Anchor:**
+The heavy grout of the Wall compresses the soil around these volatile "Mega-Pools" to prevent a Liquefaction Event. It stabilizes the ground but prevents the land from "breathing," sealing the Arnam beneath gigatons of dead stone.

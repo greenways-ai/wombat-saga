@@ -37,10 +37,10 @@ The suffix **-iki** implies "Small," "Manicured," or "Controlled." It is the opp
 *   **The Result:** High-yield crops that have no nutritional soul (Sweet-Tap with high sugar but zero Arnam).
 *   **Motto:** *"Yield over Root."*
 
-### 4. Sutr-iki (The Ledger)
+### 4. Sutr-iki (The Tally)
 *   **Inversion of:** [[dust_bearers#VII. The Sutr-Mu (The Weavers)|Sutr-Mu]] (Root-Tapping).
-*   **The Practice:** **The Transaction**. The Sutr-Mu weaves a network of connection. The Sutr-iki weaves a network of *debt*. Every interaction is logged, quantified, and balanced. There is no "gift" in Sutr-iki; there is only "credit" and "debit."
-*   **The Result:** [[../constants/arnam#The Liquid Ledger|The Liquid Ledger]]. The transformation of a community into an economy.
+*   **The Practice:** **The Transaction**. The Sutr-Mu weaves a network of connection. The Sutr-iki weaves a network of *debt*. Every interaction is logged, quantified, and notched into **The Tally**. There is no "gift" in Sutr-iki; there is only "credit" and "debit."
+*   **The Result:** [[../constants/arnam#the Tally|the Tally]]. The transformation of a community into an economy.
 *   **Motto:** *"Everything has a Price."*
 
 ### 5. Nakh-iki (The Grid)
@@ -63,9 +63,9 @@ The [[../characters/antagonists|Five Sovereigns]] are the supreme masters of the
     *   **The Fall:** Trumbat eventually found the "Yielding" of the Karst-Mu insufficient. He wanted absolute safety. He stopped *redirecting* the collapse and started trying to *freeze* it. He corrupted the Defender's instinct into the Jailer's instinct. He built the **Karst-iki** (The Big Wall) because he loved the wombats too much to let them be free and dangerous.
     *   **Domain:** Infrastructure (Earth).
 
-*   **ZUCKBAT (The Ledger)**
+*   **ZUCKBAT (The Magistrate of the Tally)**
     *   **Origin:** [[dust_bearers#VII. The Sutr-Mu (The Weavers)|Sutr-Mu]] (Weaver).
-    *   **The Fall:** Zuckbat was a master of the Root-Network. He fell when he decided that "Connection" was inefficient if it wasn't "Measured." He turned the Sutr-Mu's listening web into the Sutr-iki's surveillance web. He didn't want to oppress; he wanted to *Optimize*. He is the tragedy of the Quantified Self.
+    *   **The Fall:** Zuckbat was a master of the Root-Network. He fell when he decided that "Connection" was inefficient if it wasn't "Measured." He turned the Sutr-Mu's listening web into the Sutr-iki's surveillance web—the **Tally**. He didn't want to oppress; he wanted to *Optimize*. He is the tragedy of the Quantified Self.
     *   **Domain:** Intelligence (Wood/Network).
 
 ### The Synthetics (The Born Veneer)
@@ -116,11 +116,11 @@ While the High Noses present a united front of "White Paw Perfection," the 5 -ik
 *   **Karst-iki** practitioners (Trumbat's foremen) scream that the paint weakens the seal and obscures stress fractures. They believe "Ugly is Safe."
 *   **The Symptom:** Parts of the Great Retaining Wall are failing because Kints-iki plaster was applied over structural cracks to make them look "smooth" for a VIP tour, preventing the Karst-iki engineers from seeing the danger until it was too late.
 
-### 3. The Ledger vs. The Flow (Sutr-iki vs. Tahl-iki)
+### 3. The Tally vs. The Flow (Sutr-iki vs. Tahl-iki)
 *   **The Conflict:** **Audit vs. Growth.**
-*   **Zuckbat (Sutr-iki)** demands that every drop of water and every gram of root-nutrient be logged in the Ledger *before* it is used.
+*   **Zuckbat (Sutr-iki)** demands that every drop of water and every gram of root-nutrient be notched into **The Tally** *before* it is used.
 *   **Vitabat/Tahl-iki** growers argue that plants don't wait for audits. If the water doesn't flow *now*, the crop dies.
-*   **The Symptom:** "The Dry Audit." Entire hydroponic sectors have died because the automated irrigation system refused to open a valve until the blockchain transaction for the water credit had cleared.
+*   **The Symptom:** "The Dry Audit." Entire hydroponic sectors have died because the automated irrigation system refused to open a valve until the **Tally-notch** for the water credit had been verified.
 
 ### 4. The Grid vs. The Brand (Nakh-iki vs. Tatebat)
 *   **The Conflict:** **Efficiency vs. Narrative.**

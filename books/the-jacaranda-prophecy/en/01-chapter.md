@@ -1,4 +1,4 @@
-# The Morning Glory
+# Chapter 1: The Morning Glory
 
 <!-- 
 IMAGE PROMPT 1: Cooroo, the Silent Galah
@@ -62,11 +62,11 @@ Old Cookeerik — he was the farthest flier in the colony before his wings gave 
 
 Then you hit the Law-Wind. Súrë Axan. The air thins. Gets colder. Gets cleaner, in a way that doesn't feel clean — it feels stripped. The wind up there moves in patterns, and the patterns are regular, and your feathers start to flatten the way they do near the Bad Grounds. The Wedgies — Wedge-tailed Eagles — call this layer home, which tells you everything about Eagles. Cookeerik said the Súrë Axan (Law Wind) is where most birds turn back. The ones with sense, anyway.
 
-Above the Súrë Axan (Law Wind) is the Frequency Void — Lusta Ómëa, the Empty Resonance. That's Galah territory. Or it was, once. The air is almost nothing. Your lungs burn. Your wings have to work twice as hard for half the lift. But the sound — Cookeerik's eyes went distant when he talked about the sound. The Void is where Elen-Nico's frequency is loudest, and it's not a sound you hear with your ears. It's a sound you hear with your whole body, every feather vibrating, every chamber in your skull resonating, and the resonance is so pure it's like the crystal's hum except it isn't dead — it's alive, it's the living version of what the lattice is the dead version of, and the difference between them is the Compassion Gaps, the spaces between, the breath.
+Above the Súrë Axan (Law Wind) is the Lusta Ómëa (Frequency Void), the Empty Resonance. That's Galah territory. Or it was, once. The air is almost nothing. Your lungs burn. Your wings have to work twice as hard for half the lift. But the sound — Cookeerik's eyes went distant when he talked about the sound. The Void is where Elen-Nico's frequency is loudest, and it's not a sound you hear with your ears. It's a sound you hear with your whole body, every feather vibrating, every chamber in your skull resonating, and the resonance is so pure it's like the crystal's hum except it isn't dead — it's alive, it's the living version of what the lattice is the dead version of, and the difference between them is the Compassion Gaps, the spaces between, the breath.
 
 <!--
 IMAGE PROMPT 10: Cookeerik's Fall
-Old Cookeerik, an elder Galah with faded pink feathers, tumbling through nine kilometers of atmosphere after his wings failed near the Frequency Void. Above him, the impossibly distant Elen-Nico burning bright. Around him, the thinning air of the Law-Wind layer, feathers flattening unnaturally. His expression is not terror but transcendent wonder - he has seen what no bird should see. The curve of the heart-world below, getting closer. Style: dramatic vertical composition, sense of height and fall, atmospheric layers visible, sublime terror and beauty.
+Old Cookeerik, an elder Galah with faded pink feathers, tumbling through nine kilometers of atmosphere after his wings failed near the Lusta Ómëa (Frequency Void). Above him, the impossibly distant Elen-Nico burning bright. Around him, the thinning air of the Law-Wind layer, feathers flattening unnaturally. His expression is not terror but transcendent wonder - he has seen what no bird should see. The curve of the heart-world below, getting closer. Style: dramatic vertical composition, sense of height and fall, atmospheric layers visible, sublime terror and beauty.
 -->
 
 Cookeerik got close enough to feel his feathers change colour. The pink shifted. Went deeper. The lilac that lives in every Galah breast concentrated, intensified, until he said he felt like a single note being sung by something enormous. Then his wings failed and he fell for nine kilometres before he caught a thermal in the Súrë Axan (Law Wind) and came home shaking.

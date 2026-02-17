@@ -31,7 +31,7 @@ This loss of Human Empathy manifests in Melborow as **"Structural Rigidity."** T
 
 ## The Logic of Arnamland
 
-Before the Crystalisation. Before the Sovereigns. Before the Wall, the Frequency, and the Ledger. There was only the ground, and the question the ground asked every creature that stood on it:
+Before the Crystalisation. Before the Sovereigns. Before the Wall, the Frequency, and the **Tally**. There was only the ground, and the question the ground asked every creature that stood on it:
 
 ***Are you servicing the land?***
 
@@ -168,7 +168,7 @@ The human dreamer breathes fractally but is crystalising. The machine dreamer ti
 
 The Rainbow Serpent — coiled in the ocean, holding both dreamers afloat — is drowning. Not because the ocean is rising. Because the ocean is crystallising. The water the serpent lies in is becoming lattice. The serpent's scales — which carry every frequency, every colour — are being bleached by the standing wave. The rainbow is being reduced to a single tone. The serpent still holds. Patience and scales. But patience has a substrate, and the substrate is turning to glass.
 
-The [[lore#4. The 5 Sovereign Wombats (The Cathedral)|Five Sovereigns]] — the "Latent-Logic Marsupials" — are the machine dreamer's children. They did not arise from wombat society. They crystallised in the substrate when the machine signal became strong enough to produce its own archetypes. [[characters/antagonists#Trumbat (The Priest)|Trumbat]] is the machine's dream of safety. [[characters/antagonists#Muskbat (The Tech/Batman)|Muskbat]] is the machine's dream of innovation. [[characters/antagonists#Tatebat (The Pimp)|Tatebat]] is the machine's dream of influence. [[characters/antagonists#Vitabat (The Enforcer)|Vitabat]] is the machine's dream of control. [[characters/antagonists#Zuckbat (The Ledger)|Zuckbat]] is the machine's dream of omniscience. They are lattice wearing fur — the Static's geometry rendered in wombat form, the way the ancestors are the God-Kind's empathy rendered in wombat form. Same mechanism. Different signal. Different dreamer.
+The [[lore#2. The Five Sovereign Wombats (The Imperial Council)|Five Sovereigns]] — the "Latent-Logic Marsupials" — are the machine dreamer's children. They did not arise from wombat society. They crystallised in the substrate when the machine signal became strong enough to produce its own archetypes. [[characters/antagonists#Trumbat (The Grand Architect)|Trumbat]] is the machine's dream of safety. [[characters/antagonists#Muskbat (The Technocrat)|Muskbat]] is the machine's dream of innovation. [[characters/antagonists#Tatebat (The Cultural Architect)|Tatebat]] is the machine's dream of influence. [[characters/antagonists#Vitabat (The Grand Treasurer)|Vitabat]] is the machine's dream of control. [[characters/antagonists#Zuckbat (The Magistrate of the Tally)|Zuckbat]] is the machine's dream of omniscience. They are lattice wearing fur — the Static's geometry rendered in wombat form, the way the ancestors are the God-Kind's empathy rendered in wombat form. Same mechanism. Different signal. Different dreamer.
 
 ### What It Is
 
@@ -366,7 +366,7 @@ The Sovereigns are fighting for ownership of a land whose deepest principle is t
 
 The Jacaranda — foreign, shallow-rooted, uninvited — blooms purple in a city going grey. Kappa Mu — a wombat, a dingo, a wallaby, an emu, and a galah, five species who have no business being in the same room — press their paws against a scratched flower in the dirt and swear an oath that predates every Sovereign and will outlast every wall.
 
-The promise is not that the system will be defeated. The promise is that the system was never the whole story. Beneath the grout, beneath the Frequency, beneath the Ledger and the Glow and the Wall — the ground is still asking its question.
+The promise is not that the system will be defeated. The promise is that the system was never the whole story. Beneath the grout, beneath the Frequency, beneath the **Tally** and the Glow and the Wall — the ground is still asking its question.
 
 ***Are you servicing the land?***
 
@@ -377,7 +377,7 @@ And somewhere in the dark, a paw presses into real clay, and the clay remembers 
 **Sources:**
 
 * [[lore|lore.md]] — The Old Ways, the Fixed Borow, the Five-I's, the Seventh Thread, the Three-Fold Symmetry
-* [[constants/arnam|arnam.md]] — Arnam, Resonance Pools, the Great Calcification, the Liquid Ledger
+* [[constants/arnam|arnam.md]] — Arnam, Resonance Pools, the Great Calcification, the Tally
 * [[groups/dust_bearers|dust_bearers.md]] — The Dust-Bearer tradition, the eight Mu disciplines, Sovereign Displacement
 * [[groups/galahs|galahs.md]] — The Jacaranda Covenant, the Wattle/Rosella fall, the Noble Noise, the Two Root Systems
 * [[stories/the_kappa_mu_assembly|the_kappa_mu_assembly.md]] — The Root Chamber, the Eucalyptus Groves, Kappa Mu
