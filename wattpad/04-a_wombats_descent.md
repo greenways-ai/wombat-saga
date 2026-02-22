@@ -16,7 +16,7 @@ He never told me this directly. I learned it the way you learn most important th
 
 But at night, when the Frequency dimmed and the Groves went quiet and the stringybark's creaked in the dark like old creatures settling into sleep — at night, he told me stories.
 
-Not Council stories. Not the official narratives of Trum-Bat's brave Grout-Layers who paved the world in safety. He told me about the Dust-Bearers.
+Not Council stories. Not the official narratives of Trumbat's brave Grout-Layers who paved the world in safety. He told me about the Dust-Bearers.
 
 The original soil-tenders. The wombats who came before the Grout, before the Safety Geometry, before the **Tallies** and the sections and the numbered codes. The ones who packed earth with their bare paws and understood — not through calculation but through touch — which soil wanted to hold and which had given up. The Dust-Bearers didn't pour Grout. They listened. They pressed their forefeet into substrate and felt the vibration, the pulse, the geological murmur that told them whether the ground beneath their claws was alive or dying.
 
@@ -24,7 +24,7 @@ The original soil-tenders. The wombats who came before the Grout, before the Saf
 
 I'd lie in my burrow-nook, the damp earth pressing cool against my back, and close my eyes and feel the vibration he was describing. Not imagining it. Feeling it. The slow pulse of the substrate beneath our burrow, the deep geological heartbeat that the Groves still carried because the Council's Grout hadn't reached this far. It was real. It was there. You just had to be still enough, quiet enough, small enough to notice.
 
-Other kids played Grout-Tag in the cleared zones — chasing each other across grouted surfaces, sliding on the smooth synthetic finish, pretending to be Trum-Bat's engineers. I went to the backyard and pressed my ear to the dirt.
+Other kids played Grout-Tag in the cleared zones — chasing each other across grouted surfaces, sliding on the smooth synthetic finish, pretending to be Trumbat's engineers. I went to the backyard and pressed my ear to the dirt.
 
 I was listening for the earth.
 
@@ -346,7 +346,7 @@ Instead, he danced.
 
 The silence lasted a long time.
 
-"Trum-Bat killed her." Flat. No inflection. The voice of a creature stating a fact the way you state a measurement. "Not during the ceremony — I stopped that. After. Quietly. The way Trum-Bat does everything — through infrastructure. She was found in a sealed tunnel in Sector 7. The official report called it 'structural failure.' The tunnel had been grouted the night before. Fresh pour. Perfect Grout. Not a crack in it."
+"Trumbat killed her." Flat. No inflection. The voice of a creature stating a fact the way you state a measurement. "Not during the ceremony — I stopped that. After. Quietly. The way Trumbat does everything — through infrastructure. She was found in a sealed tunnel in Sector 7. The official report called it 'structural failure.' The tunnel had been grouted the night before. Fresh pour. Perfect Grout. Not a crack in it."
 
 He looked at me. His eyes were dry. Past tears. Past the point where grief has anything wet left to offer.
 

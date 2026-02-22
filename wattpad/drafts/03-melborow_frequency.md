@@ -100,7 +100,7 @@ The Scavengers scatter. Melting into dark like smoke. Like fear finding better o
 
 "She's not my female. She's a client."
 
-"Same difference. Both smell like Queensborow. Both think the Frequency will save them." He turns toward the Wall—Trum-Bat's endless concrete ribbon, bisecting the horizon. "The Wall won't stop what's coming. Walls just make the rot smell worse."
+"Same difference. Both smell like Queensborow. Both think the Frequency will save them." He turns toward the Wall—Trumbat's endless concrete ribbon, bisecting the horizon. "The Wall won't stop what's coming. Walls just make the rot smell worse."
 
 "I'm not buying in the Grotto," I say.
 
@@ -166,7 +166,7 @@ I stand before the Council. Speak of Width over Depth. Of reaching out instead o
 
 They call me Hippie Dreamer. Threat to urban stability. They have their Five-I's, their Frequency, their assurance that cracks are "within acceptable parameters." They have the **Safety of the Tally** — the cold math that doesn't account for soil losing its will to hold.
 
-"The Grout will hold," Trum-Bat says, voice smooth as polished concrete. "The Walls will protect us. We need only dig deeper, build higher, calculate more precisely."
+"The Grout will hold," Trumbat says, voice smooth as polished concrete. "The Walls will protect us. We need only dig deeper, build higher, calculate more precisely."
 
 I want to scream. *The deeper you dig, the closer you get to poison. The higher you build, the harder you fall. The more precisely you calculate, the more completely you miss the fractal reality of living soil.*
 

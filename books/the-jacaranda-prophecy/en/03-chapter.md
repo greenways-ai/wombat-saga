@@ -248,7 +248,7 @@ The Scavengers scatter.
 
 <!--
 IMAGE PROMPT 17: The Wall
-The Wall - Trum-Bat's endless concrete ribbon bisecting the horizon like a scar the city gave itself on purpose. It rises above the Gray Grotto, separating the Dead Zones from the "developed" areas. Pokero stands before it, looking up, knowing it won't stop what's coming - walls just make abandonment fester, trap it inside with the living. The Wall is gray, brutal, geometric. Behind it, the glow of Queensborow. Before it, the darkness of the Grotto. Rain falls on concrete. Style: brutalist architecture, social division, rain-slicked concrete, character dwarfed by structure, dystopian urban planning.
+The Wall - Trumbat's endless concrete ribbon bisecting the horizon like a scar the city gave itself on purpose. It rises above the Gray Grotto, separating the Dead Zones from the "developed" areas. Pokero stands before it, looking up, knowing it won't stop what's coming - walls just make abandonment fester, trap it inside with the living. The Wall is gray, brutal, geometric. Behind it, the glow of Queensborow. Before it, the darkness of the Grotto. Rain falls on concrete. Style: brutalist architecture, social division, rain-slicked concrete, character dwarfed by structure, dystopian urban planning.
 -->
 
 He turns, and his gaze falls on the half-finished skeleton of the Wall rising in the distance, a silhouette of concrete against a sky the colour of a bruise.
@@ -326,7 +326,7 @@ But why now? After all these years, why a message now? The anger returns. This i
 
 And the other Lambdas? My mind scrolls through the faces from our class. Bash, Cooroo, Merl. Are they part of this? Or have they been like me, lost in their society? Pokero wouldn't risk contact unless the stakes were absolute. And if the stakes are the Jacaranda Prophecy, then all five of us are needed. That's what the prophecy says. Which means they must be out there. Somewhere. Pokero would know. He has to.
 
-He's telling me our situation has changed. The game isn't about poetic insults by a campfire anymore. It's about survival in a city that's actively trying to bury its living. Trum-Bat is building tombs.
+He's telling me our situation has changed. The game isn't about poetic insults by a campfire anymore. It's about survival in a city that's actively trying to bury its living. Trumbat is building tombs.
 
 And Pokero — my friend, my brother in the Kappa Mu, the operative sitting in the room with the wombat sovereigns has defined the battlefield. With classic Dingo misdirection, he's telling me that to find him, I have to go right into the pack.
 

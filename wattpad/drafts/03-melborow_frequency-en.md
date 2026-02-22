@@ -106,7 +106,7 @@ Silence. Just the rain. Just the distant gutter-overflow.
 
 "She's not my mate. She's a client."
 
-"Same difference. Both need protection. Both smell like Queensborow." Pokero turned, looking toward the distant silhouette of Trum-Bat's Wall— that endless concrete ribbon that bisected the horizon, supposedly holding back the chaos. "The Wall won't stop what's coming, you know. Walls just make the rot smell worse. Trap it inside with the living."
+"Same difference. Both need protection. Both smell like Queensborow." Pokero turned, looking toward the distant silhouette of Trumbat's Wall— that endless concrete ribbon that bisected the horizon, supposedly holding back the chaos. "The Wall won't stop what's coming, you know. Walls just make the rot smell worse. Trap it inside with the living."
 
 "I'm not buying in the Grotto," Hoebat said.
 
@@ -170,7 +170,7 @@ He tried. He stood before the Council and spoke of Width over Depth. Of reaching
 
 They called him a Hippie Dreamer. A threat to urban stability. They had their Five-I's, their Frequency, their comforting assurance that the cracks were "within acceptable parameters." They had the **Safety of the Tally** — the cold math of load-bearing calculations that didn't account for the soil losing its will to hold.
 
-"The Grout will hold," Trum-Bat had said, his voice smooth as polished concrete. "The Walls will protect us. We need only dig deeper, build higher, calculate more precisely."
+"The Grout will hold," Trumbat had said, his voice smooth as polished concrete. "The Walls will protect us. We need only dig deeper, build higher, calculate more precisely."
 
 Hoebat had wanted to scream. *The deeper you dig, the closer you get to the poison. The higher you build, the harder you fall. The more precisely you calculate, the more completely you miss the fractal reality of living soil.*
 

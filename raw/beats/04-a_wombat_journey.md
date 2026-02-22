@@ -39,7 +39,7 @@ For three years, Hoebat survives as a "Ghost-Digger" in the Grotto's depths.
 ## VII. The Beggar and the Priest (The Truth of the Wombiki)
 The beggar is **Uncle Hangbat**, revealing his true identity as **Howlbaram**, a former High Priest.
 *   **The Beautiful Snare:** Howlbaram tells Hoebat the truth of the **Wombiki**. They were not martyrs, but prisoners addicted to state-sanctioned luxuries ("Grout-Honey"), who "danced" to their deaths, sealed in Grout as "Soul-Anchors" in a ritualistic lie to pacify the population.
-*   **Vara's Stand:** One Wombiki, **Vara**, tried to expose the truth and was murdered by **Trum-Bat**. Her dying frequency of defiance was woven into the Melborow Frequency, the city's constant, pacifying hum.
+*   **Vara's Stand:** One Wombiki, **Vara**, tried to expose the truth and was murdered by **Trumbat**. Her dying frequency of defiance was woven into the Melborow Frequency, the city's constant, pacifying hum.
 *   **The Lesson:** "They didn't just kill her, Hoebat. They used her fear to pave the city. They turned her last gasp into the hum that keeps everyone else asleep."
 
 ## VIII. The Gold Seam (The True Kintsugi-Mu)

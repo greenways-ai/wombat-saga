@@ -84,7 +84,7 @@ Portrait composition of the five Kappa Mu members in the Root Chamber, each show
 **Scene:** The rejection
 
 **Prompt:**
-Hoebat standing before the Melborow Council - Trum-Bat and other High-Nose wombats in formal Council attire. Hoebat holds his paws open in vulnerability, showing the soft pads, offering the tactile truth of dying soil. The Council members look dismissive, comfortable, surrounded by their Five-I's, their Frequency, their **Tallies**. Behind them, the Cathedral's glow - the center that eats its edges. Hoebat speaks of Width over Depth, but they call him Hippie Dreamer, threat to urban stability. The architecture is polished concrete, Grout, artificial light. Style: political confrontation, class divide, warm bureaucratic lighting, rejected truth, institutional blindness.
+Hoebat standing before the Melborow Council - Trumbat and other High-Nose wombats in formal Council attire. Hoebat holds his paws open in vulnerability, showing the soft pads, offering the tactile truth of dying soil. The Council members look dismissive, comfortable, surrounded by their Five-I's, their Frequency, their **Tallies**. Behind them, the Cathedral's glow - the center that eats its edges. Hoebat speaks of Width over Depth, but they call him Hippie Dreamer, threat to urban stability. The architecture is polished concrete, Grout, artificial light. Style: political confrontation, class divide, warm bureaucratic lighting, rejected truth, institutional blindness.
 
 ---
 
@@ -129,10 +129,10 @@ The Melborow Frequency infrastructure - towers broadcasting the constant low-gra
 ---
 
 ## Prompt 17: The Wall
-**Scene:** Trum-Bat's endless concrete ribbon
+**Scene:** Trumbat's endless concrete ribbon
 
 **Prompt:**
-The Wall - Trum-Bat's endless concrete ribbon bisecting the horizon like a scar the city gave itself on purpose. It rises above the Gray Grotto, separating the Dead Zones from the "developed" areas. Pokero stands before it, looking up, knowing it won't stop what's coming - walls just make abandonment fester, trap it inside with the living. The Wall is gray, brutal, geometric. Behind it, the glow of Queensborow. Before it, the darkness of the Grotto. Rain falls on concrete. Style: brutalist architecture, social division, rain-slicked concrete, character dwarfed by structure, dystopian urban planning.
+The Wall - Trumbat's endless concrete ribbon bisecting the horizon like a scar the city gave itself on purpose. It rises above the Gray Grotto, separating the Dead Zones from the "developed" areas. Pokero stands before it, looking up, knowing it won't stop what's coming - walls just make abandonment fester, trap it inside with the living. The Wall is gray, brutal, geometric. Behind it, the glow of Queensborow. Before it, the darkness of the Grotto. Rain falls on concrete. Style: brutalist architecture, social division, rain-slicked concrete, character dwarfed by structure, dystopian urban planning.
 
 ---
 

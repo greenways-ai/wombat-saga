@@ -25,7 +25,7 @@ Hoebat recalls the formation of the **Kappa Mu**.
 
 ## IV. The Exile
 Hoebat tries to warn the Council about the "Structural Rigidity" and the dying soil.
-*   **The Rejection:** **Trum-Bat** and the Council dismiss him as a "Hippie Dreamer." They believe in **Width over Depth**? No, they believe in **Grout over Soil**.
+*   **The Rejection:** **Trumbat** and the Council dismiss him as a "Hippie Dreamer." They believe in **Width over Depth**? No, they believe in **Grout over Soil**.
 *   **The Choice:** Hoebat chooses exile. He becomes a **Kintsugi-Mu** (Mender), repairing the city's fractures in secret at night using gold dust and clay.
 *   **The Philosophy:** *"I am not Hoebat repairing a tunnel. I am the tunnel repairing itself."*
 
