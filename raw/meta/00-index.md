@@ -26,6 +26,9 @@ The integrated world before the Static crisis. Each species' sacred function in 
 ### `01-world/world-structure.md`
 The world as it currently exists. Each of the five communities — their structure, their corruption, their current state, and Lambda's mission within them. Includes all five Lambda members' mission threads, supporting nations (Drop Bears, Platypus, Rosella, Dog-Brahman), and a cross-reference table of what each species lost and what Kappa Mu is trying to restore.
 
+### `01-world/the-closing-node.md`
+The portal between Heart Worlds. The cosmological scale: Mirene generates billions of Heart Worlds continuously; each lasts a fleeting moment from outside and millions of years from within. The Closing Node is the fold where Heart Worlds touch. Why only wombats know — the deepest-burrowing species are the only ones who reach it, in every Heart World. The Sovereign origin: five wombats from a more advanced but failing Heart World who crossed into Hún Nico, sealed the Node behind them, and used their imported knowledge to seize control. Their motivation was power — they wanted to rule, to be the closest thing to Gods the world would permit; they paid lip service to Mirene but never practiced. Every Heart World they visited was Static-saturated (their data set catastrophically incomplete). The Jacaranda was absent from every world they visited — it falls entirely outside their framework. The wailing dance is not suppressed but mocked as primitive superstition — their most consequential blind spot. The Node has been sealed since their arrival. The Jacaranda grows directly above the Node. What happens when the Node opens.
+
 ### `01-world/static-economy.md`
 The oil-and-cocaine model. Three grades of Static (ambient / refined / productised), who controls them, how the Grout production cycle works, who benefits and who pays. The Kangaroo pool system. The Koala Lyptus binder supply chain. The Dingo harvest relationship. The dependency web, and the three conditions required for the path out.
 
@@ -40,6 +43,12 @@ The hidden spine of the story. The Jacaranda as pioneer species, not benevolent 
 
 ### `02-movement/jacaranda-movement.md`
 The public life of the Kappa Mu. How the underground became a rumour, the rumour became a culture, and the culture became a religion. The two named sects (Root Keepers / Violet Seekers). The full slang lexicon — genuine language and co-opted language distinguished. The Tatebat co-optation dynamic. Hoebat's reverse co-optation tactic — entering the imitation form and filling it with genuine substance. The seed-planting as triple act.
+
+### `02-movement/the-god-kind.md`
+The cosmological foundation. Who the God-Kind are and what they actually are (quantum resonance from human bodies, not divine beings). Mirene — the Sleeping World-Maker, her origin story, how she appears in visions. The origin of the Jacaranda: Mirene fell asleep under a Jacaranda tree above Melbourne; the resonance of her sleeping body seeded the Heart World tree. Each community's God-Kind (Brenn / Duro / Sett / Pela / Maren). How the Sovereign priesthood became the Censorate. The loop — how the wailing dance works as biofeedback, how it broke, what restoration requires. What no creature in Hún Nico knows about any of this.
+
+### `02-movement/the-songlines.md`
+The oldest system in Hún Nico — older than the Kappa Mu, older than the Imperial system. What Songlines are (received resonance from the God-Kind above, not authored memory), the four types (Location, Event, Condition, Warning), and who carries them. The Mnemo-Mu carriers. The Rosella Parliament as the index — what was lost when it shattered, what wasn't. The wailing dance as the oldest surviving Event Songline (the record of Mirene's arrival). The Tally-stone as cosmological replacement (from *what you carry* to *what you owe*). The Crossing and Songlines. What restoration actually means — a partial network, active, sufficient for signal to travel again.
 
 ### `02-movement/co-optation-doctrine.md`
 Why co-optation happens and how it destroys ideas. Seven mechanisms of destruction (signal contamination, meaning dilution, original becoming fringe of itself, defensive corruption, energy drainage, legitimacy inversion, the closed door). Why Hoebat's doctrine-building response is also a trap. The antithesis table: what Hangbat gave vs. what Hoebat does with it. The broader pattern — every counterculture becomes a culture.
@@ -99,4 +108,4 @@ What remains undecided, organised by urgency. Priority 1 (story-blocking), Prior
 
 ---
 
-*Last updated: five-act structure complete, material-force document written, endgame question resolved.*
+*Last updated: Closing Node rewritten (Sovereigns as immigrants from another Heart World, seeking to be rulers/Gods, mocking the wailing dance). Loop Logic heresy removed from Hangbat. Wailing dance mocked not suppressed — updated across all documents. Trilogy structure confirmed: Book 1 ends with Sovereigns at peak power (co-optation looks like it's working), Book 2 ends with secrets revealed and the Node opening, Book 3 ends with the rain. Founding myths drafted (Om, Nāda, Dvāram, Mukti). Witness options for Sovereign alien origin documented.*

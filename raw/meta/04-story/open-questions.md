@@ -231,14 +231,14 @@ The lore establishes Humans as Lovecraftian forces — geological disasters, col
 
 ---
 
-### The Closing Node
-**What is it, exactly?**
+### The Closing Node — RESOLVED
+**See: `01-world/the-closing-node.md`**
 
-The Closing Node appears in Statborow's deepest level, in Hangbat's "Loop Logic" heresy, and in the Coring Tree lore (the fold at the bottom of the heart-shaped world). But:
-- Is it a physical location that characters can visit and interact with?
-- Is it the place where inter-world root bridges used to connect to adjacent Heart-Worlds?
-- If the Coring Trees once punched through the Closing Node into adjacent worlds, and those trees are now dead — is the Node sealed, damaged, or still open in some vestigial way?
-- Does Kappa Mu's mission have anything to do with the Closing Node, or is it tangential?
+Established: The Closing Node is an active portal between Heart Worlds — the fold where Hún Nico's substrate meets adjacent Heart Worlds. Wombats are the only species with access (deepest burrowers = keepers of the earth = keepers of the portal, in every Heart World). The Sovereigns are five wombats from a more advanced but failing Heart World who crossed into Hún Nico, sealed the Node behind them, and used their imported knowledge to seize control. Their motivation was power — they wanted to rule, to be the closest thing to Gods the world would permit; they paid lip service to Mirene but never practiced. They imported the Tally, Grout/Frequency technology, and Wall architecture from worlds they had observed. The Jacaranda grows directly above the Node. The Sovereigns do not suppress the wailing dance — they mock it as primitive superstition, which is their most consequential blind spot. The Sovereigns' deepest fear: Node reactivation ends their information monopoly and exposes their non-native origin. Lambda does not know about the Node. The seed-planting is also, unknowingly, a Node activation event.
+
+Remaining sub-questions:
+- What specific Heart Worlds have the Sovereigns visited, and what did they find there? (Story enrichment — one or two glimpsed worlds would give the Sovereign travel weight)
+- Does any Lambda member discover the Node during the story, or only after? A Closing Node scene is potentially Act 4 or Act 5 material.
 
 ---
 
@@ -263,7 +263,10 @@ The Drop Bears are feral Koalas, physically transformed. What do they actually l
 What are Gamma through Kappa doing? Do any of them surface in the story as mysterious allies, as cautionary tales, or as the infrastructure Lambda doesn't know they're running on? Even one or two defined classes would give the movement depth.
 
 ### The Rosella Parliament — Current State
-We know it shattered when the Silver Wattle fell. But what does the scattered Rosella world look like now? Are the Fragment Prophets in contact with each other? Is any Rosella trying to reconstruct the Parliament?
+We know it shattered when the Silver Wattle fell. The Songlines document now establishes *what* shattered with it: the index of the Songline network — the architectural knowledge of how individual Songlines connect. The Fragment Prophets are not carrying fragments of individual Songlines (those are held by Mnemo-Mu carriers); they are carrying fragments of the network map. Questions remaining:
+- What does the scattered Rosella world look like now? Is any Rosella trying to reconstruct the Parliament?
+- Does any Fragment Prophet know that what they carry is Songline network architecture rather than prophecy?
+- Could the Fragment Prophets, brought together, reconstruct enough of the index to guide the restoration?
 
 ### The Platypus Ghost Network — Active Role
 The Platypus are maintaining the pipes the Council has abandoned. Do they ever make contact with any Lambda member? Is there a moment where their invisible work becomes visible?
@@ -274,8 +277,11 @@ The Non-Society entry in animal_societies.md describes a solitary anchor-point f
 ### The Lolaboo Thread
 Hoebat's mate. Introduced in Chapter 3, shown leaving the BorowFinder behind and finding a burrow in the Canopy Remnant. What is her role in the ongoing story? Does she become active in the mission, or does she represent the civilian world Hoebat is trying to protect?
 
-### The Song of the Soil / Songlines
-The ancient oral record that Tally-stones replaced. Does any of it survive? Is there a character who carries it? Could its recovery be a story beat?
+### The Song of the Soil / Songlines — SUBSTANTIALLY RESOLVED
+**See: `02-movement/the-songlines.md`**
+Established: Songlines are received resonance from the God-Kind above (not authored memory). Four types: Location, Event, Condition, Warning. The wailing dance is the oldest surviving Event Songline — the record of Mirene's arrival. Mnemo-Mu carriers hold individual Songlines in their nervous systems. The Rosella Parliament held the index (network map), which shattered with the Silver Wattle. The Tally-stone replaced Songlines cosmologically — from *what you carry* to *what you owe*. Restoration means a partial working network, not full recovery.
+
+Remaining sub-question (Priority 2): **Who are the surviving Mnemo-Mu carriers?** At least one should be a named character who can cross under the Jacaranda and briefly read the full network map before losing it again. This is a major potential story beat.
 
 ### What Happens to Barnabat
 Hoebat sees him once, in a foreman's vest, and Barnabat doesn't look back. Does he reappear? Does the story require a reckoning between them, or is he meant to remain a symbol of the choice not taken?
@@ -287,8 +293,6 @@ The Great Retaining Wall is Trumbat's vanity project and the Corvée machine's j
 
 ## Standing Inconsistencies to Resolve
 
-### "Trum-Bat" vs "Trumbat" — RESOLVED
-Standardised to **Trumbat** throughout meta documents. Check raw documents and Wattpad chapters for remaining hyphenated instances.
 
 ### The Kappa Mu Oath Scene
 Chapter 3 references the Root Chamber oath. The v1 of Chapter 4 ends with the seed being planted and Cooroo passing out — before any oath scene. The narrative sequence of: Cooroo arrives at Jacaranda → vision → Cooroo finds the others → the Crossing — needs to be plotted explicitly so that chapter numbering and POV switching is consistent.

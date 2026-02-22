@@ -82,6 +82,22 @@ Each is individually distinct with a clear archetype, domain, and characteristic
 - Vitabat: The Invisible Constant / The Tally is the only order
 - Zuckbat: The Omniscient Censor / Dissonance is the only threat
 
+### The Sovereigns' Secret Agenda — Rebuilding the Device ✓
+The Sovereigns cannot cross manually. Their origin world's Static had destroyed the faith required before they left — they crossed using a machine that held the *rūpa*+*nāda* artificially. The machine stayed behind. They are stranded.
+
+Their hidden project in Hún Nico: rebuild the device from Static technology. Every refinement of Grout processing, every deep substrate extraction, every Frequency calibration serves this goal alongside its political function. They believe they can synthesize the crossing function mechanically using refined Static as energy and Grout as frequency modulator. They are not close. But they are working.
+
+The Jacaranda is physically interfering with this project — its roots near the Node corrupt Muskbat's deep substrate measurements, and the Violet Miasma jams Static-based resonance instruments. Every Lambda mission that restores Arnam also drains the Static resource base the device requires. Lambda does not know this dimension of the conflict exists.
+
+The crossing for old-tradition wombats works differently: **hold the faith.** The image (*rūpa*) and the song (*nāda*) require inner coherence that holds stable under the Static pressure at the boundary. This is what the Sovereigns systematically destroyed — not by locking the Node but by replacing song with the Frequency, image with the Tally, and practice with embarrassment. You cannot arrest faith. You can only make it seem foolish until it dies from disuse.
+
+### Muskbat's Break — The Witness Who Breaks Through Arrogance ✓
+Muskbat is the Sovereign whose arrogance outpaces his political instincts. He has spent years running instruments on the Jacaranda — the one thing in Hún Nico he cannot classify, which is intolerable to him. His resonance instruments (built on the same detection principles as Songline technology — the Censorate bells are derived from Songline resonance) eventually produce a spectral readout of the substrate's deep memory: five wombat resonance signatures arriving through the Node simultaneously, then the Node closing. His own crossing, recorded by his own instruments.
+
+He shows Zuckbat, framing it as a Jacaranda anomaly, wanting confirmation or witness. Zuckbat moves to bury it. Muskbat resists — he cannot suppress a finding this extraordinary. He eventually publishes a stripped version as a Jacaranda study, constitutionally unable to sit on a discovery. A Mnemo-Mu carrier reads the study, recognises the frequency signature from a Songline fragment they have carried for years without knowing what it described.
+
+**The mechanism:** Sovereign technology verifies the Substrate Songline. The spectral data and the received myth describe the same event in different languages. The Sovereigns' own instruments proved their own origin — and Muskbat's arrogance put the data into circulation. He breaks not by choosing to confess but by being unable to stop demonstrating how clever he is.
+
 ### The Guild Inversions ✓
 The before/after structure of every professional role — from Kintsugi-Mu to Grout-Engineer, from Aquifer-Mu to Metering Official — is developed and thematically consistent. The core insight (every sacred function inverted into extraction) is clearly established.
 
@@ -92,7 +108,7 @@ The Consecration as industrial cover-up is fully developed. The Beautiful Snare 
 High Noses / Lo Snouts / Ghost-Diggers / Outlawed — the class system is clear and functions consistently throughout the narrative.
 
 ### The Wombat Wailing Dance ✓
-The original mechanism by which wombats maintained Arnam resonance in their underground pools. Not invented or designed — simply what wombats do, as a lion dance is what lion dance performers do. Communal, rhythmic, embodied. Surface species knew wombats were special and essential; they did not know the specific mechanism. The Council outlawed the dance as Dissonant Noise. The Censorate now monitors tunnels for its sound. Its secret continuation — in hidden pockets of Lo Snout tunnels, in the drainage vaults — is one of the story's underground fires.
+The original mechanism by which wombats maintained Arnam resonance in their underground pools. Not invented or designed — simply what wombats do, as a lion dance is what lion dance performers do. Communal, rhythmic, embodied. Surface species knew wombats were special and essential; they did not know the specific mechanism. The Sovereigns — who came from a world where the God-Kind were irrelevant, and who want to be the highest order themselves — do not suppress the dance. They mock it as primitive superstition, a product of a pre-rational past. This is more effective than suppression: Lo Snouts have internalised the contempt. The dance is not outlawed. It is embarrassing. Its quiet continuation — in private tunnels, in the drainage vaults, kept alive by those who have not swallowed the shame — is one of the story's underground fires.
 
 ---
 
@@ -225,3 +241,12 @@ Complete. Morning Glory → flight → Wedgies → Merl → Jacaranda → the vi
 
 ### Chapter 3 (Hoebat in Melborow) ✓
 Complete. The rain, the Gray Grotto, Lolaboo, the Dingo encounter, the Haiku game backstory, the Click revelation.
+
+### The Trilogy Structure ✓
+The Jacaranda Prophecy is a trilogy. Each book ends on a structural climax:
+
+- **Book One** ends with the Sovereigns at the peak of their power. They have embraced Hoebat's public announcement of the Kappa Mu — not out of tolerance but as a strategy to neutralise it. By permitting the movement, they control where the light falls. The co-optation appears to be working: the Kappa Mu is visible, sanctioned, and apparently contained. Tatebat claims Hoebat as her successor. Trumbat says the Wall was always the Jacaranda's cradle. The movement has a face and the Sovereigns have their arms around it. The reader closes Book One not knowing if Lambda survives this. The Sovereigns have never looked more invincible.
+
+- **Book Two** is the unravelling. The co-optation strategy requires the Sovereigns to keep attacking Hoebat — to justify the embrace by demonstrating control. But every attack requires them to explain what they're afraid of. Every charge reveals what the movement is actually threatening. The prosecution exposes the crime. The Sovereigns' secrets come out — their non-native origin, their imported systems, the sealed Node — not because Lambda is cleverer than them, but because the Sovereigns cannot stop trying to destroy what they've permitted. The book ends with the Node opening: the information monopoly ends, the world discovers it is not alone, and the lie that built the empire collapses at its foundation.
+
+- **Book Three** ends with the Jacaranda missionaries bringing in the rain — the Fractal Rainforest propagates inter-world, the Arnam-Songline loop is restored at scale, and Mirene — above, unknowing — breathes differently.
