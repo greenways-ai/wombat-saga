@@ -60,45 +60,68 @@ The animals cannot reach the Humans directly. They *are* the substrate the Human
 
 ---
 
-## Level 3: The Five Civilizations
+## Level 3: One Fractured World — Five Communities
 
-The Council dominates **wombat civilization only**. Each other nation has its own structure, its own crisis, and its own relationship to the Static — none of which is governed by the Council.
+Before the Static, there was one integrated world. Every species had a sacred function and contributed to a **help economy** — not transactional, but an ecosystem of reciprocal roles. Wombats lived underground; all other species lived on the surface. There were no hard divisions between "civilizations," only different realms within a shared ecology.
 
-### 1. Wombat Civilization
+The Static eroded the abundance that made generosity natural. As resources contracted, each species turned inward, developing their own systems for surviving a world of less. What had been sacred functions became survival strategies — and then, inevitably, instruments of control.
+
+**The Council dominates wombat civilization only.** Each other community has its own structure, its own crisis, and its own relationship to the Static — none of which is governed by the Council. What they share is the fracturing of the original integrated world.
+
+### The Original Sacred Functions (Before)
+
+| Species | Sacred function | Their realm | What they gave |
+|---|---|---|---|
+| **Wombat** | Underground Arnam stewardship — maintaining resonance pools, performing the wailing dance | Below | Stability, growth, the pulse that fed all surface life |
+| **Kangaroo** | Enforcement and protection — the mob as shield | Surface | Safety, boundary-keeping, peaceable order through presence |
+| **Koala** | Healing — the canopy pharmacopoeia, eucalyptus medicine | Canopy | Medicine, restoration, care for the sick and injured |
+| **Platypus** | Mystic oracle — reading the web of water, dreaming the future | Waterways | Foresight, warning, connection between realms |
+| **Dingo** | Cleansing — removing the dead and diseased, the ascetic priests of endings | Desert/margins | Release, compost, the sacred act of clearing |
+| **Emu** | Meditative mapping — walking the land into legibility, the contemplative monks | Plains | Knowledge, cartography of the world through movement |
+| **Galah** | Sacred Fools — speaking truth sideways through absurdity, the Parliament's counterpart | Sky/colony | Irreverence, the comic mirror, the truth the serious cannot say |
+| **Rosella** | Formal truth-telling — the Parliament's song, harmonic governance | Canopy/sky | Official record, the song that held the law |
+| **Wallaby** | Translators — stood between species and made each legible to the other; small enough to approach the powerful, nimble enough to carry meaning back down | Between territories | Interpretation, diplomacy, the bridge between ways of being |
+
+### 1. Wombat Community
 - **Territory:** Melborow and the Five Borows — subterranean megalopolis
-- **Social structure:** Imperial bureaucracy — Five Sovereigns, High Noses, Lo Snouts
-- **Their crisis:** Institutional capture. The Tally converted mutual aid into permanent debt. The Frequency drowned the Arnam signal. The Corvée replaced communal labor with body-tax. The Wombiki were entombed in the walls.
+- **Original sacred function:** Maintaining the underground Arnam pools through presence, stillness, and the **wailing dance** — a ritual modelled on lion dancing, performed communally to keep the resonance of the pools alive. Not understood by surface species (they knew wombats were special, not what they did). Not invented as a practice; simply what wombats were.
+- **Social structure now:** Imperial bureaucracy — Five Sovereigns, High Noses, Lo Snouts
+- **Their crisis:** Institutional capture. The Tally converted mutual aid into permanent debt. The Frequency drowned the Arnam signal. The Corvée replaced communal labor with body-tax. The Wombiki were entombed in the walls. The wailing dance was outlawed as Dissonant Noise.
 - **Council relationship:** *They are* the Council
-- **What Kappa Mu needs to restore:** The Kintsugi ethic — fractures made stronger, not hidden. The Well-Field Way — gift over debt.
-- **Reference:** `raw/locations/the_five_borow_societies.md`, `raw/melborow_society.md`
+- **What Kappa Mu needs to restore:** The Kintsugi ethic — fractures made stronger, not hidden. The Well-Field Way — gift over debt. The wailing dance — the actual physical mechanism of Arnam-flow restoration.
+- **Reference:** `raw/locations/the_five_borow_societies.md`, `raw/melborow_society.md`, `raw/meta/the_original_world.md`
 
-### 2. Dingo Pack Civilization
-- **Territory:** Pack territories — Bronxborow borders, the Westside, the outer plains
-- **Social structure:** Meritocracy of clarity — Alpha status earned by Obsidian Sight (spotting the lie), not strength
+### 2. Dingo Community
+- **Territory:** Pack territories — Bronxborow borders, the Westside, the outer plains, the desert margins
+- **Original sacred function:** Cleansing — removal of the dead, the diseased, the waste. Ascetic priests of endings. Where Koalas healed, Dingoes released. Their clarity (the Obsidian Sight) was originally in service of discernment: seeing what needed to go.
+- **Social structure now:** Meritocracy of clarity — Alpha status earned by Obsidian Sight (spotting the lie), not strength
 - **Their crisis:** Fragmentation. Some Packs became the Council's hired enforcement (coerced, not governed). Some fragmented into Lost Dingoes — Pack-Broken, pure predation, no code. The Obsidian Sight is being used to hunt truth *out* of circulation rather than into it.
 - **Council relationship:** Hired enforcement within wombat territory. Coerced, not subjects.
 - **What Kappa Mu needs to restore:** The Dingo Code — clarity in service of the community, not extraction.
 - **Reference:** `raw/characters/pokero/`, `raw/constants/animal_societies.md`
 
-### 3. Galah / Avian Civilization
+### 3. Galah / Avian Community
 - **Territory:** Sky, Eastern Ridge colonies, avian roost-networks
-- **Social structure:** Colony-based, centered on the Noble Noise — the Galah frequency-check system that maps the world through sound and echo
-- **Their crisis:** The Silver Wattle fell. The Rosella Parliament — which provided harmonic governance through song — shattered. The avian world lost its organizing principle. The Noble Noise continues but without shape; screaming that no longer returns as information.
+- **Original sacred function:** Galahs were **Sacred Fools** — not communicators. They spoke truth sideways through absurdity, through mockery, through the noble noise of the ridiculous. The Rosella Parliament was the formal truth-telling body; the Galahs were its necessary counterpart, the comic mirror that kept the Parliament honest. Both were needed.
+- **Social structure now:** Colony-based, centered on the Noble Noise — the Galah frequency-check system that maps the world through sound and echo
+- **Their crisis:** The Silver Wattle fell. The Rosella Parliament — which provided harmonic governance through song — shattered. Without the Parliament, the Galahs have no counterpart; their Foolery has no frame to push against. The Noble Noise continues but without shape — screaming that returns nothing.
 - **Council relationship:** None — aerial territory, unreachable by wombat infrastructure
-- **What Kappa Mu needs to restore:** The Chorus — signal that has shape, truth that returns as data.
+- **What Kappa Mu needs to restore:** The Parliament's return, so the Chorus has its formal counterpart again. Not just the Noble Noise, but the Noise in relationship with the Song.
 - **Reference:** `raw/wattpad/02-cooroos_journey.md`, `raw/groups/rosella_choir.md`
 
-### 4. Emu Civilization
+### 4. Emu Community
 - **Territory:** Southern Steppe — the Emu Steppe, vast plains
-- **Social structure:** Nomadic algorithm — Emus map the world by walking it. No fixed homes, only vectors. Society organized by patrol routes, not territory.
+- **Original sacred function:** Meditative mapping — walking the land into legibility. The contemplative monks of the world. By walking every inch of the surface, Emus kept the land's information alive: where the waterholes were, where the soil was soft, where the Static-pockets gathered. Their movement was a form of prayer.
+- **Social structure now:** Nomadic algorithm — Emus map the world by walking it. No fixed homes, only vectors. Society organized by patrol routes, not territory.
 - **Their crisis:** The Great Retaining Wall severed their vector-paths. A fence is a syntax error to a species that navigates by continuous movement. Their social logic requires an uninterrupted landscape to read.
 - **Council relationship:** Adversarial by nature — the Wall is a direct attack on Emu cognition
 - **What Kappa Mu needs to restore:** The open path — a landscape legible to nomadic logic.
 - **Reference:** `raw/lore/the_emu_martial_forms.md`, `raw/characters/merl/`
 
-### 5. Wallaby Civilization
-- **Territory:** The relay networks — distributed, fast-moving, between all other territories
-- **Social structure:** Agile mesh — Wallabies have routes, not homes. Society is a high-speed communication network. A Wallaby alone is anxious; in a mob, a supercomputer.
+### 5. Wallaby Community
+- **Territory:** The threshold zones — wherever two different species needed to meet, negotiate, understand each other
+- **Original sacred function:** Translation — not just of language but of register, posture, power. Because wallabies were smaller than kangaroos but larger than many others, they could approach a mob in kangaroo terms and then render that exchange into something a wombat, galah, or dingo could understand. Every inter-species negotiation went through a wallaby. The relay function was a side effect of being the universal translator — translators must be present everywhere; in being present everywhere, they also carried. A wallaby alone is anxious not from solitude but because translation requires at least two parties. Alone, there is nothing to hold between.
+- **Social structure now:** Agile mesh — Wallabies have routes, not homes. Society is a high-speed communication network. A Wallaby alone is anxious; in a mob, a supercomputer.
 - **Their crisis:** The relay network is fraying as the Frequency drowns the Resonance Link. Wallabies are losing the thread between each other. Disconnection produces a specific Wallaby pathology: isolation anxiety that manifests as hypervigilance.
 - **Council relationship:** Exploited as message-carriers within wombat territory, not governed
 - **What Kappa Mu needs to restore:** The living network — message that travels through relationship, not infrastructure.
@@ -112,8 +135,9 @@ These five species are active in the world but not primary Kappa Mu Inheritors.
 
 | Nation | Role in story | Their Static crisis |
 |---|---|---|
-| **Kangaroo** | Industrial partners of the Council (Friction Engine operators) | Kinetic energy harvested, not expressed — mobs becoming muscle for hire |
-| **Koala**    | Lyptus resin suppliers (Grout production) | Alchemists turned dealers — the Pharmacopoeia becomes a cartel |
+| **Kangaroo** | Controllers of the Static pools — mob dominance, not technology | Strength used for hoarding, not protection — mobs becoming muscle for hire |
+| **Koala (Canopy)** | Lyptus resin suppliers (Grout production) | Alchemists turned dealers — the Pharmacopoeia becomes a cartel |
+| **Koala (Drop Bears)** | Feral faction — hunting from the dead eucalyptus canopy | The healers who couldn't hold on; physically transformed by starvation into predators |
 | **Platypus** | Ghost Network in the pipes — invisible infrastructure maintainers | Gone so deep underground they are becoming myth even to themselves |
 | **Rosella** | Shattered Parliament — fragment prophets singing one-tenth of a truth | The Chorus broke when the Wattle fell; each Rosella carries one note |
 | **Dog-Brahman** | The Non-Society — solitary anchor points | Not a crisis; they are the stillness that holds the math together |

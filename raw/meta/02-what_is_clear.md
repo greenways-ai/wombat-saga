@@ -20,6 +20,41 @@ Function: biological prism, metabolizes Static into Violet light. Root system: h
 
 ---
 
+## The Original Integrated World
+
+### The Help Economy ✓
+The world before the Static was not five separate civilizations — it was one integrated ecosystem organised around **reciprocal sacred function**. The economy was a help economy: not transactional (I give you this in exchange for that), but ecological (I do what I am, and that sustains you; you do what you are, and that sustains me). Abundance made generosity natural. The Static eroded abundance, and contraction made everything transactional.
+
+### The Realm Structure ✓
+Wombats lived underground; all other species lived on the surface. This was not segregation but complementarity — the underground and surface were two halves of a single breathing organism.
+
+### Each Species' Original Sacred Function ✓
+Fully established:
+- **Wombat:** Underground Arnam stewardship. Maintained resonance pools, performed the wailing dance. Not understood in its mechanics by surface species — just known as essential.
+- **Kangaroo:** Enforcement and protection. The mob as shield — peaceable order through presence and size.
+- **Koala:** Healing. The canopy pharmacopoeia. Eucalyptus medicine for the sick and injured of all species.
+- **Platypus:** Mystic oracle. Read the web of water, dreamed the future. Foresight in service of all.
+- **Dingo:** Cleansing. Removal of the dead, diseased, waste. Ascetic priests of endings — where Koalas healed, Dingoes released.
+- **Emu:** Meditative mapping. Walked the land into legibility. Contemplative monks; their movement was collective cartography.
+- **Galah:** Sacred Fools. Spoke truth sideways through absurdity and mockery. The Parliament's necessary counterpart — not communicators.
+- **Rosella:** Formal truth-telling. The Parliament's song, harmonic governance, official record.
+- **Wallaby:** Living relay. The nervous system of the integrated world — speed, agility, connection between all territories.
+
+### Each Species' Corruption ✓
+The corruption follows a consistent logic: the sacred function is preserved in form but inverted in purpose — turned from service into extraction, control, or survival at the expense of others.
+- **Wombat:** Wailing dance outlawed; Arnam pools centralized as Imperial Reservoirs; Lo Snout labour replacing the sacred work.
+- **Kangaroo:** Protection becomes hoarding — control of Static pools through mob violence; strength deployed for dominance over access.
+- **Koala (Canopy):** Healing becomes synthesis — Lyptus made from Static when eucalyptus trees died; starvation-driven ingenuity becoming industry and cartel.
+- **Koala (Drop Bears):** The faction that couldn't hold on — starvation drove them to meat; the body adapted; they are now feral predators living in the dead eucalyptus canopy, hunting from above. The healers became the thing children are warned about.
+- **Platypus:** Foresight becomes invisibility — gone so deep underground they are myth even to themselves.
+- **Dingo:** Cleansing becomes enforcement — Obsidian Sight now hunts truth out of circulation; hired code in service of the Tally.
+- **Emu:** Mapping becomes disruption — the Wall makes their movement impossible; their legibility of the world is being actively destroyed.
+- **Galah:** Foolery without Parliament — Noble Noise continues but without the formal counterpart it needs to mean something.
+- **Rosella:** Parliament shatters — fragment prophets carrying one note of a broken song.
+- **Wallaby:** Translation becomes message-carrying — exploited as relay infrastructure; the diplomatic skill (holding two registers at once, bridging the powerful and the powerless) is unused. Isolation produces hypervigilance because translation requires at least two parties; alone, the wallaby has no function to be.
+
+---
+
 ## Wombat Civilization
 
 ### The Tally — Three-Stage Betrayal ✓
@@ -55,6 +90,30 @@ The Consecration as industrial cover-up is fully developed. The Beautiful Snare 
 
 ### The Social Strata ✓
 High Noses / Lo Snouts / Ghost-Diggers / Outlawed — the class system is clear and functions consistently throughout the narrative.
+
+### The Wombat Wailing Dance ✓
+The original mechanism by which wombats maintained Arnam resonance in their underground pools. Not invented or designed — simply what wombats do, as a lion dance is what lion dance performers do. Communal, rhythmic, embodied. Surface species knew wombats were special and essential; they did not know the specific mechanism. The Council outlawed the dance as Dissonant Noise. The Censorate now monitors tunnels for its sound. Its secret continuation — in hidden pockets of Lo Snout tunnels, in the drainage vaults — is one of the story's underground fires.
+
+---
+
+## The Static Economy
+
+### Static Pools — Nature and Analogy ✓
+Static pools are like salt pools in the desert: naturally occurring, visually striking, and intensely attractive to those who need what they contain. They sit on the surface. They were likely always known — the question of discovery (always present vs. newly potent vs. first identified by Koalas) remains open. What is clear: they are real physical locations, not metaphors.
+
+### Kangaroo Control — Mob Violence, Not Technology ✓
+Kangaroos control Static pools through mob dominance — they are simply bigger than everyone else, and they gang up. No named technology (e.g. no "Friction Engine"). Fights erupt over access. Kangaroo "control" is the exercise of raw physical advantage, dressed later in territorial logic. Their original sacred function (protection through presence) has become hoarding through intimidation.
+
+### Koala Lyptus — Sympathetic Corruption ✓
+Eucalyptus trees are dying and going feral as the Static rises; koalas are running out of food. Lyptus is synthetic eucalyptus made from Static — starvation-driven ingenuity, not villainy. Koalas did not set out to become Static dealers; they set out to survive. The tragedy is that the solution works, then becomes an industry, then becomes a dependency that ties them to the Static economy they might otherwise resist. The Pharmacopoeia becomes a cartel because survival became profit.
+
+### Static Addiction — The Oil-and-Cocaine Model ✓
+Ambient Static is necessary — the structural principle of the world, the crystalline skeleton beneath the organic. The crisis is not Static itself but **refinement**. The Static economy runs on three grades:
+- **Ambient / pool Static:** Naturally present, intoxicating with sustained exposure, addictive over time — the pool feels like the old Arnam rains felt
+- **Refined Static:** Koala chemistry applied to compressed ore — the bio-electric charge is concentrated. Faster, brighter than the pool. Recalibrates the baseline. Normal feels like withdrawal.
+- **Productised Static (the Frequency):** Broadcast at city scale, engineered to maintain manageable fight-or-flight. Contains entombed Wombiki frequencies. The addiction is to a signal that is slowly eating the listener.
+
+This is the oil-and-cocaine model collapsed into one substance: the infrastructure of survival is Static-dependent (oil logic — the built world requires it), AND the substance when refined is neurologically addictive (cocaine logic — each use recalibrates downward). Every species in contact with the Static economy gradually rationalizes deeper involvement because opting out means opting out of the world.
 
 ---
 

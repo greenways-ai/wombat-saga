@@ -121,8 +121,49 @@ The Dingo Packs do enforcement work in wombat territory. But:
 
 - Dingoes harvest Static ore from Slop-Pits. Is this voluntary, coerced, or some version of Pack contract?
 - Koalas provide Lyptus resin as binders. What is the Koala Canopy's actual relationship with the Council?
-- Kangaroos run the Friction Engine for compression. Are the mob leaders willing partners or under duress?
-- These relationships give the Council reach into three non-wombat civilizations. What does each species think they're getting?
+- Kangaroos control the pools and compress the ore through mob labour. Are the mob leaders willing partners or under duress?
+- These relationships give the Council reach into three non-wombat communities. What does each species think they're getting?
+
+---
+
+### Static Pools — The History of Discovery
+**How did the world come to know Static pools were valuable?**
+
+Three possible framings — one needs to be chosen:
+
+**Option A — Always Present, Newly Potent:** Static pools existed long before the crisis. They were known as sacred-strange places, visited cautiously. Only when the rains of Arnam began to fail did the pools' ability to mimic the sensation of abundance become addictive rather than merely interesting. Discovery is not a moment but a gradual realization.
+
+**Option B — Crisis Discovery:** Static pools appeared (or became potent) only after the Static began rising. A specific moment of discovery — perhaps a Kangaroo mob sheltering near one during a drought and experiencing the sensation of fullness. Discovery as accident, then exploitation as intention.
+
+**Option C — Koala Identification:** The Koalas, as healers, were first to identify the chemical properties of Static-rich soil in their search for eucalyptus alternatives. They named it, mapped the pools, and then lost control of the information to the Kangaroos. Discovery as scholarly, exploitation as theft.
+
+The choice affects: whether Koalas have prior claim over the pools (Option C), whether Kangaroos stumbled into power or took it (Options A/B vs C), and how ancient the Static economy is.
+
+---
+
+### The Feral Eucalyptus
+**What does it mean for eucalyptus trees to "go feral"?**
+
+Eucalyptus trees dying and becoming feral is established as the cause of the Koala food crisis. But what does "going feral" mean for a tree?
+- Do the trees mutate physically under Static saturation — becoming twisted, toxic, inedible?
+- Do they produce a different kind of leaf that Koalas cannot process?
+- Is "feral" a quality of the Arnam-signal within the tree — a tree that has absorbed too much Static becomes hostile rather than nurturing?
+- Are feral eucalyptus trees dangerous to other species too, or only inedible for Koalas?
+- Can any eucalyptus trees be restored, or is the feral state permanent?
+
+This matters for: the emotional reality of the Koala crisis (starvation with the food still visible), whether feral eucalyptus are a presence in the landscape characters move through, and whether Koala restoration includes re-wilding the trees.
+
+---
+
+### Wombat-Surface Relationship
+**What do surface species know and feel about wombats?**
+
+The original sacred function of wombats (the wailing dance, the Arnam pools) was known in effect but not in mechanism. Surface species knew wombats were essential, not how. Now:
+- Do surface species know the Arnam pools are degraded? Or do they only feel the effects (dying ecosystems, failing rains) without knowing the cause?
+- Is there mythology among surface species about wombats — stories of the underground keepers?
+- When wombats were captured by the Imperial system, was this visible to surface species? Did anyone try to intervene?
+- Does the Kappa Mu's mission require wombats to re-establish surface contact, or does restoring the wailing dance work even in isolation underground?
+- How does Hoebat relate to the surface — is it a place he has visited, read about, or only sensed through the Arnam's memory?
 
 ---
 
@@ -187,8 +228,8 @@ The Great Retaining Wall is Trumbat's vanity project and the Corvée machine's j
 
 ## Standing Inconsistencies to Resolve
 
-### "Trum-Bat" vs "Trumbat"
-The name appears hyphenated in some documents and unhyphenated in others. Pick one and apply consistently. (Recommendation: **Trumbat**, matching the antagonists document.)
+### "Trum-Bat" vs "Trumbat" — RESOLVED
+Standardised to **Trumbat** throughout meta documents. Check raw documents and Wattpad chapters for remaining hyphenated instances.
 
 ### The Kappa Mu Oath Scene
 Chapter 3 references the Root Chamber oath. The v1 of Chapter 4 ends with the seed being planted and Cooroo passing out — before any oath scene. The narrative sequence of: Cooroo arrives at Jacaranda → vision → Cooroo finds the others → the Crossing — needs to be plotted explicitly so that chapter numbering and POV switching is consistent.
