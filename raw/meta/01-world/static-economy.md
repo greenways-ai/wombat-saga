@@ -153,4 +153,4 @@ None of these can happen independently. They are, like the integrated world they
 
 ---
 
-*See also: `raw/meta/the_original_world.md` (what existed before the Static economy), `raw/meta/01-world_structure.md` (current state of each community), `raw/melborow_society.md` (the Grout cycle in wombat-specific detail).*
+*See also: `01-world/original-world.md` (what existed before the Static economy), `01-world/world-structure.md` (current state of each community), `03-politics/material-force.md` (how the Static economy's collapse drives the endgame), `raw/melborow_society.md` (the Grout cycle in wombat-specific detail).*

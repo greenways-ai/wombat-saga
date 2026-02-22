@@ -129,10 +129,41 @@ Complete origin arc: Silver Wattle falls → mum's grief-trance → Morning Glor
 The Lambda class survival mission, the Haiku game, the Dingo Code lessons, the campfire nights — the foundation of their bond is fully realized. The Click scene (Hoebat decoding Pokero's parting words) is complete and emotionally coherent.
 
 ### Hangbat (Howlbaram) ✓
-History, function, mask, tools, and secret (Beta class — though Hoebat doesn't know) all established. The jar of silence as anti-resonance equipment. The Watcher's Frequency. His deliberate cultivation of Hoebat for Lambda. His choice to stay in the drainage vault rather than surface.
+Full arc established. Key beats:
+
+**The teaching:** Hangbat meets Hoebat when Hoebat is very young — a runaway joey who ends up in the drainage vault. Hangbat takes him in and teaches him everything: the Songlines, the wailing dance, the Nine-Square Well-Field logic, the Kintsugi-Mu, the history of the integrated world before the Static. He does this not as Kappa Mu strategy but out of grief — he cannot act himself, but he can make a custodian. He does not tell Hoebat he is Kappa Mu.
+
+**The paralysis:** Hangbat is not in the vault as vigil or strategy. He is hiding. He knows the Jacaranda's agenda — that it is a pioneer species using the Kappa Mu as propagation vectors, that the Fractal Rainforest will replace rather than restore the old world — and he sees this as a betrayal of his own Crossing, the most honest moment of his life revealed as an assessment. He is scared of the future, unable to move toward it. The jar of silence blocks both the Frequency and the Violet Miasma — it is a hiding place, not a shrine.
+
+**The scolding:** When Hangbat discovers Hoebat has joined the Kappa Mu, he scolds him for betrayal — he gave Hoebat the old ways to carry them forward, not to hand them to the thing that is replacing them.
+
+**The turning:** Hoebat does not defend himself. He thanks Hangbat for everything, and says: *"The old ways still remain. But in a different cloth."* This is the Kintsugi-Mu applied to a tradition — the fracture made stronger. The student uses the master's own tool to repair the master. Hangbat recognises his teaching in what Hoebat just did to him. His paralysis breaks — not through argument but through seeing that what he gave survived. He becomes a supporter.
+
+**The revelation:** After his turning, Hangbat tells Hoebat about Beta class and the full truth of the Jacaranda's agenda. This is the last thing he withheld — given now not as warning but as the knowledge Hoebat needs to choose with open eyes.
 
 ### Cornelibat ✓
 The architecture of his character — exiled for compassion, rebuilt himself around compliance, tells stories he won't stand behind — is fully present. His last moment (pressing his forehead to the living wall) is written.
+
+---
+
+## The Jacaranda Factions
+
+The wombat world's relationship to the Jacaranda is not binary. Five positions exist:
+
+### The Majority — Indifferent ✓
+Most Lo Snouts and High Noses don't think about the Jacaranda. They think about the Tally. The Jacaranda is abstract theology for people with immediate problems. The group Hoebat needs most and can reach least.
+
+### The Old Way Preservationists — Paralysed ✓
+Wombats who secretly practice the wailing dance, carry fragments of the Songlines, maintain private Puddles. They see the Jacaranda as another colonisation — the Static colonised the old Arnam world, the Council colonised the commons, and now the Jacaranda wants to colonise the ruins. They would rather live in the damaged world they know than the healed world they won't recognise. Hangbat is their spiritual kin.
+
+### The Active Opposition — Resisters ✓
+Wombats who know what the Jacaranda actually is and are working against it. Sources: former crossers who turned back, Mnemo-Mu purists who see a third colonisation. Their core critique of Kappa Mu: *"You say the tree knew you. The Council says the Sovereigns have the Mandate of the Star. You felt chosen. They felt chosen. The mechanism is identical. You are another kind of addict."* This critique cannot be fully answered. It is not entirely wrong.
+
+### The Kappa Mu — Zealots From the Outside ✓
+From any external vantage point: a secret five-species cult that meets in root chambers at night, believes an alien tree has a plan, and carries the particular lit quality of the converted. Even sympathetic wombats are suspicious. The world already has an institution that demands loyalty in exchange for promises of harmony.
+
+### The Council — Politically Suppressive ✓
+Suppress the Kappa Mu as a political threat. Do not need to understand the Jacaranda's full agenda to know that five-species secret societies are dangerous.
 
 ---
 
