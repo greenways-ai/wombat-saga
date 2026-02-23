@@ -210,7 +210,7 @@ The room is not fully convinced. Neither is he. He says it anyway. This is the d
 
 ### The Wailing Dance
 
-Hoebat performs the wailing dance. In a Lo Snout tunnel. Without announcement. The actual practice — the thing Hangbat taught him in the vault, the thing the Censorate outlawed as Dissonant Noise, the thing that requires thirty years of teaching and the specific grief of a creature who loves the old world.
+Hoebat performs the wailing dance. In a Lo Snout tunnel. Without announcement. The actual practice — the thing Hangbat taught him in the vault, the thing the Sovereign system mocked as primitive superstition, the thing that requires thirty years of teaching and the specific grief of a creature who loves the old world.
 
 Not as statement. As the thing itself.
 
@@ -218,7 +218,7 @@ The Censorate arrives afterward — the Noble Noise network was disrupted, the w
 
 Hangbat is there. He watches his teaching performed in the form it was always supposed to take. He says nothing. The jar is in his hands. He doesn't open it. He doesn't need to.
 
-**Act Four ends:** The movement has paid its costs. The network has been tested and held, partially, imperfectly, with losses that have names. Hoebat has said the thing that cannot be argued — not because it is unanswerable, but because it is chosen rather than proven. The wailing dance is in too many bodies to be outlawed. Hangbat is standing in public. The Sovereigns have failed to break the movement through attrition. The seed must be planted.
+**Act Four ends:** The movement has paid its costs. The network has been tested and held, partially, imperfectly, with losses that have names. Hoebat has said the thing that cannot be argued — not because it is unanswerable, but because it is chosen rather than proven. The wailing dance is in too many bodies now. Mockery has no purchase on something already witnessed. Hangbat is standing in public. The Sovereigns have failed to break the movement through attrition. The seed must be planted.
 
 ---
 
@@ -324,6 +324,20 @@ Different cloth. Same pattern. Always.
 | **Three** | Surfacing | What is the movement actually working toward? | Hoebat knows the full truth. The choice is visible but not yet made. |
 | **Four** | The Cost | What does being right cost, and who pays? | The wailing dance in too many bodies. The choice is made without certainty. |
 | **Five** | The Seed | What does it look like to choose anyway? | The bloom begins. Vara is released. The cloth survives. |
+
+---
+
+## TRILOGY MAPPING
+
+The five-act structure maps across the three books as follows:
+
+| Book | Acts | Ends with | Sovereigns' position |
+|------|------|-----------|----------------------|
+| **Book One** | Acts 1–2 + early Act 3 | Hoebat goes public; Sovereigns embrace the Kappa Mu. Co-optation looks like it's working. | Peak power — they have absorbed the movement's surface form. |
+| **Book Two** | Late Act 3 + Act 4 + opening of Act 5 | The Sovereigns' secrets are revealed; Muskbat's arrogance exposes the device project and the origin; the Node opens. | Collapse — their attacks exposed them; the Node ends the information monopoly. |
+| **Book Three** | Act 5 climax and aftermath | The seed is planted; the Fractal Rainforest begins; the Jacaranda missionaries carry the signal through the open Node to adjacent Heart Worlds; Arnam returns; the rain. | Irrelevant — not defeated in a coup but rendered non-functional by a world that no longer runs on their systems. |
+
+The five-act structure is the narrative shape of the full trilogy. Book One is not a complete five-act arc — it is an ascent. Book Two is the unravelling. Book Three is the bloom.
 
 ---
 

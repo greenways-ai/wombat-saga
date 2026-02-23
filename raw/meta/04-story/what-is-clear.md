@@ -42,7 +42,7 @@ Fully established:
 
 ### Each Species' Corruption ✓
 The corruption follows a consistent logic: the sacred function is preserved in form but inverted in purpose — turned from service into extraction, control, or survival at the expense of others.
-- **Wombat:** Wailing dance outlawed; Arnam pools centralized as Imperial Reservoirs; Lo Snout labour replacing the sacred work.
+- **Wombat:** Wailing dance mocked as primitive superstition — Lo Snouts internalise the contempt, and the dance disappears without a single arrest; Arnam pools centralized as Imperial Reservoirs; Lo Snout labour replacing the sacred work.
 - **Kangaroo:** Protection becomes hoarding — control of Static pools through mob violence; strength deployed for dominance over access.
 - **Koala (Canopy):** Healing becomes synthesis — Lyptus made from Static when eucalyptus trees died; starvation-driven ingenuity becoming industry and cartel.
 - **Koala (Drop Bears):** The faction that couldn't hold on — starvation drove them to meat; the body adapted; they are now feral predators living in the dead eucalyptus canopy, hunting from above. The healers became the thing children are warned about.
@@ -81,6 +81,8 @@ Each is individually distinct with a clear archetype, domain, and characteristic
 - Tatebat: Visionary Narcissist / The cage is a masterpiece
 - Vitabat: The Invisible Constant / The Tally is the only order
 - Zuckbat: The Omniscient Censor / Dissonance is the only threat
+
+**The Sovereign tragedy:** They were genuine idealists — dissenters in their origin world, the ones who refused to stay and decline. The crossing was an act of real conviction. The drive, the ambition, the idealism that carried them through the fold are commendable. What is not: they sought freedom *from* — from the hierarchies that had caged them — not freedom *toward* something different in kind. They arrived in Hún Nico unchanged (the device held the crossing for them; they never crossed inwardly) and built the only architecture they knew. The cage they escaped, they reconstructed around themselves. Their failure is not moral but epistemological: they lacked the knowledge that a different mode of building existed, because the Static had taken it from them before they were old enough to know what was missing.
 
 ### The Sovereigns' Secret Agenda — Rebuilding the Device ✓
 The Sovereigns cannot cross manually. Their origin world's Static had destroyed the faith required before they left — they crossed using a machine that held the *rūpa*+*nāda* artificially. The machine stayed behind. They are stranded.

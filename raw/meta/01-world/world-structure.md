@@ -86,7 +86,7 @@ The Static eroded the abundance that made generosity natural. As resources contr
 - **Territory:** Melborow and the Five Borows — subterranean megalopolis
 - **Original sacred function:** Maintaining the underground Arnam pools through presence, stillness, and the **wailing dance** — a ritual modelled on lion dancing, performed communally to keep the resonance of the pools alive. Not understood by surface species (they knew wombats were special, not what they did). Not invented as a practice; simply what wombats were.
 - **Social structure now:** Imperial bureaucracy — Five Sovereigns, High Noses, Lo Snouts
-- **Their crisis:** Institutional capture. The Tally converted mutual aid into permanent debt. The Frequency drowned the Arnam signal. The Corvée replaced communal labor with body-tax. The Wombiki were entombed in the walls. The wailing dance was outlawed as Dissonant Noise.
+- **Their crisis:** Institutional capture. The Tally converted mutual aid into permanent debt. The Frequency drowned the Arnam signal. The Corvée replaced communal labor with body-tax. The Wombiki were entombed in the walls. The wailing dance is mocked as primitive superstition — Lo Snouts have internalised the contempt; the dance disappears not from fear of arrest but from embarrassment.
 - **Council relationship:** *They are* the Council
 - **What Kappa Mu needs to restore:** The Kintsugi ethic — fractures made stronger, not hidden. The Well-Field Way — gift over debt. The wailing dance — the actual physical mechanism of Arnam-flow restoration.
 - **Reference:** `raw/locations/the_five_borow_societies.md`, `raw/melborow_society.md`, `raw/meta/the_original_world.md`

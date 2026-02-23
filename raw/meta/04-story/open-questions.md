@@ -2,6 +2,8 @@
 
 *Organised by priority. Story-blocking questions must be answered before those scenes can be written. World-defining questions shape the feel of the whole. Enrichment questions can wait.*
 
+*For what has already been resolved, see `04-story/what-is-clear.md`. Major resolutions since the last revision: Closing Node fully established, Sovereign origin confirmed (immigrants with a device, rebuilding from Static), crossing mechanism (image + song + faith), wailing dance mocked not suppressed, trilogy structure confirmed, chakra map, founding myths, Muskbat's break.*
+
 ---
 
 ## Priority 1: Story-Blocking
@@ -9,91 +11,94 @@
 *These gaps prevent specific scenes or chapters from being written.*
 
 ### The Crossing Ceremony
-**What does it actually look like?**
-We know the Jacaranda "reads" the creature and that the standing-together under the roots constitutes the oath. But the ritual itself is unwritten.
+**What does the Kappa Mu Crossing actually look like?**
+
+We know the Jacaranda reads the creature and the standing-together under the roots constitutes the oath. But the ritual itself is unwritten.
 - Who crosses first — does order matter?
 - Is there a spoken element, or is it entirely felt/vibrational?
 - Does the tree do something visible, or is the experience entirely internal?
 - How long does it take?
 - What does a creature feel afterward that they didn't feel before?
 - Are all five present simultaneously, or do they arrive separately and the Crossing only completes when all five have stood beneath the roots?
+- How does this relate to the *rūpa*+*nāda* crossing mechanism — does the Jacaranda Crossing activate the same capacity, or is it a different kind of threshold?
 
-**Why it's blocking:** The Root Chamber scene in Chapter 3 references the Crossing but doesn't dramatize it. If this scene is to be a chapter in its own right, the ritual needs to be defined.
+**Why it's blocking:** The Root Chamber scene in Chapter 3 references the Crossing but doesn't dramatize it. If this scene is to be a chapter, the ritual needs to be defined.
 
 ---
 
 ### Bash's Character
 **Who is Bash?**
+
 Bash is the least developed of the five Lambda members. We know:
 - Species: Wallaby
-- Role: carries the squad's emotional field — so attuned to others that Hoebat breaking ribs is felt by Bash three kilometres away
-- Name suggests something percussive or blunt; possibly ironic (the translator who communicates through impact)
-- The Wallaby sacred function is now established: **translation**, not relay. Wallabies held two registers at once — could speak to a Kangaroo mob in mob terms, then bring that meaning back to smaller species. The current corruption: reduced to message infrastructure, the diplomatic skill atrophying.
+- Role: the translation function — holds two registers at once, the living connection between Songline nodes
+- Wound: possibly a wallaby who tried to translate between two parties that refused translation and watched the conflict happen anyway
+- Voice: unknown — does the translation instinct manifest as constantly reading the room? As speaking in other creatures' idioms? As pathological people-pleasing?
+- Civilian life: undefined — working translator in some diminished capacity, or has given it up entirely?
+- Chakra mapping: Ajna — the third eye, the perception that crosses between; Bash is the function that allows the network to route signal across community boundaries
 
-What we don't know:
-- Origin story (the five-beat arc is unwritten)
-- Wound / what broke them open to Kappa Mu — possibly connected to the translation function being forcibly collapsed: a wallaby who tried to translate and wasn't allowed to, who watched two parties go to war because no one would let them stand between
-- Voice and personality — does the translation instinct manifest as constantly reading the room? As speaking in other creatures' idioms? As pathological people-pleasing?
-- What their civilian life looks like — are they a working translator in some diminished capacity, or have they given it up entirely?
-- What Bash's Kappa Mu mission looks like — restoring translation, which means restoring the *need* for translation, which means getting species in the same room again
+What we don't have:
+- Origin story (the ten-beat arc is unwritten)
+- Personality and voice on the page
+- What their Kappa Mu mission looks like in practice
 
-**Why it's blocking:** Bash appears in ensemble scenes but has no interior life on the page yet. Any chapter in Bash's POV is impossible without this.
+**Why it's blocking:** Any chapter in Bash's POV is impossible without this. Bash appears in ensemble scenes with no interior life.
 
 ---
 
 ### The Non-Wombat Community Documents
-**What do the other four societies actually look like?**
+**What do the other four societies actually look like at ground level?**
 
-Each community needs a structural document equivalent to `the_five_borow_societies.md`. Currently:
-- Dingo: partial (Pokero's files, the Westside Connect song, the animal_societies.md entry)
-- Galah: partial (Cooroo's chapter, the Morning Glory story, the Rosella choir file)
-- Emu: partial (Palar-Kuruswar lore, Merl's chapter appearance)
-- Wallaby: minimal (animal_societies.md entry, Bash appearances) — now enriched by translator function but needs physical/social structure
-- Koala: now split — Canopy document and Drop Bear document are both needed separately
+Each community needs a structural document. Currently:
+- Dingo: partial (Pokero's files, animal_societies.md entry)
+- Galah: partial (Cooroo's chapter, the Noble Noise)
+- Emu: partial (Palar-Kuruswar lore, Merl's appearance)
+- Wallaby: minimal — enriched by translator function but needs physical/social structure
+- Koala: needs two documents — Canopy and Drop Bears separately
 
-**Why it's blocking:** Each Lambda member's home-society mission thread requires a defined world to work within. The Koala split also needs resolving before any Koala-adjacent scene can be set.
+**Why it's blocking:** Each Lambda member's home-society mission requires a defined world to work within.
 
 ---
 
-### The Known Kappa Mu Class History
+### Kappa Mu Class History
 **What happened to the earlier classes?**
 
-Lambda is the eleventh crossing. Ten cohorts crossed before them. We know Hangbat is Beta class. We know nothing about:
-- Alpha class — the first crossing. Are they alive? Martyred? Their work?
-- What Beta class (Hangbat's cohort) accomplished or attempted
+Lambda is the eleventh crossing. Ten cohorts crossed before them. We know Hangbat is Beta class. We don't know:
+- Alpha class — the first crossing. Alive? Martyred? What did they do?
+- What Beta class accomplished or attempted — essential for Hangbat's revelation scene to carry its full weight
 - Whether any classes between Beta and Lambda are known to any character
 - Whether any class was compromised, captured, or turned
 
-**Why it's blocking:** Hangbat's revelation (that he is Beta class) is a major story beat. Its full weight requires knowing what Beta class did, what it cost, and why Hangbat has been in the drainage vault for eight years rather than active in the movement.
-
----
-
-### The Endgame — SUBSTANTIALLY RESOLVED
-**See: `the_jacaranda_agenda.md`, `five_act_structure.md`, `the_political_asymmetry.md`**
-
-Core resolutions:
-- Threshold is five Lambda missions reaching critical mass *simultaneously*, not sequentially — the network effect
-- The triggering event is the seed planting (Act 5) — one physical act that completes the ideological, ecological, and political arcs at once
-- The Sovereigns do not fall in a coup; they are made irrelevant — enforcement erodes through Dingo Code restoration, resource pockets form outside the Tally, the Frequency supply chain becomes vulnerable
-- The Fractal Rainforest is literal (pioneer species displacing Static-saturated substrate) and functions as the substitute supply chain for the Frequency dependency (see **The Frequency Dependency Problem** below)
-- Restoration does not restore the old world — it creates the next one, and the Jacaranda's agenda is only accidentally aligned with what Lambda wants
-
-Remaining sub-question (moved to Priority 2): The specific threshold at which Dingo Pack defections reach visible critical mass. What is the scene where the Council realises enforcement has failed — not just "harder to locate," but publicly, visibly failed?
+**Why it's blocking:** Hangbat's Beta class revelation is a major story beat. Its weight requires knowing what Beta did and what it cost.
 
 ---
 
 ### The Drop Bears — Story Role
 **What function do the feral Koalas serve in the narrative?**
 
-The Drop Bears are established: former healers, physically transformed by starvation, now feral predators living in the dead eucalyptus canopy. But their story role is undefined.
+Established: former healers, physically transformed by starvation, now feral predators in the dead eucalyptus canopy. But their story role is undefined:
+- Purely antagonistic obstacles, or tragic figures with interiority?
+- Named Drop Bear character?
+- Is transformation reversible? (Can Arnam restoration return a Drop Bear to Canopy identity, or has the body changed past that point?)
+- Relationship with the Static economy — do they guard pools inadvertently?
+- Does the Kappa Mu mission include them, or are they a consequence only addressable after the root cause is fixed?
 
-- Are they purely antagonistic — dangers characters move through — or are they tragic figures with interiority?
-- Is there a specific Drop Bear character? Could one appear as a named presence?
-- Is the physical transformation reversible? If the feral eucalyptus can be restored (by returning Arnam-flow), could a Drop Bear return to Canopy identity — or has the body changed too much?
-- Do Drop Bears have any relationship with the Static economy, or do they exist entirely outside it? (Do they inadvertently guard Static pools by making the surrounding canopy dangerous? Do they consume Static themselves?)
-- Does the Kappa Mu's mission include the Drop Bears at all, or are they a consequence of the Koala crisis that can only be addressed after the root cause is fixed?
+**Why it's blocking:** Any scene in or near the dead eucalyptus canopy requires knowing whether Drop Bears are present and what they can be.
 
-**Why it's blocking:** Any scene set in or near the dead eucalyptus canopy needs to know whether Drop Bears are present, what they want, and whether they can be encountered in ways beyond pure predator-avoidance. The Koala Canopy community document also cannot be written without knowing how the Canopy currently relates to their feral kin.
+---
+
+### Book Two Structure — The Unravelling
+**What are the specific beats of Book Two?**
+
+The trilogy structure is confirmed (Book 2 ends with Node opening, Sovereigns' secrets revealed, Muskbat's break), but the internal sequence is undefined:
+- What is the opening beat of Book Two? Where does Hoebat stand after the Sovereigns' embrace?
+- At what point in Book Two does Muskbat publish the Jacaranda study?
+- How does the Mnemo-Mu carrier who reads the study find the Songline match — what is that scene?
+- What is the sequence: does the origin revelation come before or after the device project is discovered?
+- Who else among the Sovereigns breaks, in what order? Does Vitabat break differently from Muskbat?
+- What is the scene in which the Node actually opens — who is present, what does it look like?
+
+**Why it's blocking:** Book Two cannot be drafted without a beat structure. The five-act mapping currently places it across late Act 3, Act 4, and the opening of Act 5 — but this is not yet specific enough to write from.
 
 ---
 
@@ -101,97 +106,115 @@ The Drop Bears are established: former healers, physically transformed by starva
 
 *These gaps don't block immediate writing but shape the feel of the whole world.*
 
+### The Device Project — Specifics
+**How far along is the device, and when is it discovered?**
+
+Established: Muskbat is rebuilding the crossing device from Static technology using Grout as frequency modulator, the Frequency architecture as signal broadcaster, and deep substrate measurements near the Node. The Jacaranda interferes with his measurements.
+
+Undefined:
+- What stage is the project at during Book One? During Book Two?
+- Does any Lambda member stumble onto it before Muskbat's publication exposes it?
+- When the Node opens at the end of Book Two — does the device play any role, or is it purely the wailing dance + faith that opens it?
+- What happens to the device project when the Node opens? Does the open Node render it irrelevant, or does it become more dangerous?
+
+---
+
+### The Image+Song Pairs — How Are They Known?
+**How does a wombat learn the rūpa+nāda for a specific Heart World?**
+
+Established: Every Heart World has a unique image+song pair. You become the frequency of where you want to go. The Substrate Songline contains the resonance of the Sovereigns' origin world as the frequency they were carrying when they arrived.
+
+Undefined:
+- Are there Songlines that carry the pairs for specific worlds — can a Mnemo-Mu carrier hold a destination?
+- Can you learn a pair from visiting a world (you bring it back in your body)?
+- Can you learn a pair from someone who has been there?
+- Is Hún Nico's own pair knowable from inside it, or only from outside?
+- What happens if you hold an incomplete or inaccurate pair — do you arrive somewhere wrong, or do you fail to cross at all?
+
+---
+
 ### The Timeline
 **When did things happen, relative to each other?**
 
-- When did the Static begin rising? (How many generations ago?)
-- When did Kappa Mu Alpha first cross? Is Alpha ancient, or relatively recent?
-- How long between crossings — seasons, years, decades?
-- Lambda = 11th crossing. If crossings are roughly generational (20-30 years), Alpha crossed 200-330 years ago. If annual, Alpha crossed 10 years ago. This changes everything.
+- When did the Static begin rising? How many generations ago?
+- When did Kappa Mu Alpha first cross? Is Alpha ancient or recent?
+- How long between crossings — seasons, years, decades? Lambda is the eleventh; if crossings are generational (20-30 years), Alpha crossed 200-300 years ago.
 - Where in the timeline does the Silver Wattle's fall sit relative to Lambda's crossing?
-- Where does Hangbat's exile sit? (He's been in the drainage vault approximately 8 years — but when did Beta cross?)
+- Where does Hangbat's exile sit? (He's been in the vault approximately 8 years — but when did Beta cross?)
+- When did the Sovereigns arrive in Hún Nico, relative to the Static crisis's progression?
 
 ---
 
 ### Vitabat and Zuckbat — Full Profiles
 **Less developed than Trumbat and Muskbat.**
 
-Vitabat is defined primarily through Muskbat's description of him ("the Invisible Constant," "the Zero Point"). His own voice, his own tell, his own version of the Imperial lie — these are underwritten.
+- Vitabat (the Invisible Constant, the Zero Point) — his own voice, his tell, his version of the Imperial lie, and crucially: does he know what Muskbat is building? Does he know the full origin story? Is he the Sovereign most at peace with being stranded?
+- Zuckbat (the Omniscient Censor) — personality, history, what he actually wants beyond order. He is the one who moves to bury Muskbat's data. What is his relationship to the truth he suppresses? Does he believe the lie, or does he simply find the lie functional?
 
-Zuckbat is the most shadowy Sovereign. We have his function (the Censorate, the Archive, Tally-stone surveillance) but not his personality, his history, or what he actually wants beyond order.
+---
+
+### The Sovereigns' Origin World — What Is It Now?
+**Does their home world still exist? Does anyone come from it?**
+
+Established: The Sovereigns came from a more advanced but failing Heart World. The device they used is still there. Their home world has continued along the Static trajectory without them.
+
+Undefined:
+- Has the trajectory completed? Is the origin world now a dead world?
+- Does the device still function?
+- Has anyone from the origin world found Hún Nico's frequency and attempted the crossing in reverse? (Option D witness — the most dramatically surprising)
+- What would the Sovereigns feel if someone arrived from their origin world? Recognition? Terror? The news they have been avoiding for generations?
 
 ---
 
 ### The Council's Relationship with the Dingo Packs
-**How coerced vs. cooperative is this arrangement?**
+**How coerced vs. cooperative is the enforcement arrangement?**
 
-The Dingo Packs do enforcement work in wombat territory. But:
 - Do individual Dingoes choose this, or is it Pack-level coercion?
-- Does the Council have leverage over Pack leadership? What kind?
-- Is Pokero's relationship with Bronxborow enforcement a personal arrangement or a Pack sanctioned one?
+- Does the Council have leverage over Pack leadership beyond contract?
 - What do the Packs get out of it beyond territory access and filtered Frequency?
+- Is Pokero's position inside enforcement a personal arrangement or Pack-sanctioned?
 
 ---
 
 ### The Frequency Trade — Species Relationships
 **The industrial grout cycle involves Dingoes, Koalas, and Kangaroos.**
 
-- Dingoes harvest Static ore from Slop-Pits. Is this voluntary, coerced, or some version of Pack contract?
-- Koalas provide Lyptus resin as binders. What is the Koala Canopy's actual relationship with the Council?
-- Kangaroos control the pools and compress the ore through mob labour. Are the mob leaders willing partners or under duress?
-- These relationships give the Council reach into three non-wombat communities. What does each species think they're getting?
+- Dingoes harvest Static ore from Slop-Pits. Voluntary, coerced, or contracted?
+- Koalas provide Lyptus resin. What is the Canopy's actual relationship with the Council?
+- Kangaroos compress the ore through mob labour. Willing partners or under duress?
+- What does each species think they're getting?
 
 ---
 
-### Static Pools — The History of Discovery
-**How did the world come to know Static pools were valuable?**
+### Static Pools — History of Discovery
+**Three possible framings — one needs to be chosen:**
 
-Three possible framings — one needs to be chosen:
+- **Option A:** Always present, newly potent — pools existed long before the crisis; only when Arnam failed did their mimicry become addictive rather than interesting.
+- **Option B:** Crisis discovery — pools appeared or became potent only as Static rose; a Kangaroo mob sheltering near one during drought experienced the sensation of fullness.
+- **Option C:** Koala identification — Koalas, as healers, first mapped the pools' chemical properties and lost control of the information to Kangaroos.
 
-**Option A — Always Present, Newly Potent:** Static pools existed long before the crisis. They were known as sacred-strange places, visited cautiously. Only when the rains of Arnam began to fail did the pools' ability to mimic the sensation of abundance become addictive rather than merely interesting. Discovery is not a moment but a gradual realization.
-
-**Option B — Crisis Discovery:** Static pools appeared (or became potent) only after the Static began rising. A specific moment of discovery — perhaps a Kangaroo mob sheltering near one during a drought and experiencing the sensation of fullness. Discovery as accident, then exploitation as intention.
-
-**Option C — Koala Identification:** The Koalas, as healers, were first to identify the chemical properties of Static-rich soil in their search for eucalyptus alternatives. They named it, mapped the pools, and then lost control of the information to the Kangaroos. Discovery as scholarly, exploitation as theft.
-
-The choice affects: whether Koalas have prior claim over the pools (Option C), whether Kangaroos stumbled into power or took it (Options A/B vs C), and how ancient the Static economy is.
+The choice affects Koala prior claim, Kangaroo power origin, and how ancient the Static economy is.
 
 ---
 
-### The Feral Eucalyptus
-**What does it mean for eucalyptus trees to "go feral"?**
+### God-Kind Story Presence
+**How do Humans appear in the narrative, if at all?**
 
-Eucalyptus trees dying and becoming feral is established as the cause of the Koala food crisis. But what does "going feral" mean for a tree?
-- Do the trees mutate physically under Static saturation — becoming twisted, toxic, inedible?
-- Do they produce a different kind of leaf that Koalas cannot process?
-- Is "feral" a quality of the Arnam-signal within the tree — a tree that has absorbed too much Static becomes hostile rather than nurturing?
-- Are feral eucalyptus trees dangerous to other species too, or only inedible for Koalas?
-- Can any eucalyptus trees be restored, or is the feral state permanent?
-
-This matters for: the emotional reality of the Koala crisis (starvation with the food still visible), whether feral eucalyptus are a presence in the landscape characters move through, and whether Koala restoration includes re-wilding the trees.
+The lore establishes Humans as geological forces — invisible, vast, radiating. But:
+- Are they ever seen directly? By whom?
+- The Yellow Monsters (excavators) fall forests. When does this happen and what does it mean to characters who witness it?
+- Does any character understand the Human connection specifically, or are they always unknowable?
+- Does the macro-cosmic theory require characters to *know* the mechanism, or can they act without understanding it?
 
 ---
 
-### Wombat-Surface Relationship
-**What do surface species know and feel about wombats?**
-
-The original sacred function of wombats (the wailing dance, the Arnam pools) was known in effect but not in mechanism. Surface species knew wombats were essential, not how. Now:
-- Do surface species know the Arnam pools are degraded? Or do they only feel the effects (dying ecosystems, failing rains) without knowing the cause?
-- Is there mythology among surface species about wombats — stories of the underground keepers?
-- When wombats were captured by the Imperial system, was this visible to surface species? Did anyone try to intervene?
-- Does the Kappa Mu's mission require wombats to re-establish surface contact, or does restoring the wailing dance work even in isolation underground?
-- How does Hoebat relate to the surface — is it a place he has visited, read about, or only sensed through the Arnam's memory?
-
----
-
-### The Koala Canopy and the Drop Bears — Internal Relationship
+### The Koala Canopy and Drop Bears — Internal Relationship
 **What does it mean for Koala society that it has split?**
 
-The Canopy views the Drop Bears with shame; the Drop Bears view the Canopy as a different kind of corruption. But the practical reality of this split is undefined.
-- Is there a physical border? Do Canopy Koalas stay in the living-but-diminished eucalyptus territories and Drop Bears live in the dead feral zones?
+- Physical border between Canopy and Drop Bear territory?
 - Do they ever interact, or is avoidance total?
-- Does the Canopy accept any moral responsibility for the Drop Bears — a species who starved while the Canopy was building Lyptus? Is guilt part of the Canopy's psychology?
-- Are there Koalas who move between both worlds — who remember being Canopy, or who are trying to reach Drop Bears?
+- Does the Canopy accept moral responsibility for the Drop Bears?
+- Are there Koalas who move between both worlds?
 - Does any Drop Bear remember being a healer?
 
 ---
@@ -199,53 +222,10 @@ The Canopy views the Drop Bears with shame; the Drop Bears view the Canopy as a 
 ### Kangaroo Internal Politics
 **Is the mob monolithic, or is there dissent?**
 
-The Static economy document notes that matriarchs carry a particular guilt about what the mob has become. But it's undefined whether this produces any internal fracture.
-- Is there a generational divide — older mobs who remember the guardian function vs. younger ones who have only ever known pool control?
-- Are there mob leaders who resist the Council's relationship, or are all mobs functionally aligned with the Static economy?
-- Does Kappa Mu need a Kangaroo ally? If so, who? And from which layer — a matriarch with memory of the old way, a young mob member who hasn't calcified yet?
-- What would it take for a Kangaroo mob to release a pool? Is there a condition under which they would?
-
----
-
-### The Three Grades of Static — Lived Reality
-**What does the Static economy look like from the inside?**
-
-The three grades (ambient / refined / productised) are defined conceptually. Their lived reality is not.
-- What does refined Static look, smell, feel like? Is it a physical substance — crystals, liquid, gas? How is it packaged and distributed?
-- Who has access to what grade? Can a Lo Snout buy refined Static, or is it High Nose territory?
-- Is there a black market for refined Static separate from the Council's Frequency distribution?
-- What does Frequency distribution look like physically — is it simply ambient in the tunnels (inescapable), or can wombats choose their level of exposure?
-- Are there wombats who are clearly addicted in visible ways — what does that look like? Does the High Nose "Clean Signal" premium just mean a purer grade, or does it mean less exposure overall?
-- How does a Lyptus deal actually happen — is it sold openly, covertly?
-
----
-
-### The God-Kind (Humans) — Story Presence
-**How do Humans appear in the narrative?**
-
-The lore establishes Humans as Lovecraftian forces — geological disasters, cold and invisible. But:
-- Are they ever seen directly? If so, by whom, and what does that scene look like?
-- The Yellow Monsters (excavators) fall forests. When does this happen in the story, and what does it mean to the characters who witness it?
-- Is there any moment where a character understands the Human world with any specificity — or are they always unknowable?
-- Does the macro-cosmic theory require the characters to *know* about the Human connection, or can they act on it without fully understanding the mechanism?
-
----
-
-### The Closing Node — RESOLVED
-**See: `01-world/the-closing-node.md`**
-
-Established: The Closing Node is an active portal between Heart Worlds — the fold where Hún Nico's substrate meets adjacent Heart Worlds. Wombats are the only species with access (deepest burrowers = keepers of the earth = keepers of the portal, in every Heart World). The Sovereigns are five wombats from a more advanced but failing Heart World who crossed into Hún Nico, sealed the Node behind them, and used their imported knowledge to seize control. Their motivation was power — they wanted to rule, to be the closest thing to Gods the world would permit; they paid lip service to Mirene but never practiced. They imported the Tally, Grout/Frequency technology, and Wall architecture from worlds they had observed. The Jacaranda grows directly above the Node. The Sovereigns do not suppress the wailing dance — they mock it as primitive superstition, which is their most consequential blind spot. The Sovereigns' deepest fear: Node reactivation ends their information monopoly and exposes their non-native origin. Lambda does not know about the Node. The seed-planting is also, unknowingly, a Node activation event.
-
-Remaining sub-questions:
-- What specific Heart Worlds have the Sovereigns visited, and what did they find there? (Story enrichment — one or two glimpsed worlds would give the Sovereign travel weight)
-- Does any Lambda member discover the Node during the story, or only after? A Closing Node scene is potentially Act 4 or Act 5 material.
-
----
-
-### Sydborow
-**What is it and how does it relate?**
-
-A file exists (`raw/locations/sydborow.md`) that has not been integrated into the current structural understanding. Is Sydborow another wombat city? A sister civilization? A former colony? Its relationship to Melborow and to the five-Borow system needs clarification.
+- Generational divide — older mobs remembering the guardian function?
+- Mob leaders who resist the Council relationship?
+- Does Kappa Mu need a specific Kangaroo ally? Which layer — matriarch with memory, or young mob member?
+- What would it take for a mob to release a pool?
 
 ---
 
@@ -253,49 +233,58 @@ A file exists (`raw/locations/sydborow.md`) that has not been integrated into th
 
 *These gaps are interesting but don't affect the story's core integrity.*
 
-### The Wallaby Translation Economy — What It Looked Like
-Before the Static, every inter-species negotiation went through a wallaby. What did this actually look like in practice? Was it formal — a wallaby present at every significant meeting as a matter of custom? Or informal — a wallaby simply appearing when things got tense, as a kind of organic diplomatic reflex? Is there any remnant of this system that Bash could encounter, restore, or build on?
+### The Wallaby Translation Economy
+Before the Static, every inter-species negotiation went through a wallaby. What did this look like in practice — formal or informal? Is there any remnant Bash could encounter, restore, or build on?
 
 ### The Drop Bears — Physical Description
-The Drop Bears are feral Koalas, physically transformed. What do they actually look like? Are they visibly different from Canopy Koalas — larger, differently furred, changed claws? Or do they look almost the same until they move, until they drop? The Jennings grotesque potential here is significant: the thing that looks like a healer until it doesn't.
+What do they actually look like? Visibly different from Canopy Koalas — changed claws, size, fur? Or almost identical until they move, until they drop? The Jennings grotesque potential: the thing that looks like a healer until it doesn't.
 
 ### The Other Kappa Mu Classes — Personalities
-What are Gamma through Kappa doing? Do any of them surface in the story as mysterious allies, as cautionary tales, or as the infrastructure Lambda doesn't know they're running on? Even one or two defined classes would give the movement depth.
+What are Gamma through Kappa doing? One or two defined classes would give the movement depth — cautionary tales, mysterious allies, infrastructure Lambda doesn't know it's running on.
 
 ### The Rosella Parliament — Current State
-We know it shattered when the Silver Wattle fell. The Songlines document now establishes *what* shattered with it: the index of the Songline network — the architectural knowledge of how individual Songlines connect. The Fragment Prophets are not carrying fragments of individual Songlines (those are held by Mnemo-Mu carriers); they are carrying fragments of the network map. Questions remaining:
-- What does the scattered Rosella world look like now? Is any Rosella trying to reconstruct the Parliament?
-- Does any Fragment Prophet know that what they carry is Songline network architecture rather than prophecy?
-- Could the Fragment Prophets, brought together, reconstruct enough of the index to guide the restoration?
+The Fragment Prophets carry pieces of the Songline network index. Remaining questions:
+- Is any Rosella trying to reconstruct the Parliament?
+- Does any Fragment Prophet know that what they carry is network architecture rather than prophecy?
+- Could the Fragment Prophets, brought together, reconstruct enough of the index to guide restoration?
 
 ### The Platypus Ghost Network — Active Role
-The Platypus are maintaining the pipes the Council has abandoned. Do they ever make contact with any Lambda member? Is there a moment where their invisible work becomes visible?
+The Platypus maintain the pipes the Council has abandoned. Do they ever make contact with Lambda? Is there a moment where their invisible work becomes visible?
 
 ### The Dog-Brahman — Who Are They?
-The Non-Society entry in animal_societies.md describes a solitary anchor-point figure. Is there a specific Dog-Brahman character? Where do they sit? Do they know about Kappa Mu?
+The solitary anchor-point figure. Named character? Location? Knowledge of Kappa Mu?
 
 ### The Lolaboo Thread
-Hoebat's mate. Introduced in Chapter 3, shown leaving the BorowFinder behind and finding a burrow in the Canopy Remnant. What is her role in the ongoing story? Does she become active in the mission, or does she represent the civilian world Hoebat is trying to protect?
-
-### The Song of the Soil / Songlines — SUBSTANTIALLY RESOLVED
-**See: `02-movement/the-songlines.md`**
-Established: Songlines are received resonance from the God-Kind above (not authored memory). Four types: Location, Event, Condition, Warning. The wailing dance is the oldest surviving Event Songline — the record of Mirene's arrival. Mnemo-Mu carriers hold individual Songlines in their nervous systems. The Rosella Parliament held the index (network map), which shattered with the Silver Wattle. The Tally-stone replaced Songlines cosmologically — from *what you carry* to *what you owe*. Restoration means a partial working network, not full recovery.
-
-Remaining sub-question (Priority 2): **Who are the surviving Mnemo-Mu carriers?** At least one should be a named character who can cross under the Jacaranda and briefly read the full network map before losing it again. This is a major potential story beat.
+Hoebat's mate. Introduced in Chapter 3. Does she become active in the mission, or does she represent the civilian world he is trying to protect?
 
 ### What Happens to Barnabat
-Hoebat sees him once, in a foreman's vest, and Barnabat doesn't look back. Does he reappear? Does the story require a reckoning between them, or is he meant to remain a symbol of the choice not taken?
+Hoebat sees him once in a foreman's vest and Barnabat doesn't look back. Does he reappear? Is a reckoning required, or is he meant to remain a symbol of the choice not taken?
 
 ### The Wall — Its Actual Progress
-The Great Retaining Wall is Trumbat's vanity project and the Corvée machine's justification. Where is it in the story's present? Is it nearly complete? Stalled? Has it caused the geological damage (Liquefaction Event prevention vs. earth unable to breathe) that the lore suggests?
+Where is the Wall in the story's present? Nearly complete? Stalled? Has the Liquefaction Event damage begun? The Jacaranda's lateral roots undermining the foundation is established — is this visible to any character yet?
+
+### Sydborow
+A file exists (`raw/locations/sydborow.md`) not yet integrated. Sister civilization? Former colony? Relationship to Melborow and the five-Borow system?
+
+### The Three Grades of Static — Lived Reality
+How does the Static economy actually feel from inside?
+- What does refined Static look, smell, feel like physically?
+- Who has access to what grade?
+- What does visible addiction look like?
+- How does a Lyptus deal happen?
+
+### The Mnemo-Mu Carriers — Who Are They?
+At least one named Mnemo-Mu carrier should cross under the Jacaranda and briefly read the full network map before losing it again. Who is this character? Where are they encountered? Are they the same carrier who later matches Muskbat's spectral data to a Songline fragment?
 
 ---
 
 ## Standing Inconsistencies to Resolve
 
-
 ### The Kappa Mu Oath Scene
-Chapter 3 references the Root Chamber oath. The v1 of Chapter 4 ends with the seed being planted and Cooroo passing out — before any oath scene. The narrative sequence of: Cooroo arrives at Jacaranda → vision → Cooroo finds the others → the Crossing — needs to be plotted explicitly so that chapter numbering and POV switching is consistent.
+Chapter 3 references the Root Chamber oath. The v1 of Chapter 4 ends with the seed being planted and Cooroo passing out — before any oath scene. The narrative sequence of Cooroo arriving at the Jacaranda → vision → Cooroo finding the others → the Crossing needs to be plotted explicitly so chapter numbering and POV switching is consistent.
 
 ### Lambda's Crossing Timing
-When exactly did Lambda cross, relative to the chapters we have? Chapter 3 (Melborow Frequency) appears to show Hoebat *after* the crossing — he references the Kappa Mu as existing. Chapter 4 (Wombat's Descent) shows the origin leading *up to* the Gorge/Cooroo encounter. Is the Crossing between Chapter 4 and Chapter 3, or is Chapter 3 a flashback structure?
+When exactly did Lambda cross, relative to the chapters we have? Chapter 3 (Melborow Frequency) shows Hoebat after the Crossing — he references the Kappa Mu as existing. Chapter 4 (Wombat's Descent) shows the origin leading up to the Gorge/Cooroo encounter. Is the Crossing between Chapter 4 and Chapter 3, or is Chapter 3 a flashback structure?
+
+### See-Also References in Older Files
+Several older files still use the pre-reorganisation file paths (e.g., `raw/meta/the_jacaranda_agenda.md` instead of `02-movement/jacaranda-agenda.md`). These reference paths should be updated when those files are next touched.
