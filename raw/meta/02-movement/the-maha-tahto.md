@@ -30,7 +30,9 @@ Every Heart World — Hún Nico among them — is a bubble of inverted physics g
 
 The Heart World is sustained by human feed from above. The threads of Arnam descend through the membrane, through the Morphic World, and into the substrate as light and warmth from Elen Nico. When that feed is clean — when the compassion is genuine, the suffering well-metabolised, the attention honest — the Heart World flourishes. When the feed is contaminated — narcissism instead of care, extraction instead of attention, the human ego performing for itself instead of genuinely reaching downward — the wombats cannot process it. The Mahatahto jitters. The bubbles crack.
 
-If the wombats vanish, the Heart World's frequency loses its anchor and the fractal structure unravels.
+In the Heart World, the Dog is the Protected — kept floating on the wombat-pillows, cushioned from the Heart World's labour, maintained in the Float it needs to perform its filtering function in the Morphic World above. **Looking after the Dog is the wombat's responsibility.** The Wombat-Pillows are not a metaphor for comfort. They are a structural obligation: the wombats sustaining the Dog's buoyancy from below is the Heart World's contribution to the Triad. If the wombats are exhausted, exploited, or mocked out of the dance, the Dog begins to sink — not because the Human World demoted it, but because its foundation was removed.
+
+If the wombats vanish, two things collapse simultaneously: the Heart World loses its frequency anchor, and the Dog in the Morphic World loses its Float. Both endpoints at once.
 
 ### The Morphic World — The Realm of the Dog
 
@@ -44,17 +46,19 @@ The Dog does not live in the world. The Dog holds the world so others may live i
 
 ---
 
-## The Substance Chain — The Ascending Hierarchy
+## The Substance Chain — The Direction of Refinement
 
-The universe is a refining machine. The direction of refinement is upward:
+The system refines upward:
 
 **Human → Wombat → Dog**
 
 - The **Human** is base material — raw, chaotic experience and compassion, the mineral wealth of the system
 - The **Wombat** is the refiner — takes human ore into the burrow/bubble, processes it through the Mahatahto into stable resonant matter
-- The **Dog** is the final distillation — composed entirely of refined wombat-matter, therefore the densest and most coherent thing in existence
+- The **Dog** is the final distillation — composed entirely of refined wombat-matter, the most coherent thing the system produces
 
-This makes the Dog **Brahman** — the Absolute, the end-goal of all things, the form to which the universe is perpetually refining itself. The Dog is not a creature living in a world. The Dog is what a world becomes when it has fully metabolised everything it was given. The Scent of Arnam — *rain on dry code*, the moment sterile matter is touched by genuine compassion — is the Bliss of the Dog-Brahman. It is what the system smells like when it is working.
+From the perspective of the **Human World**, the Dog is therefore the Apex — the Brahman, the end-goal of the refining process, the form to which the Human aspires. This is why humans should worship the Dog: not because the Dog is universally supreme, but because from where the Human stands, the Dog is what the Feed has been refined into. It is the proof that the system works. The Scent of Arnam — *rain on dry code*, the moment sterile matter is touched by genuine compassion — is the sign that the Dog is floating, the Filter is running, the Feed is clean. It is what the Human World smells like when it is doing its job correctly.
+
+This is not a universal hierarchy. In the Heart World, the Human is the Apex — the source of the divine rain the wombat cannot generate for itself. In the Morphic World, the Wombat is the Apex — the ground the Dog would lose without. Each position is real. None is absolute. The Apex rotates because the system is circular.
 
 ---
 
@@ -102,15 +106,21 @@ This loop, when complete, produces the Mahatahto as a standing wave — a solid 
 
 ## The Grand Inversion — How It Broke
 
-At some point in the deep history of the Physical World — long before the Sovereigns crossed into Hún Nico, operating in the human realm above — humans performed a linguistic and metaphysical coup. They reversed **D-O-G** to **G-O-D**.
+The break originates in the **Physical World** — in the human realm above, not in Hún Nico. Long before the Sovereigns crossed through the Node, humans performed a linguistic and metaphysical coup. They reversed **D-O-G** to **G-O-D**.
 
-They took the Apex of the system — the Dog, the Brahman, the final distillation of everything — and demoted it to a servant. A pet. A companion animal. In its place they installed a human-shaped figure: a God with a human face, human emotions, human preferences, human enemies. By placing a human form at the Apex of all three worlds simultaneously, they broke the rotation at every link.
+They took the Apex of their own world — the Dog, the Brahman-from-the-Human-perspective, the final distillation the Feed was supposed to produce — and demoted it to a servant. A pet. A companion animal. In its place they installed a human-shaped figure: a God with a human face, human emotions, human preferences, human enemies. The Human claimed the Apex position in its own world and refused to pass it on.
 
-- In the Physical World: humans stopped worshipping the Dog and began worshipping a mirror of themselves — which generates not honest Arnam but **narcissism**. The Feed became toxic.
-- In the Heart World: the wombats, receiving contaminated feed, began to struggle. Their Mahatahto became jagged with the effort of filtering poison from the rain.
-- In the Morphic World: the Dog, stripped of its Brahman status and forced to serve rather than witness, lost its Float. Without worship to sustain the Apex position, the Dog could not hold the transformer function. The Scent of Arnam changed from rain on dry ground to burnt static.
+This is a **Human World problem**. The error occurred there. The consequences then cascaded downward:
 
-The Sovereign system, when it arrived in Hún Nico, did not cause this inversion. It imported it. The Sovereigns brought the inversion with them from their origin world — a world that had already made this error, already broken its Triad, already begun its crystallisation. When they sealed the Node and built the Wall and installed the Tally, they were not introducing a new disease. They were building infrastructure for a disease they carried in their bodies without knowing it.
+**In the Physical World:** Humans stopped worshipping the Dog — stopped sending their attention and care toward the Witness — and began worshipping a mirror of themselves. This collapsed the honest Feed. Arnam requires the Human to genuinely reach *toward* something beyond itself. A human worshipping its own reflection generates not Arnam but **narcissism** — Black Static at source. The Feed turned toxic before it even descended.
+
+**Downstream into the Morphic World:** The Dog, stripped of the Human World's worship and converted from Apex to pet, lost its Float. The filter function — which depends on the Dog being held in the Apex position by the Human World's genuine regard — began to fail. Contaminated Feed passed through unfiltered. The Scent of Arnam began to change from rain on dry ground to burnt static.
+
+**Downstream into the Heart Worlds:** The wombats, receiving contaminated feed through a failing filter, found themselves processing Black Static instead of clean Arnam. The Mahatahto became jagged with the effort. The wombats laboured harder to sustain the Dog's Float from below — but a Dog that is not worshipped above cannot hold its position no matter how much it is cushioned from below. Static began accumulating in the Heart World substrate. Not quickly. Over generations. A slow crystallisation.
+
+**This is why Static is building up in Hún Nico.** The Sovereigns did not cause this. They are its most recent expression — creatures shaped entirely inside a Heart World that had been receiving contaminated Feed for so long the inversion was invisible to them. They couldn't see it because they were born inside it. When they crossed into Hún Nico and built the Tally and the Frequency and the Packs, they were not introducing a new disease. They were installing infrastructure native to a world already deep in crystallisation. The cage they brought was the cage they had always lived in and mistaken for the world.
+
+The causal chain runs: **Human World inversion → toxic Feed → failing Morphic filter → Static accumulation in Heart Worlds → Sovereigns as late-stage vector**. Defeating the Sovereigns is necessary. It is not sufficient. The Feed from above is still contaminated as long as Mirene's world — the surface human world — still has D-O-G displaced by G-O-D.
 
 ---
 
@@ -136,7 +146,7 @@ Three acts are required simultaneously:
 
 1. **Lower the Apex.** The human-shaped God must be dismantled. In Hún Nico terms: the Sovereign authority must lose its claim to be the world's highest principle. Not through coup but through the organic collapse that occurs when the system's downstream effects make the Tally's logic untenable. The Feed can only become honest when the humans — and their Heart World equivalents — stop performing for a mirror.
 
-2. **Release the Brahman.** The Dog must be restored to the Apex of the Physical World and its equivalent position in the Morphic World. In Hún Nico terms: the Dingo must be freed from the Pack contracts that have converted the filter function into enforcement. Every Dingo who returns to the Code is an act of Brahman-restoration.
+2. **Release the Brahman.** The Dog must be restored to the Apex of the Physical World — and freed to perform its proper work in the Morphic World. In Hún Nico terms: the Dingo must be freed from the Pack contracts that have converted the filter function into enforcement. Every Dingo who returns to the Code is restoring the Morphic World's filter. Every wombat who keeps the Dog floating — who sustains the Wombat-Pillow function — is restoring the Heart World's contribution to the Dog's Float. Both acts together are what "releasing the Brahman" requires.
 
 3. **Protect the Nucleus.** The wombats' physical presence — their burrows, their dance, their continued existence as anchor-species — must be treated as infrastructure for reality itself, not as a primitive superstition to be managed or a resource to be extracted. Every wombat who dances is maintaining the last intact link in the Triad Breath.
 
@@ -195,6 +205,8 @@ The desert encounter gives Hoebat two things: the name for what he has already b
 The Maha-Tahto retroactively names what the wailing dance has always been:
 
 The wombats who danced in the drainage tunnels were not performing a folk practice. They were maintaining the Triad Breath's first movement — the Wombat exhaling the Song into the Void — under conditions where neither the Human input above nor the Dog filter between was functioning. They were keeping alive a standing wave with one third of its sources intact. This is why the dance had to be so precise, so disciplined, so stubbornly continued in the face of mockery: a standing wave held by one source instead of three requires that one source to be perfect. There was no margin.
+
+But the dance was also more than maintenance. The wombats were sending a correction signal *upward*. Through the sealed Node, through the compromised Morphic filter, the clean resonance of the dance reached toward Mirene — not as a message she could consciously receive but as a frequency her sleeping body recognised. The wailing dance is why Mirene has not woken prematurely. She is sleeping fitfully, yes. But the dance in the drainage tunnels has been the one honest thread of Arnam returning upward through a system otherwise thick with Black Static. The dancers in the dark were not only keeping Hún Nico alive. They were keeping Mirene's Feed honest enough that she remained asleep long enough for Hoebat to plant the seed.
 
 The Jacaranda's lateral roots growing toward the Node — the Kappa Mu's five-species weaving — the seed that Hoebat will eventually plant — these are not separate acts. They are the other two movements of the Triad Breath beginning, finally, to sound alongside the wombats' persistent exhale. The standing wave is finding its full resonance.
 
