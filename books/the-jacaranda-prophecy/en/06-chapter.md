@@ -7,54 +7,56 @@ Cross-section of Melborow underground: above, the grid-tunnel academy corridors 
 
 ### The One Who Waited
 
-My father never ran out of stories. Just when I thought I'd heard them all — the Digger Who Went Too Deep, the Clay That Remembered, the Inspector's Shadow — he would produce another, seemingly from nowhere, as if the earth itself whispered them to him in his sleep.
+My father never ran out of stories. Just when I thought I'd heard them all — the Digger Who Went Too Deep, the Clay That Remembered, the Inspector's Shadow — another would arrive. Settle in like a wombat who's been walking for a long time and has finally decided this is the right door.
 
 I was eleven, on the edge of my Academy years, when he told me the second story about the Dust-Bearers.
 
-It was evening in the Groves, the kind of tired evening when the city felt too close and the eucalyptus wasn't moving enough to clear the air. He'd made tea and sat at the burrow's entrance, looking at the clay wall instead of the trees — at the paw-prints in it, the history pressed there by generations of digging. I recognized the posture. The storytelling posture.
+Late evening, the kind where the city felt close and the eucalyptus was barely moving. He'd made tea and sat looking at the burrow wall instead of the trees — at the paw-prints pressed into the clay there, the history of everyone who'd built this place and come back to it. I knew that posture.
 
-"You have asked me about the Dust-Bearers twice now," he said. "I will tell you a second story. Whether it is the same story or a different one, I leave to you to determine."
+"You've asked me about the Dust-Bearers twice now," he said. "I'll tell you a second story. Whether it's the same story or a different one: that's yours to figure out."
 
-He didn't look at me. He never looked at me when he was telling important stories. He looked at the clay, at the tea, at distances.
+He didn't look at me. He never did, on the ones that mattered.
 
-"There was a Dust-Bearer whose name did not survive. The guild stopped keeping records of our kind two generations before she worked—our kind, I say, though I was never so brave as this one. What remains is an account written by a colleague, forty years after the fact, found in an estate clearance, passed through three pairs of paws before it reached mine."
+"There was a Dust-Bearer whose name didn't survive. The guild stopped keeping records of our kind two generations before she worked — *our kind,* I say, though I never had the nerve this one had. What remains is a colleague's account written forty years after the fact, found in an estate clearance, passed through three pairs of paws before it reached mine. Each pair passed it because each pair knew it was worth passing."
 
-His voice lowered, not dramatically, but into the register he used when the story required intimacy. I pressed my paws against the floor and listened.
+His voice dropped into the intimacy register.
 
-"She was hired to assess a tunnel section in what was then the new deep grid—an expansion bore, green, the Grout not yet fully set. She arrived. She sat down on the floor. And she did not move."
+"She was hired to assess a new expansion bore. Fresh section in what was then the deep grid's growing edge — sealant not yet fully set, the ground still working out what it thought of the new corridor. She arrived at the start of the morning shift."
 
-He sipped his tea. I watched the steam rise in the cooling air.
+He sipped his tea.
 
-"The foreman checked on her at midday. Still sitting. He checked again at the end of the shift. Still sitting. He assumed she was broken—bad hire, strange wombat, not worth the rate. He went home."
+"She sat down on the floor. And she did not move."
 
-Outside, the trees moved. Cornelibat watched them.
+I pressed my paws flat and waited.
 
-"She sat for three days. On the fourth, she stood, took one paw-width off the eastern lining in a section already signed as complete, and redirected the bore by four degrees north. The foreman documented his objection. The change was made anyway—she had the guild authorization, you see, though I do not know who in the guild was wise enough to give it."
+"The foreman checked at midday: still sitting. End of shift: still sitting. He filed her as a problem — bad hire, strange wombat, not worth the day-rate — and went home." Cornelibat turned the cup in his paws. "She sat through the night. She sat through the next day. On the morning of the fourth day, she stood up, walked to the eastern lining in a section already certified and signed off, and removed exactly one paw-width of material from its inner face. Then she told them to redirect the bore four degrees north."
 
-He paused longer than usual. I waited. I'd learned this about his stories—they ended when they ended, not when the listener expected resolution.
+The eucalyptus moved. Barely.
 
-"Six months later, the original line would have intersected a salt intrusion they had not mapped. It would have eaten through the Grout in two years. Cost the project three times what the whole bore had cost."
+"The foreman documented his objection in three places. But she had guild authorization — I still don't know who in the guild was wise enough to give it — and the bore shifted four degrees north."
 
-He turned the tea cup in his paws.
+He was quiet long enough that I thought the story had ended.
 
-"She charged for three days' sitting and four degrees of correction. The guild tried to reclassify the sitting as non-billable. She appealed."
+"Six months later, where the original line would have run: a salt intrusion nobody had mapped. The kind that eats through sealed walls in two years and leaves a compromised section degrading quietly for twenty more. The kind that costs three times the project budget to remediate, once someone finally admits the problem was there the whole time."
 
-Silence. The first light was coming through the stringybark.
+Silence. Long enough to feel its shape.
+
+"She charged for three days' sitting and one paw-width of correction. The guild tried to reclassify the sitting as non-billable. She filed the appeal herself."
 
 "Did she win?" I asked.
 
-Cornelibat looked at his tea, not at me.
+Cornelibat looked at his tea. Not at me.
 
-"I do not know. But the tunnel held."
+"I don't know. But the tunnel held."
 
 <!--
 IMAGE PROMPT 1: The Second Story
-Evening in the burrow. Cornelibat with his tea, tired, telling the second story. Hoebat older now — eleven, twelve, at the edge of the academy years. The eucalyptus outside, familiar and constant. The story takes shape in the air between them: a Dust-Bearer in an old tunnel, sitting in the dark, refusing to dig until the earth had finished speaking. Not meditating — waiting. The way you wait for a crack to show you where it's going before you touch it. Style: intimate evening, older child listening, the patience of the old method.
+Evening in the burrow. Cornelibat with his tea, tired, telling the second story. Hoebat older now — eleven, twelve, at the edge of the academy years. The eucalyptus outside. The story takes shape in the air between them: a Dust-Bearer in an old tunnel, sitting in the dark, refusing to dig until the earth had finished speaking. Not meditating — waiting. The way you wait for a crack to show you where it's going before you touch it. Style: intimate evening, older child listening, the patience of the old method.
 -->
 
-I filed the story somewhere in the back of my head next to Morribat and the name Hangbat and the quality the earth had under my paws when I pressed them flat in the dark.
+I filed that story in the back of my head beside Morribat and the name Hangbat and the quality the earth had under my paws when I remembered to stop arguing with it.
 
-What I didn't understand yet was that the Dust-Bearers weren't just listeners. They were makers too.
+What I didn't understand yet was that the Dust-Bearers weren't just listeners. They were makers too. They sat in the earth until the earth told them what to build, and then they built it. The sitting was only half the work.
 
 ---
 
@@ -65,17 +67,13 @@ IMAGE PROMPT 2: The Commute Sequence
 The daily journey from Groves to Sector 7 Academy: a series of three panels. First: Hoebat in the Groves margin, clay smell, real air. Second: the Wet Bend, condensation dripping, the one place in the grid you can smell moisture. Third: the academy entrance, Grout-sealed, formula-straight, perfectly lit. The physical contrast of each environment visible in the surfaces, the air quality, the body posture. Hoebat the same in each — paws against the ground when possible, noting the change. Style: transition sequence, contrast, sensory detail.
 -->
 
-The Sector 7 Academy accepted me at ten, technically, and I started at eleven because Agathaboo felt I needed one more year of the clay before the formula. She was right. I didn't know that at the time and told her so at length.
+The Sector 7 Academy accepted me at ten. Agathaboo made me wait a year — one more year of clay before formula. She was right. I argued at length the entire time.
 
-The commute was thirty minutes each way, same route every day until it became the only version of Melborow I knew: out of the Groves, through the margin where the smell changed from eucalyptus to condensation, into the Wet Bend where water pooled in the invert without a service charge — one of the last honest places in the city — past the North-West Corridor with its broken lights and its compromised springline that the Council had been noting in quarterly reports since before I started school.
+The commute was thirty minutes each way. Same route every day until the route became the architecture of my thinking: out of the Groves, through the margin where the smell shifted from eucalyptus to condensation, into the Wet Bend where water pooled in the invert without a service charge — one of the last honest corners of Melborow — past the North-West Corridor with its dead lights and its Category 2 flag, same flag every quarter for as long as I could remember, a small yellow notation on the wall that I walked past so often it had become part of the corridor the way the lights were part of the corridor, a feature rather than a message.
 
-The springline flag was Category 2. I read the reports in the academy library once I was old enough to find them. Category 2 required quarterly monitoring. Category 1 required emergency repair. The category never changed. I walked past that springline five days a week for four years and it stayed at Category 2 the way some things stay at Category 2 forever, right up until they don't.
+Academy classrooms: Safety Grout Geometry, Static-Logic, the official view. The earth is inert material. A problem to be solved by correct application of formula. The instruction continued above the clay floors as if the clay were beside the point — as if the hum I felt through my paws when I pressed them flat was noise to filter rather than information to receive.
 
-Safety Grout Geometry. Static-Logic. The official position: the earth is dead material. Inert. A problem to be solved by correct application of formula.
-
-I sat in the back with my paws on the floor. The substrate hummed under the Grout — a different quality than the Groves, compressed, distant, like hearing a conversation through a wall. The curriculum continued above it, as if the earth wasn't there. As if the hum was interference to be filtered out rather than signal to be heard.
-
-I thought of Cornelibat's stories — the ones about wombats who listened, who waited, who knew the earth was alive beneath their paws. The Tunnel That Breathed. The Clay That Knew Its Name. I pressed my paws harder against the floor and listened anyway, storing the hum in my memory like one of my father's stories, to be unpacked later when I had the words.
+I pressed them flat anyway. Stored the hum in my memory the way I stored Cornelibat's stories — without words, to be unpacked later when I had the language for it. Under all that Grout the hum was different than the Groves. Compressed. Patient in a different way — the patience of something that has been waiting a long time and has learned to wait without urgency, because urgency is a surface quality, and this was very deep.
 
 ---
 
@@ -86,27 +84,31 @@ IMAGE PROMPT 3: Barnabat
 Barnabat — a young wombat, bright-faced, already showing the particular confidence of someone who has found the angle in the system. He and Hoebat sit together in the back of an academy classroom, Hoebat's paws on the floor, Barnabat's paws occupied with a stylus he's spinning. The instructor at the front with a formula on the board. Barnabat watching Hoebat with curiosity rather than mockery. The beginning of a friendship. Style: classroom scene, back-row solidarity, character dynamic, two approaches to the same world.
 -->
 
-Barnabat sat next to me starting in the second week, after the kid who'd originally taken that seat transferred to Sector 4 and left a gap. He slid in and watched me press my paw to the floor for thirty seconds, then said: "Does it tell you anything useful?"
+Barnabat took the seat next to mine in the second week, after the original occupant transferred to Sector 4 and left a gap. He watched me press my paw to the floor for thirty seconds, then said: "Does it tell you anything useful?"
 
 "Sometimes."
 
 "Like what?"
 
-"Where the water wants to be. Whether the wall's decided yet."
+"Where the water wants to be. Whether the wall's made up its mind."
 
-He thought about this. "Decided what?"
+"Made up its mind about what?"
 
 "Whether it's going to hold."
 
-He was quiet for a moment. Then: "Can you teach me?"
+He thought about this. Then: "Can you teach me?"
 
-"No," I said. "You have to figure out what you're listening for first."
+"No. You have to find out what you're listening for first."
 
-He tried it the next day. Pressed his paw to the floor in the corridor, looked at the ceiling, announced that he felt nothing. I told him that was correct and he'd learn to work with that.
+He tried the next day — pressed his paw to the corridor floor, stared at the ceiling, announced he felt nothing. I told him that was correct and he'd learn to work with that. He looked at me with the expression of someone who can't tell if they're being mocked and has decided, provisionally, to assume they're not.
 
-This was the beginning of a friendship. I am trying to remember it accurately, without the editing that the later thing does to the earlier thing. Barnabat was good. He was smart, funny, genuinely curious about what I was doing — not performing curiosity, actually curious. He was also practical in a way I respected: he understood the system we were in and was already thinking about how to move through it with minimum friction. He wasn't cynical about it. He just had his eyes open.
+That assumption was the beginning of what we had.
 
-His father was a senior Tally-Assessor at the Cathedral — not Cathedral Council, not quite that high, but the kind of position where the family name was part of the credential. The kind of position that a scandal could damage without touching the man directly, the way water damages foundations without ever appearing on the surface.
+Barnabat was good. Smart. Genuinely funny. Curious in a way that wasn't performed — actually curious, the kind where you've stopped needing things to come out a specific way before you're willing to look at them. He moved through the Academy the way experienced wombats move through complex ground: aware of every surface, never surprised by the terrain.
+
+His father was a senior Assessor at the Cathedral — not Cathedral Council, but close enough that the family name was current tender in every administrative conversation in the sector. The Cathedral reviewed work that carried that name differently. It received a fair hearing, a thorough examination, the benefit of all reasonable doubts. Projects under his family's shadow existed in a kind of protected territory — not because rules were bent, but because the name itself meant the work was taken seriously, treated as legitimate inquiry from serious people.
+
+When I told Barnabat about the drumming pot, the first thing he said was: "We document it properly and I put my father in the acknowledgments. The Pre-Grid Studies department hasn't had a primary source submission in four years."
 
 ---
 
@@ -114,126 +116,87 @@ His father was a senior Tally-Assessor at the Cathedral — not Cathedral Counci
 
 <!--
 IMAGE PROMPT 4: The Drumming Pot Discovery
-An old diagram or artifact in the Academy library: a cross-section of a Dust-Bearer drumming pot, the kind used to send signals through the earth before the Grid's communication infrastructure. The pot is wide-mouthed, thin-walled, designed to couple with substrate resonance. A note in the margin: "Pre-Frequency communication method. Superseded by Cathedral protocols." Hoebat's paw on the page, Barnabat looking over his shoulder. The pot's design clearly related to Morillaboo's singing bowls, but older, more utilitarian. Style: discovery scene, library research, historical artifact, the Old Way visible in documentation.
+An old diagram in the Academy library: a cross-section of a Dust-Bearer signal pot, the kind used to send signals through the earth before the Grid's communication infrastructure. The pot is wide-mouthed, thin-walled, designed to work with the clay around it. A note in the margin: "Pre-signal communication method. Superseded by Cathedral protocols." Hoebat's paw on the page, Barnabat looking over his shoulder, his expression already calculating the formal submission structure. Style: discovery scene, library research, historical artifact, the Old Way visible in documentation.
 -->
 
-The drumming pot appeared in the Academy library's Restricted Stacks by accident. I wasn't looking for it — I was looking for the reports on the North-West Corridor springline, and the file had been mis-shelved.
+The drumming pot found me. I wasn't looking for it — I was looking for the North-West Corridor structural reports in the Restricted Stacks, professional curiosity, and someone had mis-shelved a technical drawing that didn't belong there. I found it before anyone noticed it was findable.
 
-It was an old technical drawing: *Dust-Bearer Signal Apparatus, Type VII.* The annotation below was in a High Auditor's hand, dated forty years ago: *Superseded by Frequency communication protocols. Obsolete.* The page had a Restricted stamp across it, but someone had left it in the wrong drawer and I found it before anyone noticed.
+*Dust-Bearer Signal Apparatus, Type VII.* A High Auditor's annotation at the bottom, dated forty years ago: *Superseded by Cathedral communication protocols. Obsolete.* A Restricted stamp across the top.
 
-The drawing showed a pot — not a cooking pot, something else. Wide-mouthed, thin-walled, clay-fired with specific internal geometry. The annotation explained: *Struck with padded striker, couples vibration to substrate. Range: variable, dependent on clay composition. Pre-Frequency communication method.*
+Wide-mouthed. Thin-walled. Clay-fired. Internal curves built for one purpose: to send a struck vibration into the earth around it and let the earth carry it further than sound could travel through air. *Struck with padded striker, vibration travels through clay composition. Range variable by material. Pre-protocol communication method.*
 
-I knew what I was looking at. I'd seen Pellaboo's mother make bowls that coupled with the earth's resonance. This was the same principle, applied to communication. The Dust-Bearers hadn't just listened to the earth. They'd spoken through it.
-
-I remembered what Cornelibat had told me: "The Wail is what happens when many bowls sing together. When the resonance couples — when the vibrations find each other through the substrate — something happens. The earth listens back."
+I knew what I was looking at. I'd spent years in Morillaboo's workshop watching her bowls make the clay walls answer. This was older — the same knowledge applied to distance. The Dust-Bearers hadn't just listened to the earth. They'd spoken through it.
 
 Barnabat found me staring at the drawing. "What is it?"
 
-"Drumming pot," I said. "Pre-Frequency. They used these to send signals through the substrate. Before the Cathedral's communication infrastructure."
+"Signal pot. Pre-protocol. They sent messages through the clay."
 
-He looked at the drawing. "That's illegal technology."
+He leaned in. His reading posture was different from his listening posture — the stylus stopped spinning, the head came slightly forward, everything focused. "Where does it transmit to?"
 
-"It's obsolete technology. There's a difference."
+"Anywhere there's another pot. Anywhere with clay that carries."
 
-"Not in the Tally codes." But he was looking closely, curious despite himself. "How does it work?"
+"Can we build one?"
 
-"The pot couples vibration to the substrate. Strike it, the vibration travels through the clay. Other pots pick it up. Range depends on the earth's composition — some clays carry it further than others."
+"Pellaboo's mother makes something close. Her bowls couple with the clay the same way."
 
-"That's not in any of the resonance courses."
+He looked at the drawing for a long time. "This isn't in any pre-Grid studies course. Not even the advanced elective." He looked at me. "How much of this is documented?"
 
-"No."
+"None of it. The Academy's collection doesn't have any primary source material on Dust-Bearer acoustic practice. Everything they have is Cathedral-era, post-suppression."
 
-Barnabat was quiet for a moment. Then: "Can we make one?"
+Barnabat set down his stylus entirely. A decision had been made somewhere behind his eyes.
 
-I looked at him. He had that expression — the one he got when he'd found an angle in the system, a space between the rules where something interesting might fit.
+"My father," he said, "has access to the pre-Temporal Cropping survey maps. There are notations on them — he mentioned them once when I asked about the Dead Zones under the academy. *Anomalous crystalline formations.* Cathedral flagged them Category 1 Restricted and wrote them off. But they're still there." He looked at the drawing again, then at me. "If we could reconstruct a functioning pot — test it, document it, demonstrate the acoustic coupling — that's a first. That's not just an academic submission. That's a guild-certification piece of work."
 
-"The Academy doesn't teach clay-work."
+"The Pre-Grid Studies department—"
 
-"Pellaboo does. Her mother does." He leaned closer to the drawing. "If we could build one, test it... that's not illegal. That's experimental archaeology. The Academy loves experimental archaeology."
+"Would give us the presentation slot of the year. My father would review the submission personally." He picked up his stylus. "We'd need the crystal material. We'd need Pellaboo. We'd need Tallibat's boring equipment for the Dead Zone access." He was already writing. "And we'd need to be very precise in how we describe the methodology. *Experimental reconstruction of pre-Frequency acoustic communication methods using historically documented materials.* Nothing there that isn't accurate."
 
-"The Academy loves experimental archaeology that confirms their existing theories."
+I looked at him. He looked at me.
 
-"Then we don't tell them what we're testing." He grinned — the Barnabat grin, bright and dangerous and completely sincere. "We tell them we're studying substrate acoustic properties. Which is true. We just don't mention the part where we're using methods the Cathedral classified as obsolete."
-
-That was how it started. Not with rebellion. With curiosity. With the desire to make something that worked — really worked — using the earth's own voice instead of the Frequency's imposed signal.
+"We're going to be famous," he said, without a trace of irony. "Academically famous. Which is the best kind."
 
 ---
 
-### The Resonance Club
+### Into the Dead Zones
 
 <!--
 IMAGE PROMPT 5: The Secret Workshop
-Four young wombats in a hidden room below the Academy's maintenance level. Tallibat working with clay, his paws still awkward with the material but learning. Pellaboo guiding him, showing how to feel the wall thickness. Barnabat documenting everything in his field book. Hoebat holding a half-finished bowl, testing its resonance with a striker. Clay dust in the air. The bowls on a rough shelf — some cracked from failed firings, some holding their shape. The drumming pot in the corner, still unfired, waiting. Style: secret workshop, juvenile craft, the Old Way being rediscovered, underground intimacy.
+Four young wombats in a hidden room below the Academy's maintenance level. Tallibat working with clay, his paws still awkward with the material but learning. Pellaboo guiding him, showing how to feel the wall thickness. Barnabat documenting everything in his field book. Hoebat holding a half-finished bowl, testing its voice with a striker. Clay dust in the air. The bowls on a rough shelf — some cracked from failed firings, some holding their shape. The signal pot in the corner, still unfired, waiting. Style: secret workshop, juvenile craft, the Old Way being rediscovered, underground intimacy.
 -->
 
-We needed materials.
+We needed clay that wasn't the Academy's processed, stripped, standardized material — the kind that had been refined until it behaved correctly in every test and communicated nothing except what it had been engineered to communicate. Pellaboo's mother got her clay from the Groves pre-formation stock. But the Groves was thirty minutes each way and the logistics of four Academy students carrying bags of raw earth through the maintenance tunnels were, Barnabat said, *unnecessarily complicated given that we have a more historically appropriate source directly below us.*
 
-Not the Academy's clay — that was processed, standardized, stripped of variation. Pellaboo's mother got her clay from the Groves margin, the pre-formation substrate that the Council's assessment models called "undervalued." But the Groves was thirty minutes each way, and we couldn't explain why four Academy students needed bags of raw clay.
+The Dead Zones.
 
-Tallibat found the solution. His father had access to the old survey maps — pre-Temporal Cropping, pre-standardization, from when the Grid was first being planned. The maps marked something called "anomalous crystalline formations" in the sectors below the Academy. The Cathedral had classified them as Category 1 Restricted: "naturally occurring resonance materials, uncontrolled frequency output, do not develop."
+The service access was a panel in the sub-level corridor, behind a utility bracket, that the maintenance schedule had stopped visiting once the sections below were classified as abandoned territory. Nobody had locked it. There had been no reason to lock it. The Dead Zones were Category 2, monitored but not maintained, and the assumption was that what was down there was nothing worth the effort of a locked door.
 
-"They're beneath the Dead Zones," Tallibat said, spreading the map in our hidden workshop. "The Temporal Cropping already wrote off those sections. No lights, no maintenance, no Tally-value. But the crystal deposits are still there."
+Three levels below the academy campus, the air changed quality.
 
-"You want us to dig in the Dead Zones," Barnabat said.
+Not colder — though it was cooler, the temperature falling a degree or two below the grid's regulated warmth. More than temperature: a stillness that was not the absence of movement but the presence of age. The specific patience of earth that had been waiting in the dark for longer than anything above it had been waiting for anything. Tallibat's lamp made a small circle of knowing in that patience. Beyond its edge the dark was complete in a way that grid-tunnel dark is not — this was the dark that had never been interrupted, that had been dark before there were eyes to fail in it.
 
-"I want us to build instruments. Real ones." Tallibat's voice had that quality it got when he was certain about something — the same certainty he'd had about formula-straight digging, but now pointed in a different direction. "The Cathedral's alloy bowls ring at one frequency. Morillaboo's bowls ring in harmonic series. The Dust-Bearers' drumming pots coupled to the substrate itself. What if we could combine those? Singing bowls made from resonance-crystal clay, tuned to the earth's actual frequencies?"
+The tunnels here were shaped by old paws, not boring machines. You could read this in the walls: the slight unevenness of the surface, the way the profile varied with the decisions of whoever had been digging, the places where the tunnel bent around a change in clay composition rather than cutting through it. These were the decisions of wombats who had been listening to the earth rather than imposing a plan on it. The decisions were still there in the walls, precise and legible, the way a note pressed into wet clay stays in the fired pot. Someone had been reading this earth — had been reading it carefully, attending to what it wanted to say — long before anyone built an academy above it.
 
-"For what?" I asked.
+We found a workshop space in the third session: a chamber where two old tunnels met at an angle that created a natural alcove, walls thick enough to deaden the sound from above. Barnabat surveyed it with the meticulous eye he brought to every problem, measured its dimensions, noted the clay composition in his field book. *Pre-formation clay, dark blue, exceptionally stable.* His notes ran to three pages before we'd put anything down.
 
-"For the Wail."
+"Morillaboo should be cited in the methodology," he said, setting up the portable kiln. "Independent practitioner, Eucalyptus Groves margin. And I want a full acoustic properties appendix — we test every bowl we make against the tunnel walls, document the harmonic series, compare it to the alloy bowl specifications."
 
-We all looked at him.
+"The Cathedral won't like the comparison," Tallibat said.
 
-"You know about the Wail," he said. "Everyone knows about the Wail."
+"The Cathedral doesn't have to like it. They have to acknowledge it." Tallibat had developed a specific quality since his conversion in Morillaboo's workshop — a focused certainty, pointed now toward something rather than away from it. "Their alloy bowls replaced this technology. If we demonstrate that the replaced technology was more sophisticated than what replaced it, that's a finding. The Pre-Grid Studies department is *required* to publish findings."
 
-The Wail was the Dust-Bearers' ceremony — or that's what the Academy called it. *Pre-scientific ritual practice.* What it actually was, according to Cornelibat's stories, was a gathering where wombats made instruments from earth-materials and played them together, the sounds coupling through the substrate, creating something larger than any individual voice.
+Pellaboo was already working. She'd brought Groves clay for the early sessions — four bags, carried one at a time over four days, each described to the dormitory corridor as *personal effects.* She shaped the first bowl without measuring anything, her paws knowing what they were looking for. The rest of us watched. There was something in the watching that felt like attending to something important — the way you watch when you understand, even if you couldn't articulate it, that the thing being done is being done by someone for whom it is completely natural, and that the naturalness itself is information.
 
-"The Wail isn't real," Barnabat said. "It's mythology."
+Tallibat brought his boring-probe. But he was running the dig by Pellaboo's sense of the clay now, not the formula, not the chalk lines. He'd bring the probe to a wall, and he'd wait.
 
-"Morillaboo's bowls are real," Tallibat said. "The drumming pot in the drawing is real. The Wail was real too — it was just technology the Cathedral didn't understand, so they called it ritual."
+"Crystal forms in pockets," she told him, running her paw along a section of tunnel. "Denser clay, colder. You can feel the earth holding something." Her paw moved in small arcs. "There. The cold changes there."
 
-He was right. I knew he was right because I'd felt it — in Pellaboo's workshop, when her mother's bowl sang and the walls answered. The coupling was real. The earth responded to specific frequencies, specific materials, specific geometries. The Dust-Bearers had understood this. The Cathedral had replaced it with Frequency — one signal, standardized, imposed from above.
+He pressed his paw beside hers. Waited.
 
-"We'd need resonance-crystal," Pellaboo said. "For the bowls to really sing. Clay is good, but crystal couples better."
+"I feel it," he said, and he sounded genuinely surprised every time, as if each discovery was new evidence for something he'd decided to believe but still couldn't quite credit.
 
-"The Dead Zones have it," Tallibat said. "The old survey maps show deposits. The Cathedral sealed the records because they couldn't control it."
+Barnabat documented everything in precise cipher — not to hide it, he said, but for elegance, and because a submission with a methodology section that demonstrated we'd kept private research records would look better than one that hadn't. *We're establishing scholarly provenance,* he said. *The documentation trail is part of the argument.*
 
-"We'd be digging in restricted territory."
-
-"We'd be doing experimental archaeology," Barnabat said, with that dangerous grin. "Studying pre-Frequency resonance methods."
-
-That was how we justified it. That was how we made it safe in our heads — four students, fifteen years old, about to risk expulsion for clay and crystal, telling ourselves it was research.
-
-It was more than that. It was the first time any of us had wanted to make something that wasn't for the Tally.
-
----
-
-### The Dead Zones
-
-<!--
-IMAGE PROMPT 6: The Secret Club Digging
-Four young wombats in the Dead Zone tunnels below the academy. Dark, unlisted, Temporal Cropping already withdrawn the lights. They dig by feel — no boring-probe, no chalk lines, no formula. The tunnels curve because they follow the earth. Tallibat working alongside Pellaboo, both careful, both learning. Barnabat and Hoebat in the background, one documenting, one listening to the clay. The other two in the background. The textures: clay walls, organic curves, the rough surfaces of real digging. Not clean, not efficient. Holding. Style: underground adventure, juvenile craft, organic space, low light from handheld lamps, camaraderie.
--->
-
-The Dead Zones were the sections the Council's Temporal Cropping had already written off — no lights, no maintenance schedule, no Tally-value. The academy's building sat above a section that had been unmapped since before the current administration. Three levels below the main campus: tunnels shaped by paws, not bored by machine. Old.
-
-We met there twice a week after hours. Four of us — me, Barnabat, Tallibat, and Pellaboo.
-
-Tallibat brought his boring-probe, which was better equipment than anything the rest of us had, but he used it differently now. Before, he'd run it by the formula — systematic, grid-correct. Now he let Pellaboo guide him. She couldn't explain how she knew where the clay would hold, but she knew, and Tallibat was learning to trust that knowing even when it contradicted his measurements.
-
-"The crystal forms in pockets," she said, running her paws along a tunnel wall. "You can feel it. The clay gets denser. Colder. The earth is holding something there."
-
-Barnabat documented everything. Not for the Tally — his notes were in a private cipher, code we'd developed so that if anyone found them, they wouldn't understand what we'd been doing. *Project Resonance,* he called it in the headers. *Substrate Acoustic Properties.*
-
-It was a good crew. I want to say that plainly. Before what happened, it was a genuinely good crew.
-
-Tallibat and Pellaboo found each other in the usual way — which is to say nobody noticed it happening until it had already happened, and by then it was just a fact of the tunnels, like the mineral smell and the specific dark that doesn't have any light to apologise for. She'd tilt her head north when she was thinking, and he'd adjust his tunnel angle to match her sense of direction without either of them discussing it.
-
-We went deeper each month. Each session ended a little further in than the last, the earth kept being there to dig, and I was fifteen and it was the best thing in my life.
-
-Barnabat got better at it than he thought he would. He never heard the hum the way I heard it — some wombats don't — but he developed a feel for when the clay was holding crystal. He could run his paw along a wall and tell you where to dig, not from sound but from texture, from the way the material responded to pressure.
-
-The tunnels smelled of real clay. That mineral cold.
+It was four of us, twice a week, going deeper each session. Good work. Real work. The kind you feel in your paws as something that matters, not because someone told you it matters but because the earth under you is three hundred years old and giving up its secrets in small careful increments and you are learning, incrementally, the language in which it speaks.
 
 ---
 
@@ -241,22 +204,32 @@ The tunnels smelled of real clay. That mineral cold.
 
 <!--
 IMAGE PROMPT 7: The Crystal Discovery
-The four students in a newly opened pocket of the Dead Zones. A small chamber lined with resonance-crystal formations — dark blue, naturally occurring, clustered against the pre-formation clay. The crystals catch the lamplight differently than normal stone, seeming to hold the light a moment longer. Tallibat reaches toward one, his expression caught between scientific wonder and something like reverence. Pellaboo beside him, already calculating how to extract samples without damaging the matrix. The moment of discovery, the prize they've been seeking for months. Style: discovery, natural beauty, the sought-after material, underground revelation.
+The four students in a newly opened pocket of the Dead Zones. A small chamber lined with crystal formations — dark blue, naturally occurring, clustered against the pre-formation clay. The crystals catch the lamplight differently than normal stone, seeming to hold the light a moment longer. Tallibat reaches toward one, his expression caught between scientific wonder and something like reverence. Pellaboo beside him, already calculating how to extract samples without damaging the matrix. The moment of discovery. Style: discovery, natural beauty, the sought-after material, underground revelation.
 -->
 
-We found the first crystal deposit in month five. Small — just a few formations in a clay pocket, dark blue, nothing like the manufactured resonance alloys the Cathedral used. When struck, they didn't ring clear like the standards demanded. They sang. Harmonics, overtones, the sound opening into itself like Morillaboo's bowls.
+Month five: the first crystal pocket.
 
-"That's not Static," Tallibat whispered, holding a small crystal up to the lamplight. "Look at the grain. The structure. It's—"
+We had gone deeper that session — Pellaboo following a change in the clay that she'd been tracking for two weeks, a slight cooling in the temperature of the walls, a density that spoke to her paws of something gathered and waiting. The lamp's circle moved ahead of us. The old tunnel narrowed, then opened, then narrowed again, and we came around a bend that the original diggers had cut at an angle that had always seemed inefficient until we turned it and understood: they had cut around this chamber, not through it. They had known it was here. They had preserved it.
 
-"Alive," Pellaboo finished.
+The crystal grew in clusters along the chamber's far wall. Dark blue, fractal-edged, the formations repeating their branching pattern at every scale. The lamp's light came into them differently than it came into clay or stone — it went further in, moved slower, emerged changed. Tallibat made a sound I'd never heard from him before. Not a word. Just a sound.
 
-We built our first singing bowl from that crystal. Pellaboo shaped it, using her mother's methods but with this new material. It took three attempts — the crystal was harder than clay, less forgiving. But the third bowl held its shape.
+"It's different," Pellaboo said quietly, her paw not quite touching a formation. "The clay around it is different too. Feel how cold."
 
-When she struck it, the sound was different from anything we'd heard. The crystal coupled with the Dead Zone substrate differently than Groves clay. The vibration traveled further, found harmonics in the tunnel walls that answered back. Not just one frequency — not the Cathedral's 528 hertz 'miracle tone' — but all seven chakra tones singing together: 396, 417, 528, 639, 741, 852, 963. The full spectrum. For a moment, the whole tunnel seemed to breathe with us.
+We all felt. The clay at the crystal's boundary had a quality that wasn't quite texture and wasn't quite temperature — a specific density, as if the earth here was paying attention to itself, holding something, had been holding it in the dark for an amount of time none of us had language for.
 
-"That's the Wail," Tallibat said, quietly. "That's what the Wail was."
+It took Pellaboo three attempts to shape a bowl from the crystal material. The first two cracked in the cooling — the material was harder than Groves clay, less patient of error, requiring a more exact attentiveness in the shaping. She worked slowly, feeling the material rather than forming it, stopping often to run her paw along the emerging wall, reading what it told her. Barnabat documented each attempt with notes so detailed they ran to eight pages. *Attempt 3: wall thickness 4mm at equator, thinning to 2.5mm at rim, exterior surface hand-smoothed with damp clay, firing temperature reduced by judgment.* The notes were a kind of love — meticulous, specific, refusing to generalize what was particular.
 
-We didn't know the half of it.
+The third bowl held.
+
+When Pellaboo struck it the sound moved through the chamber's floor into the soles of our paws, up through the small bones of our feet, and kept going. Not heard first: felt first. The bone receives it before the ear. Then the ear opened to what the bone had already known, and what the ear received was a voice that did not simplify — every part of the crystal bowl's range reaching the Dead Zone clay and the Dead Zone clay reaching back, harmonics answering harmonics, the chamber moving with it the way old earth moves when something speaks to it in its own language.
+
+I was fifteen years old and I was standing in a pre-formation pocket that the old diggers had preserved, listening to a sound that the Cathedral had spent forty years ensuring no one would hear, and what I felt was not rebellion and not transgression — it was recognition. This was what Cornelibat's stories had always been pointing toward. Not a metaphor. A place. This specific dark, this specific cold, this specific bowl.
+
+"That's the Wail," Tallibat said. Barely audible. A recognition.
+
+"The beginning of it," Pellaboo said. "One bowl. We'd need—"
+
+"Documented first," Barnabat said, already writing. His voice had gone to the register he used when he was completely focused — flat, precise, absorbing. "I need measurements of that acoustic response. Every harmonic we can identify. We're going to need a full appendix." He looked up at me over the field book. "Your father's stories about the Dust-Bearers — every one you can remember — I want them in the historical context section. Primary oral testimony from the Groves tradition." He looked back down, writing. "We're going to walk into the Pre-Grid Studies department with a complete reconstruction. Functioning instrument. Demonstrated acoustic coupling. Historical documentation. Oral tradition lineage. Crystal sample analysis." He turned a page. "They're not going to know what to do with us."
 
 ---
 
@@ -267,52 +240,73 @@ IMAGE PROMPT 8: The Springline Fails
 Cross-section of Melborow infrastructure: the North-West Corridor springline at the moment of failure. Water and load redistributing through the grid tunnel network above the Dead Zones. The Grout-sealed sections — rigid, formula-correct — transmitting the shock downward. Below: the curved unauthorised tunnels flexing, absorbing, mostly holding. The thin section where two students were working, visible as the point of failure. The collapse beginning. Style: engineering disaster, cross-section architecture, moment of failure, consequence of neglect.
 -->
 
-The North-West Corridor springline failed on a Tuesday afternoon.
+The North-West Corridor springline failed on a Tuesday afternoon in the sixth month of our work.
 
-Category 2. Quarterly monitoring required. Never escalated. I'd read the flag a dozen times in the library records, noted the date range, done the arithmetic on how long it had been sitting at Category 2 without becoming Category 1. I'd even thought, once, about filing something — an anonymous concern, a note left in the Maintenance Request box that the academy kept in the main corridor, locked, key available from the principal's office during specified hours.
+Pellaboo was shaping the crystal bowl she intended to be the centrepiece of the submission — not the first bowl, not the test piece, but the real one, made with everything the first three months had taught her, walls calibrated to the specific acoustic properties of the Dead Zone crystal, a bowl she said would hold its pitch for longer than any alloy instrument the Cathedral had certified. Tallibat was testing a new crystal pocket in the forward section, measuring its acoustic properties against the pocket we'd already documented. Barnabat was working on the submission structure, the argument running to thirty pages of ciphered notes organized into sections and appendices and a bibliography that included three pre-Temporal Cropping sources he'd found in his father's collection.
 
-I had not filed anything. I was fifteen and had enough sense to know what happened to unnotched wombats who put their name on institutional concerns.
+I'd meant to go forward with Tallibat. Barnabat had a question about the oral tradition section — how to frame Cornelibat's stories as historical evidence without making them sound like mythology — and I'd stopped to look at his draft.
 
-The springline went. The load it had been carrying redistributed through the grid tunnels above the Dead Zones — the Grout-sealed sections, rigid and formula-certified, unable to flex, passing the shock downward the way a struck bone passes vibration to the joint above.
+Ten minutes.
 
-The Old Way tunnels, curved and unlicensed: most of them absorbed it. Imprecision bends where formula shatters.
+There was no warning in the earth beforehand. No change in the quality of the hum, no variation in the temperature of the walls. Whatever the springline had been accumulating in its years at Category 2 gave no outward sign — the earth around us had been patient and still and entirely itself right up until the moment it wasn't.
 
-Tallibat and Pellaboo had gone ahead to the forward section. That was their role — Tallibat testing the new crystal pocket, Pellaboo marking extraction points. They'd pushed further than the rest of us that afternoon, into a section where the earth was shallower above and the spring load had been pressing down longest. I'd meant to go with them. Barnabat had found something in his notes — a correlation between crystal density and substrate resonance — and I'd stopped to look at it.
+The load from above redistributed through the grid sections. The Grout-sealed sections, rigid and formula-certified, passed the shock downward rather than absorbing it. The old tunnels in the Dead Zones, shaped by paws that had followed the earth's own direction, mostly moved and held. But the forward section — the one where the earth above was thinnest, where the spring load had been longest — did not hold.
 
-That was the difference. That was all it was.
+The warning came from ahead. Two voices running toward us.
 
-The forward section took the full load.
+Pellaboo's first, aimed exactly at where she knew we were: *"HOEBAT! BARNABAT! GET BACK!"*
 
-The warning came from ahead. Two voices, running toward the cross-passage they'd mapped three sessions back. Pellaboo's first—higher, carrying the tunnel's acoustics in a way that meant she'd aimed it.
+Then Tallibat: *"THE SPRING! IT'S GOING!"*
 
-"HOEBAT! BARNABAT! GET BACK!"
-
-Then Tallibat, lower, urgent: "THE SPRING! IT'S GOING!"
-
-They were running toward us, not away — sacrificing speed to save us, shouting while they ran. I heard their footsteps, the rhythm of their breathing, the particular weight of their movement on the clay.
-
-Then the geometry shifted.
-
-The sound was not catastrophic. Not an explosion, not a roar. Just the earth renegotiating — the specific acoustic signature of material finding new equilibrium. The forward section where they'd been standing: gone. Buried under the spring's release and the load from above.
+They were running toward us, not away. I heard their footsteps in the clay. The specific rhythm of two wombats at full pace in a tunnel, the breath in it, the weight of them. Then the earth renegotiated — the specific acoustic signature of material finding new equilibrium, one geometry becoming another — and they did not reach us.
 
 They did not make it.
 
-Barnabat was trapped under a collapsed crown section twenty metres behind where they'd been. Not his voice I heard — the earth's translation of his movement. Small, frantic pressure against material that hadn't committed yet to its new geometry.
+Behind me, Barnabat was trapped under a collapsed crown section. Not his voice I heard — the earth's translation of his movement against the new geometry. Small, frantic, alive.
 
 <!--
 IMAGE PROMPT 9: The Rescue
 Hoebat pressing his paws to the collapsed wall, reading the direction of the stress. Dust settling. Faint sounds from the other side. His face — not heroic, not frightened, working. Fourteen minutes. The specific moment before secondary collapse, visible in the wall texture's change. Barnabat's paw visible at the edge of the dig. Style: crisis, craft under pressure, the Old Way applied to an emergency, close detail.
 -->
 
-Secondary shifts still moving. The earth renegotiating.
+Secondary shifts still moving. The earth still deciding.
 
 I put my paws on the collapsed wall and listened.
 
-You have a window in a collapse before the geometry commits. After it commits the earth has decided, and digging against a decision is how you find yourself under the same problem. You read the direction of the stress. Find the place where the material is still making up its mind.
+You have a window in a collapse before the geometry commits. After it commits, the earth has decided, and digging against a decision is how you become part of the problem. You read the direction of the stress. Find the place where the material is still making up its mind.
 
 Fourteen minutes. Barnabat pulled clear. Secondary collapse starting behind us.
 
-I believed, walking out of that tunnel with him on my shoulder, that I had just proven something. The Old Way works — not as philosophy, not as sentiment, but as engineering. I expected to be in trouble for the unlicensed tunnel. I had already worked out, walking, what I was going to say.
+I walked out of that tunnel with him on my shoulder. I was not thinking yet about what had happened to Tallibat and Pellaboo. I was thinking about what I was going to say when we reached the surface, how I was going to explain the work, how the work itself would make everything clear. The documentation was intact — Barnabat's field book, the crystal samples in their cloth wrapping, the submission draft. We had thirty pages of carefully organized evidence. We had a functional instrument and measurements and oral testimony and a historical argument and Barnabat's father's name in the acknowledgments.
+
+I was still thinking in those terms when I reached the corridor outside the Principal's office.
+
+---
+
+### The Corridor
+
+<!--
+IMAGE PROMPT 10: The Corridor
+The corridor outside the Principal's office. Barnabat walking out with his father — the father moving ahead, composed, the posture of someone who has completed a task. Barnabat two steps behind, head down, not quite meeting anything. Hoebat coming from the other direction, still carrying the weight of the tunnel, clay still on his paws. The moment of not meeting eyes — precise, damaging, all the information contained in a posture. Style: betrayal made physical, the space between two people who both know, institutional corridor, wrong light.
+-->
+
+Barnabat came out of the Principal's office as I was walking toward it.
+
+He was with his father. I had never met his father but I knew him by the resemblance — the same quality of moving through institutional spaces as if they had been designed with you in mind, because for some wombats they have been. His father walked with the ease of someone who has just completed a task and completed it correctly. He had his paw briefly on Barnabat's shoulder — not comfort, not pressure. Just placement. *Here. Done.*
+
+Barnabat walked two steps behind him, looking at the floor.
+
+He looked at the floor the way you look at something you have decided to make your entire world for the next ten seconds. The floor had become very important. He studied it with the focused attention he usually brought to his field book, his ciphered notes, the things that mattered enough to document precisely.
+
+I was three metres away. Then two.
+
+His father looked at me — the brief, administrative look of a wombat who has made a decision and has nothing further to discuss. Then he looked past me. They continued down the corridor.
+
+Barnabat did not look up.
+
+I watched his back. The slight tightening across his shoulders. His breathing, which I knew well enough to read from ten metres, told me what his face had not.
+
+I went into the office.
 
 ---
 
@@ -323,30 +317,24 @@ IMAGE PROMPT 10: The Auditor
 The Principal's office. A High Auditor from the Cathedral sits across from Hoebat. Tally-stone in one paw — perfectly clear, already decided. A witness statement on the table between them. The language is too precise for a fifteen-year-old to have written. Hoebat looks at the statement, then the Auditor, then the door. The calculation happening in real time. Style: institutional betrayal, power imbalance, cold light, formal setting, the weight of the wrong conclusion.
 -->
 
-The Principal's office smelled like Safety Grout and Tally-dust. A High Auditor from the Cathedral sat across from me with a Tally-stone in his paw. He had not put it down since he arrived. The stone was perfectly clear. Stones don't decide things.
+The Principal's office smelled of Safety Grout and paperwork. A High Auditor from the Cathedral sat across from me with a Tally-stone in his paw. He had not put it down since he arrived.
 
-This stone had already decided.
+The stone was perfectly clear. Clear stones are supposed to be undecided.
+
+This one had already decided.
 
 He had a witness statement. Barnabat's name at the bottom.
 
-The language was too precise — written for him, not by him, the syntax of someone who had been helped to find the right words. *Instigator. Ringleader. Reckless excavation technique. Directed subjects into an unsound forward section.* Gross Negligence. Causing Death by Reckless Excavation. Unauthorised Substrate Modification.
+The language was too precise. The syntax of someone who had been shown what the words needed to look like and given a pen. *Instigator. Ringleader. Reckless excavation. Directed subjects into an unsound forward section.* Gross Negligence. Causing Death by Reckless Excavation. Unauthorised Structural Modification.
 
-Tallibat's name in the statement. Pellaboo's name in the statement. The deaths were real. The cause had been reassigned.
+Tallibat's name in the statement. Pellaboo's name. The deaths were real. The cause had been reassigned.
 
-I looked at the Auditor. I looked at the door. I had been the one standing with Barnabat when the springline went. I had stopped to look at a wall reading. I had not gone ahead with them. The statement described this as *deliberate distance from the hazard zone* — as if I'd known. As if the wall reading was a cover. As if I had sent Tallibat and Pellaboo into the forward section and stood back.
-
-I thought about Barnabat at fourteen, joining the crew because he trusted me. I thought about Barnabat at fifteen, sitting in an office with a form in front of him and their names on it and a pen in his paw.
+I looked at the Auditor. I looked at the door. I looked at Barnabat's name at the bottom of the statement and I did not understand it — not yet, not in the way you understand something when you've had time to think about it. I understood it the way you understand an unexpected change in the earth under your paws: as a fact that requires all your attention before you can begin to make sense of it. Something had shifted and I didn't yet know the new geometry.
 
 He didn't meet my eyes in the corridor afterward.
 
-I understand it. I have had seventeen years to understand it, and I do, completely, which is its own kind of problem. His father's name was on every senior assessment his career would ever need signed off. A mark on Barnabat was a mark on that name — not a fatal one, but the kind that follows, the kind that gets mentioned quietly in rooms Barnabat would need to be in. He was fifteen and he had grown up knowing exactly what his family's standing was worth and what it cost to protect it. He put my name on the statement and took his family's name off it.
-
-That's all it was. Not ambition. Not a promotion. Just a fifteen-year-old who panicked and reached for the thing his whole life had taught him mattered most.
-
-Understanding it did not change what I understood.
-
-I was removed from the Sector 7 Academy. The charge went into the Tally. It followed me in every room I entered from that point forward, invisible, present, the way a compromised springline sits at Category 2 for years doing nothing that looks like damage until the day it does everything.
+I was expelled from the Sector 7 Academy. The charge went onto the record. The thirty pages of ciphered notes, the crystal samples, the submission draft that had been going to be the Pre-Grid Studies presentation of the year — none of it existed in any official account. The story was complete: reckless student, unauthorized dig, tragic accident. Everything else had ceased to exist.
 
 Cornelibat, when I came home, went very still.
 
-Not sadness. Not anger. Recognition.
+Not sadness. Recognition.

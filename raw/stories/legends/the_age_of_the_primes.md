@@ -179,7 +179,7 @@ The story the old Dust-Bearers whisper — and they whisper it, because it conce
 
 A young wombat named Hoegrund had dug three burrows on the eastern slope. Not because he needed three. One was enough. But Hoegrund was the kind of wombat who digs the way some creatures breathe — compulsively, excessively, because the alternative is standing still and a wombat who stands still starts thinking, and thinking, for a wombat, leads to uncomfortable places.
 
-The first burrow was deep and dry and structurally sound. A perfect burrow. The kind the Root-Counters would hold up as an example.
+The first burrow was deep and dry and structurally sound. A perfect burrow. The kind the Seam-Readers would hold up as an example.
 
 The second burrow was shallow and wide and opened onto a view of the Dry Channels, which is beautiful and entirely impractical for a burrow, because a burrow that opens onto a view is a burrow that lets the weather in, and weather is what burrows exist to avoid.
 

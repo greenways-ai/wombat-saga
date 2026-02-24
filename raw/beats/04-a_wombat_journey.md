@@ -6,7 +6,7 @@
 Hoebat grows up in the marginal **Eucalyptus Groves**.
 *   **The Setting:** A traditional burrow smelling of real earth, a stark contrast to the sterile, Grout-sealed Melborow.
 *   **Agathaboo:** His mother. She loves Cornelibat's stories but is terrified of what they might inspire in her son. She represents the fear and caution of a family already punished by the system.
-*   **Cornelibat:** His father, a former Root-Counter exiled for compassion. At night, he tells Hoebat forbidden stories of the **Dust-Bearers**, ancient wombats who "tended" the earth by listening to it.
+*   **Cornelibat:** His father, a former Seam-Reader exiled for compassion. At night, he tells Hoebat forbidden stories of the **Dust-Bearers**, ancient wombats who "tended" the earth by listening to it.
 *   **The Ambition:** Inspired, Hoebat wants to be a **Mender**, not just a digger. He practices "listening to the earth" while other kids play Grout-Tag.
 
 ## II. The Academy of Structural Compliance

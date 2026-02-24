@@ -182,7 +182,7 @@ I could see it in his posture. The rigidity. The desperate straightness of his s
 
 "I know."
 
-"Then do something! You were a Root-Counter. You know how the system works. File a complaint. Audit the structural records. Prove the tunnel was compromised—"
+"Then do something! You were a Seam-Reader. You know how the system works. File a complaint. Audit the structural records. Prove the tunnel was compromised—"
 
 "Hoebat." He turned from the counter. His eyes were wet. Not crying — Cornelibat didn't cry. But his eyes held the moisture of a creature who had already fought this fight, already lost. "I can't."
 

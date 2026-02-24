@@ -1,54 +1,96 @@
 # The Dust-Bearer's Son (Narrative Beats)
 
 **Chapter:** 5 — The Dust-Bearer's Son
-**Perspective:** Hoebat (Wombat, first person — backstory chapter)
-**Chronicle-Mu Reference:** Origin of the Kappa Mu — The Mender's Formation
+**Perspective:** Hoebat (Wombat, first person — backstory chapter, childhood)
+**Chronicle-Mu Reference:** Origin of the Kappa Mu — The Mender's Formation (Part I: The Groves)
 
 ---
 
-## I. The Dreamer (The Dust-Bearer's Son)
+## I. Before the Stories, the People
 
-- **The Setting:** The Eucalyptus Groves (*Aldar Nénëa*) — the marginal zone where the eastern and western shells meet, surface-adjacent, where the underground connects directly to the air above. Stringybark trees. Moisture-rich soil. The air smells of eucalyptus and rain. Breathing here is, the city would say, an act of subversion. Cornelibat's burrow is dug in real clay — no Safety Grout, no grid tunnel access, no Tally-notch. Walls packed by paws, not poured by industry.
-- **Agathaboo (the mother):** She loves Cornelibat's stories. She also knows, with the precision of someone who has watched one person get exiled, exactly what happens to wombats who act on those stories. She represents the gap between knowing something is true and believing you're allowed to say so. She is not a coward — she is a mathematician who has done the calculation and doesn't like the answer.
-- **Cornelibat (the father):** Former Root-Counter. Exiled for compassion — the specific charge was "Unauthorised Substrate Consultation," which means he was caught listening to the earth when the Tally said the earth had nothing to say. At night, when the Grotto's sounds were far away and the eucalyptus moved overhead, he told Hoebat about the **Dust-Bearers**: the ancient wombats who tended the earth by listening to it, who read the substrate not as dead material to be conquered but as a living record of everything that had passed through it. The stories were forbidden. Cornelibat told them in the voice he used for everything important — matter-of-fact, quiet, like he was reciting weather.
-- **The ambition:** Hoebat practices listening to the earth while other juveniles play Grout-Tag in the upper Grotto corridors. He learns to distinguish the hum of living substrate from the flat tone of Grout-sealed walls. He doesn't know yet that this is the beginning of an education. He thinks he's just doing what his father told him was worth doing.
-
----
-
-## II. The Academy of Structural Compliance
-
-- **The commute:** Every day, in from the Eucalyptus Groves to the Sector 7 Academy in the Gray Grotto mid-levels. The route takes him through the Wet Bend (where condensation collects in the invert — one of the few places in Melborow you can smell moisture without paying for it), past the North-West Corridor (broken lighting even then, a compromised springline the Council had been noting for a decade and not fixing), and into the academy's grid-tunnel entrance. The contrast is total: from Groves-clay to Grout in ten minutes' walk.
-- **The curriculum:** Safety Grout Geometry. Static-Logic. The official position is that the earth is dead material — inert, stupid, a problem to be solved by correct application of formula. The Tally measures yield per metre. The academy teaches you to maximise the Tally. Hoebat sits in the back of these classes with his claws on the floor, feeling the substrate hum under the Grout, and says nothing.
-- **Barnabat:** His friend. Bright, funny, practical — the kind of wombat who finds a way to make the rules work for him rather than fighting them. He thinks Hoebat's substrate-listening is eccentric but interesting. He joins the secret club because he trusts Hoebat, and because the unauthorised tunnels are an adventure.
-- **The secret club:** A small group — Hoebat, Barnabat, two others — digging in the Old Way in the unmapped sections adjacent to the academy. Dead Zones. Already under Temporal Cropping, already dark. They follow the feel of the earth, not the formula. The tunnels curve. They are ugly and imprecise and they hold.
+- **Purpose:** Establish the family before entering the parable structure. Reader needs the soil before the seeds.
+- **Cornelibat (the father):** Former Seam-Reader, ex-certified. Removed from the guild the way a grain-running crack gets sealed — because it looked bad, and the official record had no category for *looks bad but is actually working.* Moved the family to the Eucalyptus Groves, dug the burrow by paw in pre-formation clay. Makes tea. Never called the lost certification a tragedy. Tells stories the way most wombats breathe — without deciding to.
+- **Agathaboo (the mother):** Ran surface-farm drainage assessments without a Council permit, because the rains came regardless of application status. Has a geologist's note on the wall with *undervalued* underlined in red. Makes good bread. Married a wombat who tells stories and understands this as a full-time occupation with unpredictable hours.
+- **The burrow:** Three tunnels in from the stringybark line. No Safety Grout. No registration. The Council's assessment: *Unregistered. No value.* The wall disagreed in silence for as long as Hoebat can remember.
+- **The hinge line:** "These are my people. Now the stories." — marks the transition from context to parable.
 
 ---
 
-## III. The Collapse (The Hero's Moment)
+## II. The Bowl That Sings (The Morribat Story)
 
-- **The micro-tremor:** The North-West Corridor springline — compromised for years, noted in Council reports for a decade, never fixed — finally fails. The load it had been carrying redistributes through the grid tunnels above the Dead Zone. The Grout-sealed sections, rigid and unforgiving, transfer the shock downward rather than absorb it. The unauthorised tunnels, curved and unlicensed, mostly survive — imprecision bends where formula shatters. Two students who had wandered into a section where the earth was thinner do not. Barnabat is trapped under a collapsed crown section at the far end of the deepest tunnel.
-- **The action:** Hoebat does not run. He puts his paws on the collapsed wall and listens. The substrate is still moving — secondary shifts, settling geometry. He is reading the direction of the stress, finding the Soft Spot, the place where the collapse is thinnest, where the substrate hasn't committed to the new geometry yet. He digs. Fourteen minutes. Secondary collapse begins as he pulls Barnabat clear.
-- **The belief:** He believes he has just proven everything Cornelibat told him. He believed the Old Way works — not as philosophy, as engineering. He expects to be in trouble for the unauthorized tunnel. He does not expect what follows.
-
----
-
-## IV. The Silencing (The Council's Betrayal)
-
-- **The accusation:** The Principal's office. A High Auditor from the Cathedral with a Tally-stone in his paw, which he hasn't put down since he arrived. The stone is perfectly clear. The stone has already decided. The Auditor has a witness statement — Barnabat's — that describes Hoebat as the instigator, the ringleader, the one whose "reckless excavation technique" caused the crown failure. The language is precise. It has been written for Barnabat, not by him.
-- **The charge:** Gross Negligence. Causing Death by Reckless Excavation. Unauthorised Substrate Modification. The deaths are real. The cause has been reassigned.
-- **The betrayal:** Barnabat doesn't meet Hoebat's eyes in the corridor afterward. He has been offered something — a promotion, an erasure of his own involvement, the safety of compliance. He has taken it. Hoebat understands this, later. In the moment, he does not understand anything except that the only person who knows what happened is the person who has just decided it happened differently.
-- **The expulsion:** He is removed from the Sector 7 Academy. His record notes the charge. The charge follows him in the Tally. Cornelibat, when he hears, goes very still in a way that is not like him.
+- **Hoebat is eight.** Real tea that night — surface-farm tea, bought with margin work. Cornelibat watches the eucalyptus, not his son. Stories need room to move.
+- **Morribat:** Eastern deep grid, three generations back. She sat in tunnels, came out, told them where the water was headed. The guild paid per prediction. She was right every time. They didn't ask how — *the how is fragile, put a committee on the how and you lose the what.*
+- **The committee:** After her death: four certified Seam-Readers, three engineers, one High Auditor with a Tally-stone. Sixty years later. One report. Her phrase: *Statistically significant anecdotal evidence.* Her tunnels: still standing. Their tunnels: replaced at least twice each, some three times.
+- **Cornelibat's delivery:** Not angry — past anger. The wrong is just true now. A feature of the landscape.
+- **Hoebat's response:** Paws flat against the clay floor. Has been doing this for two months. Finds something he has no word for yet — depth, patient, older than Melborow. Keeps trying. Cornelibat watches without comment. He has stories for this, but doesn't tell them.
 
 ---
 
-## V. The Fracture (The Flight Downward)
+## III. The Margin
 
-- **The argument:** Cornelibat tells him to keep his head down. Not as betrayal — as fear. The specific, precise fear of a wombat who knows exactly what the system does to the ones who push back, who has the scar of his own exile to prove it. He is not telling Hoebat to stop believing what he believes. He is telling him that believing it too loudly costs more than he knows.
-- **The explosion:** Hoebat has been raised on Dust-Bearer stories. He has been told, night after night in a Groves burrow with clay walls and no Tally-notch, that the earth speaks and the only job is to listen. And now the man who told him that is telling him to be quiet. He says things he means and will not take back. He calls his father a coward. He does not mean it as an insult. He means it as a diagnosis. He is fifteen years old and he is absolutely certain about everything.
-- **The flight:** He does not go to the surface. He goes downward. Not a plan — instinct. The Grotto's unmapped sections are what he knows, what he practiced in, what the academy never reached. He goes into the dark that the Council named Dead Zone and he keeps going.
-- **What he finds:**
-    - The North-West Corridor: broken lighting, compromised springline. He has walked this route a hundred times on his way to school. Below where he knew it, it continues.
-    - The deep unmapped Grotto: tunnels shaped by paws, not poured by industry. Curved. Imprecise. Old.
-    - The **Root Cathedral** (*Sulpoyána*): a chamber carved not by paws but by roots — walls shaped by root-paths that have since died or been severed by construction. He finds it by sound. A whisper at one end arrives at the other as a hum, transformed by the chamber's organic geometry into something richer than the sound that entered. He stays there for three days without fully understanding why. Something in it is Cornelibat's stories made architecture.
-- **What changes:** He stops believing he needs to be heard. He starts believing he needs to listen. These are not the same thing. The distinction will take years to fully understand, but the Root Cathedral plants it.
-- **The beginning of the Kintsugi-Mu:** In the deep tunnels, he starts repairing. Not for anyone. Not for the Tally. Because the walls are cracking and he knows how to read a crack and the clay is still alive under the Grout if you go deep enough to find it. He mends by night in tunnels the Council has abandoned. He is not Hoebat repairing a tunnel. He is the tunnel repairing itself.
+- **The Eucalyptus Groves:** The transitional zone the city hasn't decided what to do with. Official maps: *Transitional Zone 4.* No registrations on any of the burrows, which means the Council doesn't count them. Things the Council doesn't count don't exist. The wall exists anyway.
+- **The burrow's materials:** Dark blue clay — pre-formation stock, the kind that packs and holds without chemistry. Paw-prints in the walls. The whole history of the place readable in pressure-language. No Safety Grout. No grid access.
+- **Agathaboo's wall note:** Surface-farm drainage assessment, unpermitted. The geologist wrote: *exceptionally stable load-bearing material, pre-formation period, undervalued by current assessment models.* She underlined *undervalued* in red where visitors could read it.
+- **Pellaboo introduced:** Two burrows down. Father runs the surface-access ladder. Mother makes clay-pressed bread and the only singing bowls in the Groves that make the walls hum back. Pellaboo herself: holds her breath longer than anyone, carries a map of the clay formations in her head that no one drew for her. They played in the dirt, followed the earth because the earth had opinions.
+- **Hoebat's distinguishing behavior:** He's the one who lies face-down and presses his ear to the ground. Pellaboo catalogued this in the first week alongside everything else she knew: north is north, wet clay smells different from dry.
+
+---
+
+## IV. Tallibat
+
+- **The grid-kids:** Come to the margin on late-season weekends when the official tunnels get warm. Boring-probes, formula charts, field books with their names on the covers. Assess sections they have no claim to.
+- **Tallibat:** Father is a Safety Grout inspector for Sector 3. Tallibat knows the formula the way other wombats know their own reflection — not from study, from growing up with it everywhere. He is not cruel about it. That would be easier. He is *certain.* The specific certainty of someone who has never been in a room where the formula failed.
+- **The finding game:** Tallibat's crew hides a stone. Systematic intervals, boring-probe, documented. Hoebat finds it by lying on the ground and walking eleven paces north-northeast. Then finds it again after Tallibat re-hides it. "That's not a replicable method." "I found it twice." "Anecdotally."
+- **The word *anecdotally*:** Hoebat is nine and doesn't know what it means. But he knows the sound of it — the same sound as the official report's phrase for Morribat. Asks Cornelibat.
+- **Cornelibat's response:** Goes quiet in a particular way. "Tallibat's father is a Grout inspector." Then: "There were others, you know. After Morribat. Listeners. Not many." And: "Your uncle was one." Sets it down at the edge of a sentence and stops. Hoebat learns not to press sealed walls.
+
+---
+
+## V. The Water Pocket
+
+- **Hoebat is ten.** Tallibat brings a bigger crew — six, real boring-equipment, ropes, a spirit level — to cut a passage through Groves clay. Permission from no one, since Groves land has no registered owner and in Tallibat's logic, what the Council doesn't own doesn't require permission.
+- **Hoebat digging nearby:** For no particular reason except that the earth in that section has been interesting for a week. Following a quality in the hum, the way you follow a smell.
+- **The pocket:** The clay changes before he reaches it. The specific weight of water that's been sealed in clay since before anyone built anything above it. Old water. Waiting water. He knows the quality the way he knows the eucalyptus smell. He stops. Angles east. Keeps going.
+- **The consequence:** Tallibat's boring-probe punches through the pocket wall. Six juvenile wombats and a spirit level and three field books, soaking wet, backing out of a tunnel that has become a stream.
+- **Tallibat's framing:** "Undocumented water pocket. No way to detect without a full substrate survey." — "I went around it." — "You got lucky." — "Twice," says Pellaboo, very quietly.
+- **The repair:** Two days, Hoebat and Agathaboo. She redirects the flow into the surface-farm irrigation channel. Teaches him: how clay behaves under pressure, where water wants to go, how you work with the direction of flow instead of against it. "You have to let the earth show you what it's doing."
+- **Three weeks later:** Tallibat returns alone. No crew, no probe, no field book. "Show me." Not *please* — Tallibat doesn't have that vocabulary yet. But he came without his crew, and they both know what that cost.
+- **The learning:** Hoebat shows him the starting position — paws flat, weight even, stop calculating. Tallibat's paw flexes the calculation reflex back in after forty seconds. "Your paws go flat when you're listening. They flex when you're calculating. Stop." He comes back the following week. And the week after. Never announces what he's looking for. Just comes, presses paws flat, waits until the calculating reflex pulls him back.
+
+---
+
+## VI. The Bowl-Maker's Daughter
+
+- **Morillaboo's workshop:** Clay walls lined with shelves of singing bowls. Surface kiln that predates the grid's light infrastructure by three generations. Bowls made from Groves clay, shaped by paw, fired by feel.
+- **The distinction:** Cathedral-approved alloy bowls ring the same note everywhere, always, regardless of the walls around them. Consistent. Predictable. Dead. Morillaboo's bowls *sing* — different depending on the room, the day, the particular quality of air and clay and whoever is holding them.
+- **Her line:** "A singing bowl should sing. Not declare. Not announce. The earth doesn't make one note, Hoebat. The earth makes chords."
+- **What Hoebat understands:** Not the mechanics. Just: when Morillaboo strikes her bowls, the Groves clay answers. Like the earth had been listening and the bowl had just said exactly the right thing.
+- **Pellaboo's knowledge:** Learns to make bowls the way she learns everything — building the map in her head until she can navigate blind. Knows moisture in clay by resistance. Knows when a wall is too thin by how the material stops pushing back. Ask her how she knows: the mild impatience of someone for whom the question doesn't quite make sense.
+- **Tallibat challenges:** "Your mother is making unlicensed bell devices." "Yes." "That's illegal." "Yes." "Uncontrolled bell output can interfere with Grid stability." Pellaboo: "Have you ever heard one?" "I understand the principles—" "Have you ever heard one." Tallibat goes quiet. "Come tomorrow."
+
+---
+
+## VII. The Listening
+
+- **Tallibat's conversion:** He comes. Of course he comes — his curiosity is always stronger than his certainty, he just needed permission. Pellaboo hands him a medium bowl, dark blue, three weeks from the kiln. "Hold it like this. Flat palm underneath."
+- **The bowl's voice:** Not what the Cathedral's single approved tone sounds like. The opposite — not simplicity but fullness. A low note that opens into others, each arriving and staying while the next comes in. The workshop's clay walls answer. The bowls on the shelves lean slightly forward. Seventeen seconds of harmonic conversation.
+- **Tallibat's processing:** Paw flexes the calculation reflex — but he doesn't move. Stands through all seventeen seconds. "That's layering. Multiple tones overlapping." Pellaboo: "They eliminate complexity. They call the extra voices interference because they can only measure one thing at a time."
+- **The question he finally asks:** "The clay *wants.*" First time Pellaboo smiles at him — not at his confusion. At the question itself.
+- **Two hours:** He strikes every bowl. Asks about clay composition, firing temperatures, wall thickness ratios. Same field book, different understanding of what the notes are for.
+- **His exit:** "I want to learn. Not for the Grid. For me." — the beginning. Not friendship yet. The beginning was Tallibat discovering the formula he'd been handed was incomplete, and choosing to find out what it left out.
+
+---
+
+## VIII. The Lesson of Lillaboo
+
+- **Cornelibat reaches for a specific story:** Has many, but only reaches for the specific ones when the specific ones are necessary. This time: Lillaboo. Before Hoebat's mother's time, before his.
+- **Lillaboo:** Made working bowls for the Dust-Bearers — not ceremony bowls, the kind they struck in deep tunnels to find each other when the dark was too complete for any other method. Not a Dust-Bearer herself. A potter. But her ear was different: she could strike a bowl before firing and know whether the wall would hold its pitch.
+- **The problem:** The Dust-Bearers' old bowls were going quiet. City expansion above, new foundations pressing down, the ground shifting. They needed new ones for the new ground.
+- **Her method — first attempt:** Measured everything. Same clay-vein, same kiln temperature, same striker weight. Bowls that by every measurement should have worked. Underground: they rang. Clean. Clear. One note. Perfect by every standard. The Dust-Bearers could not find each other.
+- **Her discovery:** Three weeks underground. Cold bread. Seepage water. Alone in the dark striking clay and hearing what the dark returned. The earth is not inert — it breathes, moves, has a voice. Not separate from the bowl's voice. In conversation with it, from the moment the bowl enters the space. Her specifications assumed the earth was dead. The deep clay was not dead.
+- **The new method:** Shape each bowl in the specific tunnel, listening to the specific clay above and below and all around. Let the bowl tell her what it needs to be rather than telling the bowl what she needs it to be.
+- **Cornelibat's line:** "The Academy teaches you to impose your will on the earth. The Dust-Bearers learned to receive the earth's will and work with it. Both are necessary — but someone must also listen. Or eventually there's nothing left to hold."
+- **Hangbat:** "Your uncle understood this. The Wail was not ceremony — it was relationship. Bowl and clay in conversation. Something happening in that conversation that neither side could produce alone." When many bowls sing together in the right space — bowl finding itself through clay, clay answering back. Not words. Not signal. Presence. The specific feeling of being heard by something larger than yourself.
+- **The seed:** Hangbat went looking for it fifteen years ago. Found something. Stayed underground. Still there, as far as Cornelibat knows. No map. The Wail doesn't need maps. It needs ears, patience, and bowls that know what they are.
+- **Cornelibat's final instruction:** "When you find yourself choosing between being accurate and being safe, choose accurate. The earth keeps records. The Tally forgets. And you'll have to live with yourself in the dark, when the Glow-Panels are off and the formulas don't apply — and in those hours, accuracy is the only company that stays."
+- **Close:** Hoebat stays with paws flat on the clay. Listens to the earth breathe. The city glows distant, convinced of its own importance, believing itself the only light.

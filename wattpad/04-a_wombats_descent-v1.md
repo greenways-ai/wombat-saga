@@ -144,7 +144,7 @@ Cornelibat stood at the counter. The notification form sat open on the table —
 
 "I know."
 
-"Then help me. File a complaint. You were a Root-Counter. You know how to read a tunnel record. The relief drains were clogged. That's why the ceiling—"
+"Then help me. File a complaint. You were a Seam-Reader. You know how to read a tunnel record. The relief drains were clogged. That's why the ceiling—"
 
 "Hoebat." He turned. His eyes held the moisture of a creature who has already had this argument with himself and lost it. "I can't."
 

@@ -24,7 +24,7 @@ He turned and walked into the shadows of the exit. He didn't look back until he 
 
 * **** User-provided context and established narrative for "The Trial/Exile of Cornelibat."
 * **** *wombat-saga/meta_narrative.md* (Descriptions of structural rigidity and bureaucratic numbness).
-* **** *wombat-saga/characters/trumbat/the_root_counting_argument.md* (Cornelibat's background as a Root-Counter and his monocle).
+* **** *wombat-saga/characters/trumbat/the_root_counting_argument.md* (Cornelibat's background as a Seam-Reader and his monocle).
 * **** *kintsugi-3/sutras/wombat-tattva/99-0000-wombat-tattva-ritual-prime.md* (The concept of Noble Intent).
 * **** *wombat-saga/lore.md* (The concept of Temporal Cropping and the Fixed Borow philosophy).
 * **** *wombat-saga/storyline.md* (Cornelibat's transition to the Fixed Borow system after his rebellion).
