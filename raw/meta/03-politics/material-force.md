@@ -101,7 +101,7 @@ A victory that immiserates the base is indistinguishable from defeat from where 
 
 **This is why the seed timing is strategic, not symbolic.**
 
-The Jacaranda planting — Act 5 — is the substitute supply chain. The Vara release (Arnam flow through restored Arnam nodes as the Fractal Rainforest establishes) provides an alternative to the Frequency's fight-or-flight management. Not liberation through enlightenment. Liberation through physiological substitution: the body stops needing the Frequency because it is receiving something else.
+The Jacaranda planting — Act 5 — is the substitute supply chain. The release of the entombed Wombiki (Arnam flow through restored Arnam nodes as the Fractal Rainforest establishes) provides an alternative to the Frequency's fight-or-flight management. Not liberation through enlightenment. Liberation through physiological substitution: the body stops needing the Frequency because it is receiving something else.
 
 Lambda's five missions must reach threshold *before* the Frequency supply chain is disrupted. Plant the seed too early, before the network is established enough to deliver Arnam flow at scale, and the substitute doesn't take. Plant it too late, and the Council has had time to tighten enough that the Lo Snout base is already too damaged to benefit.
 

@@ -50,7 +50,7 @@ The moment Hoebat presses the seed into the earth is the moment all three thread
 
 **The ecological act.** The Jacaranda propagates. The Fractal Rainforest begins its next phase. The ratio shifts — not immediately, not dramatically, but directionally and irreversibly.
 
-**The personal choice.** He plants it knowing what the seed is. Knowing what the tree is. Knowing that what grows will not be the old world restored but something the old world has never been. He does it anyway — not because the Jacaranda is good, but because the alternative is the world continuing to calcify, and Vara's resonance cycling in the Frequency walls forever.
+**The personal choice.** He plants it knowing what the seed is. Knowing what the tree is. Knowing that what grows will not be the old world restored but something the old world has never been. He does it anyway — not because the Jacaranda is good, but because the alternative is the world continuing to calcify, and the entombed Wombiki—the countless voices of those sacrificed in the Walls—cycling in the Frequency forever.
 
 **The political act.** In the same gesture, he accepts the role. The movement now has a founding moment, a founding act, a founder. Doctrine becomes history. History becomes institution. The Kappa Mu, which was never supposed to win the way institutions win, has won the way institutions win.
 

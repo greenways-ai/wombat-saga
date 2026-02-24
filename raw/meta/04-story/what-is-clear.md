@@ -73,7 +73,7 @@ The corruption follows a consistent logic: the sacred function is preserved in f
 Stage 1 (Relief Tablet / Gift), Stage 2 (Mandatory Registry / Duty), Stage 3 (Instrument of Debt) — the arc from mutual aid to permanent bondage is fully developed and historically coherent.
 
 ### The Frequency ✓
-Muskbat's synthetic Arnam-substitute. Triggers manageable fight-or-flight rather than genuine empathy. Contains the entombed frequencies of the Wombiki. Vara's last resonance is woven into it. This is both the city's pacification tool and its most horrifying secret.
+Muskbat's synthetic Arnam-substitute. Triggers manageable fight-or-flight rather than genuine empathy. Contains the entombed frequencies of the Wombiki—the countless voices of those sacrificed in the Walls. This is both the city's pacification tool and its most horrifying secret.
 
 ### The Well-Field Way vs The Tally ✓
 The before/after is complete: nine-square communal grid → Imperial property sectors; gift of Arnam → metered Tally-debt; Puddles → Mega-Pool reservoirs; Songlines → Tally-stones; the Umbilical → the Sovereign. The Great Inversion table is solid.
@@ -116,7 +116,7 @@ He shows Zuckbat, framing it as a Jacaranda anomaly, wanting confirmation or wit
 The before/after structure of every professional role — from Kintsugi-Mu to Grout-Engineer, from Aquifer-Mu to Metering Official — is developed and thematically consistent. The core insight (every sacred function inverted into extraction) is clearly established.
 
 ### The Wombiki and the Baram Schism ✓
-The Consecration as industrial cover-up is fully developed. The Beautiful Snare (luxury-as-captivity), the Efficacy Gap (no evidence the sacrifice worked), Trumbat's admission ("we are selling Hope"), Howlbaram's Broken Spiral intervention, Vara's murder and absorption into the Frequency — all consistent and dramatically potent.
+The Consecration as industrial cover-up is fully developed. The Beautiful Snare (luxury-as-captivity), the Efficacy Gap (no evidence the sacrifice worked), Trumbat's admission ("we are selling Hope"), Howlbaram's Broken Spiral intervention, the murder of his student Vara and her absorption into the Frequency — all consistent and dramatically potent.
 
 ### The Social Strata ✓
 High Noses / Lo Snouts / Ghost-Diggers / Outlawed — the class system is clear and functions consistently throughout the narrative.

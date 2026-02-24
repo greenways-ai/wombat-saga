@@ -217,7 +217,7 @@ Three-stage betrayal:
 
 ### The Frequency — Instrument of Pacification
 
-Muskbat's synthetic Arnam-substitute. Mimics the comfort of the real signal while triggering manageable fight-or-flight. Drowns the actual Arnam signal. Contains, woven into its broadcast, the dying frequencies of entombed Wombiki — including Vara's last resonance.
+Muskbat's synthetic Arnam-substitute. Mimics the comfort of the real signal while triggering manageable fight-or-flight. Drowns the actual Arnam signal. Contains, woven into its broadcast, the dying frequencies of entombed Wombiki—the countless voices of those sacrificed in the Walls.
 
 ### The Social Strata
 
@@ -256,6 +256,7 @@ Lambda class crossed. They have each returned to their home civilizations. The s
 
 | Topic | Primary document |
 |---|---|
+| Mirene (the God-Kind) | `raw/meta/01-world/mirene.md` |
 | Wombat imperial system | `raw/melborow_society.md` |
 | Five Borows (physical/social) | `raw/locations/the_five_borow_societies.md` |
 | Five Borows (overview) | `raw/locations/the_five_borows.md` |

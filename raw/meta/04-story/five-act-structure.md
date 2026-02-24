@@ -271,7 +271,7 @@ The motion is the same as the first motion of the story: ear to the ground, list
 
 He knows what the seed is. He knows what it wants. He knows the world it grows into will not be the world the wailing dance was maintaining — that his mother's resonance, when it is finally freed from the Frequency, will return to an earth that is already becoming something neither of them was born into.
 
-He plants it anyway. Not because the Jacaranda is good. Because the alternative is Vara's voice cycling in the walls of the city that killed her, and no one left underground who remembers it as music.
+He plants it anyway. Not because the Jacaranda is good. Because the alternative is the entombed Wombiki—the countless voices of those sacrificed in the Walls—cycling in the Frequency forever, and no one left underground who remembers them as music.
 
 Then he leaves. No speech. No declaration. Back into the tunnels. Back to the cloth.
 
@@ -285,7 +285,7 @@ The first Jacaranda shoots appear where nobody expected: in the crack along the 
 
 The Frequency begins to degrade in Statborow's lowest level — not through sabotage, but because the Jacaranda's lateral roots have reached the infrastructure that carries it, and the roots metabolise what they touch. As the Frequency degrades, the entombed frequencies within it begin to surface. Old resonances. Wombiki voices, freed gradually, one at a time, from the signal that held them.
 
-Vara's resonance is the last to release. Or the first. Depending on where you are listening from.
+The entombed voices are released—the countless Wombiki sacrificed in the Walls, their resonance finally freed from the signal that held them. The last to release. Or the first. Depending on where you are listening from.
 
 Hoebat, underground, in the cloth, does not hear it directly. He feels it in the substrate. The Arnam pools — slightly fuller than yesterday. The old resonance, changed but present. The earth, breathing differently than it did this morning.
 
@@ -323,7 +323,7 @@ Different cloth. Same pattern. Always.
 | **Two** | The Roots Take Hold | Can the threads survive their own growth? | Going public is forced by co-optation. The protection network forms. |
 | **Three** | Surfacing | What is the movement actually working toward? | Hoebat knows the full truth. The choice is visible but not yet made. |
 | **Four** | The Cost | What does being right cost, and who pays? | The wailing dance in too many bodies. The choice is made without certainty. |
-| **Five** | The Seed | What does it look like to choose anyway? | The bloom begins. Vara is released. The cloth survives. |
+| **Five** | The Seed | What does it look like to choose anyway? | The bloom begins. The entombed voices are released. The cloth survives. |
 
 ---
 

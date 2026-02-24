@@ -188,7 +188,7 @@ The endgame happens. The Fractal Rainforest spreads. The suffering ends — genu
 Lambda were instruments. They chose to be.
 
 **Refuse:**
-Nothing changes. The Static economy continues. The world calcifies further. The Drop Bears spread as the Dead Canopy expands. The Lo Snouts keep digging. The wailing dance stays outlawed. Vara's resonance keeps broadcasting into the city's infrastructure forever.
+Nothing changes. The Static economy continues. The world calcifies further. The Drop Bears spread as the Dead Canopy expands. The Lo Snouts keep digging. The wailing dance stays outlawed. The entombed Wombiki—the countless voices of those sacrificed in the Walls—keep broadcasting into the city's infrastructure forever.
 
 The Jacaranda waits. It has been here longer than the Static. It will be here after. It will find another class, another crossing, another set of creatures whose deepest desires align with its propagation. It is patient in the way that only things without consciousness can be patient — not as virtue, but as the absence of urgency. Time is not a cost to the Jacaranda.
 
@@ -220,7 +220,7 @@ He knows what the seed is. He knows what it wants. He knows that the world it gr
 
 He plants it anyway.
 
-Not because the Jacaranda is good. Because the alternative is Vara's voice, cycling forever through the walls of the city that killed her, and no one left underground who remembers it as music.
+Not because the Jacaranda is good. Because the alternative is the countless Wombiki sacrificed in the Walls—their voices cycling forever through the city's infrastructure—and no one left underground who remembers them as music.
 
 ---
 
