@@ -1,12 +1,28 @@
 # The Wombat Saga — Meta Document Index
 
-*The master navigation map. Eleven documents organised into four sections. Each section answers a different question about the world. Read in order for full context. Navigate directly when writing a specific scene.*
+*The master navigation map. Documents organized into sections. Each section answers a different question about the world. Read in order for full context. Navigate directly when writing a specific scene.*
+
+---
+
+## Folder Structure
+
+| Folder | Contents |
+|--------|----------|
+| `00-about/` | Project metadata, development history |
+| `01-world/` | World-building, physics, cosmology, Mirene |
+| `02-movement/` | The Jacaranda, core teachings | |
+| `02-reception/` | Religious traditions & reception |
+| `03-politics/` | Sovereign system, power structures, collapse mechanics |
+| `04-story/` | Narrative architecture, drip methodology, confirmed decisions |
+| `05-meta/` | Writing guidance, author notes, philosophy |
+
+Each folder has a `README.md` with quick navigation.
 
 ---
 
 ## How to Use These Documents
 
-**Starting cold?** Read in this order: `01-world/original-world.md` → `01-world/world-structure.md` → `02-movement/jacaranda-agenda.md` → `04-story/five-act-structure.md`. That sequence gives you the world, the stakes, the tree's real agenda, and the shape of the whole story.
+**Starting cold?** Read in this order: `01-world/original-world.md` → `01-world/world-structure.md` → `02-movement/jacaranda-agenda.md` → `04-story/nine-act-structure.md`. That sequence gives you the world, the stakes, the tree's real agenda, and the shape of the whole story.
 
 **Writing a scene?** Check `04-story/what-is-clear.md` for confirmed decisions and `04-story/open-questions.md` for what's still undefined. Don't write into an open question unless you're resolving it — note the resolution in `what-is-clear.md`.
 
@@ -14,116 +30,108 @@
 
 **The politics?** `03-politics/political-asymmetry.md` for the structural logic. `03-politics/material-force.md` for the realpolitik of how the system collapses. `03-politics/sovereign-trap.md` for the co-optation threat and Hoebat's five escapes.
 
+**Writing style?** `01-world/wombat-aesthetic.md` for the crucial distinction: wombats are master diggers, not sewer rats. Their spaces are **warrens**, not pipes—dignified even under oppression.
+
 ---
 
-## Section 01 — The World
+## Section 01 — The World (`01-world/`)
 
 *What exists, how it works, what it costs.*
 
-### `01-world/original-world.md`
-The integrated world before the Static crisis. Each species' sacred function in detail. The help economy. The Arnam rains. What restoration actually means (and why it creates a different world, not the old one back). **Read first** — everything else is understood against this baseline.
+### Start Here
+- `original-world.md` — The integrated world before the Static crisis. **Read first** — the baseline.
+- `world-structure.md` — The world as it currently exists, all five Lambda missions.
+- `resonance-physics.md` — The quantum mechanics of Arnam and Static.
+- `mirene.md` — The God-Kind, the dreamer whose consciousness sustains the Heart Worlds.
 
-### `01-world/world-structure.md`
-The world as it currently exists. Each of the five communities — their structure, their corruption, their current state, and Lambda's mission within them. Includes all five Lambda members' mission threads, supporting nations (Drop Bears, Platypus, Rosella, Dog-Brahman), and a cross-reference table of what each species lost and what Kappa Mu is trying to restore.
-
-### `01-world/the-closing-node.md`
-The portal between Heart Worlds. The cosmological scale: Mirene generates billions of Heart Worlds continuously; each lasts a fleeting moment from outside and millions of years from within. The Closing Node is the fold where Heart Worlds touch. Why only wombats know — the deepest-burrowing species are the only ones who reach it, in every Heart World. The Sovereign origin: five wombats from a more advanced but failing Heart World who crossed into Hún Nico, sealed the Node behind them, and used their imported knowledge to seize control. Their motivation was power — they wanted to rule, to be the closest thing to Gods the world would permit; they paid lip service to Mirene but never practiced. Every Heart World they visited was Static-saturated (their data set catastrophically incomplete). The Jacaranda was absent from every world they visited — it falls entirely outside their framework. The wailing dance is not suppressed but mocked as primitive superstition — their most consequential blind spot. The Node has been sealed since their arrival. The Jacaranda grows directly above the Node. What happens when the Node opens.
-
-### `01-world/resonance-physics.md`
-The material and cosmological foundation. The foundational layer: physical laws in Heart Worlds fall out of the coherence of the fractal quantum system — they are emergent, not imposed. Thought forms at the quantum level, in relationship with each other, generate frequencies that manifest as physical law (as above, so below). What this means for the Jacaranda, for crossing (rūpa/nāda as thought forms), for Sovereign blindness, for founding myths as technology not symbol. Elen Nico as transducer between Mirene and the world; Arnam as clear ether vibration (Akasha/Om); Static as vibration with hooks (Tejas, the symmetry-breaking force). The quantum correspondence: Arnam = quantum coherence, Static = decoherence, the Higgs mechanism as cosmological Tejas. What wombats and everything else are made of (condensed field). The two death-states of a Heart World (crystalline and Bose-Einstein condensate). Coherence as synchronicity — how entrainment works, what destroys it in social systems. Where decoherence is stored (in the gaps between things, not in the things themselves — the Wall as armoring, the Wombiki as trauma-on-broadcast, the severed species relationships as the primary storage). Myth and personal healing — the mechanism of catharsis as decoherence release, the body's symbolic language, the communal dimension, the Tally as anti-myth. The Wombat Saga as Mirene's healing dream — the characters as aspects of her psyche, the paradox of genuine freedom producing necessary healing, the question of whether the world survives her waking.
-
-### `01-world/static-economy.md`
-The oil-and-cocaine model. Three grades of Static (ambient / refined / productised), who controls them, how the Grout production cycle works, who benefits and who pays. The Kangaroo pool system. The Koala Lyptus binder supply chain. The Dingo harvest relationship. The dependency web, and the three conditions required for the path out.
+### Core Systems
+- `the-closing-node.md` — The portal between Heart Worlds, Sovereign origin.
+- `static-economy.md` — The oil-and-cocaine model, Grout production cycle.
+- `wombat-aesthetic.md` — **Style guide for writing wombat spaces** (essential: burrows, not sewers).
 
 ---
 
-## Section 02 — The Movement
+## Section 02 — The Movement (`02-movement/`)
 
-*What the Jacaranda is, what the Kappa Mu became, and what happens when genuine transformation meets institutional power.*
+*What the Jacaranda is, what the Kappa Mu became, and the core teachings.*
 
-### `02-movement/jacaranda-agenda.md`
-The hidden spine of the story. The Jacaranda as pioneer species, not benevolent guide. The Crossing as curation, not recognition. The Violet Miasma as a terraforming instrument. What the Fractal Rainforest actually replaces. The Hangbat arc — why he sees the Jacaranda as a betrayal of the Crossing, why he is paralysed, how Hoebat becomes his way out of that paralysis. Lambda's choice: two options, neither clean. The last image. **Contains the story's moral ambiguity in full.**
+### The Jacaranda
+- `jacaranda-agenda.md` — The hidden spine: tree as pioneer species, not benevolent guide.
+- `jacaranda-movement.md` — The public life of Kappa Mu—underground to culture to religion.
 
-### `02-movement/jacaranda-movement.md`
-The public life of the Kappa Mu. How the underground became a rumour, the rumour became a culture, and the culture became a religion. The two named sects (Root Keepers / Violet Seekers). The full slang lexicon — genuine language and co-opted language distinguished. The Tatebat co-optation dynamic. Hoebat's reverse co-optation tactic — entering the imitation form and filling it with genuine substance. The seed-planting as triple act.
+### The Teachings
+- `the-maha-tahto.md` — Three-realm structure, Grand Inversion, rotating Apex.
+- `the-yuga-teaching.md` — Dashavatara as map of deepening Grand Inversion.
+- `the-arjuna-teaching.md` — Mahabharata parallel.
+- `the-songlines.md` — The oldest system—received resonance, not authored memory.
+- `the-god-kind.md` — Mirene, Elen Nico, the Heart World origin.
+- `static-vs-faith.md` — The thematic constant: Static replaces the heart; faith participates.
 
-### `02-movement/the-god-kind.md`
-The cosmological foundation. Who the God-Kind are and what they actually are (quantum resonance from human bodies, not divine beings). Mirene — the Sleeping World-Maker, her origin story, how she appears in visions. The origin of the Jacaranda: Mirene fell asleep under a Jacaranda tree above Melbourne; the resonance of her sleeping body seeded the Heart World tree. Each community's God-Kind (Brenn / Duro / Sett / Pela / Maren). How the Sovereign priesthood became the Censorate. The loop — how the wailing dance works as biofeedback, how it broke, what restoration requires. What no creature in Hún Nico knows about any of this.
-
-### `02-movement/the-songlines.md`
-The oldest system in Hún Nico — older than the Kappa Mu, older than the Imperial system. What Songlines are (received resonance from the God-Kind above, not authored memory), the four types (Location, Event, Condition, Warning), and who carries them. The Mnemo-Mu carriers. The Rosella Parliament as the index — what was lost when it shattered, what wasn't. The wailing dance as the oldest surviving Event Songline (the record of Mirene's arrival). The Tally-stone as cosmological replacement (from *what you carry* to *what you owe*). The Crossing and Songlines. What restoration actually means — a partial network, active, sufficient for signal to travel again.
-
-### `02-movement/the-maha-tahto.md`
-The oldest cosmological teaching in Hún Nico, held by the Dingo priestesshood of the Great Greyhound. The three-realm structure: Physical World (human), Heart World (wombat), Morphic World (dog). The substance chain (Human → Wombat → Dog; Dog = Brahman). The Three-Fold Rotation — godhood as a relational state, not a fixed identity; the Golden Chain of Aspiration. The Triad Breath and the Mahatahto as standing wave. The Grand Inversion (D-O-G → G-O-D) and how it broke all three realms simultaneously. Signs of the breakage in Hún Nico (the Tally as Black Static, the Packs as Dog-demoted, the Wall as impermeable membrane). The restoration mechanics. Shayanmaya and Tilanmaya — the two Dingo priestesses, their distinct registers, their tolerated irrelevance. The Great Greyhound as Morphic World intelligence. The desert encounter with Hoebat — what it names, what it demands, the question Tilanmaya asks. What the wailing dance has always been in the Maha-Tahto's terms.
-
-### `02-movement/the-yuga-teaching.md`
-The second major teaching Tilanmaya gives in the desert. The Dashavatara (ten/twelve avatars of Vishnu) as a map of the Grand Inversion deepening across geological time. Each animal avatar in Maha-Tahto terms: Matsya (fish) as the Wombat/Mahatahto preserving frequency above the flood; Kurma (tortoise) as the Wombat-Pillow foundation for cosmic processing; Varaha (boar) as the wombat retrieving the substrate from submersion; Narasimha (half-lion) as the Morphic World's threshold creature — the one who kills what no single-realm being can. The Yuga cycle as successive degrees of the Grand Inversion — the Human World's diminishing capacity to receive the animal truth. Why corrections don't hold (absorbed as temple/story not structural practice). The wailing dance as the exception — embodied practice below the level at which the Kali Yuga operates; the bones the Kali Yuga cannot take. Kalki as structural clearing. Where the Wombat Saga sits: the Kali Yuga terminus — maximum Grand Inversion, also the point at which the clearing is closest. Tilanmaya's final line: *"You are not starting something. You are finishing it."*
-
-### `02-movement/the-idolatry-response.md`
-The third teaching Tilanmaya gives in the desert — deployed only after the system has been named and the system produces its immune response. Addresses the specific claim: Satan is the most beautiful creature who corrupts through truth, and anything differing from current teaching is idolatry. Five-part response: (1) the argument's internal self-defeat — it makes the tradition epistemologically unfalsifiable, identical to the Frequency's fight-or-flight pre-emption; (2) idolatry redefined — the Maha-Tahto's more precise charge: the worship of the human form as cosmic apex IS the idolatry; (3) Lucifer as the displaced Dog-Brahman — the most beautiful creature described is the correct Apex being expelled to make room for the human-shaped God; (4) the serpent in the Garden as the founding record of the Grand Inversion — an animal tells a truth, is confirmed by God, and is cursed and demoted; (5) the Letter and the Spirit — the teacher the tradition centres taught the Human World's correct Feed function; the institution built on his name claimed the Apex. The Book of Job as record of Satan's original adversarial function within the divine assembly — the correction mechanism the tradition later expelled. The historical function of the idolatry charge against indigenous and animal-honouring traditions. The Kali Yuga's immune system — why this argument appears at maximum inversion. Tilanmaya's final question: *"Name one truth in what I have shown you that is false. Not unfamiliar — false."*
-
-### `02-movement/the-arjuna-teaching.md`
-The Mahabharata parallel as Maha-Tahto diagnostic. The Vishvarupa (Chapter 11, Bhagavad Gita) — what Arjuna actually sees in three-realm terms (the substance chain operating correctly; the cosmic mouths as the Dog receiving the Human Feed). What his terror is (the Human confronting its position as raw material, not apex). The Grand Inversion moment — asking for the comfortable face — and why Krishna's compliance was not a failure but why civilisation's permanent preference for the mask was. The central doctrine: you cannot avoid being the Feed, only choose its quality. What Black Static feels like passing through a filter it was never designed to clear. How this maps onto Hún Nico's Static crisis (the geological record of contaminated Feed from above). Tilanmaya's use of the teaching in the desert encounter. Hoebat's parallel vision at the fold — and why, unlike Arjuna, he does not ask for the mask back.
-
-### `02-movement/the-abrahamic-response.md`
-The fourth teaching Tilanmaya gives in the desert — deployed when resistance reveals itself as architectural, not personal. The immune response as structural rather than denominational: the operating architecture shared by all three Abrahamic traditions (one God, human-facing, chosen perimeter, cosmological exclusivity). Each tradition's distinct relationship to the Maha-Tahto: Judaism (refused the comfortable face, prophetic tradition as Maha-Tahto's strongest internal agreement, Tikkun Olam and Sabbath as Feed-function analogues; chosen people as collective Apex claim; the deepest irony — most persecuted by the tradition that completed the specific inversion Judaism resisted); Christianity (Grand Inversion completed in the incarnation — comfortable face installed permanently; Letter and the Spirit dynamic); Islam (most rigorous aniconic refusal of the human face AND the najis ruling — the tradition that most completely refused the comfortable face also produced the most specific ritual displacement of the Dog-Brahman; Grand Inversion stated from both ends; the most visceral immune response — not theological but embodied). What all three share: the founding reversal, the chosen perimeter, the animal as subordinate creation. The perimeter architecture as a chronic Black Static generator at scale. The historical function of the Abrahamic immune response against indigenous and animal-honouring traditions. Tilanmaya's final question: *"Does the tradition you carry teach you to send clean Arnam freely, without condition, without attachment to whether the recipient carries your cosmological perimeter?"*
-
-### `02-movement/the-abrahamic-reception.md`
-Classification of Abrahamic groups by their reception of the Maha-Tahto's rotating-apex structure. Three dispositions (Open / Neutral / Hostile) with quick-reference table and detailed analysis of each group. Open: Kabbalists (Lurianic cosmology, nitzotzot, multi-realm structure), Hasidic movements, Jewish Renewal, the prophetic tradition; Sufi Islam (Ibn Arabi's wahdat al-wujud, the Simurgh / Conference of the Birds, tawakkul as Feed-without-attachment); Celtic Christianity, Franciscan spirituality, Quakers, Process theology, Liberation theology, Christian mystics, Teilhard de Chardin. Neutral: Conservative/Reform Judaism, mainline Protestants, Progressive Muslims, academic theologians. Hostile: Haredi/Orthodox Judaism (tzelem Elohim as load-bearing structure), Evangelical/Reformed Christianity (dominion mandate, sola scriptura), Traditional Catholic natural law (Thomistic hierarchy), Salafi/Wahhabi Islam (strictest tawhid + strictest najis ruling — the most acute immune response, physiological not theological). Why the map matters for Hoebat's mission and why the hostile groups are the Kali Yuga's immune system doing its job.
-
-### `02-movement/the-eastern-reception.md`
-Classification of Eastern and non-Abrahamic groups by their reception of the Maha-Tahto's rotating-apex structure. The inverted landscape: Eastern default is openness, not resistance — the immune response is an Abrahamic phenomenon, or an importation. Open: Classical Taoism (Zhuangzi's butterfly, Cook Ding's ox — the fixed Apex is already the problem); Taoist alchemy (neidan three-dantian as substance chain); Zen/Chan (Zhaozhou's dog-koan as the rotating Apex in practice; *Mu* as the correct answer to the Apex question); Tibetan/Vajrayana Buddhism (tulku system crosses species; animal-form deities; multi-realm bardo cosmology); Thai Forest Theravada; Tantric Hinduism/Vamamarga (the impure as path — hierarchy inversion as spiritual technology); Kashmir Shaivism (spanda as resonance physics); Shakta traditions; Nath tradition; Tribal/Adivasi traditions; Inner Asian and Korean shamanism; Classical Shinto (kami in all things; the dog at the shrine); Jainism (most thorough practical recognition of animal cosmological standing); Sikhism (anti-caste, divine in all creation). Special cases: Zoroastrianism (the Dog as most sacred animal — the Sagdid ceremony is the perfect inversion of the Islamic najis ruling; the Grand Inversion at historical scale); Advaita Vedanta (dissolves the question — rotating Apex is vyavaharika truth pointing toward paramarthika in which there is no Apex at all; Tilanmaya's response: "The absolute does not clean the substrate. The dance does."). Neutral: Gaudiya Vaishnavism/ISKCON (structure open but devotional practice installed the comfortable face deeply); mainstream Theravada (human realm as uniquely precious for liberation). Hostile: Brahminical caste hierarchy (the teaching's own vocabulary deployed against its source — "the Dog is Brahman" in the tradition that placed the dog-keeper at the bottom); Hindutva nationalism (Abrahamic perimeter architecture adopted); Buddhist nationalism (the 969 movement — co-optation at civilisational scale).
-
-### `02-movement/the-new-age-reception.md`
-Classification of New Age and Western esoteric movements by their reception of the Maha-Tahto's rotating-apex structure. The distinctive threat: not primarily hostility but co-optation — the spiritual marketplace absorbs the surface of the teaching while metabolising its structural demands. Open: Deep ecology / Council of All Beings (Joanna Macy — explicitly decenters the human); Druidry and Celtic revivalism (shapeshifting traditions, Cernunnos as threshold creature); Hermetic tradition (serious) — "As above, so below" is the Maha-Tahto's foundational physics stated directly; archetypal psychology / James Hillman (the animal as soul-figure in its own right, not symbol); core shamanism / power animal tradition (qualified); animal communication tradition; eco-psychology. Neutral: Theosophy / Anthroposophy (multi-realm open; evolutionary hierarchy with human as pivot is resistant); Integral Theory / Wilber (analytical engagement that will classify the Maha-Tahto as pre-rational — respectful and wrong); mainstream Wicca / neo-paganism; transpersonal psychology; astrology; general "spiritual but not religious." Hostile: Law of Attraction / New Thought / The Secret (the Grand Inversion maximised — the individual human as creator-apex of their universe; the most efficient possible Black Static generator); channeling traditions / Lightworkers / Pleiadians (the human as cosmically special volunteer — the comfortable face applied at individual scale); UFO spirituality / Starseed narratives (humanity as the object of cosmic cultivation). Special problem: aesthetic absorption — the New Age landscape's capacity to welcome the Maha-Tahto warmly and add it to the spiritual shelf without receiving its structural demand.
-
-### `02-movement/on-hypocrisy.md`
-The Feed Test and the temple problem. Hypocrisy in the Maha-Tahto framework: not a moral failing but a Feed quality problem — the gap between claimed cosmological position and actual Arnam generated. Four forms: active (knowingly acting against the claim), passive (sincerely believing while unconsciously acting against it), structural (the institution generating the gap without individual bad faith), sophisticated (using the teaching's own vocabulary to perform what the teaching attacks). The New Age as consumer culture: the precise structural parallel — signaling vs. digging, the spiritual portfolio, the premium authenticity product, why the Satya Yuga frequency cannot be purchased. The Brahminical parallel: the same substitution of performance for practice, available across history in different costumes. The Wombat Saga's own potential hypocrisies: (1) the document as temple — the elaborate index structure built to house a teaching that attacks temple-building; (2) the "we see through all traditions" problem — the framework that classifies all frameworks has placed itself at the Apex; (3) the Hoebat problem — does the story make the reader want to do the wailing dance, or to be Hoebat?; (4) the vocabulary barrier — the teaching is accessible only to someone with extensive cross-traditional education, while it centres the creature who has no vocabulary at all; (5) the self-congratulatory critique — correct analysis of the spiritual marketplace as its own form of signaling. The Feed Test stated plainly: not what is claimed or performed, but what quality is arriving at the Morphic filter right now. The documents are a map. The map is not the drain at 3am.
-
-### `02-movement/the-conversion-and-purge.md`
-The perimeter architecture in its most active mode — evangelical conversion imperative and deliverance ministry as Grand Inversion defence. The Great Commission as structural necessity not optional compassion: the unconverted is simultaneously rescue target, contamination risk, and enemy territory. The spiritual warfare framework: demonic possession, oppression, strongholds, ancestral iniquity, deliverance ministry. What gets identified as demonic and why: the pattern is not arbitrary — it clusters precisely around the Satya Yuga remnants most intact, the practices most below the level of doctrinal control, the traditions that generate clean Arnam independently of correct belief. The Lucifer connection: the tradition correctly identifies the Maha-Tahto as restoring what the founding reversal expelled, then classifies the restoration as Satanic — the logic is tight, the premise is wrong. The deliverance structure in Maha-Tahto terms: renunciation removes the body's permission to inhabit the frequency; the filling requirement creates institutional dependency; the Feed quality consequence (the one Arnam-generating practice removed, replaced with perimeter maintenance). Why the purge cannot reach what it is targeting: deliverance operates at the level of meaning; the wailing dance is below meaning, in the substrate; the body knows the frequency after the story has been taken away. The sincere believer: genuine perception of a real spiritual reality, total category error in classification — the narrow opening is the quality of the frequency itself, perceived before the classification system is applied. The historical record: the missionary tradition specifically targeted the most intact Satya Yuga remnants — not the worst practices but the most alive ones. The bones, still there.
-
-### `02-movement/static-vs-faith.md`
-The thematic constant. The single most important distinction in Hún Nico's physics: Static replaces the heart; faith participates through the heart. Objects vs. relationships. Permission vs. invasion. Device crossing vs. faith crossing — what each costs, what each produces, what the Jacaranda knows about the difference. The Sovereigns as brilliant compensators who built extraordinarily sophisticated replacements for the one thing that cannot be replaced. Every scene in the trilogy participates in this distinction.
-
-### `02-movement/co-optation-doctrine.md`
-Why co-optation happens and how it destroys ideas. Seven mechanisms of destruction (signal contamination, meaning dilution, original becoming fringe of itself, defensive corruption, energy drainage, legitimacy inversion, the closed door). Why Hoebat's doctrine-building response is also a trap. The antithesis table: what Hangbat gave vs. what Hoebat does with it. The broader pattern — every counterculture becomes a culture.
+### Movement Dynamics
+- `co-optation-doctrine.md` — Tatebat's threat, Hoebat's five escapes.
+- `on-hypocrisy.md` — The temple-building problem.
 
 ---
 
-## Section 03 — The Politics
+## Section 02-Reception — Religious Traditions (`02-reception/`)
 
-*How power works, how it fails, and why Hoebat wins by force not just by message.*
+*How different traditions receive the three-realm teaching.*
 
-### `03-politics/political-asymmetry.md`
-The structural imbalance between the Sovereign system (deep but narrow) and the Kappa Mu (broad but initially shallow). The Wombat Only Card — what it reveals about the Council's limits. The Dingo Irony — the enforcement arm is the community Lambda is working within. The five-species protection network in practice: each Lambda thread's specific tactical function. The danger in the meantime — the gap between institutional survival and individual suffering. Why the Sovereigns cannot ultimately win.
+### Abrahamic Traditions
+- `the-abrahamic-reception.md` — Classification of Abrahamic groups.
+- `the-abrahamic-response.md` — Tilanmaya's response: temple problem, idolatry redefined, Lucifer as displaced Dog.
+- `the-idolatry-response.md` — Addressing the "Satan is the most beautiful creature" claim.
+- `the-conversion-and-purge.md` — Conversion imperative, deliverance ministry, the purge.
 
-### `03-politics/material-force.md`
-The realpolitik of the endgame. The four pillars of Sovereign control and how each Lambda thread attacks one. The cascade failure logic — how intensification accelerates collapse. The Frequency dependency problem — why "winning badly" is an actual risk, and why the seed timing is a strategic constraint, not a symbolic one. What "winning" actually looks like: not a coup but a system becoming non-functional. **The answer to: does Hoebat win by force or by message?**
-
-### `03-politics/sovereign-trap.md`
-The most dangerous threat to Hoebat's mission is not suppression — it is embrace. Trumbat's claim (the Wall was always the Jacaranda's cradle, the Corvée was sacred labor). Tatebat's claim (Hoebat is my successor). Why verbal response feeds the machine. The five ways out: the wailing dance (legally dangerous to claim), give it away (help economy at movement scale), Hangbat comes out (witness with nothing to gain), name the mechanism once specifically, disappearance (the ungovernable final act). What the trap cannot ultimately touch.
+### Eastern & Other Traditions
+- `the-eastern-reception.md` — Classification of Eastern traditions.
+- `the-new-age-reception.md` — Classification of New Age movements—the absorption threat.
 
 ---
 
-## Section 04 — The Story
+## Section 03 — The Politics (`03-politics/`)
+
+*How power works, how it fails, and why Hoebat wins.*
+
+- `political-asymmetry.md` — Structural logic of the Sovereign system.
+- `material-force.md` — The realpolitik of how the system collapses.
+- `sovereign-trap.md` — Co-optation threat and Hoebat's five escapes.
+
+---
+
+## Section 04 — The Story (`04-story/`)
 
 *Confirmed decisions, open questions, and the full narrative architecture.*
 
-### `04-story/the-four-levels.md`
-The layered reading architecture. Four simultaneous depths, each complete in itself: Level 1 (cute fluffy Australian animals — the story works entirely here; the test is whether a twelve-year-old who has never heard of the Bhagavad Gita has a satisfying experience); Level 2 (social commentary and archetypes — the Tally as credit score / social metric, the Corvée as labor extraction, Static as oil/opioid dependency, co-optation as counterculture absorption, the Sovereigns as imported technical-managerial class; legible without any Maha-Tahto vocabulary); Level 3 (the physics self-evident from the world's behavior — resonance felt before named, Static as decoherence in how it behaves, the three-species dynamic as structurally inevitable before Tilanmaya arrives; the test is whether a physicist reading blind feels coherent underlying principles); Level 4 (the mathematics revealed by the oracles — Tilanmaya and Shayanmaya name what the reader has already felt; the founding myths as Vedas carried above the flood; the full Maha-Tahto vocabulary). The integration rules: downward integrity (nothing at L2-4 breaks L1), upward availability (everything at L1 holds L4 meaning without being reduced to it), physics-first (L3 must be embedded before L4 can land), oracle timing (Level 4 vocabulary given by oracles not narrator). The Hoebat observer function across all four levels. The critical inversion: Level 1 is not the vehicle for the serious cosmology — Level 1 is the territory. The body is not the delivery mechanism for the map. Write Level 1 first, as if it were the only level.
+### Story Structure
+- `nine-act-structure.md` — **Recommended**: Three books × three acts each.
+- `five-act-structure.md` — Original five-act arc.
 
-### `04-story/the-drip-structure.md`
-Narrative delivery architecture — how the cosmology reaches the reader. The Mahabharata problem: the epic that built to the Bhagavad Gita, the Gita got extracted and venerated, the story became delivery infrastructure. The Star Wars model: worlds to explore, mythology in fragments, the Force felt before named, the galaxy extending beyond the story's frame. The prequel trap: answering the questions destroys what the questions protected — the meta-documents know everything; the story must be written as if no character does. The drip structure: four modes of cosmological arrival (texture / fragments / rumors and contested claims / oracle naming) and how their ratio shifts across three books — Book 1 has no Tilanmaya, no Maha-Tahto vocabulary, only the physics in the world's behavior. What must be present in Book 1 without being named: the three-species dynamic as felt structure, Static as decoherence in behavior, the Jacaranda's indifference, the founding myths as cultural fragments, the Node as the shape of an absence. The cantina scene principle: secondary characters and cultures have full lives the story is not primarily about — the world must feel larger than the story in every direction. The oracle as confirmation not revelation: when Tilanmaya names the Dog as Brahman, the reader should feel recognition not surprise. The single question Book 1 must answer: do I want to spend three books in this world with these creatures?
+### The Drip Methodology
+- `the-drip-structure.md` — Core methodology: Mahabharata problem, Star Wars model.
+- `the-four-levels.md` — Layered reading architecture.
+- `drip-audit-book1.md` — Chapter evaluation tool.
+- `drip-examples-cosmology.md` — Before/after examples.
+- `drip-quick-reference.md` — One-page writing guide.
 
-### `04-story/five-act-structure.md`
-The full narrative arc from origin to bloom. Five acts with dramatic questions, key beats, parallel Lambda arcs, and the personal/macro story integrated. Act 1: The Broken World. Act 2: The Roots Take Hold. Act 3: Surfacing. Act 4: The Cost. Act 5: The Seed. Includes structural summary table and thematic spine — the same question asked at increasing depth across all five acts.
+### Project Management
+- `what-is-clear.md` — Confirmed decisions.
+- `open-questions.md` — Unresolved issues.
 
-### `04-story/what-is-clear.md`
-The confirmed creative bible. Everything that has been decided: the original integrated world, the Jacaranda's nature, the Kappa Mu structure, each community's current state and Lambda mission, the Static economy, Hangbat's full arc, the movement's public life, the political endgame. **Check this before making decisions that might contradict established facts.**
+---
 
-### `04-story/open-questions.md`
-What remains undecided, organised by urgency. Priority 1 (story-blocking), Priority 2 (world-defining), Priority 3 (enrichment). The Crossing ceremony, Bash's full character, non-wombat community documents, Kappa Mu class history, Drop Bear story role. Standing inconsistencies. **Check this before writing scenes that touch undefined territory.**
+## Section 05 — Meta (`05-meta/`)
+
+*Writing guidance, philosophy, and the why of the work.*
+
+- `for_the_author.md` — What myth-making does, the danger and necessity.
+- `optimism.md` — Why the "Death of Religion" is the death of the Mask.
+
+---
+
+## About the Project (`00-about/`)
+
+- `development-history.md` — Early cosmology development, LLM dialogue, source material.
 
 ---
 
@@ -131,11 +139,11 @@ What remains undecided, organised by urgency. Priority 1 (story-blocking), Prior
 
 | Member | Species | Mission | Key Tactical Function |
 |--------|---------|---------|----------------------|
-| **Hoebat** | Wombat | Restore the wailing dance / Kappa Mu primary | Doctrine, movement leadership, seed-planting |
-| **Pokero** | Dingo | Restore the Dingo Code from inside the Packs | Enforcement hollowing — makes Censorate operations fail |
-| **Cooroo** | Galah | Restore the Noble Noise as living intelligence | Surveillance — 40-minute advance warning of all operations |
-| **Bash** | Wallaby | Restore the translation function between communities | Secure communication — five languages, uncensorable |
-| **Merl** | Emu | Walk the old paths, keep egress open | Logistics — pre-Wall paths that can't be sealed |
+| **Hoebat** | Wombat | Restore the wailing dance | Doctrine, movement leadership, seed-planting |
+| **Pokero** | Dingo | Restore the Dingo Code | Enforcement hollowing — Censorate operations fail |
+| **Cooroo** | Galah | Restore the Noble Noise | Surveillance — 40-minute advance warning |
+| **Bash** | Wallaby | Restore translation | Secure communication — five languages |
+| **Merl** | Emu | Walk the old paths | Logistics — pre-Wall egress routes |
 
 ---
 
@@ -143,11 +151,22 @@ What remains undecided, organised by urgency. Priority 1 (story-blocking), Prior
 
 | Pillar | Mechanism | Lambda Attack | Threshold Failure |
 |--------|-----------|---------------|-------------------|
-| Enforcement | Dingo Pack contracts | Pokero hollows Code from inside | Pack publicly refuses a direct order |
-| Surveillance | Censorate resonance bells | Cooroo gives 40-min advance warning | Censorate arrives to find empty room — publicly |
-| Resource control | Tally / Mega-Pool metering | Kangaroo mob shift creates external pockets | Matriarch refuses to pool; Council cannot enforce |
-| Communication | Censorate bell calibration | Bash operates in four uncalibrated frequencies | Coordination never intercepted; crackdowns always reactive |
+| Enforcement | Dingo Pack contracts | Pokero hollows Code | Pack publicly refuses order |
+| Surveillance | Censorate bells | Cooroo gives 40-min warning | Censorate finds empty room |
+| Resource control | Tally / Mega-Pool | Kangaroo shift | Matriarch refuses to pool |
+| Communication | Censorate calibration | Bash in uncalibrated frequencies | Coordination never intercepted |
 
 ---
 
-*Last updated: Closing Node rewritten (Sovereigns as immigrants from another Heart World, seeking to be rulers/Gods, mocking the wailing dance). Loop Logic heresy removed from Hangbat. Wailing dance mocked not suppressed — updated across all documents. Trilogy structure confirmed: Book 1 ends with Sovereigns at peak power (co-optation looks like it's working), Book 2 ends with secrets revealed and the Node opening, Book 3 ends with the rain. Founding myths drafted (Om, Nāda, Dvāram, Mukti). Witness options for Sovereign alien origin documented.*
+## The Golden Rule (From `wombat-aesthetic.md`)
+
+**Wombats are master diggers.** Even the poorest Lo Snouts live in **burrows**, not sewers. The dignity is in the digging.
+
+- **Dug** spaces: curved, organic, wombat-scaled, clay that yields
+- **Built** spaces: straight, engineered, Grout that screams
+
+The Grotto is a **warren**—dense with community, hand-tended, the gentle compression of age. Not a slum. Not pipes. **Burrows.**
+
+---
+
+*Last updated: Meta documents reorganized into folder structure. Wombat aesthetic clarified (burrows, not sewers). Mirene document finalized.*
