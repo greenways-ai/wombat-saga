@@ -14,7 +14,7 @@ Not by Lo Snouts — Trumbat had learned long ago that the workers remembered wh
 
 The platform stood at the intersection of Sectors 7 and 8, directly above the main arterial tunnel of the Gray Grotto. It was tall enough that Trumbat could look down on the gathered crowd, which was the only spatial relationship Trumbat understood.
 
-He wore the **Mitre of Inertia** — three grout blocks, miniaturised, balanced on his head in a stack that should have been impossible but was held in place by the same adhesive that held his platform together: confidence and fear, mixed in equal measure. His **Vestments of the Grid** — a grey robe laced with red stitching that the Cathedral tailors insisted was decorative and that Zuckbat's **Tally-magistrates** knew was a functional antenna — hung from his shoulders in folds that made him look larger than he was, which was the point.
+He wore the **Mitre of Inertia** — three grout blocks, miniaturised, balanced on his head in a stack that should have been impossible but was held in place by the same adhesive that held his platform together: confidence and fear, mixed in equal measure. His **Vestments of the Grid** — a grey robe laced with red stitching that the Cathedral tailors insisted was decorative and that Zuckbat's **Magistrates** knew was a functional antenna — hung from his shoulders in folds that made him look larger than he was, which was the point.
 
 The Lo Snouts gathered in the intersection. Not because they chose to — the morning Frequency had carried a mandatory assembly notification, and "mandatory" in Trumbat's Melborow meant that your ration card was scanned at the entrance and your absence was notched into a **Tally** that Zuckbat kept archived in a directory he called "leverage."
 

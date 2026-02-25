@@ -28,7 +28,7 @@ I see the High-Nose dining on the finest decay
 I see the Lo-Snout starving in the light of the day.
 I notch every **Tally-Debt**, every lie, every theft
 I count the little bit of spirit that the Burrow has left.
-They call me "The Tally-keeper," say my heart is made of wood
+They call me "The Keeper," say my heart is made of wood
 But if I showed you the numbers, you wouldn't feel so good.
 I see the cracks in the Great Retaining Wall he tries to hide
 I see the fear in the eyes of the ones who have died.

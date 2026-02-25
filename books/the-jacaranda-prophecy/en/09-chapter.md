@@ -7,7 +7,7 @@ Deep underground Melborow — below the Dead Zones, below the Root Cathedral, in
 
 ### Eight Years Old
 
-I snuck into the deep tunnels once before any of this. I was eight. I want to be clear that I knew it was forbidden — not by law, not by Tally-code, but by the specific kind of family prohibition that doesn't need to be stated because it lives in the way your parents go slightly still when a topic gets near.
+I snuck into the deep tunnels once before any of this. I was eight. I want to be clear that I knew it was forbidden — not by law, not by Tally-Code, but by the specific kind of family prohibition that doesn't need to be stated because it lives in the way your parents go slightly still when a topic gets near.
 
 The topic was: what was below the Groves.
 
@@ -46,7 +46,7 @@ Some of them were Hangbat.
 
 ### The Long Way Down
 
-Now I was fifteen, expelled, with a charge on my Tally-record and a direction I was going because it was the only direction that hadn't filed paperwork on me yet.
+Now I was fifteen, expelled, with a charge on my Womb-record and a direction I was going because it was the only direction that hadn't filed paperwork on me yet.
 
 The Root Cathedral had been the beginning. I'd stayed three days, started repairing, found the specific quality of the work — the grain-running and against-grain, the clay's own preference, the earth's record of what had passed through it. I went deeper. Not a plan. The feel under my paws kept being informative, kept having something to say, and I had stopped having anything better to do than listen.
 
@@ -55,7 +55,7 @@ IMAGE PROMPT 2: The Descent Continues
 Hoebat moving deeper through the unmapped tunnels below the Root Cathedral. Not frightened — working. His paws on the walls as he moves, reading as he goes. The tunnels change quality: older, deeper, the earth becoming something pre-Grout, pre-formula, pre-Council-notation. Clay that has not been touched by any maintenance schedule. Natural passages following the earth's own logic. He's been down here two weeks. He's not lost. He knows exactly where he is: he's where the earth is still talking. Style: solo descent, reading the earth, the deep tunnels as information-rich space.
 -->
 
-The tunnels below the Root Cathedral were older than any of the Dead Zones. The Council's Temporal Cropping had never reached them because the Council's mapping had never reached them — the quarterly reports stopped two levels up, where the last Tally-assessment had noted "structurally inert, no commercial value" and moved on. Below that notation: nothing. Blank on every official map. The kind of blank that means we didn't look, formatted to look like we did and there was nothing there.
+The tunnels below the Root Cathedral were older than any of the Dead Zones. The Council's Temporal Cropping had never reached them because the Council's mapping had never reached them — the quarterly reports stopped two levels up, where the last Assessment had noted "structurally inert, no commercial value" and moved on. Below that notation: nothing. Blank on every official map. The kind of blank that means we didn't look, formatted to look like we did and there was nothing there.
 
 I had been in the blank for two weeks when I smelled the fire.
 
@@ -104,12 +104,12 @@ She smiled. Not at me exactly — at something she was remembering. "Ask Hangbat
 
 <!--
 IMAGE PROMPT 4: Hangbat
-Hangbat — old, unregistered, cracked and mended in the specific way of things that have refused to break completely. He sits in a side-tunnel, not at the communal fire, working on a wall with one paw — not patching, reading first, the way Hoebat does it. His Tally-number doesn't exist. His address doesn't exist. He has been in the deep tunnels since before Hoebat's father was charged with Unauthorised Substrate Consultation. He looks up when Hoebat comes in, and the expression on his face is not surprise. Style: character portrait, the last practitioner, weight of years, recognition.
+Hangbat — old, unregistered, cracked and mended in the specific way of things that have refused to break completely. He sits in a side-tunnel, not at the communal fire, working on a wall with one paw — not patching, reading first, the way Hoebat does it. His Womb-Id doesn't exist. His address doesn't exist. He has been in the deep tunnels since before Hoebat's father was charged with Unauthorised Substrate Consultation. He looks up when Hoebat comes in, and the expression on his face is not surprise. Style: character portrait, the last practitioner, weight of years, recognition.
 -->
 
 He was in a side-tunnel off the main chamber, not at the fire. Working on a wall — not patching, reading first, paw flat against the clay, the order of operations I'd developed without knowing it was an order of operations.
 
-Old. Cracked and mended in the way of things that have refused to stop. No Tally-tag on his belt. No registration mark. The particular density of a wombat who had been somewhere long enough to become part of it.
+Old. Cracked and mended in the way of things that have refused to stop. No Tag on his belt. No registration mark. The particular density of a wombat who had been somewhere long enough to become part of it.
 
 He didn't look up when I came in. Then he did — and his expression was the expression of someone who had been expecting a thing and was noting that the thing had arrived.
 

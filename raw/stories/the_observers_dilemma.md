@@ -71,7 +71,7 @@ Cooroo's frequency checks correlate with a measurable decrease in ambient stress
 
 The Noble Noise is not noise. It is a health intervention that the wombats receive for free, from a creature they consider a pest.
 
-I have a metric for this. I call it the **Galah Dividend**. It is worth approximately 12,000 **Tally-credits** per quarter in reduced healthcare costs and improved worker productivity. This number does not appear in Vitabat's **Tally-audits** because the Treasurer cannot collect on value that has no debt.
+I have a metric for this. I call it the **Galah Dividend**. It is worth approximately 12,000 **Credits** per quarter in reduced healthcare costs and improved worker productivity. This number does not appear in Vitabat's **Womb-Audits** because the Treasurer cannot collect on value that has no debt.
 
 The Ghost Capital is not limited to Hoebat's repairs. It includes every scream from a Galah, every story from a Dingo, every foot-pulse from an Emu that maps the tunnels more accurately than my own sensors.
 

@@ -31,7 +31,7 @@ Flickboo was the ghost who could fit through any gap, the spirit of agility and 
 
 ### II. Current Status
 *   **Occupation:** Quality Control Inspector for "Mural Harmony." She ensures that the distraction-murals covering the cracks are straight.
-*   **Family:** Married to a nervous Tally-Clerk. She has twin joeys whom she protects with a ferocity that borders on paranoia.
+*   **Family:** Married to a nervous Clerk. She has twin joeys whom she protects with a ferocity that borders on paranoia.
 *   **The Change:** Her "competitive streak" has morphed into hyper-vigilance. She constantly checks the air vents, seals the windows, and obsessively monitors the Frequency, terrified that "The Yellow Monsters" will return. She can still fit into small spaces, but now she uses that skill to hide her children's unauthorized "Old Way" drawings from the inspectors.
 
 ### III. Relationship to the Saga

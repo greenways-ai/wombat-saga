@@ -9,9 +9,9 @@
 
 In the days when the High-Noses first realized they could own things, they built the **Great Larder of Sector 1**. They took the sweetest, most moisture-rich roots from the Seep-beds and stored them in jars of polished mica, sealed with the finest Safety Grout.
 
-*"This is our wealth,"* the High-Noses declared. *"No one may touch the Arnam unless they have a **Tally-credit**."*
+*"This is our wealth,"* the High-Noses declared. *"No one may touch the Arnam unless they have a **Credit**."*
 
-But there was a young joey named **Kri-bat**. He didn't have a **Tally-credit**. He didn't even have a permanent borow. He was blue-furred (a trick of the starlight, or so they said) and his eyes were always full of a joke no one else had heard.
+But there was a young joey named **Kri-bat**. He didn't have a **Credit**. He didn't even have a permanent borow. He was blue-furred (a trick of the starlight, or so they said) and his eyes were always full of a joke no one else had heard.
 
 Kri-bat loved the roots. Not because he was hungry, but because he couldn't stand to see a root trapped in a jar.
 

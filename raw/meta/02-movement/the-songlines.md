@@ -1,6 +1,6 @@
 # The Songlines — The Record Between Worlds
 
-*The oldest system in Hún Nico, older than the Kappa Mu, older than the Sovereign system, older than the Wall. What Songlines are, how they were made, what they contain, and why their loss is not merely cultural but cosmological. The Tally-stone as replacement. The wailing dance as the oldest surviving Songline. The two modes of knowing: math and song. What restoration actually means.*
+*The oldest system in Hún Nico, older than the Kappa Mu, older than the Sovereign system, older than the Wall. What Songlines are, how they were made, what they contain, and why their loss is not merely cultural but cosmological. The Tally-Stone as replacement. The wailing dance as the oldest surviving Songline. The two modes of knowing: math and song. What restoration actually means.*
 
 ---
 
@@ -74,7 +74,7 @@ The Censorate's resonance-tuned bells are, in their origin, a corrupt Warning So
 
 The Mnemo-Mu carriers are wombats — and in smaller numbers, members of other communities — whose neurology permits them to hold Songline patterns without distortion across years or decades. The pattern lives in their nervous system rather than in external record. They can reproduce it on demand, accurately, without having thought about it in the interim. The Songline is not memorised the way a fact is memorised. It is integrated, the way a body skill is integrated: present as capacity rather than as stored information.
 
-In the current Imperial system, the Mnemo-Mu are regarded as eccentrics at best and disorder-carriers at worst. They hum at inappropriate moments. They stop mid-task to reproduce a pattern. They are sensitive to substrate conditions in ways that make them unreliable as Tally-debtors: a Mnemo-Mu carrier in a high-Static environment may be unable to work because the degraded signal is too loud. The Censorate has, in several documented cases, attempted to suppress Mnemo-Mu activity as Dissonant Noise. The irony — that they are suppressing the Heart World's oldest record-keeping system using a technology derived from it — is not visible from inside the Imperial framework.
+In the current Imperial system, the Mnemo-Mu are regarded as eccentrics at best and disorder-carriers at worst. They hum at inappropriate moments. They stop mid-task to reproduce a pattern. They are sensitive to substrate conditions in ways that make them unreliable as Debtors: a Mnemo-Mu carrier in a high-Static environment may be unable to work because the degraded signal is too loud. The Censorate has, in several documented cases, attempted to suppress Mnemo-Mu activity as Dissonant Noise. The irony — that they are suppressing the Heart World's oldest record-keeping system using a technology derived from it — is not visible from inside the Imperial framework.
 
 The Mnemo-Mu are not a formal institution. They have no registry, no hierarchy, no means of identifying each other reliably under the current system. They find each other through the Songlines themselves: a fragment heard in one place produces a response from a carrier in another place, and the response is the recognition. The Songline finds its other pieces.
 
@@ -138,18 +138,18 @@ They mocked the key. The Jacaranda grew from the lock.
 
 ## The Tally as Replacement — The Cosmological Destruction
 
-The Tally-stone replaced the Songlines. This is the deepest harm the Imperial system has done, deeper than the Wall, deeper than the Corvée, deeper than the Frequency.
+The Tally-Stone replaced the Songlines. This is the deepest harm the Imperial system has done, deeper than the Wall, deeper than the Corvée, deeper than the Frequency.
 
 The Songline records: what you carry. The resonance patterns held in your body and the bodies of your community. The signal you can transmit and receive. Your position in the network — what you connect to, what moves through you, what you make possible for others.
 
-The Tally-stone records: what you owe. Your deficiency. The gap between what you have and what is required of you. Your position in the debt hierarchy — what you owe upward, what is owed to you downward, what the system can extract from you before you are depleted.
+The Tally-Stone records: what you owe. Your deficiency. The gap between what you have and what is required of you. Your position in the debt hierarchy — what you owe upward, what is owed to you downward, what the system can extract from you before you are depleted.
 
 The Songline asks: what is passing through you?
-The Tally-stone asks: what do you owe?
+The Tally-Stone asks: what do you owe?
 
-Every wombat who carries only a Tally-stone and no Songline fragment has been told that the deepest true thing about them is their deficiency. The Tally does not record what you can do. It records what you have failed to repay. The ontological category of the record has been shifted — from *capacity* to *debt*, from *connection* to *obligation*, from *signal* to *liability*.
+Every wombat who carries only a Tally-Stone and no Songline fragment has been told that the deepest true thing about them is their deficiency. The Tally does not record what you can do. It records what you have failed to repay. The ontological category of the record has been shifted — from *capacity* to *debt*, from *connection* to *obligation*, from *signal* to *liability*.
 
-This is what makes the Tally more than a financial instrument. It is a cosmological replacement that has successfully convinced the population that the new record is the real record. Lo Snouts do not think *my Tally-stone is a lie about what I am*. They think *my Tally-stone is what I am*. The debt is identity. The deficiency is self. A creature who believes its self is its deficiency cannot sing a Songline because singing a Songline requires believing, at minimum, that you are capable of carrying something true.
+This is what makes the Tally more than a financial instrument. It is a cosmological replacement that has successfully convinced the population that the new record is the real record. Lo Snouts do not think *my Tally-Stone is a lie about what I am*. They think *my Tally-Stone is what I am*. The debt is identity. The deficiency is self. A creature who believes its self is its deficiency cannot sing a Songline because singing a Songline requires believing, at minimum, that you are capable of carrying something true.
 
 The wailing dance's continued survival in the Lo Snout tunnels is, in this context, an act of cosmological defiance as much as political defiance. Every Lo Snout who still knows the wailing dance — even fragmentarily, even wrongly — is a Lo Snout who has not entirely accepted the Tally's claim on their identity. They are still, in some residual way, carriers. The Censorate is correct that the wailing dance is dangerous. It is dangerous because it reminds Lo Snouts that they hold something the Tally cannot notch.
 

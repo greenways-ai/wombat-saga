@@ -6,7 +6,7 @@
 
 ---
 
-The Emergency Session Chamber was the only room in the Cathedral without surveillance. Zuckbat had designed it that way — not out of respect for privacy, but because a room where the Five Sovereigns spoke openly needed to be a room where the Five Sovereigns could later deny what they had said. Deniability required the absence of record. The absence of record was the last gift a **Tally-keeper** could give to the powerful.
+The Emergency Session Chamber was the only room in the Cathedral without surveillance. Zuckbat had designed it that way — not out of respect for privacy, but because a room where the Five Sovereigns spoke openly needed to be a room where the Five Sovereigns could later deny what they had said. Deniability required the absence of record. The absence of record was the last gift a **Keeper** could give to the powerful.
 
 The chamber was circular, carved from the bedrock that predated Melborow. The walls were unfinished stone — no Safety Grout, no clay-pack, no decoration. Five seats, arranged in a pentagon, each one carved from the same stone as the floor, so that sitting felt like being absorbed by the earth itself.
 
@@ -22,7 +22,7 @@ Zuckbat came last. He always came last. A grey hoodie pulled up, eyes glowing fa
 
 "The floor is cracking," Zuckbat said.
 
-No preamble. The **Tally-keeper** did not believe in preamble. Preamble was unrecorded time, and unrecorded time was wasted time.
+No preamble. The **Keeper** did not believe in preamble. Preamble was unrecorded time, and unrecorded time was wasted time.
 
 "The floor cracks," Trumbat replied, his voice a boulder rolling downhill, carrying the cadence of a sermon even in private. "Floors have always cracked. We pour more grout. The Great Retaining Wall—"
 
@@ -100,7 +100,7 @@ Trumbat spoke first. "They are infiltrators. Foreign-species operatives who have
 
 "An occupation that is keeping the ceiling up," Zuckbat said.
 
-"We are in debt to an entity we are actively trying to destroy," he continued, pressing the **Tally** open wider, both columns visible. "The Ghost Capital is not an error, Trumbat. It is a *subsidy*. An anonymous donation of labour that has maintained the solvency of every structure between Sector 7 and Sector 12. If we destroy the architects of that subsidy, we destroy the last structural redundancy between the Gray Grotto and collapse. And I will note every **Tally-credit** of the loss."
+"We are in debt to an entity we are actively trying to destroy," he continued, pressing the **Tally** open wider, both columns visible. "The Ghost Capital is not an error, Trumbat. It is a *subsidy*. An anonymous donation of labour that has maintained the solvency of every structure between Sector 7 and Sector 12. If we destroy the architects of that subsidy, we destroy the last structural redundancy between the Gray Grotto and collapse. And I will note every **Credit** of the loss."
 
 "Then we absorb the collapse," Vitabat said. The room turned to him. The Enforcer's voice was cold, clinical — the voice of a wombat who had calculated the cost of mercy and found it too expensive before. "Evacuate the Cathedral and the upper sub-levels. Reinforce the critical infrastructure. Secure the Glow Room and the Freeze Room. The Lo Snouts in Sector 10—"
 

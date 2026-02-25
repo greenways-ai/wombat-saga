@@ -30,7 +30,7 @@ Bash is a core member of the **Kappa Mu** initiation squad. While his nickname i
 
 *   **Bob Alastair:** His "High-Ground" identifiers.
 *   **Slater:** Identifies him as a master of the **Stone-Skimming** kinetic (low-altitude, high-velocity movement).
-*   **Hillrich:** Identifies him as part of the **Kinetic Tally-keepers** lineage (Small-Scale Kinetic Debt).
+*   **Hillrich:** Identifies him as part of the **Kinetic Keepers** lineage (Small-Scale Kinetic Debt).
 *   **The 2nd (II):** Denotes a "Succession of Impact." He is the second to carry this specific kinetic resonance.
 
 **The Role:**

@@ -64,7 +64,7 @@ This is also precisely why the Sovereigns fear the Jacaranda. They have built an
 
 The wombats' original wisdom — *Static is fire, necessary in proportion* — maps precisely onto the chakra system. Manipura (solar plexus, fire, power) is essential. The world needs structure, drive, the force that moves things. The catastrophe is not the presence of the fire frequency but its dominance at the expense of everything above it. A world running on Manipura alone is a world of pure extraction — drive without love, structure without flow, power without the heart frequency that would make power bearable.
 
-The Tally is the Manipura system fully realised: pure power, pure structure, pure debt. Every Songline it replaced was a higher-frequency record. Replacing Śruti with Tally-stones is replacing the throat, the third eye, and the crown with ledger entries.
+The Tally is the Manipura system fully realised: pure power, pure structure, pure debt. Every Songline it replaced was a higher-frequency record. Replacing Śruti with Tally-Stones is replacing the throat, the third eye, and the crown with ledger entries.
 
 ---
 

@@ -8,7 +8,7 @@
 
 | Mode | Book 1 Requirement | What It Looks Like | What It Does NOT Look Like |
 |------|-------------------|-------------------|---------------------------|
-| **Texture** | Dense, continuous | The drainage tunnel feels different after dancing. The Tally-stone has weight. Static behaves specifically in different environments. | Characters explaining what Static is or how it works |
+| **Texture** | Dense, continuous | The drainage tunnel feels different after dancing. The Tally-Stone has weight. Static behaves specifically in different environments. | Characters explaining what Static is or how it works |
 | **Fragments** | Sparse, careful | A line of Old Tongue nobody translates. A children's rhyme with mysterious words. A carved marking on tunnel walls. | Founding myths presented as complete texts with explanations |
 | **Rumors/Claims** | Central narrative engine | Three different accounts of the Jacaranda. Sovereign official history vs. Kappa Mu whispered version vs. what old wombats know. | Single authoritative backstory delivered by narrator |
 | **Oracle** | **ABSENT** | — | Tilanmaya, desert teachings, Maha-Tahto vocabulary, cosmological explanation |
@@ -126,9 +126,9 @@ For each Book 1 chapter, verify:
 
 ### The Drip Version (Correct)
 
-> The tunnel breathed different tonight. Hoebat pressed his paw to the clay and felt it—something the wailing had left, like warmth in stone that shouldn't hold warmth. Up above, the Censorate bells would be ringing soon, and the Tally-stones would drink their daily accounting. He didn't know why the dance made the drain feel friendly. Only that it did, and that the nights he didn't dance, the drain felt like any other hole in the ground.
+> The tunnel breathed different tonight. Hoebat pressed his paw to the clay and felt it—something the wailing had left, like warmth in stone that shouldn't hold warmth. Up above, the Censorate bells would be ringing soon, and the Tally-Stones would drink their daily accounting. He didn't know why the dance made the drain feel friendly. Only that it did, and that the nights he didn't dance, the drain felt like any other hole in the ground.
 
-**What it does**: Texture (drain feels different after dancing). Static economy present (Censorate bells, Tally-stones) without explanation. Three-species dynamic implied (Censorate as institutional presence). Founding practice (wailing) as felt behavior, not explained ritual.
+**What it does**: Texture (drain feels different after dancing). Static economy present (Censorate bells, Tally-Stones) without explanation. Three-species dynamic implied (Censorate as institutional presence). Founding practice (wailing) as felt behavior, not explained ritual.
 
 ---
 

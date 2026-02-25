@@ -14,7 +14,7 @@ Hoebat rolled his eyes. "The Council?"
 
 ---
 
-The deal was absolute. **Trumbat (The Grand Architect)** didn't offer the Karst-Mu money (**Tally-credits** hadn't been invented yet). He offered them the only thing a Defender actually wants: **Destiny.** And to honor their service, he promised them the **Golden Retirement**.
+The deal was absolute. **Trumbat (The Grand Architect)** didn't offer the Karst-Mu money (**Credits** hadn't been invented yet). He offered them the only thing a Defender actually wants: **Destiny.** And to honor their service, he promised them the **Golden Retirement**.
 
 "When the wall is set," Trumbat promised, his voice filled with the weight of prophecy, "you will never have to hold a ceiling again. Every Karst-Mu will receive a deed to a surface-level borow in the new Garden Districts—sectors so structurally sound that your children will think 'roof' is just another word for 'sky.' You will be given mates from the Soft-Earth clans—wombats with paws that have never known the stress of a fracture. You will raise families who sleep through the night without listening for the crack."
 

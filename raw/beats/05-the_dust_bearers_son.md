@@ -20,7 +20,7 @@
 
 - **Hoebat is eight.** Real tea that night — surface-farm tea, bought with margin work. Cornelibat watches the eucalyptus, not his son. Stories need room to move.
 - **Morribat:** Eastern deep grid, three generations back. She sat in tunnels, came out, told them where the water was headed. The guild paid per prediction. She was right every time. They didn't ask how — *the how is fragile, put a committee on the how and you lose the what.*
-- **The committee:** After her death: four certified Seam-Readers, three engineers, one High Auditor with a Tally-stone. Sixty years later. One report. Her phrase: *Statistically significant anecdotal evidence.* Her tunnels: still standing. Their tunnels: replaced at least twice each, some three times.
+- **The committee:** After her death: four certified Seam-Readers, three engineers, one High Auditor with a Tally-Stone. Sixty years later. One report. Her phrase: *Statistically significant anecdotal evidence.* Her tunnels: still standing. Their tunnels: replaced at least twice each, some three times.
 - **Cornelibat's delivery:** Not angry — past anger. The wrong is just true now. A feature of the landscape.
 - **Hoebat's response:** Paws flat against the clay floor. Has been doing this for two months. Finds something he has no word for yet — depth, patient, older than Melborow. Keeps trying. Cornelibat watches without comment. He has stories for this, but doesn't tell them.
 

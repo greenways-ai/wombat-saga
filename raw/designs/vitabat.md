@@ -6,7 +6,7 @@
 **Rap Style:** T.I.
 **Role:** The Imperial Collector (Board of Revenue).
 
-Vitabat has absorbed the aggression of the original Tatebat persona. He represents **Investment** in its most brutal form: *The Collection*. He manages the **Tally-Debt cycles** of Arnamland with an iron fist. He ensures that every **Tally-Advance** is repaid, either in currency or in "muscle memory."
+Vitabat has absorbed the aggression of the original Tatebat persona. He represents **Investment** in its most brutal form: *The Collection*. He manages the **Tally-Debt cycles** of Arnamland with an iron fist. He ensures that every **Advance** is repaid, either in currency or in "muscle memory."
 
 ### II. Visual and Functional Analysis
 

@@ -1,4 +1,4 @@
-# The Tally-Magistrate
+# The Magistrate
 
 *Once the Mnemo-Mu, Memory-Keepers who sang new tunnels into the Songlines. Now: the notcher of debts, the recorder of obligation, the one who removes a wombat's future with an obsidian stilus and calls it accounting.*
 
@@ -8,7 +8,7 @@
 
 **The Split-Stone:** The Magistrate's tool and burden. A tablet of dense, resonant stone, split along a natural fracture plane. The Council-Half remains in the Cathedral's vaults. The Debt-Half travels with the Magistrate, from burrow to burrow, from family to family.
 
-**The Notching:** When a Tally-Advance is issued—when a family receives Imperial Rations they cannot pay for, when a Corvée deferment is granted, when any debt is incurred—the Magistrate aligns the two halves and carves. The obsidian stilus bites into both surfaces simultaneously, creating a jagged notch that is identical on each half. The notch is physical, permanent, legible to any Magistrate who knows the code.
+**The Notching:** When a Advance is issued—when a family receives Imperial Rations they cannot pay for, when a Corvée deferment is granted, when any debt is incurred—the Magistrate aligns the two halves and carves. The obsidian stilus bites into both surfaces simultaneously, creating a jagged notch that is identical on each half. The notch is physical, permanent, legible to any Magistrate who knows the code.
 
 **The Interest:** The notch is always deeper than the roots are worth. This is not error—it is policy. The Magistrate carves to ensure the Tally is never balanced. The stone becomes fragile with too many notches, much like the family's hope.
 
@@ -16,7 +16,7 @@
 
 ## The Sensory World
 
-**Touch:** The Magistrate's paws are calloused from the stilus—not from labor, but from repetition. The same grip, the same pressure, the same motion thousands of times. The stone's texture is familiar—every variety, every density, every resonance. A Magistrate can identify a Tally-stone's quarry by touch, can feel the age of notches, can read the history of a family's debt through their fingers.
+**Touch:** The Magistrate's paws are calloused from the stilus—not from labor, but from repetition. The same grip, the same pressure, the same motion thousands of times. The stone's texture is familiar—every variety, every density, every resonance. A Magistrate can identify a Tally-Stone's quarry by touch, can feel the age of notches, can read the history of a family's debt through their fingers.
 
 **Sound:** The click of stone on stone. The particular resonance of a fresh notch—sharp, clear, final. The softer sound of older notches, worn smooth by handling. The Magistrate works in silence. The notching requires concentration. The sound of the work is the only music.
 
@@ -30,7 +30,7 @@
 
 **What Was:** The Mnemo-Mu memorized the Song of the Soil. They sang new tunnels into the Songlines—recorded not in stone but in resonance, in the collective memory of those who listened. They were narrators, historians, the voice of the earth's own memory.
 
-**What Is:** The Tally-Magistrate records obligation. They do not sing. They carve. The Songlines are silent, severed by the Grid Tunnels' Grout, drowned by the Frequency's hum. The Magistrate's work is not memory—it is prediction, the recording of futures that have not yet occurred but will be required to occur.
+**What Is:** The Magistrate records obligation. They do not sing. They carve. The Songlines are silent, severed by the Grid Tunnels' Grout, drowned by the Frequency's hum. The Magistrate's work is not memory—it is prediction, the recording of futures that have not yet occurred but will be required to occur.
 
 **The Trauma:** Some Magistrates remember. They were young when the transition happened, or they heard stories from their parents, or they found fragments of the old songs in the clay where the Mnemo-Mu once worked. They do their work efficiently. They do not think about what the notches mean. They do not think about the Mnemo-Mu.
 
@@ -38,7 +38,7 @@
 
 ## Daily Life
 
-**The Route:** The Magistrate travels a circuit—families to visit, debts to record, Tally-Advances to issue. The route is planned by Zuckbat's algorithm, optimized for efficiency, weighted by debt risk. The Magistrate does not choose where they go. They follow the route.
+**The Route:** The Magistrate travels a circuit—families to visit, debts to record, Advances to issue. The route is planned by Zuckbat's algorithm, optimized for efficiency, weighted by debt risk. The Magistrate does not choose where they go. They follow the route.
 
 **The Encounters:** Each visit follows protocol. Announcement at the burrow entrance. Inspection of the Debt-Half. Negotiation of need against obligation. The notching. The recording. The departure. The Magistrate is trained to be efficient, neutral, unmemorable. They are not cruel. Cruelty would be inefficient.
 
@@ -52,7 +52,7 @@
 
 **The Dream:** Some Magistrates dream of the Mnemo-Mu. They see themselves standing in the Root Cathedral, singing rather than carving, their voices joining the chamber's natural resonance rather than cutting against it. They wake to the Grout walls of their quarters, the Frequency's hum, the weight of the stilus in their paw. They do not speak of the dreams.
 
-**The Defense:** "I do not create the debt. I only record it. The families would starve without the Tally-Advance. I am providing a service. The notches are necessary. The system requires accuracy."
+**The Defense:** "I do not create the debt. I only record it. The families would starve without the Advance. I am providing a service. The notches are necessary. The system requires accuracy."
 
 ---
 

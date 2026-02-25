@@ -42,7 +42,7 @@ The professional landscape of Melborow is defined by inversion. Every functional
 
 **The Work:** Narration, history, the voice of the earth's own memory. Records kept not in stone but in resonance, in the collective memory of those who listened.
 
-**The Inversion:** [[the-tally-magistrate|The Tally-Magistrate]] — Notchers of debt, recorders of obligation.
+**The Inversion:** [[the-tally-magistrate|The Magistrate]] — Notchers of debt, recorders of obligation.
 
 ---
 
@@ -60,7 +60,7 @@ The professional landscape of Melborow is defined by inversion. Every functional
 
 **The Work:** Education, transmission of embodied knowledge. The Loom-Mu taught not rules but feel—how to read the substrate, how to respond to its signals, how to build by understanding rather than imposing.
 
-**The Inversion:** **The Tally-Clerk** — Manages "Labor Variances" and ensures every wombat is registered.
+**The Inversion:** **The Clerk** — Manages "Labor Variances" and ensures every wombat is registered.
 
 ---
 
@@ -180,7 +180,7 @@ The foundation of Melborow's economy—the conversion of Static into Grout:
 | **1. Harvesting** | **Dingoes** | Scavengers | Sifting Slop-Pits for Static-ore | Filtered Frequency & Water |
 | **2. Refining** | **Koalas** | Alchemists | Extracting Lyptus-Resins | Institutional Protection |
 | **3. Compressing** | **Kangaroos** | Kinetic Engines | Friction Engine crushing | Territorial Deeds |
-| **4. Pouring** | **Wombats** | Laborers | Mixing, Corvée | Tally-Advances |
+| **4. Pouring** | **Wombats** | Laborers | Mixing, Corvée | Advances |
 
 ---
 
@@ -188,7 +188,7 @@ The foundation of Melborow's economy—the conversion of Static into Grout:
 
 | Occupation | Texture of Work | Fragment | Contested Claim |
 |------------|-----------------|----------|-----------------|
-| Tally-Magistrate | Stone-dust, obsidian bite, split-stone alignment | Mnemo-Mu songs almost remembered | "Recording debt" vs. "removing future" |
+| Magistrate | Stone-dust, obsidian bite, split-stone alignment | Mnemo-Mu songs almost remembered | "Recording debt" vs. "removing future" |
 | Grout-Engineer | Slurry's cold slick, setting Grout's whine | Golden seams in old tunnels | "Progress" vs. "paving over life" |
 | Frequency-Dancer | Costume's heat, synthetic light, identical repetition | Improvised variations (corrected) | "Artistic pinnacle" vs. "dead spectacle" |
 | Censorate Listener | Bell's vibration, scent-markers, white light | Old songs heard but not reported | "Protecting harmony" vs. "eliminating culture" |

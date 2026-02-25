@@ -26,12 +26,12 @@ The High Noses have transformed from community liaisons into a rigid **Imperial 
 
 ### 1. The Board of Revenue (*Hu-bu*) — Masters of the Tally
 Led by **Vitabat** and **Zuckbat**, this board manages the census, the root-tribute, and **the Tally**. 
-*   They treat every wombat as a "Labor Asset" on a Tally-stone. 
-*   They issue **Tally-Advances** (Imperial Rations from the Imperial Granary) to survive the droughts of compassion.
+*   They treat every wombat as a "Labor Asset" on a Tally-Stone. 
+*   They issue **Advances** (Imperial Rations from the Imperial Granary) to survive the droughts of compassion.
 
 ### 2. The Board of Works (*Gong-bu*) — Architects of the Grout-Tide
 Led by **Trumbat**, this board oversees the construction of the Great Retaining Wall and the "Grid Tunnels."
-*   They manage the **Corvée Labor** (forced labor). If a wombat cannot pay their Tally-debt, they are drafted into the Board of Works to dig until the debt is "cleared."
+*   They manage the **Corvée Labor** (forced labor). If a wombat cannot pay their Tally-Debt, they are drafted into the Board of Works to dig until the debt is "cleared."
 
 ### 3. The Censorate (*Ducha-yuan*) — Listeners of Harmonic Vigilance
 These officials carry resonance-tuned bells and monitor the tunnels for **"Dissonant Noise."** 
@@ -53,7 +53,7 @@ The Tally was not always an instrument of oppression. Its history is a three-sta
 ### 2. The Split-Stone
 *   **The Council-Half:** Kept in the high vaults of the Cathedral.
 *   **The Debt-Half:** Held by the Lo-Snout family.
-*   **The Notching:** When a **Tally-Advance** is issued, a Magistrate carves a jagged notch into both halves. **Tally-Debt** is the physical removal of a wombat's future.
+*   **The Notching:** When a **Advance** is issued, a Magistrate carves a jagged notch into both halves. **Tally-Debt** is the physical removal of a wombat's future.
 
 ### 3. The Imperial Interest
 The Magistrate carves the notch deeper than the roots are worth. This ensures the Tally is never balanced. The stone becomes fragile, much like the family's hope.
@@ -69,10 +69,10 @@ The 5 Sovereigns who sit in the highest, most resonant chamber. They contemplate
 The Elite who pay for **"Clean Signal."** They live in the "Upper Burrows," insulated by thick grout walls that block out the raw Static. They believe their comfort is a sign of their "Virtue."
 
 ### 3. The Fixed (Local Magistrates)
-The "Father and Mother" officials assigned to rule over Lo-Snout family burrows. They settle disputes and collect the Tally-tribute, often skimming Arnam for their own Silent Sanctuaries.
+The "Father and Mother" officials assigned to rule over Lo-Snout family burrows. They settle disputes and collect the Tribute, often skimming Arnam for their own Silent Sanctuaries.
 
 ### 4. The Lo-Snouts (The Peasants / Corvée Laborers)
-The laborers who are exposed to **"Raw Static."** They are the ones who dig the Wall to pay off the notches on their Tally-stones. Their erratic behavior (caused by the noise) is used to justify their "re-education" by the Censorate.
+The laborers who are exposed to **"Raw Static."** They are the ones who dig the Wall to pay off the notches on their Tally-Stones. Their erratic behavior (caused by the noise) is used to justify their "re-education" by the Censorate.
 
 ---
 
@@ -81,7 +81,7 @@ The **Great Retaining Wall** is the Emperor's vanity project and a geological da
 
 **1. From Puddles to Reservoirs (The Storage Crisis):**
 The Council forced the consolidation of family "Puddles" into massive, centralized **Imperial Arnam Reservoirs** (Mega-Pools).
-*   **The Tally Connection:** You borrow your own ancestral water as a **Tally-Loan**.
+*   **The Tally Connection:** You borrow your own ancestral water as a **Advance**.
 
 **2. The Wall as Anchor:**
 The heavy grout of the Wall compresses the soil around these volatile "Mega-Pools" to prevent a Liquefaction Event. It stabilizes the ground but prevents the land from "breathing," sealing the Arnam beneath gigatons of dead stone.
@@ -116,7 +116,7 @@ The Cathedral serves as a **Golden Cage** to domesticate the elite.
 ### 3. The Corvée (The Body Tax)
 The Imperial structure is funded by the **Corvée Labor** of the Lo Snouts.
 *   **The Extraction:** While the High Noses are "exempt" due to their "spiritual purity," the Lo Snouts owe their bodies to the **Board of Works**.
-*   **Labor Service:** Every notch on a Tally-stone is a day of unpaid work on the Great Retaining Wall. It is a "Body Tax" that ensures the poor maintain the infrastructure used to keep them imprisoned.
+*   **Labor Service:** Every notch on a Tally-Stone is a day of unpaid work on the Great Retaining Wall. It is a "Body Tax" that ensures the poor maintain the infrastructure used to keep them imprisoned.
 
 ### 4. Venality (The Sale of Status)
 In times of crisis, the Council practices **Venality**—the sale of filtered frequencies and "Imperial Degrees." High Noses can "buy" a more refined signal or a higher rank in the Bureaucracy, effectively turning the spiritual connection to the Star into a transactional commodity.
@@ -140,9 +140,9 @@ The professional landscape of Melborow is defined by the **Great Descent**. Ever
 
 | Traditional Role | Modern Imperial Position | Shift in Nature |
 | :--- | :--- | :--- |
-| **The Mnemo-Mu:** "Memory-Keepers" who memorized the "Song of the Soil" and sang new tunnels into the Songlines. | **The Tally-Magistrate:** Uses an obsidian stilus to notch debts into Tally-stones. | From **Narration** to **Accounting**. |
+| **The Mnemo-Mu:** "Memory-Keepers" who memorized the "Song of the Soil" and sang new tunnels into the Songlines. | **The Magistrate:** Uses an obsidian stilus to notch debts into Tally-Stones. | From **Narration** to **Accounting**. |
 | **The Aquifer-Mu:** "Spring-Seekers" who smelled the movement of water through stone to find new "Well-Field" sites. | **The Metering Official:** Monitors valves and taxes every drop of moisture from the Mega-Pools. | From **Discovery** to **Extraction**. |
-| **The Loom-Mu:** "Thread-Weavers" who taught joeys how to feel the "Pillow" of the earth and pack clay by intuition. | **The Tally-Clerk:** Manages "Labor Variances" and ensures every wombat is registered. | From **Teacher** to **Monitor**. |
+| **The Loom-Mu:** "Thread-Weavers" who taught joeys how to feel the "Pillow" of the earth and pack clay by intuition. | **The Clerk:** Manages "Labor Variances" and ensures every wombat is registered. | From **Teacher** to **Monitor**. |
 
 ### Tier 3: The Architects of Space (The Builders)
 *Traditionally the masters of negative space; now the pourers of the cage.*
@@ -186,7 +186,7 @@ The foundation of Melborow is not stone; it is **The Frequency Trade**. This is 
 | **1. Harvesting** | **Dingoes** | **Scavengers** | Sifting Slop-Pits for high-density Static "ore." | Filtered Frequency & Water Access. |
 | **2. Refining** | **Koalas** | **Alchemists** | Extracting Lyptus-Resins to bind the volatile Static. | Institutional Protection & Lab Autonomy. |
 | **3. Compressing** | **Kangaroos** | **Kinetic Engines** | Using the Friction Engine to crush Static into blocks. | Territorial Deeds & Corvée Exemption. |
-| **4. Pouring** | **Wombats** | **Laborers** | Mixing the components and performing the Corvée. | Tally-Advances (Imperial Rations). |
+| **4. Pouring** | **Wombats** | **Laborers** | Mixing the components and performing the Corvée. | Advances (Imperial Rations). |
 
 ### The Irony of the Trade
 To build "Safety" (The Wall), the Sovereigns must harvest "Danger" (The Static). Every foot of Grout added to the city requires more human noise to be harvested, ensuring that the world outside the Cathedral becomes increasingly toxic to sustain the "purity" within.

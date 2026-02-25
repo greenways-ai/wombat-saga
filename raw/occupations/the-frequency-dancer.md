@@ -32,7 +32,7 @@
 
 **What Is:** The Frequency-Dancer performs for observation. Their movement is choreographed, rehearsed, identical from performance to performance. They dance in the Cathedral's resonant stone, elevated, separated from the substrate by floors of Grout. The performance is spectacle—the body as display, the movement as advertisement for a harmony that does not exist.
 
-**The Trauma:** Some Dancers remember, or sense, the difference. Their bodies know that the Spiral-Step should vary, should respond, should be alive. They feel the wrongness of identical repetition, the deadness of performance without function. They dance anyway. The costumes are expensive. The training is extensive. The alternatives are the Corvée, the Grotto, the Tally-debt.
+**The Trauma:** Some Dancers remember, or sense, the difference. Their bodies know that the Spiral-Step should vary, should respond, should be alive. They feel the wrongness of identical repetition, the deadness of performance without function. They dance anyway. The costumes are expensive. The training is extensive. The alternatives are the Corvée, the Grotto, the Tally-Debt.
 
 ---
 

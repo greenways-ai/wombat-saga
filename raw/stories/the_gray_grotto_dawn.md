@@ -51,7 +51,7 @@ The Gray Grotto Marketplace woke in stages, like a creature reluctant to face it
 
 First came the root-sellers. They arrived before dawn because the roots were freshest when pulled in the dark — a superstition that happened to be true, because sunlight (or the closest equivalent that filtered through the ventilation shafts) caused the sugars to retract into the deeper tendrils. The sellers arranged their wares on flat stones worn smooth by generations of commerce: ginger-roots twisted into arthritic knots, turmeric stumps that stained their paws yellow, and the prized **sweet-tap** — a thumb-thick rootlet that tasted of honey and eucalyptus and was the last organic connection to the **[[../locations#The Eucalyptus Groves|Eucalyptus Groves]]** that most Lo Snouts would ever experience.
 
-Sweet-tap was expensive. Three **Tally-credits** for a single finger-length. The sellers handled it with the reverence of jewellers, wrapping each piece in damp moss to preserve the moisture.
+Sweet-tap was expensive. Three **Credits** for a single finger-length. The sellers handled it with the reverence of jewellers, wrapping each piece in damp moss to preserve the moisture.
 
 "Used to grow wild," muttered Old Peg, a root-seller who claimed to remember the time before the **[[../lore#The New Ways (The Melborow Frequency)|Melborow Frequency]]**. "You'd just reach into the wall and pull. Didn't cost nothing. The earth *gave*."
 
@@ -147,6 +147,6 @@ It was always a Tuesday.
 * [[../meta_narrative|meta_narrative.md]] — The Broadcast of Silence, Bureaucratic Numbness, the Great Calcification
 * [[../storyline|storyline.md]] — Hoebat's Secret Repairs, the skyscraper foundation crisis
 * [[../locations|locations.md]] — The Gray Grotto, the Marketplace, the Cathedral
-* [[../characters/vitabat/the_trust_protocol|the_trust_protocol.md]] — The debt economy and Tally-credits
+* [[../characters/vitabat/the_trust_protocol|the_trust_protocol.md]] — The debt economy and Credits
 * [[../stories/the_freeze_room_audit|the_freeze_room_audit.md]] — The Ghost Capital revelation
 * [[../plot/the_great_thirst|the_great_thirst.md]] — The sequence of the Drought

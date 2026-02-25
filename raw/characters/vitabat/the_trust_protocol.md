@@ -61,7 +61,7 @@ He unveiled his solution: **The Trust Protocol**.
 Desperate and starving, the wombats signed.
 They stopped wailing at the sky and started digging for the Tally.
 
-The Nico Star didn't exactly brighten, but Vitabat's reservoir filled up. He rationed the water. He distributed **Tally-Advances** of **Imperial Rations**. He created a system where a wombat could eat today by promising to dig twice as deep tomorrow.
+The Nico Star didn't exactly brighten, but Vitabat's reservoir filled up. He rationed the water. He distributed **Advances** of **Imperial Rations**. He created a system where a wombat could eat today by promising to dig twice as deep tomorrow.
 
 He saved them from the **Loss of Trust** by replacing it with the **obligation of Tally-Debt**.
 

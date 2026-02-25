@@ -50,5 +50,5 @@
 *   **Rap Style:** Immortal Technique.
 *   **Role:** The Silent Observer / The Censor.
 *   **Appearance:** Barely visible face, eyes scrolling with data. Wears a dark green hoodie with math equations glowing out of pockets.
-*   **Function:** He manages the physical **Tally-stones**. He records every movement and every "Dissonant Noise." He is the omnipresent eyes of the Imperial Bureaucracy.
-*   **Tool:** The obsidian-tipped stilus, used to carve notches into the Tally-stones.
+*   **Function:** He manages the physical **Tally-Stones**. He records every movement and every "Dissonant Noise." He is the omnipresent eyes of the Imperial Bureaucracy.
+*   **Tool:** The obsidian-tipped stilus, used to carve notches into the Tally-Stones.

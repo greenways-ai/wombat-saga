@@ -62,7 +62,7 @@ I see the omissions, the tactical silences, Trumbat is preaching his spiritual v
 He’s painting the Dingoes as demons and essences, while he’s the one digging the hollowed-out presences,
 I got the Siddhi, the Obsidian Sight,
 I see the hole in the middle of the light,
-You’re counting your **Tally-credits**? That’s a cute fight,
+You’re counting your **Credits**? That’s a cute fight,
 I’m counting the atoms that keep the roof tight!
 Merl’s on the ground, Cooroo’s in the air,
 Hoebat is packing the cracks with a prayer,

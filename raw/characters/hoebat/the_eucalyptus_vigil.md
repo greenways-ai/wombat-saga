@@ -42,7 +42,7 @@ Tonight he was not alone.
 
 He heard her before he saw her. Lolaboo walked the way she talked — with intent, her footfalls carrying the weight of someone who had decided that if the earth was going to hear her, she would give it something worth listening to. She came through the tree-line from the south, pausing at each trunk to press her paw against the bark the way Hoebat had taught her — a greeting, a check, a habit that had become a ritual.
 
-"Zuckbat's **Tally-magistrates** are asking about the North-West Pillar," she said.
+"Zuckbat's **Magistrates** are asking about the North-West Pillar," she said.
 
 No preamble. Lolaboo didn't believe in preamble. Preamble was what **[[../../characters/muskbat/lolabo-recruitment|Muskbat]]** used to fill the space between his lies.
 

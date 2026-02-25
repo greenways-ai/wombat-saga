@@ -224,7 +224,7 @@ Muskbat's synthetic Arnam-substitute. Mimics the comfort of the real signal whil
 - **Grand Council** — Five Sovereigns, clean signal, highest chambers
 - **High Noses (Wombaram)** — priestly-administrative class, filtered frequency
 - **Fixed Borow officials** — local magistrates, tribute collectors
-- **Lo Snouts** — exposed to raw Static, Tally-obligated, Corvée-liable
+- **Lo Snouts** — exposed to raw Static, obligated, Corvée-liable
 - **Ghost-Diggers** — off-Tally, unauthorized repairers, untaxable
 - **The Outlawed** — Hangbat class: the ones who know too much and are declared mad
 

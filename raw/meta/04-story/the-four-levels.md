@@ -97,7 +97,7 @@ The physics must be legible in the world before it is named by anyone.
 
 The craft principle at Level 3: **the world's physics must be expressed through behavior, texture, and consequence — never through statement**. The narrative never says "this is because of resonance." The narrative shows the world behaving in ways that are consistent with resonance physics, specifically enough that the reader builds the model themselves.
 
-This is the hardest level to execute. It requires the author to know the physics well enough to embed it in the world's behavior at every scale — in the way the drainage tunnels feel, in the quality of the Tally-stone's weight in the hand, in the specific way the Censorate's resonance bells make the air feel wrong, in the difference between what the Static does to Kangaroos versus Koalas versus Wombats.
+This is the hardest level to execute. It requires the author to know the physics well enough to embed it in the world's behavior at every scale — in the way the drainage tunnels feel, in the quality of the Tally-Stone's weight in the hand, in the specific way the Censorate's resonance bells make the air feel wrong, in the difference between what the Static does to Kangaroos versus Koalas versus Wombats.
 
 The test: a physicist or systems ecologist who has never heard of the Maha-Tahto should be able to read the Saga and feel that the world operates according to coherent underlying principles — that there is a physics here, even if the story never names it. If they feel the world is arbitrary or magical in the dismissive sense, Level 3 has failed.
 

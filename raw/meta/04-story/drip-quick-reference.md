@@ -132,7 +132,7 @@ Every scene needs at least one element from each column:
 
 | Physical Texture | Emotional Texture | Cultural Texture |
 |-----------------|-------------------|------------------|
-| Clay, drain water, Tally-stone weight | Grief, humor, fear, stubbornness | Fragment of song, unexplained gesture, place name |
+| Clay, drain water, Tally-Stone weight | Grief, humor, fear, stubbornness | Fragment of song, unexplained gesture, place name |
 | Sound of bells, quality of air | Performance vs. presence | Old Tongue phrase, children's rhyme |
 | Static's specific effect on environment | Connection vs. isolation | Reference to event the story won't show |
 

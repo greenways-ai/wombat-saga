@@ -20,7 +20,7 @@
 **Tactical Note:** The repairs remain the only thing preventing immediate structural collapse of Sectors 7-12. Their exposure does not change this fact.
 
 ### 3. Operation "Cloud-Break" (Infiltration / PENDING)
-**Objective:** Infiltrate and dismantle the Koala-run Eucalyptus Lab to sever the supply chain of **Tally-credits**.
+**Objective:** Infiltrate and dismantle the Koala-run Eucalyptus Lab to sever the supply chain of **Credits**.
 **Status:** PENDING — deferred due to Wall crisis. Lab remains operational. Muskbat continues to source synthetic Arnam from Koala refiners.
 **Tactical Note:** Cloud-Break is strategically important but not time-critical. The Wall is both.
 

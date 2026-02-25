@@ -28,13 +28,13 @@ Every time the Sovereigns play it — *this is a wombat matter, these are wombat
 
 It is a real card with real effect. It works on Lo Snouts who distrust Dingoes from the enforcement relationship, who remember Kangaroo mob violence at the pools, who have no evidence that other species care about the Tally. It frames five-species unity as the selling out of wombat identity. It uses genuine grievances — Kangaroos controlling Static, Dingoes doing the Council's enforcement — to drive species apart. It positions inter-species solidarity as foreign interference in a domestic matter.
 
-But it cannot ultimately work on a Lo Snout whose Tally-stone is cracking.
+But it cannot ultimately work on a Lo Snout whose Tally-Stone is cracking.
 
 You cannot tell someone their wombat identity is precious while notching their debt deeper. Species pride is a comfort that requires enough comfort to afford. Below a certain level of suffering, help is help regardless of what species brings it. The Sovereigns' base — the High Noses, the Fixed officials, the Wombaram — can afford species pride. The Lo Snouts they are appealing to in this move mostly cannot.
 
 And every time the card is played it confirms what it was designed to deny: that the Sovereigns have no reach beyond wombat society. The nationalist argument is what you make when you have run out of universal ones. The card is an admission of limit. A power that truly extended across all five communities would not need to frame those communities as threats to wombat identity — it would simply govern them. The Sovereigns cannot govern them. So they warn against them instead.
 
-Hoebat does not need to answer this card directly. The Lo Snout with the cracking Tally-stone answers it by accepting help from wherever it comes.
+Hoebat does not need to answer this card directly. The Lo Snout with the cracking Tally-Stone answers it by accepting help from wherever it comes.
 
 ---
 
@@ -140,7 +140,7 @@ By the time the Sovereigns understand that the edges are the threat, the Fractal
 
 The Sovereigns will narrate a version of events in which they were always in control. Trumbat will say the Wall was always the cradle. Tatebat will say the movement was always his successor project. Both narratives will find audiences. Official history will contain them.
 
-What official history will not contain: the Lo Snout family whose Tally-stone was cracking and received help from a Dingo who didn't have to help. The Galah that mapped the Censorate's movement forty minutes before it arrived. The Emu path that stayed open when everything else was sealed. The Kangaroo mob that looked the other way on a Tuesday morning.
+What official history will not contain: the Lo Snout family whose Tally-Stone was cracking and received help from a Dingo who didn't have to help. The Galah that mapped the Censorate's movement forty minutes before it arrived. The Emu path that stayed open when everything else was sealed. The Kangaroo mob that looked the other way on a Tuesday morning.
 
 The Sovereigns play wombat only cards in a world that was never only wombat. That was always their mistake. They built a system that forgot what the world was before they built it — one integrated ecosystem, every species in its function, all of it connected.
 

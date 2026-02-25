@@ -26,11 +26,11 @@ His mob was small. Twelve adults, five juveniles, a roaming territory that cover
 
 The trouble started with the Water Rights.
 
-**[[../../characters/antagonists#Trumbat (The Grand Architect)|Trumbat]]** — or rather, Trumbat's bureaucrats, the faceless clerks who transformed rhetoric into regulation — had declared that the water holes along the Southern Corridor were "Strategic Infrastructure Assets" requiring "Sovereign Access Permits." The permits cost Tally-credits that emus did not have, because emus did not participate in Vitabat's **Tally-Debt** economy. They drank when they were thirsty. They moved when the water moved. The concept of *owning* water was as alien to them as the concept of standing still.
+**[[../../characters/antagonists#Trumbat (The Grand Architect)|Trumbat]]** — or rather, Trumbat's bureaucrats, the faceless clerks who transformed rhetoric into regulation — had declared that the water holes along the Southern Corridor were "Strategic Infrastructure Assets" requiring "Sovereign Access Permits." The permits cost Credits that emus did not have, because emus did not participate in Vitabat's **Tally-Debt** economy. They drank when they were thirsty. They moved when the water moved. The concept of *owning* water was as alien to them as the concept of standing still.
 
 The mob ignored the permits. They drank anyway.
 
-The Enforcement came at dawn. Not soldiers — Vitabat's enforcement crew were still being drilled in the Cathedral at that point — but surveyors. Wombats with measuring sticks and Tally-stones who staked claims around the water holes and posted signs in a language emus couldn't read, written in a script designed for paws, not feet.
+The Enforcement came at dawn. Not soldiers — Vitabat's enforcement crew were still being drilled in the Cathedral at that point — but surveyors. Wombats with measuring sticks and Tally-Stones who staked claims around the water holes and posted signs in a language emus couldn't read, written in a script designed for paws, not feet.
 
 "You are trespassing on Sovereign Water," the lead surveyor told Merl's mother.
 

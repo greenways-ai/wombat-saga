@@ -2,7 +2,7 @@
 
 <!--
 BONUS IMAGE PROMPT: Chapter Cover Image
-Cross-section of Melborow underground: above, the grid-tunnel academy corridors with Grout-sealed walls and formula-straight bores. Below, the unlicensed Dead Zone tunnels — curved, organic, running by feel. In the middle: the springline, already compromised, water finding the fault. Hoebat and Barnabat working in the lower section, backs to what's coming. The Tally-stone and the High Auditor's face ghosted in one corner. Tagline: "The Dead Zones." Style: cross-section architecture, dual-world contrast, disaster foreshadowing, institutional betrayal.
+Cross-section of Melborow underground: above, the grid-tunnel academy corridors with Grout-sealed walls and formula-straight bores. Below, the unlicensed Dead Zone tunnels — curved, organic, running by feel. In the middle: the springline, already compromised, water finding the fault. Hoebat and Barnabat working in the lower section, backs to what's coming. The Tally-Stone and the High Auditor's face ghosted in one corner. Tagline: "The Dead Zones." Style: cross-section architecture, dual-world contrast, disaster foreshadowing, institutional betrayal.
 -->
 
 ### The One Who Waited
@@ -314,10 +314,10 @@ I went into the office.
 
 <!--
 IMAGE PROMPT 10: The Auditor
-The Principal's office. A High Auditor from the Cathedral sits across from Hoebat. Tally-stone in one paw — perfectly clear, already decided. A witness statement on the table between them. The language is too precise for a fifteen-year-old to have written. Hoebat looks at the statement, then the Auditor, then the door. The calculation happening in real time. Style: institutional betrayal, power imbalance, cold light, formal setting, the weight of the wrong conclusion.
+The Principal's office. A High Auditor from the Cathedral sits across from Hoebat. Tally-Stone in one paw — perfectly clear, already decided. A witness statement on the table between them. The language is too precise for a fifteen-year-old to have written. Hoebat looks at the statement, then the Auditor, then the door. The calculation happening in real time. Style: institutional betrayal, power imbalance, cold light, formal setting, the weight of the wrong conclusion.
 -->
 
-The Principal's office smelled of Safety Grout and paperwork. A High Auditor from the Cathedral sat across from me with a Tally-stone in his paw. He had not put it down since he arrived.
+The Principal's office smelled of Safety Grout and paperwork. A High Auditor from the Cathedral sat across from me with a Tally-Stone in his paw. He had not put it down since he arrived.
 
 The stone was perfectly clear. Clear stones are supposed to be undecided.
 

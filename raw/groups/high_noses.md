@@ -96,7 +96,7 @@ The [[../characters/antagonists|Five Sovereigns]] are the supreme masters of the
 
 *   **VITABAT (The Enforcer)**
     *   **Origin:** **Dhal-iki** (Synthetic Diviner).
-    *   **The Void:** He was not a Dhal-Mu (Water-Reader). He was raised in the Tahl-iki hydroponic vats. He doesn't know water as a flow; he knows it as a pipe. His "Enforcement" is the hydraulic pressure of a closed system. He manages the **Tally-Advances** of **Imperial Rations**, turning food into a chain.
+    *   **The Void:** He was not a Dhal-Mu (Water-Reader). He was raised in the Tahl-iki hydroponic vats. He doesn't know water as a flow; he knows it as a pipe. His "Enforcement" is the hydraulic pressure of a closed system. He manages the **Advances** of **Imperial Rations**, turning food into a chain.
     *   **Domain:** Investment (Water).
 
 *   **TATEBAT (The Pimp)**

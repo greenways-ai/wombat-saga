@@ -10,7 +10,7 @@ I grew up in the Eucalyptus Groves because the Council had not yet decided they 
 
 This was not mercy. It was bookkeeping. The Groves lay at the junction of two administrative sectors, each claiming jurisdiction and neither accepting the cost of grouting such unruly terrain. So the stringybarks remained — thirty-seven of them, their bark shedding in long strips that curled like burnt paper, like messages written and immediately regretted. Their roots still drank from a fault line in the bedrock where the water remembered how to taste of something other than Chemical Safety.
 
-My father was Cornelibat. Before the exile, he had been a Tally-Magistrate — an official auditor who measured soil in columns and debt in tonnes, who filed reports in triplicate and believed, with the fervent faith of the newly converted, that the world could be made safe through proper documentation.
+My father was Cornelibat. Before the exile, he had been a Magistrate — an official auditor who measured soil in columns and debt in tonnes, who filed reports in triplicate and believed, with the fervent faith of the newly converted, that the world could be made safe through proper documentation.
 
 Then he showed compassion where compassion wasn't budgeted.
 

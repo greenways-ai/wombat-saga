@@ -58,7 +58,7 @@
 > There’s a price for the air you breathe and a tax on the words you say.
 > Muscle memory is currency, and I’m here to collect the rent,
 > Every calorie you burn in this borow is energy that I have lent.
-> Violence is just an audit, a correction of the **Tally-stone**,
+> Violence is just an audit, a correction of the **Tally-Stone**,
 > I freeze the assets of the weak to keep the system on its feet.
 > Don't talk to me about mercy, that’s a resource we can't afford,
 > I’m the shark in the water tank, and the **Tally** is my sword."
@@ -70,7 +70,7 @@
 > "The roots touch everything in the dark, tangling with the secrets you keep.
 > I count the breaths you take in the morning and the twitches while you sleep.
 > It’s lonely being the memory of a city that is trying to forget,
-> Cataloging every broken promise and every unpaid **Tally-debt**.
+> Cataloging every broken promise and every unpaid **Tally-Debt**.
 > I am the moss on the stone, the fungus feeding on the decay,
 > Watching the history of Melborow slowly rot away.
 > Information is a burden, a heavy map of every mistake,

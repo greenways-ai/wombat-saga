@@ -10,7 +10,7 @@ We lived in a traditional burrow on the margin. The Eucalyptus Groves — that t
 
 Dad's name was Cornelibat.
 
-He'd been a **Tally-magistrate** once — an official auditor of the Fixed Borow authority, monocle and all, someone who measured soil in columns and debt in tonnes. Then he'd done something the system couldn't forgive: he'd seen value in a living thing that the **Tally** had no notch for. He'd shown compassion where compassion wasn't budgeted. They stripped his monocle and exiled him to the "Wider Arnam," which is the Council's polite way of saying *we're throwing you away but we'd like you to feel spiritual about it.*
+He'd been a **Magistrate** once — an official auditor of the Fixed Borow authority, monocle and all, someone who measured soil in columns and debt in tonnes. Then he'd done something the system couldn't forgive: he'd seen value in a living thing that the **Tally** had no notch for. He'd shown compassion where compassion wasn't budgeted. They stripped his monocle and exiled him to the "Wider Arnam," which is the Council's polite way of saying *we're throwing you away but we'd like you to feel spiritual about it.*
 
 He never told me this directly. I learned it the way you learn most important things in a wombat household — through the architecture of what isn't said. Through the way he flinched when anyone mentioned the Fixed Borow. Through the rigid orthodoxy he wore like armour afterward, the desperate need to prove he was still respectable, still structural, still a creature who could be trusted with load-bearing responsibilities. He'd been burned once for feeling too much. He spent the rest of his life making sure the temperature never rose again.
 

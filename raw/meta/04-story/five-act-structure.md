@@ -21,7 +21,7 @@ The world is not in crisis. It is in stasis. The Static economy functions. The s
 
 ### Hoebat's Arc
 
-A young wombat runs away from home — from a world of compliance, of Tally-debt accepted as natural, of his father's silence in the face of what silence costs. He is not yet formed. He is just gone.
+A young wombat runs away from home — from a world of compliance, of Tally-Debt accepted as natural, of his father's silence in the face of what silence costs. He is not yet formed. He is just gone.
 
 He finds the drainage vault. He finds Hangbat.
 
@@ -174,9 +174,9 @@ Hangbat becomes a supporter. And he tells Hoebat everything he has been withhold
 
 ### The World Under Strain
 
-The Sovereigns, having failed to suppress the movement by force and failed to absorb it through co-optation, move to what they have always had: the instruments of grinding economic and social pressure. Not dramatic suppression — sustained attrition. The Corvée draft increases in Lo Snout communities that have shown sympathy. The Frequency is tightened in specific tunnel sections until manageable fight-or-flight tips toward something that looks like madness. The Tally-stone of anyone known to have sheltered a Kappa Mu member is notched deeper. Not arrests. Exhaustion. The system making ordinary life slightly more impossible, incrementally, without announcement.
+The Sovereigns, having failed to suppress the movement by force and failed to absorb it through co-optation, move to what they have always had: the instruments of grinding economic and social pressure. Not dramatic suppression — sustained attrition. The Corvée draft increases in Lo Snout communities that have shown sympathy. The Frequency is tightened in specific tunnel sections until manageable fight-or-flight tips toward something that looks like madness. The Tally-Stone of anyone known to have sheltered a Kappa Mu member is notched deeper. Not arrests. Exhaustion. The system making ordinary life slightly more impossible, incrementally, without announcement.
 
-Real losses accumulate. Not martyrs — the Sovereigns are too sophisticated for martyrdom, which gives movements their saints. Just families whose Tally-debt is now impossible. Just children who will grow up in the Corvée. Just the specific weight of having supported something and paid for it without choosing to be a symbol.
+Real losses accumulate. Not martyrs — the Sovereigns are too sophisticated for martyrdom, which gives movements their saints. Just families whose Tally-Debt is now impossible. Just children who will grow up in the Corvée. Just the specific weight of having supported something and paid for it without choosing to be a symbol.
 
 ### The Five-Species Network — Under Pressure
 

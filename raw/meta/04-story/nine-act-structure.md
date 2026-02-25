@@ -106,7 +106,7 @@ He cannot fully answer.
 
 **Dramatic Question:** What is the movement actually working toward, and can Hoebat live with the answer?
 
-**The World Under Strain:** The Sovereigns apply sustained attrition. Corvée drafts increase. Tally-stones of sympathizers notched deeper. Real losses accumulate—families broken, children drafted.
+**The World Under Strain:** The Sovereigns apply sustained attrition. Corvée drafts increase. Tally-Stones of sympathizers notched deeper. Real losses accumulate—families broken, children drafted.
 
 **The Five-Species Network—First Test:** Each thread tested at weakest point:
 - **Cooroo's mapping** disrupted—early warning fails.

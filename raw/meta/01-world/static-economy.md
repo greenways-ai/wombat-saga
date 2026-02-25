@@ -106,7 +106,7 @@ The four-stage industrial process that converts raw Static into Safety Grout:
 | **1. Harvesting** | Dingoes | Sifting Slop-Pit margins for high-density ore | Static access, filtered Frequency |
 | **2. Refining** | Koalas | Lyptus-resin extraction, binding volatile Static | Institutional protection, lab autonomy |
 | **3. Compressing** | Kangaroos | Mob kinetic labour — hammering ore into dense blocks | Territorial acknowledgment, Corvée exemption |
-| **4. Pouring** | Wombats | Mixing components, performing the Corvée, building the Wall | Tally-Advances (Imperial Rations) |
+| **4. Pouring** | Wombats | Mixing components, performing the Corvée, building the Wall | Advances (Imperial Rations) |
 
 **The core irony:** Safety Grout is sold to the population as protection — the Wall that keeps the Liquefaction Event from destroying the tunnels. To build safety, the Council must harvest danger. Every foot of Grout requires more human-network Static to be processed. The Wall grows; the Static economy grows; the world outside the Cathedral becomes more toxic to sustain the Cathedral's "purity." The system requires the disease to provide the cure.
 
@@ -121,7 +121,7 @@ The Static economy has created a web of dependency so thorough that each species
 - **Koalas** need Static (for Lyptus, their only food)
 - **Kangaroos** control Static (and therefore control Koalas)
 - **Dingoes** need Static access (and therefore need Kangaroo tolerance)
-- **Wombats** need rations (the Tally-Advances) to eat
+- **Wombats** need rations (the Advances) to eat
 - **The Council** needs Grout (which requires all of the above)
 - **All species** are exposed to the Frequency (Muskbat's synthetic Arnam-substitute, which requires Static to produce)
 

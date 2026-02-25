@@ -58,7 +58,7 @@ The test: if a character in the story knows something in a way that feels like i
 
 The cosmological architecture of Hún Nico should arrive in four modes across the three books, each mode corresponding to a level of the four-level architecture:
 
-**Texture** — The world's material and behavioral properties, present from page one, never explained. The drainage tunnels feel different at different times. The Tally-stone has a specific physical weight. The resonance bells leave a quality in the air that lingers. Static behaves a specific way in different environments. This is Level 3 — the physics in the world's behavior, never named.
+**Texture** — The world's material and behavioral properties, present from page one, never explained. The drainage tunnels feel different at different times. The Tally-Stone has a specific physical weight. The resonance bells leave a quality in the air that lingers. Static behaves a specific way in different environments. This is Level 3 — the physics in the world's behavior, never named.
 
 **Fragments** — Pieces of myth, song, founding text, place names, ritual phrases — present as what they are (culture, tradition, the remains of something older) without explanation of what they encode. The founding myths appear first as fragments overheard. A wombat hums a line of Om without knowing the full text. A place name in Old Tongue that nobody can translate anymore. A ritual gesture whose origin nobody remembers. This is Level 1 and 2 operating together — immediately legible as world-building, carrying Level 4 content below the surface.
 

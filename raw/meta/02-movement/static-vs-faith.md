@@ -62,7 +62,7 @@ The wailing dance is *phowa* for the living. The rūpa+nāda crossing is inter-w
 
 The Static destroys this capacity first, before anything else, because a stressed heart cannot step boldly into the unknown. A stressed heart requires certainty before it moves. It reaches for the device. This is why the Sovereigns' origin-world Static crisis made the crossing machine necessary *before they left* — the Static had already taken from them the one capacity the crossing actually requires.
 
-The Tally replaced *what you carry* with *what you owe*. That substitution is precise: Tally-stone debt is a Static substitute for faith-carrying. Debt is an object. What you carry is a relationship. Every wombat converted to Tally-thinking has had one more faith-capacity replaced with a mechanism — one less body willing to step without certainty of arrival.
+The Tally replaced *what you carry* with *what you owe*. That substitution is precise: Tally-Stone debt is a Static substitute for faith-carrying. Debt is an object. What you carry is a relationship. Every wombat converted to Tally-thinking has had one more faith-capacity replaced with a mechanism — one less body willing to step without certainty of arrival.
 
 ---
 

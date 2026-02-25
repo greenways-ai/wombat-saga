@@ -6,7 +6,7 @@
 
 ## The Work
 
-**The Wall:** The Great Retaining Wall rises through the substrate, a vertical plane of Grout that divides the Grotto from the sectors beyond. The Ferro-Mu—those who work the Corvée—dig its foundations, pour its sections, maintain its structural integrity. They do not design it. They do not choose to build it. They work because their Tally-stones demand it.
+**The Wall:** The Great Retaining Wall rises through the substrate, a vertical plane of Grout that divides the Grotto from the sectors beyond. The Ferro-Mu—those who work the Corvée—dig its foundations, pour its sections, maintain its structural integrity. They do not design it. They do not choose to build it. They work because their Tally-Stones demand it.
 
 **The Labor:** Heavy, repetitive, dangerous. The Ferro-Mu move Static-laden substrate, mix Grout components, pour the slurry into molds that will become the Wall's next section. The work requires strength, endurance, the capacity to continue when the body wants to stop. The Corvée does not accommodate injury, illness, exhaustion. The Tally-notch requires payment. The body must provide.
 
@@ -32,13 +32,13 @@
 
 **What Is:** The Corvée-Grunt requires no skill. Strength, endurance, compliance—these are the qualifications. The Wall does not require judgment. It requires effort. The Ferro-Mu of today dig not for nourishment but for debt-payment. Their labor produces not sustenance but structural elements that serve the Council's purposes. They are not craftsmen. They are raw material.
 
-**The Trauma:** Some Corvée workers remember, or were taught, the old techniques. Their families were Ferro-Mu before the Tally, before the Corvée, before the Wall. They know that the roots they sever now are the same roots their ancestors harvested with care. They know that their labor is destructive where their ancestors' was sustaining. They dig anyway. The Tally-stone requires it.
+**The Trauma:** Some Corvée workers remember, or were taught, the old techniques. Their families were Ferro-Mu before the Tally, before the Corvée, before the Wall. They know that the roots they sever now are the same roots their ancestors harvested with care. They know that their labor is destructive where their ancestors' was sustaining. They dig anyway. The Tally-Stone requires it.
 
 ---
 
 ## Daily Life
 
-**The Morning Roll:** The Ferro-Mu gather at designated muster points, present their Tally-stones, receive their assignments. The roll is efficient, impersonal, designed to process large numbers quickly. Names are less important than numbers. Bodies are less important than labor units. The system functions.
+**The Morning Roll:** The Ferro-Mu gather at designated muster points, present their Tally-Stones, receive their assignments. The roll is efficient, impersonal, designed to process large numbers quickly. Names are less important than numbers. Bodies are less important than labor units. The system functions.
 
 **The Shift:** Typically twelve hours, though overtime is common and mandatory when the Wall's schedule requires acceleration. Breaks are brief, regulated, insufficient for genuine rest. Food is provided—Imperial Mash, the generic nutrient paste that sustains without satisfying. Water is metered. The body is maintained at functional minimum.
 
@@ -48,11 +48,11 @@
 
 ## Psychological Texture
 
-**The Count:** Days remaining until the Tally-debt is paid. Hours remaining in the current shift. Notches on the stone that represent the future already spent. The count is constant, obsessive, necessary. Without the count, the work becomes endless. With the count, it is merely long.
+**The Count:** Days remaining until the Tally-Debt is paid. Hours remaining in the current shift. Notches on the stone that represent the future already spent. The count is constant, obsessive, necessary. Without the count, the work becomes endless. With the count, it is merely long.
 
 **The Dream:** Sleep, when it comes, is heavy, dreamless, insufficient. But occasionally—particularly in newer workers, particularly when exhaustion produces altered states—the Ferro-Mu dreams of the old ways. Of roots harvested with care, of the substrate responding to skill, of work that produced nourishment rather than structure. They wake to the Wall, the Grout, the Corvée. The dream is worse than no dream at all.
 
-**The Defense:** "I am paying my debt. I took the Tally-Advance. I accepted the terms. This is not slavery—it is obligation. Once the notches are cleared, I will be free. The system is fair. The system is fair. The system is fair."
+**The Defense:** "I am paying my debt. I took the Advance. I accepted the terms. This is not slavery—it is obligation. Once the notches are cleared, I will be free. The system is fair. The system is fair. The system is fair."
 
 ---
 
@@ -62,7 +62,7 @@
 
 **Contested Claims:**
 - The Council's Corvée administration: "The Ferro-Mu are paying legitimate debt through legitimate labor. The Wall benefits all Melborow. The terms are clear and fair."
-- The Kappa Mu: "The Tally-debt is designed to be unpayable. The Ferro-Mu are slaves by another name. The Wall serves only the Council's power."
+- The Kappa Mu: "The Tally-Debt is designed to be unpayable. The Ferro-Mu are slaves by another name. The Wall serves only the Council's power."
 - The Ferro-Mu themselves: "We work. We survive. We count the days. What other claims matter?"
 
 **What the reader feels:** The weight of labor—the body's exhaustion, the repetition, the sense of time transformed into obligation. The specific dignity of work performed under compulsion. The distance between craft and survival.

@@ -13,7 +13,7 @@ My father was Cornelibat. Seam-Reader, ex-certified, still right about the earth
 
 My mother was Agathaboo. She ran surface-farm drainage assessments without a Council permit, because the rains came regardless of application status and the farms needed the assessments whether or not the forms were filed. She had a geologist's note on the burrow wall with *undervalued* underlined in red. She made good bread. She had married a wombat who told stories and she understood this as a full-time occupation with unpredictable hours.
 
-Our burrow was three tunnels in from the stringybark line. No Safety Grout. No Tally-registration. The Council's assessment: *no value.* The wall disagreed in silence for as long as I can remember.
+Our burrow was three tunnels in from the stringybark line. No Safety Grout. No Registration. The Council's assessment: *no value.* The wall disagreed in silence for as long as I can remember.
 
 These are my people.
 
@@ -37,7 +37,7 @@ I pressed my paws flat against the clay floor. I'd been doing this for two month
 
 He turned the cup in his paws.
 
-"After she died — and she did, though she chose her moment better than most — four senior Seam-Readers, three certified engineers, and a High Auditor from the Cathedral with a fresh Tally-stone assembled to document her method. Interviewed everyone who'd ever worked beside her. Wrote everything down. Filed a report sixty years after her death." A pause. "Sixty years, Hoebat. Not one of her tunnels had failed."
+"After she died — and she did, though she chose her moment better than most — four senior Seam-Readers, three certified engineers, and a High Auditor from the Cathedral with a fresh Tally-Stone assembled to document her method. Interviewed everyone who'd ever worked beside her. Wrote everything down. Filed a report sixty years after her death." A pause. "Sixty years, Hoebat. Not one of her tunnels had failed."
 
 The eucalyptus moved. The tea cooled.
 
@@ -73,7 +73,7 @@ IMAGE PROMPT 2: The Eucalyptus Groves
 The Groves margin — the transitional zone between Melborow's grid tunnels and the surface. Stringybark trees with roots pressing into dark blue clay. A cluster of unregistered burrows, dug by paw, no Grout. Washing on a line between two trees. Juvenile wombats playing in the clay — one of them (Hoebat) lying with his ear against the ground while the others roll and dig and chase each other. The city visible in one direction, sky in the other. Unofficial, unnotched, alive. Style: community, organic architecture, margin life, warmth and scrappiness.
 -->
 
-The Eucalyptus Groves ran along Melborow's eastern edge, in the zone the city hadn't decided what to do with yet. Official maps: *Transitional Zone 4.* The wombats who lived there: the Groves. The grid-kids who came on late weekends wanting fresh air without the address: *Unnotched Territory,* which was accurate — no Tally-registrations on any of the burrows, which meant the Council didn't count them. Things the Council doesn't count don't exist. The wall of our burrow existed anyway.
+The Eucalyptus Groves ran along Melborow's eastern edge, in the zone the city hadn't decided what to do with yet. Official maps: *Transitional Zone 4.* The wombats who lived there: the Groves. The grid-kids who came on late weekends wanting fresh air without the address: *Unnotched Territory,* which was accurate — no Registrations on any of the burrows, which meant the Council didn't count them. Things the Council doesn't count don't exist. The wall of our burrow existed anyway.
 
 Cornelibat's burrow: three tunnels in from the stringybark line. Dark blue clay — pre-formation stock, the kind that packs and holds without chemistry. Paw-prints in the walls. The whole history of the place pressed there, readable if you knew the pressure-language. No Safety Grout. No grid access.
 
@@ -95,7 +95,7 @@ Pellaboo catalogued this in the first week alongside everything else she knew: H
 
 <!--
 IMAGE PROMPT: The Groves Market
-The surface-farm market in the Groves clearing — not an official market, just the space between the stringybark line and the drainage channels where wombats have been bringing things for as long as anyone can remember. Unregistered goods on unregistered tables. Morillaboo's bowls on a cloth. An older wombat (Orrubat) at the center of a conversation, clearly the social gravitational point. A grid-wombat in slightly cleaner fur, Tally-tags on her belt, evaluating a bowl with the look of someone who has already decided but is performing uncertainty. Young Hoebat at the edge, carrying his mother's assessment bag, taking in the whole scene. Surface light — real, arriving from an actual direction. Style: informal economy, margin community, class texture, warm and scrappy.
+The surface-farm market in the Groves clearing — not an official market, just the space between the stringybark line and the drainage channels where wombats have been bringing things for as long as anyone can remember. Unregistered goods on unregistered tables. Morillaboo's bowls on a cloth. An older wombat (Orrubat) at the center of a conversation, clearly the social gravitational point. A grid-wombat in slightly cleaner fur, Tags on her belt, evaluating a bowl with the look of someone who has already decided but is performing uncertainty. Young Hoebat at the edge, carrying his mother's assessment bag, taking in the whole scene. Surface light — real, arriving from an actual direction. Style: informal economy, margin community, class texture, warm and scrappy.
 -->
 
 The surface-farm drainage assessment happened on the last morning of every wet season. Not because that was the rule — there was no rule, no permit, no filing date. Because Agathaboo had been doing it on the last morning of every wet season since before Hoebat could remember, and the farms had come to rely on it, which meant it had become a rule in the way all reliable things eventually become rules.
@@ -168,7 +168,7 @@ Above: the market sounds were still just audible. Orrubat's voice. Morillaboo's 
 
 <!--
 IMAGE PROMPT 3: The Grid-Kids' Arrival
-A group of grid-adjacent juvenile wombats arriving at the Groves margin from the city direction — cleaner fur, Tally-tags on their belts, the specific confidence of kids whose family numbers are in the system. Tallibat leads them, stocky, certain, carrying a boring-probe the way you carry something you've been told is important. Behind him, three others. They look at the Groves burrows with the particular expression of people visiting somewhere they've been told is lesser. The Groves kids watch from the clay. Style: class dynamics, juvenile confrontation, margin vs. grid, afternoon light.
+A group of grid-adjacent juvenile wombats arriving at the Groves margin from the city direction — cleaner fur, Tags on their belts, the specific confidence of kids whose family numbers are in the system. Tallibat leads them, stocky, certain, carrying a boring-probe the way you carry something you've been told is important. Behind him, three others. They look at the Groves burrows with the particular expression of people visiting somewhere they've been told is lesser. The Groves kids watch from the clay. Style: class dynamics, juvenile confrontation, margin vs. grid, afternoon light.
 -->
 
 The grid-kids came to the margin on late-season weekends when the official tunnels got warm and their families wanted the Groves air without the Groves address. They came in groups, carrying boring-probes and formula charts, and they'd run assessments on sections of the margin they had no claim to and write things in field books with their names on the covers.

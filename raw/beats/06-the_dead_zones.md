@@ -97,7 +97,7 @@
 
 ## IX. The Tally-Stone
 
-- **The Auditor:** A High Auditor from the Cathedral with a Tally-stone in his paw. He has not put it down since he arrived. The stone is perfectly clear. Clear stones are supposed to be undecided. This one has already decided.
+- **The Auditor:** A High Auditor from the Cathedral with a Tally-Stone in his paw. He has not put it down since he arrived. The stone is perfectly clear. Clear stones are supposed to be undecided. This one has already decided.
 - **The witness statement:** Barnabat's name at the bottom. Language too precise for a fifteen-year-old — the syntax of someone shown what the words needed to look like and given a pen. *Instigator. Ringleader. Reckless excavation. Directed subjects into an unsound forward section.* Gross Negligence. Causing Death by Reckless Excavation. Unauthorised Structural Modification.
 - **The names in the statement:** Tallibat. Pellaboo. The deaths are real. The cause has been reassigned.
 - **Hoebat's understanding:** Not yet — not in the way you understand something when you've had time. He understands it the way you understand an unexpected change in the earth under your paws: as a fact that requires all your attention before you can begin to make sense of it.

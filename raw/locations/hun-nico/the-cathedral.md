@@ -46,7 +46,7 @@ Sub-Level 4. A super-cooled chamber beneath the Cathedral where Vitabat and Zuck
 
 **The Temperature:** Four degrees. Cold enough to preserve data integrity. Cold enough to remind everyone present that warmth is a resource the Council controls.
 
-**The Function:** Server farm for the Tally. The split-stones are stored here, the records of every wombat's debt, the algorithmic calculations of labor value and Tally-Advance rates. The cold slows the stone's resonance, prevents degradation, maintains the precision of the notches.
+**The Function:** Server farm for the Tally. The split-stones are stored here, the records of every wombat's debt, the algorithmic calculations of labor value and Advance rates. The cold slows the stone's resonance, prevents degradation, maintains the precision of the notches.
 
 **The Psychology:** Entering the Freeze Room requires preparation. You feel the cold before you feel the data. By the time you are presented with the Tally records, your body has already understood: this is a place of preservation, not life.
 

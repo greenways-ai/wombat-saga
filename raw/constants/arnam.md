@@ -21,7 +21,7 @@ Traditionally, Arnam was a **free gift** from the God-Kind (Humans).
 The central conflict of the Saga involves the "Great Crystalisation" of Human empathy, which caused the natural flow of Arnam to sputter. This led to the rise of the **Five-I's Sovereign Council** and the corruption of the High Noses:
 
 * **The Securitization of Compassion**: When the "voluntary contributions" of Arnam stopped, **Vitabat** (The Auditor) arrived. He replaced the "Grace" of the Nico Star with the **"Trust Protocol"**.
-* **Tally-Debt**: Arnam was transformed from a free blessing into a speculative asset class called **Tally-credits**.
+* **Tally-Debt**: Arnam was transformed from a free blessing into a speculative asset class called **Credits**.
 * **The Frequency Trap**: **Muskbat** sells a synthetic version of Arnam called the **"Melborow Frequency"**—a digital broadcast that tricks wombats into feeling "connected" even as their actual borows dry out and crumble.
 
 ### Summary of Arnam's Forms
@@ -46,15 +46,15 @@ The nature of these pools changed significantly after the **Great Crystalisation
 
 * **The Traditional Way**: Resonance pools were communal and maintained by the **Lo Snouts (Dust-Bearers)** through the **Old Way Dance** and collective "Noble Intent".
 * **The Modern Way (the Tally)**: The Council member **Vitabat** replaced these natural resonance pools with a centralized **Tally** of Arnam.
-* This is a "muddy reservoir" in the center of Melborow that stores Arnam not as a shared blessing, but as a speculative asset notched into the Tally-stones.
-* Instead of vibrating with the earth-hum, this pool is managed by a "high-frequency Tally-audit" that treats trust as a derivative of debt.
+* This is a "muddy reservoir" in the center of Melborow that stores Arnam not as a shared blessing, but as a speculative asset notched into the Tally-Stones.
+* Instead of vibrating with the earth-hum, this pool is managed by a "high-frequency Womb-Audit" that treats trust as a derivative of debt.
 
 
 
 While the **High Noses** control the visible **Tally**, **Hoebat** and the **Hidden Root** maintain secret resonance pools in the deep tunnels.
 
 * **Secret Repairs**: They use the stored resonance from these hidden pools to perform "Secret Repairs" at night, reinforcing the foundations that the High Noses' "Frequency" has allowed to crumble.
-* **The Ground Hears the Ground**: These pools are tuned to the ancient frequency **"Yanda hlar-ya yanda"** (The ground hears the ground), ensuring that the "Old Ways" of Arnamland remain alive even as the surface goes "cactus", far from the notches of the Tally-magistrates.
+* **The Ground Hears the Ground**: These pools are tuned to the ancient frequency **"Yanda hlar-ya yanda"** (The ground hears the ground), ensuring that the "Old Ways" of Arnamland remain alive even as the surface goes "cactus", far from the notches of the Magistrates.
 
 
 In the traditional functionalism of the Southern Land, the **Arnam Tribute** was the sacred mechanism that maintained the structural integrity of the world. This ritual represents the original covenant where the two groups operated in a "Separation of Functions" similar to the Abel and Cain myth.
@@ -97,7 +97,7 @@ Because the wombats "meant well," they trusted the **High Noses** to conduct the
 Today, the big pools are the only ones left, and they are controlled entirely by the **Five-I's Sovereign Council**.
 
 * **Muskbat’s Frequency**: He uses the **Melborow Frequency** to broadcast a synthetic sense of "Fullness" that keeps wombats from noticing the big pools are actually draining the life out of the deep earth.
-* **Hoebat’s Secret**: This is why **Hoebat** and the **Hidden Root** are so vital—they are trying to restore the "Small Yield" by maintaining secret, illegal resonance pools in the dark, away from the Tally-magistrates.
+* **Hoebat’s Secret**: This is why **Hoebat** and the **Hidden Root** are so vital—they are trying to restore the "Small Yield" by maintaining secret, illegal resonance pools in the dark, away from the Magistrates.
 
 
 In the traditional theology of the Southern Land, the process of the earth losing its organic, shifting depth is known as **The Great Calcification**.
@@ -139,7 +139,7 @@ Traditionally, wombats did things because they "meant well." The Mega Pools expl
 
 Small pools were stable because they were anchored in the deep earth. Mega Pools are anchored in **The Frequency**.
 
-* **The Danger:** Because the Arnam is stored as **Tally-credits**, it is prone to sudden drops in "yield" if the **God Kind** (Humans) suddenly shift their attention or lose compassion.
+* **The Danger:** Because the Arnam is stored as **Credits**, it is prone to sudden drops in "yield" if the **God Kind** (Humans) suddenly shift their attention or lose compassion.
 * **The Outcome:** A single "Great Crystalisation" in the human world can cause a Mega Pool to "flash-dry," leaving thousands of dependent borows without structural integrity overnight.
 
 ### 3. Bureaucratic Numbness (The Loss of the Snout)
@@ -160,8 +160,8 @@ The most terrifying danger of the Mega Pool is that it requires **Structural Rig
 
 Because the "Small Yield" is gone, wombats have no choice but to use the Mega Pools.
 
-* **The Danger:** **Vitabat** doesn't give Arnam away; he loans it. Wombats are born into a "Debt-Cycle" where they must dig for the pool just to pay for the right to breathe the resonance they themselves produced. Rations are issued as **Tally-Advances**, which must be paid back in sweat.
-* **The Social Cost:** This turns the "Separation of Functions" (Lo Snout and High Nose) into an Imperial hierarchy, where the High Noses are the Tally-Magistrates and the Lo Snouts are the Corvée laborers.
+* **The Danger:** **Vitabat** doesn't give Arnam away; he loans it. Wombats are born into a "Debt-Cycle" where they must dig for the pool just to pay for the right to breathe the resonance they themselves produced. Rations are issued as **Advances**, which must be paid back in sweat.
+* **The Social Cost:** This turns the "Separation of Functions" (Lo Snout and High Nose) into an Imperial hierarchy, where the High Noses are the Magistrates and the Lo Snouts are the Corvée laborers.
 
 ### Summary: The "Cactus" Inevitability
 

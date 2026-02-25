@@ -56,7 +56,7 @@ Without the steady frequency of Human Empathy, the High Noses' traditional roles
 3.  **The Instrument of Enforcement (The Debt):** Once every burrow was registered, the Council redefined "Relief" as **Debt**. The notches were no longer records of aid, but claims on future labor.
 
 * **From Common Square to Imperial Granary:** The Council centralized the puddles into **Mega-Pools** and replaced Common Practise — the name suddenly bitter — with **the Tally**.
-* **The Notch of Debt:** Instead of the **Song of the Soil**, history was now recorded by the **Tally-Magistrates** using jagged notches in stone. The Arnam Tribute became a **Tally-Debt**, turning communal support into permanent debt. Rations are distributed as **Tally-Advances** to be repaid through the body.
+* **The Notch of Debt:** Instead of the **Song of the Soil**, history was now recorded by the **Magistrates** using jagged notches in stone. The Arnam Tribute became a **Tally-Debt**, turning communal support into permanent debt. Rations are distributed as **Advances** to be repaid through the body.
 * **Structural Rigidity:** The loss of God Kind empathy caused the organic mud of the borows to harden into **"Structural Rigidity."** The flexible "Pillow" of the Old Way was replaced by the rigid **Safety Grout** of the Board of Works.
 
 ### The Lo Snout Reaction

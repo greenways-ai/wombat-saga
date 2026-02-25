@@ -28,5 +28,5 @@ Zuckbat has merged with the original Vitabat's "Ledger" aspect. He represents **
 ### 📜 Sample Verse (Immortal Technique Flow)
 > "The roots remember what you whispered in the dark /
 > Every step you take leaves a digital mark. /
-> I'm the **Tally-keeper** of your soul, the keeper of the score /
+> I'm the **Keeper** of your soul, the keeper of the score /
 > You can lock the window, but I'm already in the door."

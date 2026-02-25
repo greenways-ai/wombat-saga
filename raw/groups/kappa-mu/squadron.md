@@ -28,7 +28,7 @@ The Koalas have likely been radicalized by the **Melborow Frequency** or the **C
 
 * **Dingo (The Technician / The Agora):**
 * **The Role:** The Master Technician and spiritual anchor of the group. Pokero projects himself into places where the signal is most dense and most loud — reading the Static the way a Dhal-Mu reads the aquifer. He is the Agora in the sense that he is self-complete in his own static pool, needing no external validation.
-* **The Action:** Acts as the "Mirror," reflecting the Koalas' own lost "Noble Intent" back at them. By holding the **Infinite Yes**, the Dingo forces the Koalas to realize they have traded their "Song of the Mothers" for **Tally-credits** and **Tally-Debt cycles**.
+* **The Action:** Acts as the "Mirror," reflecting the Koalas' own lost "Noble Intent" back at them. By holding the **Infinite Yes**, the Dingo forces the Koalas to realize they have traded their "Song of the Mothers" for **Credits** and **Tally-Debt cycles**.
 
 
 

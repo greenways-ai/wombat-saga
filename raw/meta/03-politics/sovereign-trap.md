@@ -120,7 +120,7 @@ Not repeatedly. Not as a campaign. Once, specifically, in a room where it lands 
 
 *Trumbat says the Wall was built for the Jacaranda. I will tell you what the Wall was built for. I was there. My people were there. I know what we were told it was for and I know what it cost. The Jacaranda may use what was built in our suffering — the tree does not choose its substrate. But the suffering was not sacred. It was not planned. It was not for us. Do not let anyone tell you your pain was always part of a design that served you.*
 
-**Why specificity works where argument does not:** Co-optation operates through generalisation — the Wall becomes symbol, the Corvée becomes sacred, the suffering becomes meaning. Specificity breaks the generalisation. It names actual bodies, actual cost, actual lies. It refuses to let suffering be made into metaphor. The institutional machinery can process abstract claims — it cannot process a specific name, a specific notch in a specific Tally-stone, a specific Lo Snout family who dug a specific section of the Wall and paid for it with a specific debt that still has not been cleared.
+**Why specificity works where argument does not:** Co-optation operates through generalisation — the Wall becomes symbol, the Corvée becomes sacred, the suffering becomes meaning. Specificity breaks the generalisation. It names actual bodies, actual cost, actual lies. It refuses to let suffering be made into metaphor. The institutional machinery can process abstract claims — it cannot process a specific name, a specific notch in a specific Tally-Stone, a specific Lo Snout family who dug a specific section of the Wall and paid for it with a specific debt that still has not been cleared.
 
 **Why only once:** Done twice, it becomes a rhetorical signature. The machinery learns to anticipate it, frame it, absorb it. Done once, without warning, in the right room, it is the truth said plainly — and the truth said plainly, without apparatus, without performance, is the one thing the apparatus cannot immediately process.
 
@@ -157,7 +157,7 @@ Below ground, in the tunnels, in the cloth, the movement continues without a cen
 
 ## What Remains
 
-The Sovereign trap cannot be entirely escaped. Both claims will be made. Both will find audiences. History — the official record, the Tally-stone of events — will contain both Sovereign versions of what happened.
+The Sovereign trap cannot be entirely escaped. Both claims will be made. Both will find audiences. History — the official record, the Tally-Stone of events — will contain both Sovereign versions of what happened.
 
 What the trap cannot touch:
 - The wailing dance, in the bodies of the creatures who learned it.

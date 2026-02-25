@@ -205,7 +205,7 @@ Organized by category. Definitions based on source material.
 
 **Koalas** — Healers; held the pharmacopoeia of the world; fractured into Canopy (Lyptus synthesizers) and Drop Bears (feral hunters).
 
-**Lo Snouts** — The lowest wombat class; exposed to raw Static, Tally-obligated, Corvée-liable; the majority population; pre-Sovereign, simply the communal wombats.
+**Lo Snouts** — The lowest wombat class; exposed to raw Static, obligated, Corvée-liable; the majority population; pre-Sovereign, simply the communal wombats.
 
 **Lost Dingoes** — Dingoes broken from Pack; pure predation, no code.
 
@@ -314,7 +314,7 @@ Organized by category. Definitions based on source material.
 
 **Root-braid** — Navigation signal; the lateral root system of the Jacaranda; used as Kappa Mu marker; co-opted as decoration by Tatebat.
 
-**The Tally-stone** — Record of debt; replaced Songlines as the primary record of wombat identity.
+**The Tally-Stone** — Record of debt; replaced Songlines as the primary record of wombat identity.
 
 **The Violet Miasma** — The Jacaranda's atmospheric byproduct; heals bone, clears neural pathways, broadcasts crown frequency; Sahasrara at scale.
 

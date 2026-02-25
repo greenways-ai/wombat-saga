@@ -62,7 +62,7 @@ He stepped back. Snapped his fingers. From the shadows behind the mirrors, two o
 
 "Put them on," Tatebat said.
 
-The recruits hesitated. In Melborow, clothing beyond the work tunic was a luxury that most Lo Snouts encountered only in the Cathedral gift shop, priced in **Tally-credits** they would never earn.
+The recruits hesitated. In Melborow, clothing beyond the work tunic was a luxury that most Lo Snouts encountered only in the Cathedral gift shop, priced in **Credits** they would never earn.
 
 "Put. Them. On."
 
@@ -102,7 +102,7 @@ Without the costume, Tatebat was a wombat. A mid-sized, slightly overweight, mid
 
 He had been twelve.
 
-Not the outer ring of Deep Arnamland, where the walls were thin — the *middle* ring, where the walls were thick enough to give the illusion of permanence but not thick enough to survive the truth. His mother worked the Sector 4 day crew. His father was a number in Vitabat's **Tally** — a wombat who had taken a **Tally-Advance** to repair the family borow and had been "collected" when he couldn't pay. The collection was not metaphorical.
+Not the outer ring of Deep Arnamland, where the walls were thin — the *middle* ring, where the walls were thick enough to give the illusion of permanence but not thick enough to survive the truth. His mother worked the Sector 4 day crew. His father was a number in Vitabat's **Tally** — a wombat who had taken a **Advance** to repair the family borow and had been "collected" when he couldn't pay. The collection was not metaphorical.
 
 Young Tatebat had grown up in a tunnel where the walls were cracked and the ceiling leaked and the only colour was grey and the only sound was the **[[../lore#The New Ways (The Melborow Frequency)|Frequency]]** humming its synthetic lullaby of *everything is fine, everything is fine, everything is fine*.
 
@@ -138,7 +138,7 @@ Hoebat's work. The Ghost. Here. In the Glow Room.
 
 Tatebat pressed his bare paw against the patch. Felt the pulse. The warmth. A real repair, performed by a real wombat, solving a real problem with real dirt. No branding. No mirrors. No purple.
 
-He knew he should report it. The Council had standing orders: any unauthorized structural modification was to be flagged to Zuckbat's **Tally-magistrates** immediately. Trumbat would call it sabotage. Muskbat would call it "an unoptimized intervention." Vitabat would send someone to collect.
+He knew he should report it. The Council had standing orders: any unauthorized structural modification was to be flagged to Zuckbat's **Magistrates** immediately. Trumbat would call it sabotage. Muskbat would call it "an unoptimized intervention." Vitabat would send someone to collect.
 
 Tatebat looked up. The crack the patch covered ran directly into the load-bearing junction above the Glow Room's main chamber — the junction that supported his ceiling, his mirrors, his twelve recruits who stood in this room every night and learned to shine because he told them it was the only armour that worked.
 

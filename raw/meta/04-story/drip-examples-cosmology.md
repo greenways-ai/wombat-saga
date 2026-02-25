@@ -87,7 +87,7 @@
 
 ### Drip — Texture (The Tally-Stone)
 
-> Hoebat held the Tally-stone in his paw. It was perfectly clear, perfectly weighted, perfectly cold. And it was wrong.
+> Hoebat held the Tally-Stone in his paw. It was perfectly clear, perfectly weighted, perfectly cold. And it was wrong.
 
 > Not wrong like a lie—wrong like a mirror that showed only you and nothing behind you. Wrong like food that filled your stomach but never reached the rest of your body. The stone drank his name, his hours, his productivity, and gave back... what? A number. A metric. A self that existed only in the reflection of the system's regard.
 
@@ -112,7 +112,7 @@
 
 > "The Sovereigns saved us," Tatebat said. "We were primitives when they arrived. The Wall, the Tally, the Corvée—these are the architecture of civilization."
 
-> But the oldest drainage tunnel had markings that predated the Wall. And Cornelibat had shown Hoebat—just once, late at night—a stone that hummed when you held it, that made the air thick with something the Tally-stone had never known.
+> But the oldest drainage tunnel had markings that predated the Wall. And Cornelibat had shown Hoebat—just once, late at night—a stone that hummed when you held it, that made the air thick with something the Tally-Stone had never known.
 
 **What the reader builds**: Two histories. The official one and the one implied by physical evidence.
 
@@ -166,7 +166,7 @@
 
 ### Drip — Texture (The Shape of Absence)
 
-> There was a place in the deepest tunnels where the Censorate bells didn't reach. Where the Tally-stones went dull and the air had a quality Hoebat couldn't name—like the moment before waking, like a word on the tip of the tongue.
+> There was a place in the deepest tunnels where the Censorate bells didn't reach. Where the Tally-Stones went dull and the air had a quality Hoebat couldn't name—like the moment before waking, like a word on the tip of the tongue.
 
 > The oldest wombats wouldn't go there. Not forbidden. Just... not discussed. When Hoebat asked Cornelibat about it, his father had gone still in a way that wasn't like him.
 

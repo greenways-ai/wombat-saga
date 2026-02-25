@@ -79,7 +79,7 @@ To a wombat, **The Root** is the three-fold foundation of existence:
 *   **Signal:** The biological antenna that conducts **Arnam** from the Star into the earth.
 *   **Structure:** The living mesh that prevents the soil from collapsing into **Static**.
 
-The Imperial Council has taken this natural trinity and processed it into **Imperial Rations**, which are distributed as **Tally-Advances** to be paid back in **Corvée Labor**.
+The Imperial Council has taken this natural trinity and processed it into **Imperial Rations**, which are distributed as **Advances** to be paid back in **Corvée Labor**.
 
 #### **Tatebat (The Influencer of Metal)**
 *   **The Severance:** **The Glittering Lid.** He redirects the gaze upward to "Status" and "Gold," preventing wombats from looking down at the roots.
