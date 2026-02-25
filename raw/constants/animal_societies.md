@@ -76,7 +76,7 @@
 *   **Siddhi:** Blind Navigation
 *   **Structure:** **The Nomadic Algorithm.**
     *   Emus do not have homes; they have "Vectors." Their society is a moving equation. They map the world by walking it.
-    *   **The Clash:** They are the natural enemies of **Trumbat's Wall**. A wall is a disruption of Logic. To an Emu, a fence isn't a barrier; it's a syntax error in the landscape.
+    *   **The Clash:** They are the natural enemies of **the Wall**. A wall is a disruption of Logic. To an Emu, a fence isn't a barrier; it's a syntax error in the landscape.
     *   **Tactics:** They don't fight; they "Solve." They flow around obstacles like water finding a crack.
 
 ## The Galah Colonies (The Prophets)

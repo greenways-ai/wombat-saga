@@ -16,7 +16,7 @@
 ### 2. Operation "Silent Architecture" (Maintenance / COMPROMISED)
 **Objective:** Conduct covert structural repairs across Gray Grotto Sectors 7-12 using Old Way clay-pack techniques to prevent cascade failure.
 **Duration:** Three years continuous.
-**Status:** COMPROMISED as of Day One of the Wall. The Great Retaining Wall foundation trench has severed four of eleven major repair connections. **Zuckbat's Tally analysis** has identified the "Ghost Capital" surplus. He has maintained a surveillance gap over our operations but his cooperation is conditional and unguaranteed. Parrin's engineering report has flagged the unauthorized modifications to Trumbat.
+**Status:** COMPROMISED as of Day One of the Wall. The Great Retaining Wall foundation trench has severed four of eleven major repair connections. **The Tally analysis** has identified the "Ghost Capital" surplus. He has maintained a surveillance gap over our operations but his cooperation is conditional and unguaranteed. Parrin's engineering report has flagged the unauthorized modifications to Trumbat.
 **Tactical Note:** The repairs remain the only thing preventing immediate structural collapse of Sectors 7-12. Their exposure does not change this fact.
 
 ### 3. Operation "Cloud-Break" (Infiltration / PENDING)
@@ -42,7 +42,7 @@
 
 ### Phase 3: SIGNAL INTERCEPT (In Progress)
 **Lead:** Bash.
-**Task:** Monitor Council comms for pour schedule changes, inspection orders, and threat assessments. Exploit buffer overflow in Muskbat's encryption codec. Relay intercepts to squad via root-network vibration code.
+**Task:** Monitor Council comms for pour schedule changes, inspection orders, and threat assessments. Exploit buffer overflow in the encryption codec. Relay intercepts to squad via root-network vibration code.
 **Status:** Full intercept capability. Critical intelligence obtained — Trumbat has ordered accelerated pour despite engineering recommendation to halt. The Council knows the wall will damage the repairs. They are pouring anyway.
 
 ### Phase 4: CONTINGENCY (Standby)

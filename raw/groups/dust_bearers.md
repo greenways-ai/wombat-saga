@@ -81,7 +81,7 @@ The farmers. The wombats who answered "feed it." The Tahl-Mu are the agricultura
 
 Where the Kintsugi-Mu heal the broken and the Karst-Mu shield the living, the Tahl-Mu ensure that there is something alive to protect. Their art is **Root-Tending**: the practice of cultivating the underground root systems that provide both food (sweet-tap, ginger-root, turmeric) and structural reinforcement. A healthy root network is the best engineering in Arnamland — organic Iron-Bark that flexes with the earth rather than shattering against it.
 
-The Tahl-Mu maintain the soil's moisture, manage the aquifer flows, and tend the bioluminescent moss that lights the deep tunnels. Their most sacred duty is the maintenance of the small, decentralised Resonance Pools — the communal stores of Arnam that kept individual borows alive before [[../characters/antagonists#Vitabat (The Enforcer)|Vitabat's]] centralisation rendered them obsolete.
+The Tahl-Mu maintain the soil's moisture, manage the aquifer flows, and tend the bioluminescent moss that lights the deep tunnels. Their most sacred duty is the maintenance of the small, decentralised Resonance Pools — the communal stores of Arnam that kept individual borows alive before the centralisation rendered them obsolete.
 
 The Tahl-Mu were the first branch to be suppressed by the [[../lore#4. The 5 Sovereign Wombats (The Cathedral)|Five-I's Council]]. Their decentralised pools were a direct threat to **the Tally**, and their knowledge of root-systems threatened the monopoly on structural engineering that [[../characters/antagonists#Trumbat (The Grand Architect)|Trumbat]] needed to justify Safety Grout. The Tahl-Mu did not resist. Resistance was not their way. They simply went deeper — tending roots in tunnels the Council had forgotten existed, maintaining pools **the Tally** had never recorded.
 
@@ -108,10 +108,10 @@ The Dhal-Mu were the first to understand that water was not a resource. Water wa
 
 Duzbat — the childhood friend who could smell water through clay — carries the Dhal-Mu instinct in his body. His enormous nostrils are not a quirk. They are the last visible expression of a lineage that **the Tally** was designed to replace.
 
-**Displaced by:** [[../characters/antagonists#Vitabat (The Grand Treasurer)|Vitabat]]. The centralisation of the Resonance Pools required control of the water table. The Dhal-Mu's decentralised knowledge was a direct threat — a wombat who could find water independently was a wombat who didn't need **the Tally**. Vitabat's enforcement division rerouted the aquifers to service the Cathedral's systems, then declared all independent water-reading "unlicensed hydrology."
+**Displaced by:** [[../characters/antagonists#Vitabat (The Grand Treasurer)|Vitabat]]. The centralisation of the Resonance Pools required control of the water table. The Dhal-Mu's decentralised knowledge was a direct threat — a wombat who could find water independently was a wombat who didn't need **the Tally**. The enforcement division rerouted the aquifers to service the Cathedral's systems, then declared all independent water-reading "unlicensed hydrology."
 
 **Animal Alliance: [[../groups/platypus_coven|The Platypus]] (Thread 1)**
-The Dhal-Mu share the **Baseline Siddhi** with the Platypus Coven. Both navigate the **"Liquid Interface."** The Platypus reads the electric field of the water; the Dhal-Mu reads the scent of the aquifer. They are the only two lineages who know where the "Old Water" flows — the deep, unmapped currents that Vitabat's pumps cannot reach.
+The Dhal-Mu share the **Baseline Siddhi** with the Platypus Coven. Both navigate the **"Liquid Interface."** The Platypus reads the electric field of the water; the Dhal-Mu reads the scent of the aquifer. They are the only two lineages who know where the "Old Water" flows — the deep, unmapped currents that the pumps cannot reach.
 
 ---
 
@@ -129,7 +129,7 @@ This is why Trumbat feared the Old Way Dance. Not because it was loud — though
 
 Rumbat — the drummer, the kid who stomped rhythms in the Fiveways because they "sounded right" — was a natural Ghar-Mu. He didn't know the history his feet were reciting. But his body knew. The rhythm was already in him, inherited through the Seventh Thread, waiting for a teacher who never came.
 
-**Displaced by:** [[../characters/antagonists#Tatebat (The Pimp)|Tatebat]]. The Ghar-Mu's living archive was replaced by murals — static, visual, curated. Tatebat understood that the most dangerous history is the one that lives in the body, because bodies don't have an edit button. His "Mural Harmony" program covered the tunnel walls with painted narratives that told the story the Council wanted told. Beautiful. Permanent. And wrong.
+**Displaced by:** [[../characters/antagonists#Tatebat (The Pimp)|Tatebat]]. The Ghar-Mu's living archive was replaced by murals — static, visual, curated. Tatebat understood that the most dangerous history is the one that lives in the body, because bodies don't have an edit button. The "Mural Harmony" program covered the tunnel walls with painted narratives that told the story the Council wanted told. Beautiful. Permanent. And wrong.
 
 **Animal Alliance: [[../groups/dingo_pack|The Dingoes]] (Thread 2)**
 The Ghar-Mu share the **Forensics Siddhi** with the Dingo Pack. The Dingoes expose the "Rot" in the present (the hypocrisy of the High-Noses). The Ghar-Mu expose the "Rot" in the past (the forgotten history). Both deal in the **"Bones"** — the hard truths that remain when the flesh of polite society is stripped away. A Dingo howl and a Ghar-Mu stomp are the same sound: a demand for reality.
@@ -170,7 +170,7 @@ The Sutr-Mu maintained the network. They pruned dead root-nodes, grafted new con
 
 The Kappa Mu squad uses Root-Tapping in the present day. Hoebat taps coded vibrations into root-nodes to communicate with Merl, Bash, Cooroo, and Pokero. He does not know that the code he uses is a Sutr-Mu code, preserved through the Seventh Thread, transmitted down a lineage that forgot its name but not its rhythm.
 
-**Displaced by:** [[../characters/antagonists#Zuckbat (The Magistrate of the Tally)|Zuckbat]]. The **Root-Network** that Zuckbat built his surveillance system on *is* the Sutr-Mu's communication network — hijacked, repurposed, turned from a commons into a panopticon. The same roots that once carried warnings between borows now carry data to **the Tally**. The same vibrations that once said *the ceiling is cracking* now say *your Tally-Debt is overdue*. Zuckbat did not invent the network. He colonised it.
+**Displaced by:** [[../characters/antagonists#Zuckbat (The Magistrate of the Tally)|Zuckbat]]. The **Root-Network** that the surveillance system was built on *is* the Sutr-Mu's communication network — hijacked, repurposed, turned from a commons into a panopticon. The same roots that once carried warnings between borows now carry data to **the Tally**. The same vibrations that once said *the ceiling is cracking* now say *your Tally-Debt is overdue*. Zuckbat did not invent the network. He colonised it.
 
 **Animal Alliance: [[../groups/wallaby_network|The Wallabies]] (Thread 4)**
 The Sutr-Mu share the **Integration Siddhi** with the Wallabies. The Wallabies run the "Social Graph" (The Hop-Link) on the surface; the Sutr-Mu run the "Physical Graph" (The Root-Tap) below. When the Wallabies need to send a message that cannot be intercepted by the air (or the Frequency), they tap it into a root for a Sutr-Mu to catch.
@@ -208,7 +208,7 @@ The pattern is not coincidence. Each of the [[../lore#4. The 5 Sovereign Wombats
 | **Tatebat** | Influence (Metal) | Ghar-Mu | Rhythm Archives | Mural Harmony |
 | **Zuckbat** | Intelligence (Wood) | Sutr-Mu | Root-Tapping | The Root-Network Panopticon |
 
-The Tahl-Mu (Tillers) and Karst-Mu (Defenders) were not displaced by a single Sovereign — they were suppressed collectively. The Tahl-Mu's decentralised pools threatened all five domains. The Karst-Mu's martial tradition was absorbed into Vitabat's enforcement division, stripped of its yielding philosophy and reduced to brute compliance.
+The Tahl-Mu (Tillers) and Karst-Mu (Defenders) were not displaced by a single Sovereign — they were suppressed collectively. The Tahl-Mu's decentralised pools threatened all five domains. The Karst-Mu's martial tradition was absorbed into the enforcement division, stripped of its yielding philosophy and reduced to brute compliance.
 
 The displacement was not violent. It did not need to be. Each Sovereign simply made their synthetic version more convenient, more official, and more mandatory than the practice it replaced — until the practice was not forbidden but *forgotten*. The most effective suppression is the one that makes the suppressed thing seem unnecessary.
 
@@ -282,9 +282,9 @@ The practice of performing the Walking Form in public tunnels ceased. The increa
 ### The Silence (approx. Year 1000 — present)
 
 **~Year 1000 — The Rise of the Five-I's**
-The [[../lore#4. The 5 Sovereign Wombats (The Cathedral)|Five-I's Sovereign Council]] consolidated power. Safety Grout replaced organic clay. Structural engineering became a licensed profession controlled by Trumbat's Engineering Division. The Kintsugi-Mu practice — unlicensed, unregistered, performed by wombats with golden paws and no credentials — was declared illegal under the **Structural Sovereignty Act**. Any wombat found performing unauthorized repairs faced confiscation of rations and notation in **[[../characters/antagonists#Zuckbat (The Magistrate of the Tally)|Zuckbat's]] Tally**.
+The [[../lore#4. The 5 Sovereign Wombats (The Cathedral)|Five-I's Sovereign Council]] consolidated power. Safety Grout replaced organic clay. Structural engineering became a licensed profession controlled by the Engineering Division. The Kintsugi-Mu practice — unlicensed, unregistered, performed by wombats with golden paws and no credentials — was declared illegal under the **Structural Sovereignty Act**. Any wombat found performing unauthorized repairs faced confiscation of rations and notation in **the [[../characters/antagonists#Zuckbat (The Magistrate of the Tally)|Tally]]**.
 
-The Kintsugi-Mu did not protest. Protesting was a Karst-Mu instinct. The Kintsugi-Mu yielded. They went silent. They folded their golden clay into pockets that Vitabat's enforcers never searched. They performed the The Listening Stance in their sleeping niches, paws pressed against the wall, body swaying to vibrations that the Frequency was designed to drown out but couldn't quite reach.
+The Kintsugi-Mu did not protest. Protesting was a Karst-Mu instinct. The Kintsugi-Mu yielded. They went silent. They folded their golden clay into pockets that the enforcers never searched. They performed the The Listening Stance in their sleeping niches, paws pressed against the wall, body swaying to vibrations that the Frequency was designed to drown out but couldn't quite reach.
 
 And at night — in the hours between the Frequency's lowest output and the dawn when the city forgot it was dying — they went out. They found the cracks. They listened. They mended.
 

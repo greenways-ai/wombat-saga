@@ -96,7 +96,7 @@ Because the wombats "meant well," they trusted the **High Noses** to conduct the
 
 Today, the big pools are the only ones left, and they are controlled entirely by the **Five-I's Sovereign Council**.
 
-* **Muskbat’s Frequency**: He uses the **Melborow Frequency** to broadcast a synthetic sense of "Fullness" that keeps wombats from noticing the big pools are actually draining the life out of the deep earth.
+* **The Frequency**: The **Melborow Frequency** broadcasts a synthetic sense of "Fullness" that keeps wombats from noticing the big pools are actually draining the life out of the deep earth.
 * **Hoebat’s Secret**: This is why **Hoebat** and the **Hidden Root** are so vital—they are trying to restore the "Small Yield" by maintaining secret, illegal resonance pools in the dark, away from the Magistrates.
 
 
@@ -119,12 +119,12 @@ Because the reality of the Wombat is a downstream effect of the Human condition,
 * **The Crystalisation of the Source:** Just as physical global warming is driven by carbon, the Wombat version is driven by the loss of **Arnam** (Compassion/Empathy). Traditionally, this energy flowed freely from the **Nico Star**; now, it is a sputtering, scarce resource.
 * **Calcification and Rigidity:** In a healthy world, Arnamland is a lush, muddy mess. As the Arnam yield drops, the mud hardens into **"Structural Rigidity"** and "Safety Grout". The soil becomes brittle, and the "Pillow" of the earth loses its structural integrity.
 * **The Loss of the "Small Yield":** Originally, there were thousands of small, decentralized resonance pools maintained by individual families. As the "rain" of compassion stopped, these small pools dried up because they no longer had the yield to sustain themselves.
-* **Centralization as a Crisis Response:** The shift to "Big Pools" like **Vitabat's Tally** was a desperate attempt to consolidate what little Arnam remained. While it saved the borow from immediate collapse, it created a centralized system prone to corruption, **Tally-Debt cycles**, and "Bureaucratic Numbness".
+* **Centralization as a Crisis Response:** The shift to "Big Pools" like **the Tally** was a desperate attempt to consolidate what little Arnam remained. While it saved the borow from immediate collapse, it created a centralized system prone to corruption, **Tally-Debt cycles**, and "Bureaucratic Numbness".
 * **The Great Calcification:** This is the physical symptom of the crisis—the process of paving over the organic, shifting earth with rigid, high-frequency structures. The "Yellow Monsters" (excavators) represent a "Natural Disaster" caused by the Tall-Ones’ lack of awareness or care for the grounding hardware beneath them.
 * **The "Cactus" World:** This is the term the wombats use for a world that has gone dry and dangerous. It refers to a state where the "Old Ways" of grounding are ignored in favor of synthetic "Frequencies" that provide a broadcast of connection while the actual foundations crumble.
 
 
-In the Wombat Saga, the transition from small, decentralized **Resonance Pools** to **Mega Pools** (like Vitabat’s *Tally*) is the ultimate "well-intentioned disaster." While they were built to save the borow from the drying up of Arnam, they introduced existential dangers that threaten the very nature of what it means to be a wombat.
+In the Wombat Saga, the transition from small, decentralized **Resonance Pools** to **Mega Pools** (like *the Tally*) is the ultimate "well-intentioned disaster." While they were built to save the borow from the drying up of Arnam, they introduced existential dangers that threaten the very nature of what it means to be a wombat.
 
 Here are the primary dangers of the Mega Pools:
 

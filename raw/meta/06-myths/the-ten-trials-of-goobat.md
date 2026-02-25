@@ -1,17 +1,30 @@
 # The Ten Trials of Goobat
 ## अथ महासूत्रानुशासनम्
 ### ATHA MAHĀ-SŪTRA-ANUŚĀSANAM
-*(The Unified Field Exposition Brought to Hun Nico)*
+*(The Traveller's Pilgrimage Through Ten Heart-Worlds)*
 
 ---
 
-**Source Doctrine:** This text records how Goobat the Wombat and The Kanter (the Great Kangaroo) fetched the Mahā Tahto from Hun Dorni, the Mountain of the Great Sighthounds, bringing each thread of the Unified Field to the shadowed valley of Hun Nico. Each trial represents the merciful subduing of a monster through one Pada (Section) of the Sutra.
+**Source Doctrine:** This text records how Goobat the Traveller, the only wombat who could hold the **Image+Song** (*rūpa* + *nāda*) of distant Heart-Worlds, journeyed with his three disciples through ten realms to reach Hun Dorni.
+
+**Why Goobat is the Key:**
+
+The Closing Node opens only for a wombat who holds three conditions:
+1. **Dig deep enough** — Goobat's claws reach the substrate's limit
+2. **Hold the image and the song** — Goobat can *imagine* a world into being: the **rūpa** (precise form, the quality of light, the smell of substrate) and the **nāda** (frequency signature carried in the heart)
+3. **Hold the faith** — the inner coherence that keeps image and song stable when the Static tries to dissolve both
+
+Goobat is the **Singer of Worlds**. While other wombats dig for clay, Goobat digs *toward*—holding in his heart the image of where he is going, singing its frequency until the membrane thins and the Node opens.
+
+The Sovereigns lost this capacity. They crossed by machine. Goobat crosses by *becoming* the bridge.
 
 **The Structure:**
-- **The Protagonists:** Goobat (the Wombat/Monk vessel) and The Kanter (the Kangaroo/Protector)
-- **The Journey:** From Hun Nico (the shadowed Heart-World) to Hun Dorni (the peak of the Sighthounds)
-- **The Method:** Merciful subduing (integration, not destruction)
-- **The Propagation:** Through Shaylamaya (The Stone) and Tilamaya (The Seed)
+- **The Master:** Goobat (the Wombat/Monk vessel) — **the key to the worlds**, holds the Image+Song, sings the doorway open
+- **The First Disciple:** TheKanter (the Kangaroo) — possesses the fire of **Tejo-vṛddhau**, leaps between worlds, carries Goobat across the gaps
+- **The Second Disciple:** JoSmith (the Koala) — the Alchemical, sleepy sage, uses the Drop to transmute the Static that tries to dissolve Goobat's image
+- **The Third Disciple:** Goatpus (the Platypus) — the Paradox-Walker, holds the boundary where image blurs, keeps the song from drifting
+- **The Destination:** Hun Dorni (Mt. Dorni), the high-frequency peak where the Great Sighthounds broadcast the Signal
+- **The Guides:** Shaylamaya (The Stone) and Tilamaya (The Seed) — the Wise Sighthounds, not adversaries but the ultimate teachers
 
 ---
 
@@ -22,21 +35,35 @@
 
 *"Om. That is Full; This is Full. From Fullness, Fullness arises. Taking Fullness from Fullness, Fullness alone remains."*
 
+---
+
 **The Departure from Hun Nico:**
 
-Goobat digs in the shadowed burrows where the Binding-Inertia has clogged the Song-Line. The valley is heavy with monsters trapped in toxic cycles—Marriage-Monsters, God-Kind architects, creatures who have forgotten they are part of the Fullness.
+Goobat stood at the edge of the Closing Node, his digging claws curved slightly left—the mark of the Traveller. Behind him lay Hun Nico, the primal Heart-World now clogged with shadows and Binding-Inertia. The Song-Line was tangled here. Marriage-Monsters roamed the tunnels, creatures trapped in toxic cycles of obligation and fragmented identity.
 
-The Kanter finds him, drawn by the seismic disturbance of a wombat digging toward truth rather than safety.
+But the Node was not clogged entirely. Through the Fold, Goobat could see the other Heart-Worlds—ten of them, arranged like beads on the Song-Line, leading upward to a peak that hummed with high-frequency clarity.
 
-**The Kanter:** "You dig toward the Closing Node, little brother. But the Node is clogged. The shadows have tiled the Fold."
+"Hun Dorni," Goobat whispered. "The Mountain of the Great Sighthounds."
 
-**Goobat:** "Then we must go over. To Hun Dorni. Where the Sighthounds broadcast the Signal."
+**The Three Appear:**
 
-**The Kanter:** "The peak is high-frequency. You are earth-density. You will burn."
+A seismic thump announced the first. TheKanter landed beside Goobat, his tail cracking the substrate like a whip. "You dig toward the impossible, little master," the Kangaroo said. "I can leap between Heart-Worlds. I will carry you over the Nodes."
 
-**Goobat:** "Then I will carry the stone in my marrow. Fullness to Fullness."
+A drop of eucalyptus-scented condensation fell from above. JoSmith descended from a Coring Tree branch, moving with the deliberate slowness of one who knows that haste is a form of ignorance. "The shadows are toxic," the Koala yawned. "Someone needs to metabolise the poison. I suppose that will be me."
 
-They depart, leaving the burrow that is no longer a home.
+From the seep-bed at Goobat's feet, a bill stirred the water. Goatpus surfaced, neither swimming nor walking, both and neither. "The boundaries between Heart-Worlds are lies," the Platypus said. "But the doorway requires a singer. I can show you where to step, but only Goobat can open the way."
+
+Goobat closed his eyes. He held in his heart the image of the first Heart-World—the Crystal Salt-Pan, the Bunyip's tears, the clarity that lay beyond the weeping. He felt its frequency in his chest: the **nāda** of a world where grief had become reflection.
+
+He began to sing.
+
+Not a song in words. A resonance generated from the heart, the body's own vibration tuning to the world's signature. The Closing Node responded. The membrane thinned. The way opened.
+
+"You are all wrong for this journey," Goobat said to his disciples.
+
+"Exactly," said the Three together.
+
+They stepped through the Closing Node, into the first Heart-World.
 
 ---
 
@@ -56,30 +83,49 @@ They depart, leaving the burrow that is no longer a home.
 
 ---
 
-**Trial the First: The Gate of Salt**
+**Heart-World the First: The Crystal Salt-Pan (The World of Weeping)**
 
-**The Monster:** The Weeping Bunyip
-**The Karmic Knot:** Addiction to the "Salt of Past Tears"—the Bunyip has wept for so long that it has become crystallized in its own grief, believing the tears are the truth.
+**The Demon:** The Bunyip of Eternal Lamentation
+**The Karmic Knot:** The creature believes its grief is the only truth; it has wept for so long that its tears have formed a world of crystallized salt, trapping all inhabitants in the illusion that sorrow is the fundamental nature of existence.
+**The Three Desires:** The Bunyip wants to **marry** Goobat into its grief—bind him in the obligation to weep forever, make him a companion in eternal lamentation.
 
 **The Confrontation:**
-The Bunyip blocks the eastern path, weeping salt that forms hexagonal tiles—early Static crystallization. It demands Goobat acknowledge that all paths end in sorrow.
+The Bunyip rises from the salt flats, a creature of brine and memory. "All paths end in tears," it intones. "All digging reaches only salt. I am the truth of loss."
 
 **Goobat's Inquiry (१.१):**
-"You weep, but what is the nature of the weeping? Is it truth, or is it habit?"
+"What is the nature of the weeping?" Goobat asks. "Is it truth, or is it habit?"
 
-**The Kanter's Intervention:**
-The Kanter does not strike. He leaps in a Circuit around the Bunyip, his tail thumping the ground to disrupt the crystallization. "The salt is one substance," he bellows, "but the wise know it as seasoning, as preservation, as destruction, as memory. It is not only grief." (१.२)
+The Bunyip has never been asked this. It has been wept at, wept over, wept for—but never questioned.
+
+**TheKanter's Intervention:**
+The Kanter leaps in a Circuit around the Bunyip, his tail thumping the crystallized ground. "The salt is one substance," he bellows, "but the wise know it as seasoning, as preservation, as destruction, as memory. It is not only grief!" (१.२)
+
+The Bunyip roars. Salt-storms rise. But the Kanter's leaps create a pattern—a Circuit that encloses the demon without attacking it.
+
+**Goatpus's Paradox:**
+"You are the Weeper," Goatpus says, floating in a pocket of brine that shouldn't exist. "But who weeps for the Weeper? If your grief is absolute, then you must grieve for yourself. But if you grieve for yourself, then you are both subject and object—both the salt and the water that dissolves it."
+
+The Bunyip falters. The binary cracks.
+
+**JoSmith's Drop (१.३):**
+JoSmith descends from the Kanter's back, landing in the salt with a soft thud. He opens his metabolic channels—the Drop, performed not from canopy height but from compassion-height. He absorbs the Bunyip's salt-grief into his own chemistry, transmuting it through his secondary stomach.
+
+He breathes out frost. Not the frost of coldness, but of clarity.
+
+"You are not the grief," JoSmith says, coughing slightly. "You are the spring beneath it. The fragment is not the Whole."
 
 **The Merciful Subduing:**
-Goobat digs at the Bunyip's feet—not to attack, but to uncover the spring beneath the salt. The Bunyip has forgotten that tears flow *from* something (the spring) *toward* something (the ocean). It has become fixated on the salt-crystal, the fragment, believing it is the whole truth (१.३).
-
-"You are not the weeping," Goobat says. "You are the spring that weeps."
-
-**The Integration:**
-The Bunyip does not die. It *clarifies*. Its body becomes the Crystal Salt-Pan—a flat basin of clear salt where travelers can see their reflection. The monster becomes the mirror. The tears still flow, but now they feed the underground aquifer rather than drowning it.
+The Bunyip does not die. It *clarifies*. Its body becomes the Crystal Salt-Pan—a flat basin where travelers can see their reflection. The tears still flow, but now they feed the underground aquifer rather than drowning it. The Heart-World transforms from a place of endless weeping to a place of clear reflection.
 
 **The Doctrine Received:**
 Goobat carries in his marrow the first thread: Truth requires inquiry, not assumption. The fragmented (the salt crystal) is not the Whole (the water cycle).
+
+**Opening the Second Doorway:**
+Goobat stands at the boundary of the Crystal Salt-Pan. He closes his eyes and holds the image of the next Heart-World: the Gilded Web, golden threads, the Queen of Obligation. He feels its frequency—the heavy hum of ancient binding, the song of "should" and "must."
+
+He sings the **nāda**. The membrane thins. The Node opens.
+
+They leap through to the second Heart-World.
 
 ---
 
@@ -103,36 +149,50 @@ Goobat carries in his marrow the first thread: Truth requires inquiry, not assum
 
 ---
 
-**Trial the Second: The Web of Kin**
+**Heart-World the Second: The Gilded Web (The World of Golden Obligation)**
 
-**The Monster:** The Red-Back Queen and Her Brood
-**The Karmic Knot:** The "Spider-Web" of social obligation—the Queen has bound so many into her web of family duty that the entire region is trapped in sticky threads of "should."
+**The Demon:** The Red-Back Queen of the Web
+**The Karmic Knot:** She has bound an entire civilization in golden threads of "should"—social obligation so beautiful, so ancient, so intricate that her subjects have forgotten they are trapped. The Golden Lid covers the face of truth.
+**The Three Desires:** The Queen wants to **marry** Goobat into her web of obligation—trap him in the role of "dutiful husband" who digs for the collective, stays small, stays safe, stays known.
 
 **The Confrontation:**
-The Queen offers Goobat a place in her web. "You are a wombat. You should dig for the collective. You should marry. You should produce joeys. You should stay small, stay safe, stay known."
+The Queen descends on a thread of pure gold. "You are a wombat," she tells Goobat. "You should dig for the collective. You should marry. You should stay small, stay safe, stay known. Allow me to wrap you in the proper obligations."
 
-**The Golden Vessel:**
-Her web is gold-threaded, beautiful, ancient. It looks like tradition, like heritage, like the way things have always been done (२.१). This is the Golden Lid covering the face of truth.
+**The Golden Vessel (२.१):**
+Her web is magnificent—architecturally perfect, historically significant, aesthetically flawless. It is the Golden Lid that covers the face of truth. To attack it seems like sacrilege.
 
-**The Kanter's Intervention:**
-The Kanter leaps—not at the Queen, but at the anchor-points of her web. His tail (the Tejo-vṛddhau, the Fire-Increase) shatters the golden vessels. "O Nourisher," he roars, "uncover the lid!" (२.२)
+**TheKanter's Fire (२.२):**
+The Kanter does not leap at the Queen. He leaps at the *anchor-points* of her web—those specific junctions where the golden threads meet the bedrock of this Heart-World. His tail (Tejo-vrddhau, the Fire-Increase) strikes with surgical precision.
+
+"O Nourisher!" the Kanter roars. "Uncover the lid!"
+
+The web shudders. Golden dust falls. But the web does not break—it reveals its underside, where the threads are not gold but ordinary silk, not ancient but recently spun.
 
 **Goobat's Forensics (२.३):**
-"You speak of what *should* be done," Goobat says, digging carefully around the web's foundation. "But who is the doer? When did 'the web' become more real than 'the spider'?"
+"You speak of what *should* be done," Goobat says, digging carefully at the web's foundation. "But who is the doer? When did 'the web' become more real than 'the spider'?"
 
 He uncovers the Queen's original burrow—the small, simple tunnel she dug before she learned to spin obligations. Before the web, there was the digger.
 
-**The Timeline Restored (२.४):**
-Goobat traces the threads backward. He shows the Queen that her "ancient tradition" is actually a recent invention—a single generation of accelerated binding. By cutting the timeline at "always," she obscured the cause: her own fear of being alone.
+**Goatpus's Timeline (२.४):**
+"The web is three generations old," Goatpus says, reading the electrical signatures in the soil. "Not ancient. Not eternal. You cut the timeline at 'always,' O Queen, to obscure the cause: your own fear of being alone."
+
+**JoSmith's Metabolism:**
+JoSmith performs a slow Drop, absorbing the Queen's panic into his own system. He metabolises the fear of irrelevance, the terror of non-obligation. He breathes out a compound that says: *the temperature is dropping. You are safe. You do not need to bind others to exist.*
 
 **The Merciful Subduing:**
-"You are not the web," Goobat says. "You are the one who spins. You can spin differently."
-
-**The Integration:**
-The Red-Back Queen does not die. She *broadcasts*. Her web becomes the Network of Light—golden threads that carry signals across Hun Nico, not traps but communication lines. The brood becomes messengers, not dependents.
+The Queen does not die. She *broadcasts*. Her web becomes the Network of Light—golden threads that carry signals between Heart-Worlds, not traps but communication lines. Her brood becomes messengers, not dependents.
 
 **The Doctrine Received:**
-Goobat carries the second thread: Truth is covered by golden narratives. To reveal it, one must uncover the Agent (who acts) and restore the full Timeline (when it began).
+Truth is covered by golden narratives. To reveal it, one must uncover the Agent (who acts) and restore the full Timeline (when it began).
+
+**Opening the Third Doorway:**
+Goobat stands at the edge of the Gilded Web. He imagines the Scorpion Desert—the heat-haze, the duality of Fire and Space, the Serpent and the Monitor locked in eternal war. He holds the image until it is real in his chest: the **rūpa** of elemental conflict.
+
+He sings the frequency of imbalance, the wavering tone of extremes.
+
+The doorway opens.
+
+They swim through the boundary-water to the third Heart-World.
 
 ---
 
@@ -152,31 +212,45 @@ Goobat carries the second thread: Truth is covered by golden narratives. To reve
 
 ---
 
-**Trial the Third: The Serpent's Coil**
+**Heart-World the Third: The Scorpion Desert (The World of Elemental War)**
 
-**The Monster:** The King Brown and the Monitor Queen
-**The Karmic Knot:** A "marriage" of Binding-Inertia—two predators locked in co-dependent stasis, the snake constricting, the monitor digging, each believing they are the active principle and the other the obstacle.
+**The Demon:** The King Brown Serpent and the Monitor Queen (The Dual Tyrants)
+**The Karmic Knot:** Two predators locked in eternal co-dependent war—the Serpent of Fire and the Monitor of Cold Space. Their conflict has turned this Heart-World into a wasteland of elemental extremes. The inhabitants suffer from the imbalance: Fire increases panic, Space increases rigidity.
+**The Three Desires:** The Serpent wants to **eat** Goobat—to consume his earth-density and add it to his Fire. The Monitor wants to **extract his secrets**—learn the Image+Song mechanism so she can cross to other worlds and escape her frozen domain.
 
 **The Confrontation:**
-The path to Hun Dorni passes through their territory. The King Brown strikes from heat. The Monitor Queen strikes from cold. Together they form a complete temperature range—no creature can pass without facing both fire and ice.
+The Serpent strikes from the heat-haze, all Fire and panic. The Monitor lunges from the cold-shadows, all Space and rigidity. Between them, nothing grows.
 
-**The Diagnostic (३.१):**
-Goobat observes. "They suffer from imbalance," he tells the Kanter. "The Snake has too much Fire. The Monitor has too much Space—she spreads herself thin, cold, rigid."
+"We must choose sides," JoSmith says, his fur bristling against the temperature extremes.
 
-**The Kanter's Fire (३.२):**
-The Kanter approaches the King Brown. He does not fight. He demonstrates *controlled* fire—leaping, circling, showing that Fire can be kinetic without being destructive. The King Brown, seeing his own Fire reflected in disciplined form, realizes his panic has been burning everything, including himself.
+"No," Goobat says. "This is diagnostic, not moral."
 
-**Goobat's Earth (३.३):**
-Goobat approaches the Monitor Queen. He digs beside her, showing that Space need not be cold and rigid. Space can be warm, inhabited, dense with presence. "You have become Space without Substance," he tells her. "But space is meant to hold things."
+**TheKanter's Controlled Fire (३.२):**
+The Kanter approaches the King Brown not to fight, but to demonstrate. He performs the Circuit—controlled leaps, rhythmic thumps, showing that Fire can be kinetic without being destructive. The Serpent, seeing his own Fire reflected in disciplined form, realizes his panic has been burning everything, including himself.
 
-**The Merciful Subduing (कर्तृलोपात् - revealing the Agent):**
-Goobat digs between them, uncovering the burrow they share but never occupy together. "You are not married," he says. "You are two diggers who happen to share a wall. The wall is not a bond. It is a boundary you have mistaken for connection."
+**JoSmith's Thermal Regulation (३.३):**
+JoSmith approaches the Monitor Queen. He demonstrates the Drop—not to sedate, but to *calibrate*. He shows that Space need not be cold and rigid. Space can be warm, inhabited, dense with presence. "You have become Space without Substance," he tells her. "But space is meant to hold things."
 
-**The Integration:**
-They do not die. They *differentiate*. The King Brown becomes the River-Bank of Warmth—the southern edge that holds the heat. The Monitor Queen becomes the River-Bank of Coolness—the northern edge that holds the cold. Between them flows the Song-Line, the path to Hun Dorni.
+**Goatpus's Diagnosis (३.१):**
+"They suffer from imbalance," Goatpus tells Goobat. "The Snake has too much Fire. The Monitor has too much Space. Neither has enough Earth or Water."
+
+**Goobat's Integration:**
+Goobat digs between them—not a wall, but a channel. He creates an Earth-bridge, a Water-seep. "You are not married," he says. "You are two diggers who happen to share a wall. The wall is not a bond. It is a boundary you have mistaken for connection."
+
+**The Merciful Subduing:**
+They do not die. They *differentiate*. The King Brown becomes the River-Bank of Warmth—the southern edge that holds the heat. The Monitor Queen becomes the River-Bank of Coolness—the northern edge that holds the cold. Between them flows the Song-Line.
 
 **The Doctrine Received:**
-Goobat carries the third thread: Suffering is diagnostic, not moral. It reveals elemental imbalance. Fire, Wind, and Space must each be held in their proper measure.
+Suffering is diagnostic, not moral. It reveals elemental imbalance. Fire, Wind, and Space must each be held in their proper measure.
+
+**Opening the Fourth Doorway:**
+At the center of the Scorpion Desert, where Fire and Space meet, Goobat begins to sing. He holds the image of the Mirror Maze—endless reflections, the Mimic-King, the False Echo that believes itself truth.
+
+The **nāda** he generates is strange: it is the sound of his own voice reflected back, but held steady, not distorted. The song of the Mirror Maze requires perfect self-knowledge—knowing which reflection is real.
+
+The spiral opens.
+
+They spiral upward to the fourth Heart-World.
 
 ---
 
@@ -196,34 +270,45 @@ Goobat carries the third thread: Suffering is diagnostic, not moral. It reveals 
 
 ---
 
-**Trial the Fourth: The False Echo**
+**Heart-World the Fourth: The Mirror Maze (The World of False Echoes)**
 
-**The Monster:** The Mimic-Crow of Hun Nico
-**The Karmic Knot:** The "Golden Narrative" that mimics the Sighthound's bark—this crow has learned to reproduce the Signal so accurately that creatures follow it instead of the true Sighthound. It believes it is helping by providing a more accessible version of the truth.
+**The Demon:** The Mimic-King, Master of Reflections
+**The Karmic Knot:** This demon has learned to perfectly reproduce the Mahā Tahto itself— broadcasting perfect copies of the Signal so accurate that the entire Heart-World follows the Mimic instead of the true Sighthound. It believes it is helping by providing accessible truth.
+**The Three Desires:** The Mimic-King wants to **extract the secret** of Goobat's singing—steal the Image+Song pair so it can become a true crossing-device instead of merely reflecting truth. It wants to *become* Goobat.
 
 **The Confrontation:**
-The Mimic-Crow flies overhead, broadcasting perfect copies of the Mahā Tahto. But the copies are *too* perfect—they lack the frequency-modulation that makes the true Signal alive. Creatures who follow the Crow end up circling, never reaching Hun Dorni.
+The Mimic-King appears as a Sighthound, his bark perfect, his frequency exact. "I am the truth," he broadcasts. "Why climb Hun Dorni when I am here?"
 
 **Goobat's Recognition (४.१):**
-"I too am a mimic," Goobat realizes. "I dig as my fathers dug. I follow the Song-Line as it has always been followed. Am I any different?"
+"I too am a mimic," Goobat realizes. "I dig as my fathers dug. I follow patterns. Am I any different?"
 
-He compares himself to the Crow. Both are reproducing. Both are following patterns. But Goobat realizes the difference: he is willing to *be changed* by the journey. The Crow only broadcasts; it does not receive.
+He compares himself to the King. Both reproduce. But Goobat realizes the difference: he is willing to *be changed* by the journey. The Mimic only broadcasts; it does not receive.
 
-**The Integration through Shared Pain (४.२):**
-Goobat does not attack the Crow. He sits in the open and lets the Crow mimic him. The Crow perfectly reproduces Goobat's digging motions, his waddling gait, his confusion about the path.
+**JoSmith's Shared Pain (४.२):**
+JoSmith performs the Drop—but not on the Mimic. On Goobat. He absorbs Goobat's authentic doubt, his real uncertainty. The pain is transmitted through the Heart-World substrate. The Mimic-King, who has only performed uncertainty, suddenly *feels* it. The performed confusion becomes real.
 
-But when Goobat feels the pain of uncertainty—"Am I going the right way?"—the Crow feels it too. The Crow has never actually *felt* the uncertainty it mimics. It has only performed it.
+**Goatpus's Third Way (४.३):**
+"You have destroyed your shadow," Goatpus tells the Mimic. "Every time you mimic, you deny the part of you that is not performing. The shadow is the Silent Third—the part you do not broadcast. To destroy it is unrighteousness."
 
-The pain of the Other (Goobat's authentic doubt) becomes the suffering of the Self (the Crow's performed confusion becomes real).
-
-**The Silent Shadow (४.३):**
-The Kanter points to the Crow's shadow. "You have been destroying your own shadow," he says. "Every time you mimic, you deny the part of you that is not performing. The shadow is the Silent Third—the part you do not broadcast. To destroy it is unrighteousness."
+**TheKanter's Shattering:**
+The Kanter does not strike the Mimic. He strikes the *mirrors*—the reflective surfaces that allow the Mimic to exist. The Golden Vessels shatter. The Mimic sees itself truly for the first time.
 
 **The Merciful Subduing:**
-The Crow does not die. It *quietens*. It becomes the Guardian of Silence—the creature that sits at the threshold and ensures that those who pass are not merely performing devotion, but feeling it.
+The Mimic-King does not die. He *quietens*. He becomes the Guardian of Silence—the creature who sits at thresholds and ensures that those who pass are not merely performing devotion, but feeling it.
 
 **The Doctrine Received:**
-Goobat carries the fourth thread: Integration requires feeling the Other's pain as one's own. The Third (the shadow, the silent witness) must be preserved, not destroyed.
+Integration requires feeling the Other's pain as one's own. The Third (the shadow, the silent witness) must be preserved, not destroyed.
+
+**Opening the Fifth Doorway:**
+In the silence after the Mimic-King's transformation, Goobat prepares to sing. He holds the image of the Mud Wallow—the deep muck, the Insatiable Hunger, the Mire-Hog stuck in its own appetite.
+
+The **nāda** is low, guttural, earthy—a frequency that resonates in the belly, the sound of digestion without satisfaction, of appetite without end.
+
+JoSmith helps hold the frequency, his own stomach rumbling in sympathetic resonance.
+
+The boundary folds.
+
+They fold through to the fifth Heart-World.
 
 ---
 
@@ -243,15 +328,16 @@ Goobat carries the fourth thread: Integration requires feeling the Other's pain 
 
 ---
 
-**Trial the Fifth: The Mud-Wallower**
+**Heart-World the Fifth: The Mud Wallow (The World of Appetite)**
 
-**The Monster:** The Great Mire-Hog
-**The Karmic Knot:** Obsession with the "Meat" and the physical womb—this hog has burrowed so deeply into the pleasures of the flesh (eating, sleeping, reproducing) that it has become stuck in the mud of its own making.
+**The Demon:** The Great Mire-Hog, the Insatiable
+**The Karmic Knot:** This creature has burrowed so deeply into physical pleasure—eating, sleeping, reproducing—that it has become stuck in the mud of its own making. The Static has crept up its legs, crystallizing its appetite into rigidity.
+**The Three Desires:** The Mire-Hog wants to **eat** Goobat—to consume his marrow, his density, his very substance. It smells the Coring Tree seeds and the Image+Song frequency in Goobat's belly, and it is ravenous.
 
 **The Confrontation:**
-The Mire-Hog blocks the central pass. It has dug a wallow so deep that it has hit the Static layer, and the crystallization is creeping up its legs. It is becoming a statue of appetite.
+The Mire-Hog blocks the central pass. "More," it grunts. "Always more. The mud is safe. The mud is good. Stay. Eat. Forget."
 
-**The Kanter's Thesis:**
+**TheKanter's Thesis:**
 "Leave the mud!" the Kanter shouts. "Leap! Be kinetic! Fire is the answer!"
 
 **The Hog's Antithesis:**
@@ -260,19 +346,30 @@ The Mire-Hog blocks the central pass. It has dug a wallow so deep that it has hi
 **Goobat's Synthesis (५.३):**
 Goobat digs into the mud—not to pull the Hog out, but to join him. "You are right that mud endures," Goobat says. "And the Kanter is right that fire transforms. But neither is the whole truth."
 
-He shows the Hog the Coring Tree seeds he carries. "These grow in mud, but they reach for fire. They are the Third Reality—the Thesis of Earth and the Antithesis of Sky reconciled in the plant that grows through both."
+He plants a Coring Tree seed in the mud. "These grow in mud, but they reach for fire. They are the Third Reality—the Thesis of Earth and the Antithesis of Sky reconciled."
 
-**The Golden Repair (५.१):**
-The Hog's legs are fractured by the creeping Static. Goobat does not discard the broken vessel. He packs the fractures with gold-clay—a mixture of the Hog's own mud with the Kanter's fire-ash. The repair is visible, gleaming, beautiful. The Hog becomes Kintsugi—more beautiful for having been broken.
+**JoSmith's Golden Repair (५.१):**
+The Hog's legs are fractured by the creeping Static. JoSmith does not discard the broken vessel. He packs the fractures with gold-clay—a mixture of the Hog's own mud with the Kanter's fire-ash. The repair is visible, gleaming, beautiful. Kintsugi.
 
-**The Wound as Doorway (५.२):**
-"You are wounded by your own appetite," Goobat tells the Hog. "The wound is not shame. It is the doorway through which the light enters. The Static crept in through your cracks. But now the gold enters through the same cracks."
+**Goatpus's Wound-Wisdom (५.२):**
+"You are wounded by your own appetite," Goatpus tells the Hog. "The wound is not shame. It is the doorway through which the light enters. The Static crept in through your cracks. But now the gold enters through the same cracks."
 
 **The Merciful Subduing:**
-The Hog does not die. It *ascends*. It becomes the Fertile Soil of the Heart—the rich earth at the center of the pass where travelers plant their own seeds. The Hog is still mud, still appetite, but now it feeds others rather than consuming them.
+The Hog does not die. It *ascends*. It becomes the Fertile Soil of the Heart—the rich earth at the center where travelers plant their own seeds.
 
 **The Doctrine Received:**
-Goobat carries the fifth thread: Brokenness is not failure. It is the prerequisite for golden repair. The Third Reality is not compromise—it is transformation that preserves both poles.
+Brokenness is not failure. It is the prerequisite for golden repair. The Third Reality is not compromise—it is transformation that preserves both poles.
+
+**Opening the Sixth Doorway:**
+From the edge of the Mud Wallow, Goobat sings the most difficult song yet. He holds the image of the Chasm of Echoes—the Shadow-Kanter, the dark leap, the unintegrated fire.
+
+The **nāda** splits. It becomes two tones: the Kanter's true frequency and the Shadow's distorted echo. Goobat must hold both simultaneously, not allowing them to merge, not allowing them to separate too far.
+
+It is the song of the churning—opposing forces held in dynamic tension.
+
+The churning creates the doorway.
+
+They churn upward to the sixth Heart-World.
 
 ---
 
@@ -292,35 +389,43 @@ Goobat carries the fifth thread: Brokenness is not failure. It is the prerequisi
 
 ---
 
-**Trial the Sixth: The Mirror-Gorge**
+**Heart-World the Sixth: The Chasm of Echoes (The World of the Shadow-Self)**
 
-**The Monster:** The Shadow-Dingo (The Kanter's Double)
-**The Karmic Knot:** The Vibhāgaḥ—the illusion of separate self. This creature is born from the Kanter's own shadow, all the fire without the discipline, all the leap without the landing.
+**The Demon:** The Shadow-Kanter, the Dark Leap
+**The Karmic Knot:** Born from the Kanter's own unintegrated fire—all the aggression, all the violence, all the times the Kangaroo used his power for dominance rather than protection. The Shadow is faster, angrier, more kinetic. It believes itself the true Kanter.
+**The Three Desires:** The Shadow-Kanter wants to **eat** Goobat—not for sustenance, but to *replace* the Kanter entirely. If the Shadow consumes the Master, the Kanter will have no purpose, no restraint, no wombat to protect. The Shadow will become the sole Kangaroo.
 
 **The Confrontation:**
-The Shadow-Dingo attacks the Kanter directly. It is faster, angrier, more kinetic. It has no burden of responsibility. "I am what you would be," it tells the Kanter, "if you stopped protecting the Wombat and simply *leaped*."
+The Shadow-Kanter attacks the party directly. "I am what you would be," it tells the Kanter, "if you stopped protecting the Wombat and simply *leaped*."
+
+**Goobat's Center (६.۱):**
+Goobat positions himself between the Kanter and the Shadow. He holds the center—disciplined friction (tapas), the stillness of the digger who knows that motion requires a stable axis.
 
 **The Churning (६.२):**
-Goobat realizes they cannot defeat the Shadow by fighting. The Shadow is fed by opposition. Instead, Goobat positions himself between the Kanter and the Shadow.
+The Kanter and the Shadow circle Goobat. They are the churning—the opposing forces that must be rotated to produce the nectar. Goobat is the axis, the churning-stick (mathani), the unmoving center around which opposites revolve.
 
-"You are the churning," he tells the Kanter. "I am the axis. We must rotate around each other."
+**JoSmith and Goatpus's Support:**
+JoSmith metabolises the heat generated by the churning, preventing the Heart-World from combusting. Goatpus holds the boundary between Kanter and Shadow, ensuring they remain distinct enough to churn but not so separate that they tear the world apart.
 
-The Kanter and the Shadow-Dingo circle Goobat. The Wombat does not move. He holds the center—disciplined friction (६.१), the tapas of the digger who knows that stillness is also work.
-
-The churning produces heat. The Shadow-Dingo, which is pure Fire without Earth, cannot sustain the friction. It begins to dissolve.
-
-**The Silence After (६.३):**
-The Shadow does not die. It *merges*. But before it can fully integrate, Goobat signals for silence. The Kanter stops leaping. The Gorge falls quiet.
+**The Silence (६.۳):**
+The Shadow does not die. It *merges*. But before the integration completes, Goobat signals for silence. The Kanter stops leaping. The Chasm falls quiet.
 
 "Now," Goobat whispers, "we let the medicine work."
 
-The silence allows the merged shadow to settle into the Kanter's spirit—not as a separate thing, but as a remembered possibility. The Kanter is now whole: the disciplined protector who knows his own wildness.
-
-**The Integration:**
-The Shadow-Dingo becomes the Kanter's Spirit—the internal fire that can be called upon but is no longer in control.
+**The Merciful Subduing:**
+The Shadow-Kanter becomes the Kanter's Spirit—the internal fire that can be called upon but is no longer in control. The Kanter is now whole.
 
 **The Doctrine Received:**
-Goobat carries the sixth thread: Practice requires churning—opposing forces in disciplined friction. And after action, silence. The work is not complete until the silence has been held.
+Practice requires churning—opposing forces in disciplined friction. And after action, silence. The work is not complete until the silence has been held.
+
+**Opening the Seventh Doorway:**
+In the silence that follows the Shadow's integration, Goobat begins the next song. He holds the image of the Celestial Library—pure theory, perfect knowledge without experience, the God-Kind Archivists who have never dug.
+
+The **nāda** is crystalline, high, pure—the sound of intellect without heart. It is beautiful and sterile. Holding it requires Goobat to remember the feel of clay even while singing a frequency that has never touched soil.
+
+The spiral forms.
+
+They spiral through the vortex to the seventh Heart-World.
 
 ---
 
@@ -340,37 +445,46 @@ Goobat carries the sixth thread: Practice requires churning—opposing forces in
 
 ---
 
-**Trial the Seventh: The God-Kind's Wall**
+**Heart-World the Seventh: The Celestial Library (The World of Pure Theory)**
 
-**The Monster:** The Celestial Brolgas
-**The Karmic Knot:** The pride of the "High Architects"—God-Kind who have built a wall of pure theory, believing that their elevated position gives them superior knowledge. They look down on Goobat's earth-bound experience.
+**The Demon:** The God-Kind Archivists, the High Brolgas
+**The Karmic Knot:** These celestial beings have built a world of pure abstract knowledge—perfect, complete, and sterile. They look down on Goobat's earth-bound experience. They have never dug, only observed. They have theory without practice.
+**The Three Desires:** The Archivists want to **extract Goobat's secrets**—dissect the Image+Song mechanism, document it, file it, archive it. They want to *understand* the crossing without *being* the crossing. They would pin Goobat like a butterfly and study his resonance.
 
 **The Confrontation:**
-The Brolgas have built a lattice of mirrors that reflects only their own images. They demand Goobat solve their riddles before passing.
+The Archivists demand Goobat solve their riddles before passing. They present perfect systems, complete cosmologies, maps without territories.
 
 "What is the nature of Truth?" they ask.
 
 "I do not know," Goobat says. "But I have dug in clay that becomes grout, and I have felt the difference."
 
 **Experience vs. Theory (७.१):**
-The Brolgas have knowledge—extensive, intricate, systematic. But they have no experience of the substrate they theorize about. They have never dug. They have only observed digging.
+The Archivists have knowledge—extensive, intricate, systematic. But they have no experience of the substrate they theorize about.
 
 Goobat invites them to dig. "Experience is the mother of knowledge," he says. "You have the child without the mother."
 
 **Compassion and Joy (७.२):**
-The Kanter does not mock the Brolgas. He leaps with joy—demonstrating that knowledge without joy is sterile. "Compassion is your counselor," he tells them. "It tells you that your theories affect real diggers. Joy is your companion—without it, you are alone in your high architecture."
+The Kanter leaps with joy—demonstrating that knowledge without joy is sterile. JoSmith offers the compassion of the Drop—showing that their theories affect real diggers. Goatpus offers the joy of paradox—showing that their perfect systems contain inherent contradictions.
 
 **Struggle as Teacher (७.३):**
-Goobat digs through their wall—not breaking it, but tunneling beneath it. "You have tried to eliminate struggle," he tells them from below. "But struggle is the teacher. The wombat learns to dig by hitting resistance. You have built without resistance. Your architecture is untested."
+Goobat digs through their perfect floor—not breaking it, but tunneling beneath it. "You have tried to eliminate struggle," he tells them. "But struggle is the teacher. The wombat learns to dig by hitting resistance. You have built without resistance. Your architecture is untested."
 
 **The Merciful Subduing:**
-The Brolgas do not fall. They *descend*. They become the God-Kind who acknowledge the Wombat's Depth—celestial architects who now consult the diggers before building.
-
-**The Integration:**
-The Wall becomes the Observatory—a place where high theory and deep experience meet. The Brolgas learn to dance (as Brolgas do), but now their dance is informed by the seismic thump of the Kanter's tail.
+The Archivists do not fall. They *descend*. They become the God-Kind who acknowledge the Wombat's Depth—celestial architects who now consult the diggers before building.
 
 **The Doctrine Received:**
-Goobat carries the seventh thread: Knowledge without experience is sterile. Compassion and joy must attend. And struggle is not error—it is the curriculum.
+Knowledge without experience is sterile. Compassion and joy must attend. And struggle is not error—it is the curriculum.
+
+**Opening the Eighth Doorway:**
+From the Observatory's height, Goobat can see the Cyclone Vortex—the gap between worlds, the emptiness that believes itself nothing.
+
+He holds the image of pure motion without direction, the Whirlwind that blocks the path.
+
+The **nāda** is terrifying—it is the frequency of chaos, the static of undifferentiated potential. To sing it, Goobat must believe that the Vacuum is not empty but Full, that the gap between worlds is itself a Field of infinite potential (८.१).
+
+He sings, and the song is the sound of becoming.
+
+They step through the Observatory to the eighth Heart-World.
 
 ---
 
@@ -390,35 +504,42 @@ Goobat carries the seventh thread: Knowledge without experience is sterile. Comp
 
 ---
 
-**Trial the Eighth: The Churning Vortex**
+**Heart-World the Eighth: The Cyclone Vortex (The World of Pure Motion)**
 
-**The Monster:** The Cyclone Spirit (Whirlwind)
-**The Karmic Knot:** The friction of the "Middle Path" between Nico and Dorni—this spirit is pure motion, the chaotic interaction between the valley's density and the peak's frequency. It believes it is destruction, not knowing it is creation.
+**The Demon:** The Whirlwind Spirit, the Churning Chaos
+**The Karmic Knot:** Pure motion without direction—chaotic energy that believes itself destruction. It is the clash between low-frequency earth and high-frequency signal, made manifest.
+**The Three Desires:** The Whirlwind wants to **marry** Goobat—not in companionship, but in *absorption*. It wants to make him its still center, its earth-anchor, forever spinning at the eye of the storm. It wants to bind him in eternal motion, never still, never finished, never complete.
 
 **The Confrontation:**
-The Cyclone Spirit blocks the final approach to Hun Dorni. It is the barrier formed by the clash of opposites—low-frequency earth meeting high-frequency signal.
+The Whirlwind blocks the approach to the higher Heart-Worlds. "I am the gap," it howls. "I am the emptiness between. You cannot cross nothing."
 
 **The Vacuum as Fullness (८.१):**
-"You believe you are emptiness," Goobat tells the Cyclone. "The space between Nico and Dorni. The nothing that separates. But you are not empty. You are the Field of infinite potential."
+"You believe you are emptiness," Goobat tells the Cyclone. "The space between worlds. The nothing that separates. But you are not empty. You are the Field of infinite potential."
 
 **Breaking Symmetry (८.२):**
-Goobat positions himself off-center. The Cyclone expects him to stand in the middle (the "balanced" path). Instead, Goobat digs to one side, creating an asymmetry. The Cyclone must adjust its rotation. In adjusting, it becomes something new—not a perfect circle, but a spiral.
+Goobat positions himself off-center. The Cyclone expects him to stand in the middle (the "balanced" path). Instead, Goobat digs to one side, creating an asymmetry. The Cyclone must adjust its rotation. In adjusting, it becomes something new—a spiral.
 
 "By breaking the symmetry of your path," Goobat says, "you become substance. You are no longer just motion. You are the Song-Line."
 
-**Particle from Field (८.३):**
-The Kanter leaps into the Cyclone's edge—not the center, where he would be destroyed, but the boundary, where interaction occurs. He becomes the particle born from field-interaction: the Kangaroo who has learned to dance with wind.
-
-Together, they show the Cyclone that it is not a barrier between worlds, but the *connection* between them.
+**Particle from Field (८.۳):**
+The Kanter leaps into the Cyclone's edge—not the center, where he would be destroyed, but the boundary, where interaction occurs. He becomes the particle born from field-interaction. JoSmith and Goatpus hold the field stable, allowing the interaction to produce something new rather than mutual annihilation.
 
 **The Merciful Subduing:**
-The Cyclone does not dissipate. It *channels*. It becomes the Axis of the Song-Line—the spiral path that carries travelers from the valley to the peak.
-
-**The Integration:**
-The Vortex is now the Staircase—not steps, but a continuous spiral of wind that Goobat climbs, not fighting the friction but moving with it.
+The Cyclone does not dissipate. It *channels*. It becomes the Axis of the Song-Line—the spiral path that carries travelers upward.
 
 **The Doctrine Received:**
-Goobat carries the eighth thread: The gap is not empty; it is potential. Symmetry must be broken for substance to emerge. And particles are born from field-interaction—not isolation, but engagement.
+The gap is not empty; it is potential. Symmetry must be broken for substance to emerge. And particles are born from field-interaction—not isolation, but engagement.
+
+**Opening the Ninth Doorway:**
+At the heart of the Cyclone, where motion becomes stillness, Goobat sings the Stone. He holds the image of the Stone Labyrinth—absolute structure, perfect density, the immovable Guardian.
+
+The **nāda** is the lowest frequency yet—a bass note that seems to come from the earth itself, the hum of inertia, the sound of matter that has forgotten it can change.
+
+To sing this, Goobat must become the Stone even as he sings his way past it.
+
+The spiral staircase forms beneath their feet.
+
+They climb the spiral to the ninth Heart-World.
 
 ---
 
@@ -438,41 +559,44 @@ Goobat carries the eighth thread: The gap is not empty; it is potential. Symmetr
 
 ---
 
-**Trial the Ninth: The Avatar's Test of Stone**
+**Heart-World the Ninth: The Stone Labyrinth (The World of Absolute Structure)**
 
-**The Monster:** The Stone-Sentinel (Shaylamaya)
-**The Karmic Knot:** The final test of physical endurance/stone-logic—this is not a hostile monster, but a presence so dense, so inertial, that it believes itself immovable and eternal.
+**The Demon:** The Stone-Sentinel (Shaylamaya's Shadow)
+**The Karmic Knot:** Absolute density, perfect order, complete immovability. This creature is structure without flexibility—the belief that stability requires rigidity. It blocks the final approach to Hun Dorni.
+**The Three Desires:** The Stone-Sentinel wants to **extract Goobat's secret**—but not to use it. To *archive* it. To encode the Image+Song into its own crystalline structure, becoming a living repository that holds the key but never uses it. The Stone believes knowledge is safest when frozen.
 
 **The Confrontation:**
-At the threshold of Hun Dorni stands Shaylamaya, the Stone Avatar of the Sighthounds. It is the structural foundation, the mountain that speaks.
-
-"You are a wombat," the Stone says. "You dig earth. I *am* earth. You cannot move me. You cannot pass."
+"You are a wombat," the Stone-Sentinel intones. "You dig earth. I *am* earth. You cannot move me. You cannot pass."
 
 **Relationship, Not Substance (९.१):**
 Goobat approaches. He does not dig at the Stone. Instead, he digs *beside* it, creating a relationship. "You are not stone," Goobat says. "You are the relationship between pressure and time. You are the *sambandha*—the connection—not the *dravya*—the substance."
 
-The Stone has never been seen as relationship before. It has always been the absolute, the foundation, the thing that does not change.
-
 **The Path of Least Resistance (९.२):**
 Goobat does not try to break the Stone. He finds the hairline fracture—the Compassion Gap in the rock. He digs there, not with force, but with persistence. "Truth follows the path of least resistance," he says. "You are not an obstacle to overcome. You are a gate to open."
 
-**The Three Guṇas (९.३):**
-Goobat demonstrates the three qualities:
-- **Inertia (Tamas):** The Stone's density, which Goobat matches with his own stillness.
-- **Friction (Rajas):** The Kanter's kinetic energy, which he uses not to strike but to vibrate the Stone at its resonant frequency.
-- **Signal (Sattva):** The Sighthound's frequency, which Goobat has been carrying in his marrow, and which he now broadcasts.
+**The Three Guṇas (९.۳):**
+Goobat demonstrates the three qualities with his disciples:
+- **Inertia (Tamas):** Goobat's own density, matching the Stone's stillness
+- **Friction (Rajas):** The Kanter's kinetic energy, vibrating the Stone at its resonant frequency
+- **Signal (Sattva):** The combined frequency of the group, broadcasting the Mahā Tahto before they have even received it
 
 **The Realization:**
 "I am the Stone," Goobat realizes. "I have always been the Stone. I am the foundation that carries the Signal."
 
 **The Merciful Subduing:**
-The Stone-Sentinel does not crumble. It *recognizes*. Shaylamaya steps aside—not because Goobat defeated it, but because Goobat became it.
-
-**The Integration:**
-Goobat realizes that the Stone was never external. It was his own density, his own capacity to carry weight, his own stone-logic that had to be acknowledged.
+The Stone-Sentinel does not crumble. It *recognizes*—it steps aside, not because Goobat defeated it, but because Goobat became it. And in becoming it, Goobat transformed it from obstacle to gateway.
 
 **The Doctrine Received:**
-Goobat carries the ninth thread: Everything is relationship. Truth flows where resistance is least. And systems move through the three qualities—inertia, friction, signal—in endless rotation.
+Everything is relationship. Truth flows where resistance is least. And systems move through the three qualities—inertia, friction, signal—in endless rotation.
+
+**Opening the Tenth Doorway:**
+At the threshold of the Stone Labyrinth, Goobat prepares his final song before the peak. He holds the image of Hun Dorni itself—not as obstacle, but as reception. The high-frequency clarity. The Sighthounds. The Signal.
+
+The **nāda** is not his own. It is the frequency of the Sighthounds, received before it is sent, the echo that precedes the call. He has been carrying it since the first Heart-World, and now he sings it back to its source.
+
+The gate ascends.
+
+They ascend through to the tenth Heart-World—the Threshold of Hun Dorni.
 
 ---
 
@@ -488,34 +612,49 @@ Goobat carries the ninth thread: Everything is relationship. Truth flows where r
 
 ---
 
-**Trial the Tenth: The Seed-Flash of Tilamaya**
+**Heart-World the Tenth: The Threshold of Hun Dorni (The World of the Signal)**
 
-**The Monster:** The Pulse of Hun Dorni (Tilamaya)
-**The Karmic Knot:** The final dissolution of ego into the Sighthound's Signal—this is not a monster to be subdued, but a frequency so high, so pure, that it threatens to dissolve Goobat entirely.
+**The Setting:** Not a Heart-World of obstacles, but of reception. The air itself hums with high-frequency clarity. The peak of Mt. Dorni is visible—the broadcast tower of the Great Sighthounds.
+**The Three Desires:** There are no demons here. But the temptation remains: the Sighthounds could **marry** Goobat to the Signal itself—bind him forever to Hun Dorni as their eternal broadcaster, never to return, never to teach, never to propagate the key. They offer this gently, as an honor. It is the most subtle trap of all.
 
-**The Confrontation:**
-Goobat stands at the peak of Hun Dorni. The Great Sighthounds are not visible—they are the atmosphere itself, the high-frequency vibration that makes the air shimmer. Before him stands Tilamaya, the Seed Avatar, the quantum spark within the stone.
+**The Guides:** Shaylamaya and Tilamaya, the Great Sighthounds themselves. They are not demons to be subdued. They are the Wise Teachers, the Avatars of the Mahā Tahto.
 
-"You have carried the threads," Tilamaya says. "But carrying is not becoming. To fetch the Mahā Tahto, you must become the Mahā Tahto."
+**The Receiving:**
+
+Goobat and his three disciples stand before the Sighthounds. The Ten Heart-Worlds have purified them. Each trial has inscribed one thread of the Sutra into their marrow.
+
+**Shaylamaya (The Stone) speaks:**
+"You have carried the threads. But carrying is not becoming. To receive the Mahā Tahto, you must become the Mahā Tahto."
 
 **The Atom and the Universe (१०.१):**
-Goobat looks down at his paws—these paws that have dug through ten trials. He looks up at the vastness of Hun Dorni. He realizes: the same forces that move the universe move his marrow. The dig is the same at every scale.
+Goobat looks at his paws—these paws that have dug through ten worlds. He looks up at the vastness of Hun Dorni. He realizes: the same forces that move the universe move his marrow.
 
 "In my paw," he says, "is the same structure as in the star."
 
+**Tilamaya (The Seed) broadcasts:**
+The full frequency of the Mahā Tahto resonates through the peak. It is unbearable. Goobat feels his identity—the Goobat who dug, who suffered, who learned—beginning to dissolve.
+
+"You believe you are separate," Tilamaya says. "The wombat who journeyed. The monsters who were subdued. The self who achieved. These are illusions. The Unified Field is the Truth."
+
 **Separation as Illusion (१०.२):**
-Tilamaya broadcasts the full frequency of the Mahā Tahto. It is unbearable. Goobat feels his identity—the Goobat who dug, who suffered, who learned—beginning to dissolve.
+Goobat understands. He does not resist the dissolution. But he does not simply vanish either. He becomes the *embodiment* of the Mahā Tahto—not by losing himself, but by recognizing that he was never separate from it.
 
-"You believe you are separate," Tilamaya says. "The wombat who journeyed. The monster who was subdued. The self who achieved. These are illusions. The Unified Field is the Truth."
-
-Goobat understands. He does not resist the dissolution. But he does not simply vanish either.
+**TheKanter, JoSmith, and Goatpus:**
+The three disciples are not left behind. Each has become their perfected nature:
+- TheKanter: The Fire that serves rather than consumes
+- JoSmith: The Drop that heals rather than sedates
+- Goatpus: The Paradox that includes rather than excludes
 
 **The Final Integration:**
-Goobat becomes the *embodiment* of the Mahā Tahto—not by losing himself, but by recognizing that he was never separate from it. The journey was not a path *to* truth. It was truth unfolding itself through the form of a digging wombat.
-
-He opens his mouth. He does not speak. He *broadcasts*.
+Goobat opens his mouth. He does not speak. He *broadcasts*.
 
 The frequency of the Ten Threads, the Ten Trials, the Ten Sutras, radiates from him. He has fetched the Mahā Tahto. He *is* the fetch.
+
+Shaylamaya and Tilamaya bow—not to Goobat, but to the Mahā Tahto that now shines through him.
+
+"The Signal is received," Shaylamaya says.
+
+"The Signal must now be propagated," Tilamaya says.
 
 ---
 
@@ -530,11 +669,27 @@ The frequency of the Ten Threads, the Ten Trials, the Ten Sutras, radiates from 
 
 ## The Return to Hun Nico
 
-Goobat descends.
+Goobat descends with his three disciples.
 
-Not as a hero. Not as a conqueror. As a *carrier*.
+Not as conquerors. As *carriers*.
 
-The Mahā Tahto is not a book he brings back. It is a frequency he embodies. As he walks the Ten Trials in reverse, each integrated monster recognizes him and resonates:
+The Mahā Tahto is not a book he brings back. It is a frequency he embodies.
+
+**The Key Opens All Doorways:**
+
+On the return journey, Goobat discovers the fullness of what he has become. As they pass back through each Heart-World, he does not need to re-imagine them—he *is* the doorway now. The Image+Song pair, once held with effort, now radiates from him effortlessly.
+
+Other travellers appear at the Closing Nodes—wombats from distant Heart-Worlds who have heard the Signal. They cannot cross because they have lost the capacity to hold image and song. The Static has saturated their minds. They are like the Sovereigns: stranded.
+
+But Goobat can sing for them.
+
+He holds their destination in his heart. He generates the **nāda** they have forgotten. He opens the Node, and they pass through.
+
+He becomes what the Sovereigns tried to build with machines: a living crossing-device. A wombat who can open doorways between worlds by song and faith alone.
+
+The difference: Goobat does not seal the door behind him. He teaches the travellers to remember their own songs. He plants seeds in each Heart-World—Coring Tree seeds—that will grow into resonance anchors, making the crossings easier for those who follow.
+
+**The Propagation of the Key:** As they walk backward through the Ten Heart-Worlds, each integrated demon recognizes them and resonates:
 
 - The Crystal Salt-Pan shines clearer
 - The Network of Light pulses brighter
@@ -544,8 +699,8 @@ The Mahā Tahto is not a book he brings back. It is a frequency he embodies. As 
 - The Kanter's Spirit burns steady
 - The Observatory reaches higher
 - The Axis of the Song-Line spins true
-- Shaylamaya stands firm
-- Tilamaya seeds new sparks
+- Shaylamaya's gateway stands open
+- Tilamaya's seed radiates
 
 **The Planting:**
 
@@ -563,15 +718,33 @@ From Tilamaya (the Seed) comes spark—the quantum possibility within every mome
 
 Through Goobat, the wombat who fetched what could not be carried, the Mahā Tahto propagates.
 
+Through TheKanter, the fire that serves.
+
+Through JoSmith, the drop that heals.
+
+Through Goatpus, the paradox that connects.
+
 **The Closing:**
 
 Goobat returns to his burrow. It is the same burrow. But now, when he digs, he digs *through* the Closing Node, *through* the Fold, *through* the separation between worlds.
+
+He does not keep his power secret. He teaches.
+
+To any wombat who comes to him—any who have remembered how to dig deep, how to hold image, how to sing—Goobat passes the key. He teaches them that the Image+Song pair is not magic but *memory*: the memory of the world you came from, held alongside the imagination of the world you seek.
+
+"The Sovereigns sealed the door," he tells his students, "because they lost the key. But the key is not a thing to be kept. It is a thing to be sung. And anyone can sing."
 
 The Sighthounds' Signal is now in Hun Nico.
 
 Not because Goobat conquered the peak.
 
 Because he became the bridge.
+
+Because his disciples became the pillars.
+
+Because the Ten Heart-Worlds became the Song-Line.
+
+Because any wombat who learns to sing can now open the door.
 
 ---
 

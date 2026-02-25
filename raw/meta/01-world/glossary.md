@@ -193,7 +193,7 @@ Organized by category. Definitions based on source material.
 
 **Ghost-Diggers** — Off-Tally, unauthorized repairers; untaxable wombats operating outside the system.
 
-**The Glow Squad** — Tatebat's cultural enforcement; fashion and status-based oppression.
+**The Glow Squad** — cultural enforcement; fashion and status-based oppression.
 
 **The God-Kind** — Humans whose sleeping bodies generate Heart Worlds; sleeping in the surface world above; generate Arnam or Static depending on their heart's coherence.
 
@@ -270,7 +270,7 @@ Organized by category. Definitions based on source material.
 
 ## 8. INSTITUTIONS & POWER STRUCTURES
 
-**The Censorate** — Surveillance and suppression apparatus; uses resonance-tuned bells to detect Dissonant Noise; operated by Zuckbat.
+**The Censorate** — Surveillance and suppression apparatus; uses resonance-tuned bells to detect Dissonant Noise.
 
 **The Censorate Bells** — Resonance-tuned instruments calibrated to detect Dissonant Noise; corrupt Warning Songline technology.
 
@@ -304,7 +304,7 @@ Organized by category. Definitions based on source material.
 
 **The Device** — The Sovereign crossing technology; mechanical prosthesis for faith; holds rūpa and nāda artificially, compensating for lost heart-capacity.
 
-**The Frequency** — Muskbat's broadcast system; synthetic Arnam-substitute; contains entombed Wombiki voices; manages fight-or-flight in Lo Snouts.
+**The Frequency** — broadcast system; synthetic Arnam-substitute; contains entombed Wombiki voices; manages fight-or-flight in Lo Snouts.
 
 **Grout** — Material used for the Wall and Cathedral; dead, rigid, screams under stress; made from Static blocks bound with Koala Lyptus resin.
 

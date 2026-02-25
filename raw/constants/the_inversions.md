@@ -52,7 +52,7 @@ This is the path of the **Sorcerer** (The High-Nose). It grants immense, short-t
 *   **The Power:** The ability to manipulate the emotional temperature of a population for profit.
 *   **The Mechanic:** Introducing agents (Lyptus, Fear, Outrage) to artificially spike the Fire (Panic) or Earth (Lethargy) elements. The Sorcerer creates the sickness so they can sell the cure.
 *   **In Melborow:** The Koalas sell "Lyptus" to calm the wombats down, but the Lyptus is engineered to wear off at exactly the same time the Council broadcasts a fear-alert. The wombats are trapped in a cycle of Panic-Sedation-Panic, paying for both sides of the ride.
-*   **The Antagonist:** **The Koala Gangs** (and Muskbat's Algorithm).
+*   **The Antagonist:** **The Koala Gangs** (and the algorithm).
 *   **The Karmic Cost:** **Toxic Shock.** The imbalance eventually enters the user. The dealer becomes the addict. The fear-monger dies of paranoia, terrified of the shadows they painted on the wall.
 
 ### 4. The Parasitic Link (Inverted Integration)
@@ -125,7 +125,7 @@ This is the path of the **Sorcerer** (The High-Nose). It grants immense, short-t
     *   "I don't need to ask you. I already know."
 *   **The Power:** The ability to see everyone else, while remaining unseen.
 *   **The Mechanic:** Mapping the relationships not to navigate them, but to exploit them. The Sorcerer turns connections into data points, and data points into leverage. They know who you owe, who you love, and where you sleep.
-*   **In Melborow:** Zuckbat's Root-Network. It doesn't carry water; it carries **Tally-Debt**. Every interaction between wombats is recorded and monetized. Friendship is reduced to a "Social Graph."
+*   **In Melborow:** The Root-Network. It doesn't carry water; it carries **Tally-Debt**. Every interaction between wombats is recorded and monetized. Friendship is reduced to a "Social Graph."
 *   **The Antagonist:** **Zuckbat.**
 *   **The Karmic Cost:** **Paranoia.** The observer knows that everyone is watching, because he is watching everyone. He can never trust, never sleep, never connect. He is the prisoner of his own watchtower, terrified that someone, somewhere, has a camera pointed at *him*.
 

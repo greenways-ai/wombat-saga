@@ -123,7 +123,7 @@ The Static economy has created a web of dependency so thorough that each species
 - **Dingoes** need Static access (and therefore need Kangaroo tolerance)
 - **Wombats** need rations (the Advances) to eat
 - **The Council** needs Grout (which requires all of the above)
-- **All species** are exposed to the Frequency (Muskbat's synthetic Arnam-substitute, which requires Static to produce)
+- **All species** are exposed to the Frequency (the synthetic Arnam-substitute, which requires Static to produce)
 
 No species can unilaterally withdraw. This is not an accident. The dependency web was not designed by any mastermind, but it has been maintained by the Council because a world where everyone needs what you control is a world where no one can afford to challenge you.
 

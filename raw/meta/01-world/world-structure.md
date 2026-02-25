@@ -217,7 +217,7 @@ Three-stage betrayal:
 
 ### The Frequency — Instrument of Pacification
 
-Muskbat's synthetic Arnam-substitute. Mimics the comfort of the real signal while triggering manageable fight-or-flight. Drowns the actual Arnam signal. Contains, woven into its broadcast, the dying frequencies of entombed Wombiki—the countless voices of those sacrificed in the Walls.
+The synthetic Arnam-substitute. Mimics the comfort of the real signal while triggering manageable fight-or-flight. Drowns the actual Arnam signal. Contains, woven into its broadcast, the dying frequencies of entombed Wombiki—the countless voices of those sacrificed in the Walls.
 
 ### The Social Strata
 

@@ -120,7 +120,7 @@ The final stage. The landscape loses its narrative memory.
 
 In the Old Ways, every tunnel had a name. Every junction had a story. Navigation was performed through memory and song — the [[groups/dust_bearers#Ghar-Mu (The Rememberers)|Ghar-Mu]] mapping the world through oral tradition, the Dust-Bearers knowing where they were by the *feel* of the ground beneath their paws.
 
-The Static replaces this with data. Names become Sectors. Stories become Sub-Levels. The curved, organic tunnels — each one unique, each one shaped by the creature who dug it — are demolished and replaced by the square grid of [[lore#The New Ways (The Melborow Frequency)|the New Ways]]. Navigation shifts from the body's memory to Zuckbat's [[lore#The 5 Sovereign Wombats (The Cathedral)|Root-Network]] readout. The landscape stops being a story and becomes a spreadsheet.
+The Static replaces this with data. Names become Sectors. Stories become Sub-Levels. The curved, organic tunnels — each one unique, each one shaped by the creature who dug it — are demolished and replaced by the square grid of [[lore#The New Ways (The Melborow Frequency)|the New Ways]]. Navigation shifts from the body's memory to the [[lore#The 5 Sovereign Wombats (The Cathedral)|Root-Network]] readout. The landscape stops being a story and becomes a spreadsheet.
 
 A songline is not a map. A songline is a section of the [[#The Logic of Arnamland|Dreaming]] performed as navigation — a song that simultaneously describes the land, creates the land, and teaches the singer how to walk it. When a Ghar-Mu stomped a rhythm, she was not merely recording history. She was performing a ceremony that kept that section of tunnel *real* — that held its shape in the substrate, that prevented the ground from forgetting what it was meant to be. Erase the songline and you do not just lose your way. You let a section of reality go unperformed. The ground forgets its own name. And unnamed ground is where the lattice tiles.
 
@@ -343,7 +343,7 @@ This is Arnamland's deepest lesson, and the one the Five-I's cannot learn: *belo
 1.  **Calcification of the Heart-Chakra:** The physical mud of the borow walls becomes harder to dig. Wombats report "Unexplained Arthritis" when trying to perform acts of charity.
 2.  **The Luxury Void:** The emergence of "Pre-Dug borows." Wombats no longer want to dig (create/struggle); they want to buy a hole that already exists. This leads to a loss of "The Seventh Thread" (Muscle Memory).
 3.  **Bureaucratic Numbness:** A condition where a wombat cannot feel the vibration of an approaching excavator because they are waiting for the "Official Impact Assessment Report" to tell them it's happening.
-4.  **The Great Disconnection:** Young wombats can no longer hear the "Song of the Mothers." They only hear the "Notification Ping" of the Muskbat Frequency.
+4.  **The Great Disconnection:** Young wombats can no longer hear the "Song of the Mothers." They only hear the "Notification Ping" of the Frequency.
 5.  **Structural Prisons:** The shift from curved, organic tunnels (which survive earthquakes) to square, grid-like tunnels (which collapse under pressure). The "Square Hole" is the ultimate sign of Human madness infecting Wombat architecture.
 
 ---
