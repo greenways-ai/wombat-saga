@@ -27,21 +27,21 @@
 
 ## Distraction
 
-The Librarian offers TheKanter the complete fire-record — every fire-event in every known world, including the first fire made by a Kangaroo Circuit five generations before his birth. Not a fake emergency. **Genuine intellectual absorption.** TheKanter reads for two hours before realising he's lost track of time. Sets the volume down and it immediately, precisely feels heavier.
+The Librarian offers Tekanter the complete fire-record — every fire-event in every known world, including the first fire made by a Kangaroo Circuit five generations before his birth. Not a fake emergency. **Genuine intellectual absorption.** Tekanter reads for two hours before realising he's lost track of time. Sets the volume down and it immediately, precisely feels heavier.
 
 ---
 
 ## Capture
 
-Goobat is given a book with his name on it: the complete documented history of Hoebat in Melborow. He opens it to one page. That page connects to three others. Those connect to six more. The reference structure is immaculate and has no exit — every edge leads somewhere else. He knows he's inside the structure. The knowing is indexed and accommodated. JoSmith metabolises the overflow but cannot remove Goobat — he has to come out through the index.
+Chewbat is given a book with his name on it: the complete documented history of Hoebat in Melborow. He opens it to one page. That page connects to three others. Those connect to six more. The reference structure is immaculate and has no exit — every edge leads somewhere else. He knows he's inside the structure. The knowing is indexed and accommodated. Jeosmi metabolises the overflow but cannot remove Chewbat — he has to come out through the index.
 
 ---
 
 ## Rescue
 
-**A useless fact.** TheKanter tells Goobat something that has nothing to do with anything in the book: the exact colour of the light on the mirror-surface at a certain angle in Trial 4. A scratch on the third mirror surface. Left-to-right, not quite straight. He doesn't know what made it.
+**A useless fact.** Tekanter tells Chewbat something that has nothing to do with anything in the book: the exact colour of the light on the mirror-surface at a certain angle in Trial 4. A scratch on the third mirror surface. Left-to-right, not quite straight. He doesn't know what made it.
 
-The fact has no position in the reference structure. It creates a blank — a gap with nothing to connect to. Goobat looks at the blank. Looks up through it. The room comes back. JoSmith closes the book.
+The fact has no position in the reference structure. It creates a blank — a gap with nothing to connect to. Chewbat looks at the blank. Looks up through it. The room comes back. Jeosmi closes the book.
 
 ---
 
@@ -81,7 +81,7 @@ The Cyclone Vortex.
 A moon rabbit (the Jade Hare, who makes elixir on the moon) has come to earth disguised as a princess. She keeps a man who loves her imprisoned — not maliciously, but because she wants to be in a world rather than the moon, and having him gives her a reason to stay. The Librarian's structure is similar: a being that started with a specific, real desire (find the missing person) and has stayed somewhere past its capacity to leave, surrounded by things it's acquired in the process.
 
 **Chapters 74: The Lion, Elephant, and Bird Demons**
-These three demons (a blue lion, white elephant, and golden roc) serve as a false religious authority — they have taken over a monastery and made the actual monks their servants. They offer hospitality that is a trap: the food, the comfort, the apparent piety. One of the demons has a golden vase (not the same as the horned demons') that absorbs things. The hospitality-as-trap structure is the same as the Librarian's feast: come in, be comfortable, be given what you want (fire-records for TheKanter, the book for Goobat), and in the comfort lose track of the door.
+These three demons (a blue lion, white elephant, and golden roc) serve as a false religious authority — they have taken over a monastery and made the actual monks their servants. They offer hospitality that is a trap: the food, the comfort, the apparent piety. One of the demons has a golden vase (not the same as the horned demons') that absorbs things. The hospitality-as-trap structure is the same as the Librarian's feast: come in, be comfortable, be given what you want (fire-records for Tekanter, the book for Chewbat), and in the comfort lose track of the door.
 
 **The Scrolls (Chapter 100: Final arrival at Thunder Monastery)**
 When Xuanzang finally reaches the Buddha's monastery and receives the scriptures, the monks first give him blank scrolls — empty books, perfect in form, containing nothing. He carries them halfway home before discovering this. He returns and receives the real ones. The monks defend the blank scrolls as the "wordless sutras" (the true scriptures, they say, are without words). This is the Library's condition from the opposite direction: the Librarian has everything written down, all the words, all the documentation — but the living thing those documents describe is not in the documentation. Blank scrolls / full scrolls — both fail to be the thing itself.

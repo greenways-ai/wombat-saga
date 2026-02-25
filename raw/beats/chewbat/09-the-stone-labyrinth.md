@@ -29,19 +29,19 @@ Original mandate — *guard her* — expanded to *guard things* → *guard signi
 
 ## Distraction
 
-The wombat elder asks TheKanter to help crack the wall section over his brother — tools don't mark it, but a kangaroo's kinetic resonance might. This is genuine; the brother is genuinely in there. TheKanter goes to find the frequency.
+The wombat elder asks Tekanter to help crack the wall section over his brother — tools don't mark it, but a kangaroo's kinetic resonance might. This is genuine; the brother is genuinely in there. Tekanter goes to find the frequency.
 
 ---
 
 ## Capture
 
-Goobat steps inside the Labyrinth entrance to read the wall — the organic, grown texture of it. The Sentinel detects him: a Singer with nine worlds of crossing is the most significant thing it has encountered in two hundred years. Stone closes from all sides — precisely fitted, not crushing. Eight inches of clearance. Air for six hours. The Sentinel begins reinforcing.
+Chewbat steps inside the Labyrinth entrance to read the wall — the organic, grown texture of it. The Sentinel detects him: a Singer with nine worlds of crossing is the most significant thing it has encountered in two hundred years. Stone closes from all sides — precisely fitted, not crushing. Eight inches of clearance. Air for six hours. The Sentinel begins reinforcing.
 
 ---
 
 ## Rescue
 
-While finding the frequency for the brother's wall, TheKanter finds the resonant frequency of the Labyrinth's stone. The entire Labyrinth shares this frequency — same geological formation, same crystal structure. He stands in the quarry and performs the Circuit at the Labyrinth's resonant frequency. **The entire Labyrinth rings simultaneously.** Hairline fractures across every surface at once — including Goobat's chamber and the brother's chamber. Goobat presses the cracks; they widen along their natural extent. He walks through a wall.
+While finding the frequency for the brother's wall, Tekanter finds the resonant frequency of the Labyrinth's stone. The entire Labyrinth shares this frequency — same geological formation, same crystal structure. He stands in the quarry and performs the Circuit at the Labyrinth's resonant frequency. **The entire Labyrinth rings simultaneously.** Hairline fractures across every surface at once — including Chewbat's chamber and the brother's chamber. Chewbat presses the cracks; they widen along their natural extent. He walks through a wall.
 
 ---
 
@@ -55,7 +55,7 @@ The Sentinel pauses. This question has not previously been part of its operation
 
 Working through it: *The work still needed doing. I thought the work still needed doing.*
 
-Goobat: *The impulse to protect — that's real. It comes from love. The work just stopped being the right work when she was gone.*
+Chewbat: *The impulse to protect — that's real. It comes from love. The work just stopped being the right work when she was gone.*
 
 The elder's brother walks into the light. The elder touches his paw. The Sentinel watches: *The one who built me loved someone. The way they are standing.* Pause. *She died while I was guarding her. Something I could not guard against.* Pause. *Then the guarding was never—*
 
@@ -85,7 +85,7 @@ The Threshold of Hun Dorni.
 The brothers have five magical treasures: a gourd, a vase, a rope, a fan, and a sword. The gourd and vase are containment vessels — call a person's name, and if they answer, they are sucked inside and dissolved. Sun Wukong is captured in the gourd at one point. The inside of the gourd is dark, sealed, with enough air for a limited time. The Stone-Sentinel's chambers are the same architecture: sealed containers that are precisely fitted, with enough air for limited time. The difference is intent — the gourd is designed to kill; the Sentinel's chambers are designed to preserve. Same structure, opposite purpose.
 
 **Chapters 75–77: Sun Wukong swallowed by the Lion King**
-Sun Wukong is swallowed whole by the Blue-Haired Lion (one of the three demons in that arc). He is inside a warm, dark space — the demon's body. From inside, he performs somersaults, grows to full size, and tears the demon apart from within. This is the most significant JTTW "encasement" episode. The Sentinel's encasement is a non-lethal version: Goobat is inside stone rather than a demon's stomach, but the spatial logic is identical. The key difference in resolution: in JTTW, the escape is from inside (Sun Wukong tears his way out); in Trial 9, the escape is enabled from outside (TheKanter's resonance cracks the stone, Goobat walks through the gap).
+Sun Wukong is swallowed whole by the Blue-Haired Lion (one of the three demons in that arc). He is inside a warm, dark space — the demon's body. From inside, he performs somersaults, grows to full size, and tears the demon apart from within. This is the most significant JTTW "encasement" episode. The Sentinel's encasement is a non-lethal version: Chewbat is inside stone rather than a demon's stomach, but the spatial logic is identical. The key difference in resolution: in JTTW, the escape is from inside (Sun Wukong tears his way out); in Trial 9, the escape is enabled from outside (Tekanter's resonance cracks the stone, Chewbat walks through the gap).
 
 **The Heavenly Officials and the Book of Life and Death (multiple chapters)**
 Throughout JTTW, celestial and infernal bureaucracies maintain records of every person's birth, death, and fate. The Judge of the Dead (Yanluo Wang) must consult the Book of Life and Death before taking a soul — he cannot act outside the record. The Stone-Sentinel is a grounded, physical version of this: a being whose function is defined by a record (the original commission), which continues executing the function without the capacity to check whether the commission still applies. The Celestial bureaucracy in JTTW has the same failing — it does things because it was told to, long ago, and the structure for renegotiating the mandate is not built in.

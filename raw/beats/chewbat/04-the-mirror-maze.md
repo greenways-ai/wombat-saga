@@ -27,31 +27,31 @@
 
 ## Distraction
 
-A Reflection takes the form of TheKanter and produces his distress-register call — the frequency his body responds to involuntarily. Includes a real fire (reflection caught sunlight at wrong angle) so the emergency is genuine. The voice keeps moving north-west as TheKanter approaches. He realises after twenty minutes the source isn't fixed. Goes back.
+A Reflection takes the form of Tekanter and produces his distress-register call — the frequency his body responds to involuntarily. Includes a real fire (reflection caught sunlight at wrong angle) so the emergency is genuine. The voice keeps moving north-west as Tekanter approaches. He realises after twenty minutes the source isn't fixed. Goes back.
 
 ---
 
 ## Capture
 
-The Mimic-King creates a perfect copy of Goobat while he's examining a mirror-surface. The copy steps out. Goobat is drawn through by curiosity — the reflection is doing something slightly different and he leans in to find the wrongness. The copy accompanies JoSmith and Goatpus for three hours.
+The Mimic-King creates a perfect copy of Chewbat while he's examining a mirror-surface. The copy steps out. Chewbat is drawn through by curiosity — the reflection is doing something slightly different and he leans in to find the wrongness. The copy accompanies Jeosmi and Goapus for three hours.
 
-**Detection:** JoSmith metabolises and gets nothing new — only what he put in, returned exactly. A closed loop. He tests it: says something obscure; the copy replies with something Goobat said three weeks ago. *That was mine.*
+**Detection:** Jeosmi metabolises and gets nothing new — only what he put in, returned exactly. A closed loop. He tests it: says something obscure; the copy replies with something Chewbat said three weeks ago. *That was mine.*
 
 ---
 
 ## Rescue
 
-TheKanter tests the copy: *What was I thinking when I said that?* Half-second pause. *That's the gap.*
+Tekanter tests the copy: *What was I thinking when I said that?* Half-second pause. *That's the gap.*
 
-In the Mimic-King's hall, forty copies of TheKanter are created; every move countered. **TheKanter sits down.** The copies were made from a TheKanter who does not sit in confrontations. They loop, interfere with each other, dissolve.
+In the Mimic-King's hall, forty copies of Tekanter are created; every move countered. **Tekanter sits down.** The copies were made from a Tekanter who does not sit in confrontations. They loop, interfere with each other, dissolve.
 
-He finds Goobat's chamber by pressing a palm against the mirror-surface and leaping away from it at a precise angle — the frequency returns slower where something adds mass on the other side. He hits it with his forehead and the surface opens.
+He finds Chewbat's chamber by pressing a palm against the mirror-surface and leaping away from it at a precise angle — the frequency returns slower where something adds mass on the other side. He hits it with his forehead and the surface opens.
 
 ---
 
 ## Key Emotional Beat
 
-Inside the mirror, Goobat watches his own replacement for three hours. Sees himself from outside — the patterns, the pauses, the consistency of his behaviour. The copy reproduces everything. **What it cannot reproduce is the space between moves** — the deliberate incompleteness of listening before acting.
+Inside the mirror, Chewbat watches his own replacement for three hours. Sees himself from outside — the patterns, the pauses, the consistency of his behaviour. The copy reproduces everything. **What it cannot reproduce is the space between moves** — the deliberate incompleteness of listening before acting.
 
 *I cannot copy the listening. The listening leaves no surface to replicate.*
 *Because it doesn't produce anything. It receives.*
@@ -83,10 +83,10 @@ The real Sun Wukong and the fake fight their way from earth to the Jade Emperor 
 
 The Buddha's method: he does not examine surface — appearance, voice, weapons, behaviour. He reads *inner nature*. The Six-Eared Macaque is a monkey who can hear everything through six ears, replicate any form, knows all things — but cannot achieve the same enlightenment as Wukong because his nature is to hear and copy, not to transcend. The real Wukong's nature is different at a level no appearance can replicate.
 
-TheKanter sitting still as resolution is the same logic. The copies were made from a TheKanter who does not sit in confrontations. Chosen stillness is a behaviour that emerges from nature, not habit — the copies can replicate habit, not nature. The Mimic-King is the Six-Eared Macaque: perfect at surface, empty at centre.
+Tekanter sitting still as resolution is the same logic. The copies were made from a Tekanter who does not sit in confrontations. Chosen stillness is a behaviour that emerges from nature, not habit — the copies can replicate habit, not nature. The Mimic-King is the Six-Eared Macaque: perfect at surface, empty at centre.
 
 **Chapter 57: "Which is the real one?" — the epistemological crisis**
-When no authority can distinguish the real Sun Wukong from the fake, the other pilgrims are temporarily paralysed — they cannot continue without knowing who their companion is, and they cannot know who their companion is. The Mirror Maze village (elder who stopped making decisions because every decision shows its alternative) is the same crisis: infinite alternatives with no distinguishing principle. The resolution in JTTW is the Buddha's insight into inner nature. The resolution in Trial 4 is JoSmith's metabolic detection: the copy generates nothing new. A living system and its reflection are distinguished by what the living one produces without being prompted.
+When no authority can distinguish the real Sun Wukong from the fake, the other pilgrims are temporarily paralysed — they cannot continue without knowing who their companion is, and they cannot know who their companion is. The Mirror Maze village (elder who stopped making decisions because every decision shows its alternative) is the same crisis: infinite alternatives with no distinguishing principle. The resolution in JTTW is the Buddha's insight into inner nature. The resolution in Trial 4 is Jeosmi's metabolic detection: the copy generates nothing new. A living system and its reflection are distinguished by what the living one produces without being prompted.
 
 ### Other Mythology
 

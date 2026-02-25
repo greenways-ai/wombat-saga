@@ -27,19 +27,19 @@
 
 ## Distraction
 
-A real fire at the northern margin of the Wallow — dry-heat, moving toward the village. The Settled can't evacuate. TheKanter goes to manage it; it's a genuine emergency with real stakes.
+A real fire at the northern margin of the Wallow — dry-heat, moving toward the village. The Settled can't evacuate. Tekanter goes to manage it; it's a genuine emergency with real stakes.
 
 ---
 
 ## Capture
 
-Goobat sits down to rest. The mud is warm and asks nothing. His eyes close. He sinks gradually — a quarter-length over twenty minutes, slow enough to be continuous and unnoticeable. JoSmith notices when the mud reaches Goobat's ears. Goatpus cannot move through mud (no water-channels). JoSmith metabolises as he goes but cannot locate and pull from outside. Only Goobat's paws are visible, sticking up at an almost-intentional angle.
+Chewbat sits down to rest. The mud is warm and asks nothing. His eyes close. He sinks gradually — a quarter-length over twenty minutes, slow enough to be continuous and unnoticeable. Jeosmi notices when the mud reaches Chewbat's ears. Goapus cannot move through mud (no water-channels). Jeosmi metabolises as he goes but cannot locate and pull from outside. Only Chewbat's paws are visible, sticking up at an almost-intentional angle.
 
 ---
 
 ## Rescue
 
-**Counter-rotation Circuit.** TheKanter runs the perimeter in a tightening inward spiral — not entering the mud, generating lateral shear through the ground at the margin. The motion travels along the mud-surface rather than through it. The Wallow begins to rotate clockwise, the particles separating as cohesion loosens. The mud thins at the centre. JoSmith dives when the consistency changes, metabolising as he moves, reaches Goobat at two lengths depth and pulls. Goobat surfaces face-up, eyes still closed.
+**Counter-rotation Circuit.** Tekanter runs the perimeter in a tightening inward spiral — not entering the mud, generating lateral shear through the ground at the margin. The motion travels along the mud-surface rather than through it. The Wallow begins to rotate clockwise, the particles separating as cohesion loosens. The mud thins at the centre. Jeosmi dives when the consistency changes, metabolising as he moves, reaches Chewbat at two lengths depth and pulls. Chewbat surfaces face-up, eyes still closed.
 
 ---
 
@@ -47,7 +47,7 @@ Goobat sits down to rest. The mud is warm and asks nothing. His eyes close. He s
 
 The Wallower surfaces and asks, genuinely: **"Why leave? You were comfortable."**
 
-Goobat has to find a real answer — not a duty-answer, because in the moment of sinking he hadn't consciously resisted. He was comfortable. He chose not to resist and it was peaceful.
+Chewbat has to find a real answer — not a duty-answer, because in the moment of sinking he hadn't consciously resisted. He was comfortable. He chose not to resist and it was peaceful.
 
 *Because comfort isn't the same as arrival. I was going somewhere.*
 
@@ -76,12 +76,12 @@ The Chasm of Echoes.
 ### Journey to the West — Primary References
 
 **Chapter 22: The Flowing Sand River (流沙河) — Sha Wujing's territory**
-A river that nothing can float on — all nine heavens' treasures sink into it, and only Sha Wujing (the pilgrim who later becomes Sandy/Goatpus's equivalent) can navigate it, because he has been living there for years. The river does not take intentionally; it simply has the property that everything sinks. The Mud Wallow has the same physics: it does not trap Goobat through malice but through its nature. The key difference is temperature — the Flowing Sand River is cold and violent; the Mud Wallow is warm and gentle. The danger is inverted: in JTTW the danger is obvious (violent, cold, deadly); in Trial 5 the danger is comfortable and goes unnoticed until it is almost too late.
+A river that nothing can float on — all nine heavens' treasures sink into it, and only Sha Wujing (the pilgrim who later becomes Sandy/Goapus's equivalent) can navigate it, because he has been living there for years. The river does not take intentionally; it simply has the property that everything sinks. The Mud Wallow has the same physics: it does not trap Chewbat through malice but through its nature. The key difference is temperature — the Flowing Sand River is cold and violent; the Mud Wallow is warm and gentle. The danger is inverted: in JTTW the danger is obvious (violent, cold, deadly); in Trial 5 the danger is comfortable and goes unnoticed until it is almost too late.
 
-Goatpus cannot move through the Mud Wallow (no water-channels) for the same reason the pilgrims struggle with the Flowing Sand River: a specialist in water cannot navigate mud. The solution in both cases comes from a different approach to the problem's mechanics.
+Goapus cannot move through the Mud Wallow (no water-channels) for the same reason the pilgrims struggle with the Flowing Sand River: a specialist in water cannot navigate mud. The solution in both cases comes from a different approach to the problem's mechanics.
 
 **Chapters 53–55: The Kingdom of Women (女兒國) and the Child-and-Mother River**
-Xuanzang and Zhu Bajie accidentally drink from the Child-and-Mother River and become "pregnant" (the river causes male creatures to gestate). The trap is entirely unintentional — they drank because they were thirsty. By the time the effects are noticed, the problem is already advanced. The solution requires finding a specific counter-well (the Male-Undoing Spring) whose water reverses the effect. The Mud Wallow's capture is structurally identical: Goobat sits down because he is tired; the sinking begins because the mud has that property; he is well under the surface before anyone notices. The solution (counter-rotation Circuit) is similarly specific and mechanical.
+Xuanzang and Zhu Bajie accidentally drink from the Child-and-Mother River and become "pregnant" (the river causes male creatures to gestate). The trap is entirely unintentional — they drank because they were thirsty. By the time the effects are noticed, the problem is already advanced. The solution requires finding a specific counter-well (the Male-Undoing Spring) whose water reverses the effect. The Mud Wallow's capture is structurally identical: Chewbat sits down because he is tired; the sinking begins because the mud has that property; he is well under the surface before anyone notices. The solution (counter-rotation Circuit) is similarly specific and mechanical.
 
 **Chapter 54: The Queen of the Kingdom of Women offering Xuanzang kingship**
 Xuanzang is offered a kingdom — comfort, power, permanence — in exchange for giving up the journey. He declines (through great internal struggle; the text makes clear the temptation is genuine). This is one of many JTTW instances of the "false rest" offered to the pilgrim. The Mud Wallow extends this: what's offered is not power but genuine rest — no strings, no obligation, just warmth. Harder to refuse than kingship, because it doesn't ask anything.

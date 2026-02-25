@@ -1,6 +1,6 @@
-# The Ten Trials of Goobat — Index
+# The Ten Trials of Chewbat — Index
 
-*Mythological source: raw/meta/06-myths/the-ten-trials-of-goobat.md*
+*Mythological source: raw/meta/06-myths/the-ten-trials-of-chewbat.md*
 *Individual story files: raw/meta/06-myths/trial-01 through trial-10*
 
 ---
@@ -9,16 +9,16 @@
 
 Individual beat sheets, one per trial:
 
-- [01 — The Crystal Salt Pan](goobat/01-the-crystal-salt-pan.md) — The Bunyip, grief assumed
-- [02 — The Gilded Web](goobat/02-the-gilded-web.md) — The Red-Back Queen, loneliness covered by obligation
-- [03 — The Scorpion Desert](goobat/03-the-scorpion-desert.md) — The King Brown + Monitor Queen, war sustained by unspoken truth
-- [04 — The Mirror Maze](goobat/04-the-mirror-maze.md) — The Mimic-King, identity lost to copying
-- [05 — The Mud Wallow](goobat/05-the-mud-wallow.md) — The Wallower, inertia mistaken for rest
-- [06 — The Chasm of Echoes](goobat/06-the-chasm-of-echoes.md) — The Echo-Lord, broadcast instead of movement
-- [07 — The Celestial Library](goobat/07-the-celestial-library.md) — The Librarian, record instead of path
-- [08 — The Cyclone Vortex](goobat/08-the-cyclone-vortex.md) — The Windmaster, force without direction
-- [09 — The Stone Labyrinth](goobat/09-the-stone-labyrinth.md) — The Stone-Sentinel, guardianship without a ward
-- [10 — The Threshold](goobat/10-the-threshold.md) — The offer of permanence; the return
+- [01 — The Crystal Salt Pan](chewbat/01-the-crystal-salt-pan.md) — The Bunyip, grief assumed
+- [02 — The Gilded Web](chewbat/02-the-gilded-web.md) — The Red-Back Queen, loneliness covered by obligation
+- [03 — The Scorpion Desert](chewbat/03-the-scorpion-desert.md) — The King Brown + Monitor Queen, war sustained by unspoken truth
+- [04 — The Mirror Maze](chewbat/04-the-mirror-maze.md) — The Mimic-King, identity lost to copying
+- [05 — The Mud Wallow](chewbat/05-the-mud-wallow.md) — The Wallower, inertia mistaken for rest
+- [06 — The Chasm of Echoes](chewbat/06-the-chasm-of-echoes.md) — The Echo-Lord, broadcast instead of movement
+- [07 — The Celestial Library](chewbat/07-the-celestial-library.md) — The Librarian, record instead of path
+- [08 — The Cyclone Vortex](chewbat/08-the-cyclone-vortex.md) — The Windmaster, force without direction
+- [09 — The Stone Labyrinth](chewbat/09-the-stone-labyrinth.md) — The Stone-Sentinel, guardianship without a ward
+- [10 — The Threshold](chewbat/10-the-threshold.md) — The offer of permanence; the return
 
 ---
 
@@ -26,7 +26,7 @@ Individual beat sheets, one per trial:
 
 Full story arc, themes, Buddhist parallels, and literary sources:
 
-- [Summary](goobat/summary.md)
+- [Summary](chewbat/summary.md)
 
 ---
 
@@ -71,8 +71,8 @@ Full story arc, themes, Buddhist parallels, and literary sources:
 | 3 | Monitor's cold extinguishes fire | Fireless kinetic seismic Circuit; resonant frequency cracks the crystal plain |
 | 4 | Every move mirrored by forty copies | TheKanter sits still; copies cannot replicate chosen stillness; they dissolve |
 | 5 | Mud too thick, too still | Counter-rotation spiral Circuit; lateral shear loosens cohesion from outside |
-| 6 | Total acoustic coverage | Ground-conducted rhythm; below the Echo-Lord's system; Goobat reads the gaps |
-| 7 | Reference structure has no exit | A useless fact creates a blank with no referent; Goobat looks up through it |
+| 6 | Total acoustic coverage | Ground-conducted rhythm; below the Echo-Lord's system; Chewbat reads the gaps |
+| 7 | Reference structure has no exit | A useless fact creates a blank with no referent; Chewbat looks up through it |
 | 8 | Cyclone too large to stop; altitude | Counter-spiral anti-clockwise; disrupts base uplift, lowers debris altitude |
 | 9 | Stone too thick for tools | Resonant frequency of the Labyrinth's formation; simultaneous fracture across all chambers |
-| 10 | No rescue — Goobat steps back himself | — |
+| 10 | No rescue — Chewbat steps back himself | — |

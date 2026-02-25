@@ -16,9 +16,9 @@
 
 ## Monster (double)
 
-**The King Brown Serpent** (south, fire) and **The Monitor Queen** (north, cold/space) briefly cooperate against Goobat, then compete.
+**The King Brown Serpent** (south, fire) and **The Monitor Queen** (north, cold/space) briefly cooperate against Chewbat, then compete.
 
-- **King Brown** wants to eat Goobat — earth-dense, salt-rich, accumulated mineral signature of a creature who has crossed multiple worlds. He hasn't eaten anything that concentrated in years.
+- **King Brown** wants to eat Chewbat — earth-dense, salt-rich, accumulated mineral signature of a creature who has crossed multiple worlds. He hasn't eaten anything that concentrated in years.
 - **The Monitor** wants the crossing mechanism — has been trying to leave this world for three generations. She can hold Image or Song but not both simultaneously; her Space-element keeps expanding the distance between them.
 - **Their deal:** Monitor takes the Singer, Serpent takes the Kangaroo.
 
@@ -28,23 +28,23 @@
 
 ## Distraction
 
-The Serpent sends TheKanter a formal fire-challenge: a scale of his own, still warm, delivered by skink messenger. *He asks whether the Kangaroo's fire is real fire or the performance of fire.* The challenge is also genuine — the Serpent's fire has been uncontrolled for three generations and he genuinely does not know what controlled fire looks like. TheKanter goes south to answer.
+The Serpent sends Tekanter a formal fire-challenge: a scale of his own, still warm, delivered by skink messenger. *He asks whether the Kangaroo's fire is real fire or the performance of fire.* The challenge is also genuine — the Serpent's fire has been uncontrolled for three generations and he genuinely does not know what controlled fire looks like. Tekanter goes south to answer.
 
 ---
 
 ## Capture
 
-The Monitor's Space-element physically separates things — expands the distance between atoms, between breaths, between Image and Song inside Goobat. She doesn't need to touch him. The spacing-field is enough.
+The Monitor's Space-element physically separates things — expands the distance between atoms, between breaths, between Image and Song inside Chewbat. She doesn't need to touch him. The spacing-field is enough.
 
-Goobat **walks north voluntarily** into the Monitor's territory to protect the village from the worst of the expanding field. The Monitor takes him into stillness. He can think. He cannot move.
+Chewbat **walks north voluntarily** into the Monitor's territory to protect the village from the worst of the expanding field. The Monitor takes him into stillness. He can think. He cannot move.
 
 ---
 
 ## Rescue
 
-TheKanter defeats the Serpent via controlled Circuit — not hotter, but directed. Pattern over raw fire. The Serpent, who has never seen controlled fire, stands aside.
+Tekanter defeats the Serpent via controlled Circuit — not hotter, but directed. Pattern over raw fire. The Serpent, who has never seen controlled fire, stands aside.
 
-TheKanter enters Monitor territory. His fire extinguishes within thirty paces. He rescues **without fire** — fireless kinetic seismic Circuit: runs the perimeter at intervals that generate ground-vibration at the crystal plain's resonant frequency, cracking it from below. Goobat sings one low wombat-note into the cracks from inside.
+Tekanter enters Monitor territory. His fire extinguishes within thirty paces. He rescues **without fire** — fireless kinetic seismic Circuit: runs the perimeter at intervals that generate ground-vibration at the crystal plain's resonant frequency, cracking it from below. Chewbat sings one low wombat-note into the cracks from inside.
 
 ---
 
@@ -87,7 +87,7 @@ Two powerful beings with separate elemental domains whose territory Xuanzang mus
 The specific detail that works across both stories: the fire and cold are not the cause of the landscape's destruction — they are the *symptom* of an unresolved conflict between two beings who have both been wronged.
 
 **Chapter 59: Sun Wukong impersonating the Bull Demon King**
-Sun Wukong disguises himself as the Bull Demon King to trick Princess Iron Fan into giving him the Banana Fan. He succeeds for a time before being exposed. This is the principle behind TheKanter's fire-challenge distraction: the Serpent sends a formal challenge that exploits TheKanter's specific identity (fire-carrier) to draw him away. A challenge designed for who the target *is*, not just who they are.
+Sun Wukong disguises himself as the Bull Demon King to trick Princess Iron Fan into giving him the Banana Fan. He succeeds for a time before being exposed. This is the principle behind Tekanter's fire-challenge distraction: the Serpent sends a formal challenge that exploits Tekanter's specific identity (fire-carrier) to draw him away. A challenge designed for who the target *is*, not just who they are.
 
 ### Other Mythology
 

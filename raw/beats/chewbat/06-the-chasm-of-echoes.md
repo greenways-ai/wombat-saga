@@ -27,19 +27,19 @@
 
 ## Distraction
 
-A perfect reproduction of TheKanter's distress-register — the frequency his body responds to involuntarily — produced from a moveable source, always north-west of wherever he stands. He tracks the origin against the Chasm's acoustic geometry for twenty minutes before accepting that the source is not fixed. Goes back.
+A perfect reproduction of Tekanter's distress-register — the frequency his body responds to involuntarily — produced from a moveable source, always north-west of wherever he stands. He tracks the origin against the Chasm's acoustic geometry for twenty minutes before accepting that the source is not fixed. Goes back.
 
 ---
 
 ## Capture
 
-The Echo-Lord sends Goobat his own voice — things he actually said in previous trials, returned in context but slightly wrong. He follows the wrongness into the deeper Chasm trying to locate the error. The Murmurers circle at distance, each producing a fragment. The Echo-Lord creates a **sound-cage**: a perfect acoustic reproduction of wherever Goobat tries to go. Movement feels like no movement. He sits down.
+The Echo-Lord sends Chewbat his own voice — things he actually said in previous trials, returned in context but slightly wrong. He follows the wrongness into the deeper Chasm trying to locate the error. The Murmurers circle at distance, each producing a fragment. The Echo-Lord creates a **sound-cage**: a perfect acoustic reproduction of wherever Chewbat tries to go. Movement feels like no movement. He sits down.
 
 ---
 
 ## Rescue
 
-Air-acoustics are useless — the Echo-Lord can reproduce anything airborne faster than it's produced. **Ground-conducted rhythm.** TheKanter sits and taps the Circuit's landing-pattern into the Chasm floor — not sound in the air, vibration in the stone, below the Echo-Lord's acoustic coverage. Goobat feels it through his feet. He moves toward the rhythm. The sound-cage follows, but repositioning creates fractional gaps in coverage — he reads the thinning and walks through it.
+Air-acoustics are useless — the Echo-Lord can reproduce anything airborne faster than it's produced. **Ground-conducted rhythm.** Tekanter sits and taps the Circuit's landing-pattern into the Chasm floor — not sound in the air, vibration in the stone, below the Echo-Lord's acoustic coverage. Chewbat feels it through his feet. He moves toward the rhythm. The sound-cage follows, but repositioning creates fractional gaps in coverage — he reads the thinning and walks through it.
 
 ---
 
@@ -83,7 +83,7 @@ Sun Wukong defeats the gourd demons through extended deception — he steals the
 **Chapter 20–21: The Yellow Wind King (黄风怪)**
 A rat demon who controls three magical winds. The third wind blows sand that blinds Sun Wukong — his signature physical capability (his eyes that can see through all illusion) is specifically targeted. He cannot fight blind. The solution: find a specific creature whose essence counteracts the specific damage (a specialist healer for a specialist injury).
 
-The Echo-Lord's trap targets Goobat's specific capacity: his hearing, his ability to navigate by sound, his identity as a voice-user. The ground-rhythm rescue works because it operates on a completely different sensory channel — it doesn't try to compete with the Echo-Lord on acoustic terms.
+The Echo-Lord's trap targets Chewbat's specific capacity: his hearing, his ability to navigate by sound, his identity as a voice-user. The ground-rhythm rescue works because it operates on a completely different sensory channel — it doesn't try to compete with the Echo-Lord on acoustic terms.
 
 **Chapter 46: The Three Official Sorcerers**
 Tiger, Deer, and Goat demons who have become court officials through magical skill. They compete with Sun Wukong in a series of magical contests. The deer demon uses a disembodied-head technique; the tiger uses wind-instruments; they work cooperatively. The Murmurers (each responsible for maintaining a specific fragment of the Echo-Lord's cage) are structurally similar: a distributed network of specialists maintaining a system that is greater than any individual component, difficult to defeat because there is no single point of failure.
@@ -96,7 +96,7 @@ Echo is a nymph punished by Hera to only repeat the last words spoken to her —
 Narcissus staring at his reflection until he wastes away is the Still-Speakers' fate: people who have given their voices to the Echo-Lord and can only receive back a version of themselves.
 
 **The Sirens (Homer, Odyssey, Book XII)**
-The Sirens' song is irresistible because it knows exactly what each sailor wants to hear — not generic beauty but specific, personal truth. The sailor hears his own deepest desire reflected back. The Echo-Lord reproduces Goobat's own voice at him, using things he actually said in previous contexts — the siren-logic of the specific and familiar rather than the generic.
+The Sirens' song is irresistible because it knows exactly what each sailor wants to hear — not generic beauty but specific, personal truth. The sailor hears his own deepest desire reflected back. The Echo-Lord reproduces Chewbat's own voice at him, using things he actually said in previous contexts — the siren-logic of the specific and familiar rather than the generic.
 
 Odysseus's solution (ears of the crew stuffed with beeswax, himself tied to the mast) is the same principle as the ground-rhythm rescue: bypass the trap by operating on a different channel than the one the trap uses. The ground vibration is the beeswax: it doesn't block the acoustic trap, it simply renders it irrelevant.
 
