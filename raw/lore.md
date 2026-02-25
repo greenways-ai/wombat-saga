@@ -28,7 +28,7 @@ The Primes have failed. The Kangaroo is corrupted, the Koala is addicted, and th
 *   **Ancient Role:** The "Radiant Antenna." A single, deep-rooted tree that connected the substrate directly to the **Nico Star**. It amplified the "The Chorus."
 *   **The Fall:** The Wattle's taproot went so deep it drank the crystalline **Static** from the deep substrate, mistaking its purity for truth. It is now poisoned/dead.
 
-### 3. The Old Ways (The Well-Field Way)
+### 3. The Old Ways (Common Practise — or, as the Moderns say, The Old System)
 The ancestral tradition maintained by the **Dust-Bearers** and the **Hidden Root**.
 
 *   **The Philosophy:** *Are you servicing the land?* Belonging is an act of tending, not owning.

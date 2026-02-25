@@ -91,6 +91,79 @@ Pellaboo catalogued this in the first week alongside everything else she knew: H
 
 ---
 
+### The Market
+
+<!--
+IMAGE PROMPT: The Groves Market
+The surface-farm market in the Groves clearing — not an official market, just the space between the stringybark line and the drainage channels where wombats have been bringing things for as long as anyone can remember. Unregistered goods on unregistered tables. Morillaboo's bowls on a cloth. An older wombat (Orrubat) at the center of a conversation, clearly the social gravitational point. A grid-wombat in slightly cleaner fur, Tally-tags on her belt, evaluating a bowl with the look of someone who has already decided but is performing uncertainty. Young Hoebat at the edge, carrying his mother's assessment bag, taking in the whole scene. Surface light — real, arriving from an actual direction. Style: informal economy, margin community, class texture, warm and scrappy.
+-->
+
+The surface-farm drainage assessment happened on the last morning of every wet season. Not because that was the rule — there was no rule, no permit, no filing date. Because Agathaboo had been doing it on the last morning of every wet season since before Hoebat could remember, and the farms had come to rely on it, which meant it had become a rule in the way all reliable things eventually become rules.
+
+Hoebat carried one of the assessment bags when he was old enough. This was the promotion he'd been waiting for. The bag was heavier than it looked.
+
+Pellaboo's father ran the surface-access ladder. He kept a logbook — two columns, one for the grid's requirements and one for when the grid's requirements didn't apply, which was most of the time in the Groves. He nodded at Agathaboo when they came through and didn't ask what she was assessing. They had a long-standing understanding that worked because neither of them named it.
+
+The surface on a wet-season morning was not what the Glow-Panels imitated. The light arrived from an actual direction. The air moved — not the recycled current of grid tunnels but real movement, air with business elsewhere, passing through on its way to somewhere it hadn't decided yet. The mud smelled of eucalyptus and rain and something under both of those that Hoebat would spend years trying to name and eventually stop trying, because some things name themselves when they're ready.
+
+The market was already happening in the cleared space between the stringybark line and the drainage channels. No official announcement, no schedule, no organizer. Just the collective understanding that if you brought something and showed up, there'd be someone else who'd done the same. It had organized itself the way the Groves organized itself — because a gap in the official arrangement had created a space, and spaces don't stay empty long when there are wombats nearby.
+
+Morillaboo had her table at the far end. The bowls weren't for sale. She never said they were for sale. If you asked, she said they were for *exchange,* which was technically different in a way that would only matter if someone with authority came to check, which they didn't, because the market occupied surface land that belonged to no administrative zone and the Council hadn't decided what to do with it yet.
+
+A grid-wombat was looking at the bowls when Hoebat and Agathaboo came through. You could tell grid-wombats in the Groves by several things: the registration tags on their belts, the slightly cleaner fur, the particular way of standing in an open space that said *I am accustomed to corridors.* This one was performing careful evaluation — picking up a bowl, turning it, checking the base.
+
+"I'd need to know the kiln temperature," she said. "For the provenance documentation."
+
+"Wet season," Morillaboo said. "Hot enough."
+
+A pause. "I could have this appraised by a licensed ceramicist—"
+
+"You could," Morillaboo agreed.
+
+She picked up a different bowl — smaller, dark blue, the one that had been on the shelf since before Hoebat was born — and struck it once. What came out moved through the clearing, through the eucalyptus air, came back slightly changed by whatever the open surface had done to it. The grid-wombat's evaluating expression broke for a moment — just the moment before the professional face reassembles — and underneath it was the real one. She'd wanted the bowl before she asked the first question.
+
+"Surface honey," the grid-wombat said. "One jar."
+
+"Wrap it yourself," Morillaboo said, and handed her the cloth.
+
+---
+
+Cornelibat was at the other end of the market with Orrubat, who had been old since before Hoebat's birth and showed no sign of stopping. Orrubat had opinions about everything: the North-West Corridor lighting situation, the Academy's new intake requirements, the Council's latest assessment notice for Transitional Zone 4, and the correct amount of time to proof clay-bread. None of them were quiet opinions.
+
+"Third assessment notice this season," she was saying to Cornelibat when Hoebat came close enough to hear. "They won't act on it."
+
+"They haven't yet," Cornelibat said.
+
+"They won't. The Groves isn't worth the paperwork." She accepted a piece of bread from a passing basket without looking at it, bit in, continued. "They'll wait for us to decide to leave. Then they'll say we chose it."
+
+"We'll outlast the assessments," Cornelibat said.
+
+"We'll outlast everything." Said the way you state a material property. Stringybark outlasts Grout. Old wombats outlast administrative curiosity. She looked at Hoebat with the direct assessment she applied to all incoming information. "Your boy still lying in the dirt?"
+
+"Every morning," Cornelibat said.
+
+"Good. The ones who don't listen end up building the things that collapse." She said this to Cornelibat rather than Hoebat, which was the right call — Hoebat was eight and didn't need to know he was being complimented yet. "Ask anyone who's had to dig out a Grout-section."
+
+---
+
+Agathaboo came back from the farm drainage with clay on her paws and three pages of notes that the farmer had asked her to write down officially, so there'd be paperwork if the water did something the Council later wanted to pretend they hadn't been warned about. She'd been doing this work for twelve years without a permit. The farms had been staying standing. She'd stopped noting these as connected facts and started noting them as just true.
+
+She bought bread from the market — not hers, someone else's hands and timing, the particular crust of a loaf left an extra ten minutes in a kiln that ran slightly cool. She made a mental note about the temperature without saying anything and handed half to Hoebat.
+
+Pellaboo materialized at the edge of the market with a cloth bag of workshop supplies: raw clay from the surface farm's pre-formation pocket, dried binding material, two new strikers. Carrying it at the angle of someone who has done the calculation and decided the weight is acceptable.
+
+"Your mother's selling again," Hoebat said.
+
+"Exchanging," Pellaboo said, without breaking stride.
+
+The surface-access ladder creaked under the three of them going back down. Pellaboo's father marked the logbook in the correct column. Below: the margin, the stringybark roots, the city's edge where the Glow-Panels started their imitation of light.
+
+Hoebat pressed his paw against the access-ladder's clay wall on the way down. Surface-adjacent clay, still holding the wet-season moisture, different from the grid's processed mix, different from the deep Groves pre-formation stock. A different quality to the hum — not better or worse, just a record of different decisions, different pressures, different history compressed into the same material.
+
+Above: the market sounds were still just audible. Orrubat's voice. Morillaboo's bowl, still faintly ringing in the open air. The sound of a community that had been told it didn't count and had decided to continue existing anyway.
+
+---
+
 ### Tallibat
 
 <!--

@@ -22,7 +22,7 @@ The Crossing does not bestow gifts. It performs a selection.
 
 Creatures are drawn to the Jacaranda independently — pulled by some resonance they feel before they can name it, arriving at the root chamber in ones and twos over a season until five are present simultaneously. The tree reads each of them. What it is reading for is simple: *alignment*. The creature must already want, in their deepest self, something that serves the Jacaranda's propagation. The tree does not manufacture devotion. It finds what is genuinely there and makes it the loudest frequency in the creature's life.
 
-Hoebat already wanted to restore the Well-Field Way. Cooroo already wanted the Parliament back. Pokero already wanted a third option beyond enforcement and fragmentation. Merl already wanted an open path. Bash already wanted the world to be able to speak to itself again.
+Hoebat already wanted to restore Common Practise — what the Moderns called The Old System, as if naming it badly was the same as being done with it. Cooroo already wanted the Parliament back. Pokero already wanted a third option beyond enforcement and fragmentation. Merl already wanted an open path. Bash already wanted the world to be able to speak to itself again.
 
 The Jacaranda found these desires, confirmed they were real, and ensured they would never be quite drowned out by anything else again. After the Crossing, Lambda members experience this as clarity — as the feeling that the mission is their own deepest will. It is their deepest will. That is precisely what makes it recruitment rather than coercion.
 

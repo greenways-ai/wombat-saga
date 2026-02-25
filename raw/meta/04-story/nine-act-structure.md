@@ -18,11 +18,19 @@
 
 **The World:** The Static economy in full operation. The Sovereign system at apparent stability—the Tally notching, the Frequency humming, the Wall rising. The five communities each in their corruption. The suffering is manageable, which is the most dangerous kind.
 
-**Hoebat's Arc:** A young wombat runs away from home—from compliance, from Tally-debt accepted as natural, from his father's silence. He finds the drainage vault. He finds Hangbat.
+**Hoebat's Arc:** Childhood in the Eucalyptus Groves, shaped by Cornelibat's stories and Morillaboo's workshop — the forbidden bowls, the clay that answers, the listening that the Academy will have no category for. He goes to the Academy. He builds something real: a discovery in the Dead Zones below the school route, crystal bowls that make the old earth sing, the beginning of proof that the Dust-Bearer tradition was engineering, not myth. He loses it — betrayal by Barnabat, silence from Cornelibat. He descends.
 
-What follows is the longest sustained act of love in the story: Hangbat pouring everything he carries—the Songlines, the wailing dance, the Kintsugi-Mu—into a runaway joey. Not for the mission. Because the old ways need to live in at least one other body.
+Below the Academy's Dead Zones, past the Root Cathedral he has already found, deeper: he finds Hangbat. Or Hangbat finds him. Two wombats digging toward each other in the dark eventually meet.
 
-Hoebat grows. He goes to the Academy. He builds something. He loses it—betrayal by Barnabat, complicity by Cornelibat. He fractures. He becomes a Ghost-Digger, a Sump-Dweller, nothing much.
+Hangbat takes him in. This is not a philosophical handover. It is a practical arrangement: Hoebat needs somewhere to sleep that isn't the surface. Hangbat needs another pair of paws on the deep sections he has maintained alone for fifteen years. The terms are simple. You help, you eat, you stay.
+
+What Hoebat learns first is not the Songlines, not the wailing dance, not the Kintsugi-Mu by name. He learns which cracks to leave and which to address. He learns where the water comes from in the fourth level. He learns what the smell of old clay means versus recently disturbed clay. He learns to read the dark — not as metaphor, but as practice: where the air moves and doesn't move, what sound means a section has shifted overnight, how long before a lamp runs low.
+
+Hangbat is not a teacher in any formal sense. He shows rather than explains. He corrects rather than instructs. He has been doing this work for fifteen years and has found, to his surprise, a second wombat who can do it.
+
+Over months — then years — the deeper knowledge accumulates the way it accumulates when you live inside a practice: not as concepts delivered, but as understanding that arrives because the work has been making room for it. The wailing dance: Hoebat sees it first without context, Hangbat alone in the Root Cathedral, striking the bowl in a particular sequence. No explanation offered. Hoebat watches. Comes back the following night to watch again. The Kintsugi-Mu has no name yet — it is just the work, the grain-running crack left alone, the against-grain crack addressed with the wall's own clay. Hoebat had already been doing it. Hangbat recognizes it in him.
+
+He fractures. He grows. He becomes a Ghost-Digger — not because he plans to, but because it is what he is by the time he knows what he is.
 
 And then something pulls him toward the surface. Toward a particular tree.
 

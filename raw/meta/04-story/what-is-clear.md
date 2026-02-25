@@ -75,7 +75,7 @@ Stage 1 (Relief Tablet / Gift), Stage 2 (Mandatory Registry / Duty), Stage 3 (In
 ### The Frequency ✓
 Muskbat's synthetic Arnam-substitute. Triggers manageable fight-or-flight rather than genuine empathy. Contains the entombed frequencies of the Wombiki—the countless voices of those sacrificed in the Walls. This is both the city's pacification tool and its most horrifying secret.
 
-### The Well-Field Way vs The Tally ✓
+### Common Practise vs The Tally ✓
 The before/after is complete: nine-square communal grid → Imperial property sectors; gift of Arnam → metered Tally-debt; Puddles → Mega-Pool reservoirs; Songlines → Tally-stones; the Umbilical → the Sovereign. The Great Inversion table is solid.
 
 ### The Five Borows — Atmosphere ✓

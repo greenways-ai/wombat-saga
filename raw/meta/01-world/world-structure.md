@@ -88,7 +88,7 @@ The Static eroded the abundance that made generosity natural. As resources contr
 - **Social structure now:** Imperial bureaucracy — Five Sovereigns, High Noses, Lo Snouts
 - **Their crisis:** Institutional capture. The Tally converted mutual aid into permanent debt. The Frequency drowned the Arnam signal. The Corvée replaced communal labor with body-tax. The Wombiki were entombed in the walls. The wailing dance is mocked as primitive superstition — Lo Snouts have internalised the contempt; the dance disappears not from fear of arrest but from embarrassment.
 - **Council relationship:** *They are* the Council
-- **What Kappa Mu needs to restore:** The Kintsugi ethic — fractures made stronger, not hidden. The Well-Field Way — gift over debt. The wailing dance — the actual physical mechanism of Arnam-flow restoration.
+- **What Kappa Mu needs to restore:** The Kintsugi ethic — fractures made stronger, not hidden. Common Practise — gift over debt (the Moderns call it The Old System, and mean it as a dismissal). The wailing dance — the actual physical mechanism of Arnam-flow restoration.
 - **Reference:** `raw/locations/the_five_borow_societies.md`, `raw/melborow_society.md`, `raw/meta/the_original_world.md`
 
 ### 2. Dingo Community

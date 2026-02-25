@@ -88,13 +88,13 @@ The heavy grout of the Wall compresses the soil around these volatile "Mega-Pool
 
 ---
 
-## VII. The Great Inversion: Well-Field vs. Tally
+## VII. The Great Inversion: Common Practise vs. Tally
 
-The transition from the "Time Before" to the Imperial Era is marked by the destruction of the **Well-Field Way**.
+The transition from the "Time Before" to the Imperial Era is marked by the destruction of **Common Practise** — a name that would come to carry its own irony; nothing about it was common anymore.
 
-| Feature | The Well-Field Way (Ancestral) | The Way of the Tally (Imperial) |
+| Feature | Common Practise (Ancestral) | The Way of the Tally (Imperial) |
 | :--- | :--- | :--- |
-| **Land Logic** | **Nine-Square Well-Field.** Shared center. | **Sectors.** Imperial Property. |
+| **Land Logic** | **Nine-Square Common.** Shared center. | **Sectors.** Imperial Property. |
 | **Resource** | **Gift.** Arnam flows freely. | **Tally-Debt.** Arnam is metered and loaned. |
 | **Storage** | **Puddle.** Decentralized and fractal. | **Reservoir.** Centralized and rigid. |
 | **Record** | **Songlines.** History in resonance. | **The Tally.** Obligation notched in stone. |

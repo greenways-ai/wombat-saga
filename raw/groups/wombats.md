@@ -1,4 +1,4 @@
-In the traditional theology of the Southern Land, the division between **Lo Snouts (Dust-Bearers)** and **High Noses (The Umbilicals)** was a sacred separation of functions designed to maintain the balance of the Great Borow through the **Well-Field Way**.
+In the traditional theology of the Southern Land, the division between **Lo Snouts (Dust-Bearers)** and **High Noses (The Umbilicals)** was a sacred separation of functions designed to maintain the balance of the Great Borow through **Common Practise**.
 
 ## The Wombat Paradox: Maintenance over Creation
 
@@ -10,7 +10,7 @@ Wombats occupy a unique and humble position in the hierarchy of Arnamland. Unlik
 
 ---
 
-## The Well-Field Way (*Jǐng-tián*)
+## Common Practise (*Jǐng-tián*) — What Was Once Common
 
 In the ancestral era, the land was managed through the **Well-Field System**, a nine-square grid of mutual support.
 
@@ -55,7 +55,7 @@ Without the steady frequency of Human Empathy, the High Noses' traditional roles
 2.  **The Mandatory Registry (The Duty):** As the drought continued, the Council made the Tally mandatory for all, calling it "Imperial Insurance" for "Harmonic Security." To be off-Tally was to be a risk.
 3.  **The Instrument of Enforcement (The Debt):** Once every burrow was registered, the Council redefined "Relief" as **Debt**. The notches were no longer records of aid, but claims on future labor.
 
-* **From Common Square to Imperial Granary:** The Council centralized the puddles into **Mega-Pools** and replaced the Well-Field Way with **the Tally**.
+* **From Common Square to Imperial Granary:** The Council centralized the puddles into **Mega-Pools** and replaced Common Practise — the name suddenly bitter — with **the Tally**.
 * **The Notch of Debt:** Instead of the **Song of the Soil**, history was now recorded by the **Tally-Magistrates** using jagged notches in stone. The Arnam Tribute became a **Tally-Debt**, turning communal support into permanent debt. Rations are distributed as **Tally-Advances** to be repaid through the body.
 * **Structural Rigidity:** The loss of God Kind empathy caused the organic mud of the borows to harden into **"Structural Rigidity."** The flexible "Pillow" of the Old Way was replaced by the rigid **Safety Grout** of the Board of Works.
 
