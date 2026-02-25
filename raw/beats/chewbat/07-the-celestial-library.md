@@ -33,25 +33,25 @@ The Librarian offers Tekanter the complete fire-record — every fire-event in e
 
 ## Capture
 
-Chewbat is given a book with his name on it: the complete documented history of Hoebat in Melborow. He opens it to one page. That page connects to three others. Those connect to six more. The reference structure is immaculate and has no exit — every edge leads somewhere else. He knows he's inside the structure. The knowing is indexed and accommodated. Jeosmi metabolises the overflow but cannot remove Chewbat — he has to come out through the index.
+Chewbat is given a book with his name on it: the complete documented history of Hoebat in Melborow. He opens it to one page. That page connects to three others. Those connect to six more. The script is immaculate and has no exit — every word leads to another. He knows he's inside the endless pattern. The knowing is recorded and accommodated. Jeosmi bears the weight but cannot remove Chewbat — he has to come out through the gap in the law.
 
 ---
 
 ## Rescue
 
-**A useless fact.** Tekanter tells Chewbat something that has nothing to do with anything in the book: the exact colour of the light on the mirror-surface at a certain angle in Trial 4. A scratch on the third mirror surface. Left-to-right, not quite straight. He doesn't know what made it.
+**An unwritten word.** Tekanter tells Chewbat something that has nothing to do with any script: the exact colour of the light on the mirror-surface at a certain angle in Trial 4. A scratch on the third mirror surface. Left-to-right, not quite straight. He doesn't know what made it.
 
-The fact has no position in the reference structure. It creates a blank — a gap with nothing to connect to. Chewbat looks at the blank. Looks up through it. The room comes back. Jeosmi closes the book.
+The memory has no position in the library's law. It creates a blank — a gap with nothing to connect to. Chewbat looks at the blank. Looks up through it. The room comes back. Jeosmi closes the book.
 
 ---
 
 ## Key Emotional Beat
 
-The Librarian, puzzled: **"You were adjacent to the record. The document contained someone named Hoebat. You are not that Hoebat. The document and the thing are not the same."**
+The Librarian, puzzled: **"You were adjacent to the record. The document contained someone named Hoebat. You are not that Hoebat. The script and the living soul are not the same."**
 
-Then: *The document of a crossing and the crossing are not the same. I have the most complete archive of crossings in any world. I cannot cross.*
+Then: *The chronicle of a crossing and the crossing are not the same. I have the most complete archive of crossings in any world. I cannot cross.*
 
-What it was looking for: the path someone took when they left. Has compiled every world adjacent to the last place it saw them. The path is not in the documentation, because they kept moving.
+What it was looking for: the path someone took when they left. Has compiled every world adjacent to the last place it saw them. The path is not in the ink, because they kept moving.
 
 *The record of where they were is not where they are.*
 

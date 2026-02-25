@@ -33,13 +33,13 @@ A real fire at the northern margin of the Wallow — dry-heat, moving toward the
 
 ## Capture
 
-Chewbat sits down to rest. The mud is warm and asks nothing. His eyes close. He sinks gradually — a quarter-length over twenty minutes, slow enough to be continuous and unnoticeable. Jeosmi notices when the mud reaches Chewbat's ears. Goapus cannot move through mud (no water-channels). Jeosmi metabolises as he goes but cannot locate and pull from outside. Only Chewbat's paws are visible, sticking up at an almost-intentional angle.
+Chewbat sits down to rest. The mud is warm and asks nothing. His eyes close. He sinks gradually — a quarter-length over twenty minutes, slow enough to be continuous and unnoticeable. Jeosmi bears the weight of the suction — the earth's desire to keep what it holds — but can only delay the sinking. Goapus cannot move through mud (no water-channels). Jeosmi bears the weight as he goes but cannot locate and pull from outside. Only Chewbat's paws are visible, sticking up at an almost-intentional angle.
 
 ---
 
 ## Rescue
 
-**Counter-rotation Circuit.** Tekanter runs the perimeter in a tightening inward spiral — not entering the mud, generating lateral shear through the ground at the margin. The motion travels along the mud-surface rather than through it. The Wallow begins to rotate clockwise, the particles separating as cohesion loosens. The mud thins at the centre. Jeosmi dives when the consistency changes, metabolising as he moves, reaches Chewbat at two lengths depth and pulls. Chewbat surfaces face-up, eyes still closed.
+**Counter-rotation Spiral.** Tekanter runs the perimeter in a tightening inward spiral — not entering the mud, generating a great pulling force through the ground at the margin. The motion travels along the mud-surface rather than through it. The Wallow begins to rotate clockwise, the particles separating as cohesion loosens. The mud thins at the centre. Jeosmi dives when the consistency changes, bearing the weight as he moves, reaches Chewbat at two lengths depth and pulls. Chewbat surfaces face-up, eyes still closed.
 
 ---
 
@@ -81,7 +81,7 @@ A river that nothing can float on — all nine heavens' treasures sink into it, 
 Goapus cannot move through the Mud Wallow (no water-channels) for the same reason the pilgrims struggle with the Flowing Sand River: a specialist in water cannot navigate mud. The solution in both cases comes from a different approach to the problem's mechanics.
 
 **Chapters 53–55: The Kingdom of Women (女兒國) and the Child-and-Mother River**
-Xuanzang and Zhu Bajie accidentally drink from the Child-and-Mother River and become "pregnant" (the river causes male creatures to gestate). The trap is entirely unintentional — they drank because they were thirsty. By the time the effects are noticed, the problem is already advanced. The solution requires finding a specific counter-well (the Male-Undoing Spring) whose water reverses the effect. The Mud Wallow's capture is structurally identical: Chewbat sits down because he is tired; the sinking begins because the mud has that property; he is well under the surface before anyone notices. The solution (counter-rotation Circuit) is similarly specific and mechanical.
+Xuanzang and Zhu Bajie accidentally drink from the Child-and-Mother River and become "pregnant" (the river causes male creatures to gestate). The trap is entirely unintentional — they drank because they were thirsty. By the time the effects are noticed, the problem is already advanced. The solution requires finding a specific counter-well (the Male-Undoing Spring) whose water reverses the effect. The Mud Wallow's capture is structurally identical: Chewbat sits down because he is tired; the sinking begins because the mud has that property; he is well under the surface before anyone notices. The solution (counter-rotation Spiral) is similarly specific and mechanical.
 
 **Chapter 54: The Queen of the Kingdom of Women offering Xuanzang kingship**
 Xuanzang is offered a kingdom — comfort, power, permanence — in exchange for giving up the journey. He declines (through great internal struggle; the text makes clear the temptation is genuine). This is one of many JTTW instances of the "false rest" offered to the pilgrim. The Mud Wallow extends this: what's offered is not power but genuine rest — no strings, no obligation, just warmth. Harder to refuse than kingship, because it doesn't ask anything.

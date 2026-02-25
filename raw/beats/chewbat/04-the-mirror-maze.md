@@ -27,15 +27,15 @@
 
 ## Distraction
 
-A Reflection takes the form of Tekanter and produces his distress-register call — the frequency his body responds to involuntarily. Includes a real fire (reflection caught sunlight at wrong angle) so the emergency is genuine. The voice keeps moving north-west as Tekanter approaches. He realises after twenty minutes the source isn't fixed. Goes back.
+A sudden cry of distress from the labyrinth's edge. A creature (one of the Mimic-King's underlings, disguised) sounds like it's in terminal pain. Tekanter's heart responds involuntarily. The voice keeps moving north-west as Tekanter approaches. He realises after twenty minutes the source isn't fixed. Goes back.
 
 ---
 
 ## Capture
 
-The Mimic-King creates a perfect copy of Chewbat while he's examining a mirror-surface. The copy steps out. Chewbat is drawn through by curiosity — the reflection is doing something slightly different and he leans in to find the wrongness. The copy accompanies Jeosmi and Goapus for three hours.
+The Mimic-King identifies the resonant thrum of the troupe. He focuses on Chewbat — not because he is easy to copy, but because he is impossible. Chewbat's purity is a vacancy that the King seeks to fill with a reflection. The copy steps out. Chewbat is drawn through by curiosity — the reflection is doing something slightly different and he leans in to find the wrongness. The copy accompanies Jeosmi and Goapus for three hours.
 
-**Detection:** Jeosmi metabolises and gets nothing new — only what he put in, returned exactly. A closed loop. He tests it: says something obscure; the copy replies with something Chewbat said three weeks ago. *That was mine.*
+**Detection:** Jeosmi endures and find nothing new — only what he put in, returned exactly. A closed loop. He tests it: says something obscure; the copy replies with something Chewbat said three weeks ago. *That was mine.*
 
 ---
 
@@ -45,7 +45,7 @@ Tekanter tests the copy: *What was I thinking when I said that?* Half-second pau
 
 In the Mimic-King's hall, forty copies of Tekanter are created; every move countered. **Tekanter sits down.** The copies were made from a Tekanter who does not sit in confrontations. They loop, interfere with each other, dissolve.
 
-He finds Chewbat's chamber by pressing a palm against the mirror-surface and leaping away from it at a precise angle — the frequency returns slower where something adds mass on the other side. He hits it with his forehead and the surface opens.
+He finds Chewbat's chamber by pressing a palm against the mirror-surface and leaping away from it at a precise angle — the thrum returns slower where something adds mass on the other side. He hits it with his forehead and the surface opens.
 
 ---
 

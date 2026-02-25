@@ -16,7 +16,7 @@ The others stay at the edge — the Threshold has no surface for them. It exists
 
 ## The Threshold
 
-The space between worlds — the membrane the crossings move through, the medium of the Nodes. Warm with the accumulated frequency of every Singer who has ever crossed. Not noise — ambient certainty. Every Singer who held Image and Song together and came through is present here as a residual frequency.
+The space between worlds — the membrane the crossings move through, the medium of the Nodes. Warm with the accumulated thrum of every Singer who has ever crossed. Not noise — ambient certainty. Every Singer who held Image and Song together and came through is present here as a residual thrum.
 
 Chewbat can enter because he carries both Image and Song, which is to say he carries the capacity for between.
 
@@ -24,7 +24,7 @@ Chewbat can enter because he carries both Image and Song, which is to say he car
 
 ## The Offer
 
-Not made by anything. Simply available, the way warmth is available in a warm room. He could stay. Not death — permanence. He would become part of the Threshold: a persistent frequency, available to all crossings that follow. He would be the hum that other Singers feel when they cross. The fullest expression of what he is. Not a bad offer. A genuinely good one.
+Not made by anything. Simply available, the way warmth is available in a warm room. He could stay. Not death — permanence. He would become part of the Threshold: a persistent thrum, available to all crossings that follow. He would be the hum that other Singers feel when they cross. The fullest expression of what he is. Not a bad offer. A genuinely good one.
 
 ---
 
@@ -51,7 +51,7 @@ Tekanter says nothing. The nothing is the specific nothing of a person prepared 
 
 *We go back.* — *Through how many worlds?* — *All of them. But faster. We know the way now.*
 
-Jeosmi, metabolising the Threshold's residue: there's a Singer-frequency here, close and specific, recent. Someone came this way before us. — Who? — *I don't know yet. Ask me when we're home.*
+Jeosmi, bearing the Threshold's residue: there's a Singer's thrum here, close and specific, recent. Someone came this way before us. — Who? — *I don't know yet. Ask me when we're home.*
 
 (Cornelibat's crossing. The answer Chewbat is bringing back.)
 

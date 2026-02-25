@@ -6,28 +6,28 @@
 
 Chewbat is a Singer — a wombat who can hold Image and Song simultaneously, which is the living mechanism for crossing between worlds. This capacity has been nearly destroyed in Hún Nico: the Sovereigns built a machine to replicate it, the machine cracked the primary Node, and now the crossing is broken at the source.
 
-The Ten Trials are what happens when Chewbat crosses anyway, through the damaged Node, into the Heart-Worlds that lie on the other side of the Nodes — the ten interior spaces that the Nodes connect. He travels with three companions: Tekanter (fire, kinetics, protection), Jeosmi (metabolist, absorbs what others can't hold), and Goapus (water-reader, sub-surface navigation).
+The Ten Trials are what happens when Chewbat crosses anyway, through the damaged Node, into the Heart-Worlds that lie on the other side of the Nodes — the ten interior spaces that the Nodes connect. He travels with three companions: Tekanter (fire, kinetics, protection), Jeosmi (the one who bears the weight, absorbs what others can't hold), and Goapus (water-reader, sub-surface navigation).
 
-In each world, something has gone wrong — not from malice but from unresolved grief, misapplied love, or the specific damage that happens when something powerful stops asking whether it's still doing the right thing. Each trial captures Chewbat by a different means and forces Tekanter to rescue him by a different method. Each trial ends with the monster's wound exposed, named, and started toward healing.
+In each world, something has gone wrong — ranging from the clinical, administrative sadism of the Bunyip to unresolved grief, misapplied love, or the specific damage that happens when something powerful stops asking whether it's still doing the right thing. Each trial captures Chewbat by a different means — a betrayal, an ancient web, a spatial fold — and forces Tekanter to rescue him by a different method. In the first trial, this culminates in the arrival of the Divine Wattle Spirit, who transmutes the Bunyip's scoured law into a golden, cuddly warmth.
 
-At the Threshold of Hun Dorni — the tenth and final trial — Chewbat is offered the chance to remain in the between permanently and become part of the crossing mechanism rather than a Singer who uses it. He turns it down and comes home.
+At the Threshold of Hun Dorni — the tenth and final trial — Chewbat is offered the chance to remain in the between permanently and become part of the living path rather than a Singer who travels it. He turns it down and comes home.
 
-What he brings back: the knowledge of what the broken Node needs — and the frequency signature of Cornelibat, his father, who crossed the same way long before him and left a trace in the Threshold.
+What he brings back: the knowledge of what the broken Node needs — and the thrum of Cornelibat, his father, who crossed the same way long before him and left a trace in the Threshold.
 
 ---
 
 ## The Narrative Arc
 
-**Opening premise:** The crossing is broken. A Singer is going to fix it not by studying it but by going through it — experiencing each Heart-World as a diagnostic lesson.
+**Opening premise:** The crossing is broken. A Singer is going to fix it not by studying it but by going through it — experiencing each Heart-World as a lesson.
 
 **Trials 1–3: The lessons of unresolved truth**
-Each monster is carrying something unsaid — an unanswered question (Bunyip), an unspoken name (Red-Back Queen's loneliness, Chewbat's Pellah), an unnamed grief (Monitor's 43 eggs). The doctrines are about inquiry: ask the question, say the name, tell the truth that was never said.
+Each monster is carrying something unsaid — an unanswered question (Bunyip), an unspoken name (Red-Back Queen's loneliness), an unnamed grief (Monitor's 43 eggs). The doctrines are about inquiry: ask the question, tell the truth that was never said. Chewbat, being pure and unadulterated, acts as the mirror that reveals these silences. The first trial establishes this through the Bilby's desperate betrayal — a truth she could not speak.
 
 **Trials 4–6: The lessons of false substitutes**
-Each monster has replaced something real with a copy or a mechanism — copied identity (Mimic-King), warm inertia instead of direction (Wallower), broadcast instead of movement (Echo-Lord). The doctrines are about originality: the original cannot be replaced by its reproduction; you have to go toward the real thing.
+Each monster has replaced something real with a copy or a mechanism — reflected life (Mimic-King), warm inertia instead of direction (Wallower), broadcast instead of movement (Echo-Lord). The doctrines are about originality: the original cannot be replaced by its reproduction; you have to go toward the real thing.
 
 **Trials 7–9: The lessons of exceeded function**
-Each monster was doing something legitimate that outlasted its purpose — accumulating knowledge for a question it stopped asking (Librarian), sustaining force after grief destroyed direction (Windmaster), guarding after the ward died (Stone-Sentinel). The doctrines are about renegotiation: ask whether what you're doing is still the right thing, and stop when the answer changes.
+Each monster was doing something legitimate that outlasted its purpose — gathering script for a question it stopped asking (Librarian), sustaining force after grief destroyed direction (Windmaster), guarding after the ward died (Stone-Sentinel). The doctrines are about renegotiation: ask whether what you're doing is still the right thing, and stop when the answer changes.
 
 **Trial 10: The threshold**
 The offer of permanence — the fullest expression of Chewbat's nature, available without the weight of the specific. He refuses it. The refusal is the doctrine: the Singer must return.
@@ -42,7 +42,7 @@ The offer of permanence — the fullest expression of Chewbat's nature, availabl
 |---|---|---|---|
 | Chewbat | Earth / Voice | Singer — the crossing mechanism | Can be immobilised, separated from Image+Song |
 | Tekanter | Fire / Kinetics | Protection, rescue, physical solutions | Each rescue uses different means; fire extinguishes in extreme cold |
-| Jeosmi | All / Metabolism | Absorbs what others can't — fire, cold, cognitive overload, grief-fields | Limited capacity; cannot metabolise structural forces (stone, Cyclone) |
+| Jeosmi | All | Absorbs what others can't — fire, cold, mental burden, grief-fields | Limited capacity; cannot absorb structural forces (stone, Cyclone) |
 | Goapus | Water | Sub-surface navigation | Cannot pass through mud, solid stone, or air |
 
 No single member of the group has all capabilities. Each rescue requires the team to work around one member's limitation with another's strength. This is structural — it cannot be otherwise.
@@ -56,8 +56,8 @@ The Ten Trials draw explicitly on Buddhist frameworks, both structurally and in 
 ### The Sanskrit thread-names
 Each trial is named with a Sūtra designation:
 - *Śukla-Sūtra* (Trial 3) — White Thread, Diagnostics of Suffering. Śukla = white/pure; refers to clarity about the nature of suffering.
-- *Darpana-Sūtra* (Trial 4) — Mirror Thread, Diagnostics of Identity. Darpana = mirror.
-- *Klesha-Sūtra* (Trial 5) — Affliction Thread, Diagnostics of Inertia. Klesha = mental affliction/obstruction, one of the core Buddhist categories of suffering's causes.
+- *Darpana-Sūtra* (Trial 4) — Mirror Thread, Revelation of Identity. Darpana = mirror.
+- *Klesha-Sūtra* (Trial 5) — Affliction Thread, Burden of Inertia.
 - *Māyā-Sūtra* (Trial 6) — Illusion Thread, Diagnostics of Illusion. Māyā = the illusory nature of phenomena; a central Buddhist concept.
 - *Jñāna-Sūtra* (Trial 7) — Knowledge Thread. Jñāna = knowledge/wisdom; specifically distinguished in Buddhist thought from prajñā (liberating insight).
 - *Vāyu-Sūtra* (Trial 8) — Wind Thread. Vāyu = wind/breath/vital force, one of the five elements.
@@ -65,9 +65,9 @@ Each trial is named with a Sūtra designation:
 - *Mukti-Sūtra* (Trial 10) — Liberation Thread. Mukti = liberation/release; the Buddhist concept of freedom from the cycle.
 
 ### The Four Noble Truths (mapped to the trials)
-The Buddha's First Noble Truth is *dukkha* — suffering, dissatisfaction, the condition of unsatisfactoriness. The Ten Trials are about the **diagnostic function of suffering**: each monster is not evil but suffering, and their suffering is revealing something that needs to be addressed.
+The Buddha's First Noble Truth is *dukkha* — suffering, dissatisfaction, the condition of unsatisfactoriness. The Ten Trials are about the **revealing nature of suffering**: each monster is not evil but suffering, and their suffering is a revelation of something that needs to be addressed.
 
-- **First Truth (dukkha — suffering exists):** Every monster is in pain. The Bunyip's grief, the Wallower's inertia, the Sentinel's perpetual guarding — all of it is suffering. Trial 3's doctrine names this directly: *Suffering is diagnostic, not moral.*
+- **First Truth (dukkha — suffering exists):** Every monster is in pain. The Bunyip's grief, the Wallower's inertia, the Sentinel's perpetual guarding — all of it is suffering. Trial 3's doctrine names this directly: *Suffering is a revelation, not a moral failure.*
 - **Second Truth (samudāya — suffering has a cause):** Each monster's wound has a specific origin — the river that dried up, the forty-three eggs, the missed route, the ward who died. The work of each trial is finding that origin.
 - **Third Truth (nirodha — suffering can cease):** The resolution of each trial is not defeat of the monster but the cessation of the suffering state — achieved by addressing the cause.
 - **Fourth Truth (magga — there is a path):** The path in each trial is inquiry, truth-telling, or the willingness to renegotiate what was once necessary.
@@ -97,8 +97,8 @@ Chewbat refuses. This aligns with the **bodhisattva ideal** in Mahayana Buddhism
 
 The Threshold itself corresponds to the *Bardo* — the intermediate state between death and rebirth in Tibetan Buddhist tradition, described in the *Bardo Thodol* (Tibetan Book of the Dead). The Bardo is not empty but full of opportunities for recognition and liberation; the quality of awareness maintained there determines what follows.
 
-### The Mahatahto Connection
-The Mahatahto (Chewbat's world's vibration-philosophy) is a reimagining of the Buddhist concept that all things exist in interdependence and resonance. The crossing mechanism — Image and Song held simultaneously — is the active practice of this resonance. The Sovereigns' machine fails because it tries to replicate the mechanism without the living awareness that makes it work. This parallels the Buddhist critique of ritual without understanding: the form without the insight produces nothing.
+### The Heart-World Connection
+The Heart-Worlds (Chewbat's world's interior spaces) exist in interdependence and thrum. The crossing mechanism — Image and Song held simultaneously — is the active practice of this balance. The Sovereigns' machine fails because it tries to replicate the mechanism with cold, dead logic. This parallels the classical critique of ritual without understanding: the form without the insight produces nothing.
 
 ---
 
@@ -150,15 +150,15 @@ Key difference: in Oz, the companions are seeking something external. In Chewbat
 ### The Hero's Journey (Joseph Campbell, 1949)
 The monomyth: separation, initiation, return. The Call to Adventure, the Road of Trials, the Supreme Ordeal, the Elixir, the Return.
 
-The Ten Trials are the Road of Trials. The Supreme Ordeal is Trial 10 — the refusal of the ultimate temptation (permanence). The Elixir is the knowledge of what crossing requires, and the frequency signature of Cornelibat.
+The Ten Trials are the Road of Trials. The Supreme Ordeal is Trial 10 — the refusal of the ultimate temptation (permanence). The Elixir is the knowledge of what crossing requires, and the trace of Cornelibat.
 
-What Chewbat's version adds to Campbell's template: **the monsters on the Road of Trials are not obstacles to be overcome but diagnostic questions to be answered.** The hero's journey usually treats trials as tests of the hero's character. Chewbat's trials test the *world's* character — and the hero is the mechanism of inquiry.
+What Chewbat's version adds to Campbell's template: **the monsters on the Road of Trials are not obstacles to be overcome but symptoms of a world asking to be healed.** The hero's journey usually treats trials as tests of the hero's character. Chewbat's trials test the *world's* character — and the hero is the catalyst of inquiry.
 
 ---
 
 ## The Overarching Themes
 
-### Suffering is diagnostic, not moral
+### Suffering is a revelation, not a moral failure
 None of the monsters are villains. Every one of them is suffering from something specific — unasked questions, missed routes, outlived functions. The trials teach Chewbat (and the reader) to look at suffering and ask: *what is this revealing about what's out of balance?* Not: *what is this person's fault?* The moral judgment that suffering implies guilt is exactly what the Bunyip demonstrates as a catastrophic error.
 
 ### The copy cannot replace the original

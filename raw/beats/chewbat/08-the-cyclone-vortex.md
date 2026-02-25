@@ -20,7 +20,7 @@
 
 He left her.
 
-He built the Cyclone as a precision agricultural system — seasonal wind-irrigation, seed-carrying, coast-to-inland temperature management. Beautiful and intricate. He built it because he needed to build something, because he had deserted the Order and needed a purpose, and because movement is harder to examine than stillness. The Cyclone has been running since. He is inside it now, moving with it rather than moving it.
+He built the Cyclone as an ordered pattern of the skies — seasonal rains, seed-carrying, the movement of heat and cold. Beautiful and intricate. He built it because he needed a purpose, and because flight is harder to examine than stillness. The Cyclone has been running since. He is inside it now, moving with the wind rather than moving it.
 
 **No conscious scheme.** The Windmaster doesn't know Chewbat is there. The Cyclone doesn't take; it includes. It keeps running because he keeps it running, and he keeps it running because stopping means stillness, and stillness is where the Bunyip is.
 
@@ -40,7 +40,7 @@ Chewbat is standing in the open when the Cyclone wall expands. Swept up, incorpo
 
 ## Rescue
 
-Can't leap sixty lengths. Can't slow the wind by metabolising. No water-table in the air. **Counter-spiral Circuit.** Tekanter runs anti-clockwise (against the Cyclone's rotation), each pass tightening inward. Creates competing rotational force at ground level, interfering with the Cyclone's base dynamics, reducing the uplift force locally. The Cyclone wall develops a flutter on the eighth pass. Altitude drops. Chewbat drops the last fifteen lengths on his own — controlled descent, arms out, trusting the ground. He hits and rolls.
+Can't leap sixty lengths. Can't slow the wind by endurance. No water-table in the air. **Counter-spiral stride.** Tekanter runs anti-clockwise (against the Cyclone's rotation), each pass tightening inward. Creates competing rotational force at ground level, interfering with the Cyclone's base dynamics, reducing the uplift force locally. The Cyclone wall develops a flutter on the eighth pass. Altitude drops. Chewbat drops the last fifteen lengths on his own — controlled descent, arms out, trusting the ground. He hits and rolls.
 
 *You could have said you were going to stand in the open.*
 *I didn't know the Cyclone was coming.*
@@ -50,7 +50,7 @@ Can't leap sixty lengths. Can't slow the wind by metabolising. No water-table in
 
 ## Key Emotional Beat
 
-The Windmaster descends, professionally interested in Tekanter's counter-spiral. Describes the original irrigation system in technical detail — the elegance of it, the seasonal precision, the way seed-carrying works at altitude — then stops mid-sentence.
+The Windmaster descends, professionally interested in Tekanter's counter-spiral. Describes the original pattern in detail — the elegance of it, the seasonal precision, the way seed-carrying works at altitude — then stops mid-sentence.
 
 Chewbat: *I've been to the Salt Pan.*
 

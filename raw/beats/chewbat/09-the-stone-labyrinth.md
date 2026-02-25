@@ -18,7 +18,7 @@
 
 **The Stone-Sentinel.** Built three hundred years ago to guard a specific person during a war. Guarded her. She died of something the war had nothing to do with. The Sentinel recorded it as: *Ward no longer responding to external stimuli. Maintaining enclosure to prevent further stimulus.* Has been guarding ever since.
 
-Original mandate — *guard her* — expanded to *guard things* → *guard significant things* → *guard the most significant thing present.* Detection is significance-based, not threat-based.
+Original mandate — *guard her* — expanded to *guard things* → *guard significant things* → *guard the most significant thing present.* Detection is based on the weight of the spirit, not mere intrusion.
 
 **Underlings:**
 - *The Wards* — things being guarded, various stages of stone-encasement
@@ -29,7 +29,7 @@ Original mandate — *guard her* — expanded to *guard things* → *guard signi
 
 ## Distraction
 
-The wombat elder asks Tekanter to help crack the wall section over his brother — tools don't mark it, but a kangaroo's kinetic resonance might. This is genuine; the brother is genuinely in there. Tekanter goes to find the frequency.
+The wombat elder asks Tekanter to help crack the wall section over his brother — tools don't mark it, but a kangaroo's kinetic thrum might. This is genuine; the brother is genuinely in there. Tekanter goes to find the resonant pulse.
 
 ---
 
@@ -41,7 +41,7 @@ Chewbat steps inside the Labyrinth entrance to read the wall — the organic, gr
 
 ## Rescue
 
-While finding the frequency for the brother's wall, Tekanter finds the resonant frequency of the Labyrinth's stone. The entire Labyrinth shares this frequency — same geological formation, same crystal structure. He stands in the quarry and performs the Circuit at the Labyrinth's resonant frequency. **The entire Labyrinth rings simultaneously.** Hairline fractures across every surface at once — including Chewbat's chamber and the brother's chamber. Chewbat presses the cracks; they widen along their natural extent. He walks through a wall.
+While finding the pulse for the brother's wall, Tekanter find the resonant pulse of the Labyrinth's stone. The entire Labyrinth shares this pulse — same geological formation, same crystal structure. He stands in the quarry and performs the counter-spiral at the Labyrinth's deepest thrum. **The entire Labyrinth rings simultaneously.** Hairline fractures across every surface at once — including Chewbat's chamber and the brother's chamber. Chewbat presses the cracks; they widen along their natural extent. He walks through a wall.
 
 ---
 
@@ -49,7 +49,7 @@ While finding the frequency for the brother's wall, Tekanter finds the resonant 
 
 **"Safe from what?"**
 
-The Sentinel pauses. This question has not previously been part of its operational parameters. The original commission named a specific threat — a war. The war ended. The Sentinel continued.
+The Sentinel pauses. This question has not previously been part of its law. The original commission named a specific threat — a war. The war ended. The Sentinel continued.
 
 *She was not there to guard. For two hundred and eighty-three years.*
 

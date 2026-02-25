@@ -27,7 +27,9 @@
 
 ## Distraction
 
-A perfect reproduction of Tekanter's distress-register — the frequency his body responds to involuntarily — produced from a moveable source, always north-west of wherever he stands. He tracks the origin against the Chasm's acoustic geometry for twenty minutes before accepting that the source is not fixed. Goes back.
+A perfect reproduction ofA sudden, high cry of distress from the dark below. 
+his body responds to involuTekanter uses a ground-conducted rhythm — a deep percussion that moves through the bedrock rather than the air. It bypasses the Chasm's depth and shatters the prison of sound.
+s before accepting that the source is not fixed. Goes back.
 
 ---
 
@@ -39,7 +41,8 @@ The Echo-Lord sends Chewbat his own voice — things he actually said in previou
 
 ## Rescue
 
-Air-acoustics are useless — the Echo-Lord can reproduce anything airborne faster than it's produced. **Ground-conducted rhythm.** Tekanter sits and taps the Circuit's landing-pattern into the Chasm floor — not sound in the air, vibration in the stone, below the Echo-Lord's acoustic coverage. Chewbat feels it through his feet. He moves toward the rhythm. The sound-cage follows, but repositioning creates fractional gaps in coverage — he reads the thinning and walks through it.
+Air-acoustics are useless — the Echo-Lord can reproduce anything airborne faster than it's produced. **Ground-conducted rhythm.** Tekanter sits and taps the Circuit's landing-pattern into the Chasm floor — not sound in the air, vibration in the stone, below tThe Echo-Lord identifies the deepest tone of the troupe. He targets Chewbat's purity — a note with no echo — and isolates it within a prison of sound.
+ follows, but repositioning creates fractional gaps in coverage — he reads the thinning and walks through it.
 
 ---
 

@@ -1,7 +1,7 @@
 # Trial 3: The King Brown and the Monitor Queen
 
 **World:** The Scorpion Desert — the World of Elemental War
-**Thread:** Third Thread: Śukla-Sūtra — *the Diagnostics of Suffering*
+**Thread:** Third Thread: Śukla-Sūtra — *the Revelation of Suffering*
 **Story file:** raw/meta/06-myths/trial-03-the-scorpion-desert.md
 
 ---
@@ -19,7 +19,7 @@
 **The King Brown Serpent** (south, fire) and **The Monitor Queen** (north, cold/space) briefly cooperate against Chewbat, then compete.
 
 - **King Brown** wants to eat Chewbat — earth-dense, salt-rich, accumulated mineral signature of a creature who has crossed multiple worlds. He hasn't eaten anything that concentrated in years.
-- **The Monitor** wants the crossing mechanism — has been trying to leave this world for three generations. She can hold Image or Song but not both simultaneously; her Space-element keeps expanding the distance between them.
+- **The Monitor** wants the gift of song — has been trying to leave this world for three generations. She can hold Image or Song but not both simultaneously; her mastery of cold space keeps stretching the distance between them.
 - **Their deal:** Monitor takes the Singer, Serpent takes the Kangaroo.
 
 **Underlings:** Fire-runners (Serpent's scouts); ice-scouts (Monitor's advance); the Baked and the Frozen — Ashground animals caught in the war's overflow
@@ -28,23 +28,24 @@
 
 ## Distraction
 
-The Serpent sends Tekanter a formal fire-challenge: a scale of his own, still warm, delivered by skink messenger. *He asks whether the Kangaroo's fire is real fire or the performance of fire.* The challenge is also genuine — the Serpent's fire has been uncontrolled for three generations and he genuinely does not know what controlled fire looks like. Tekanter goes south to answer.
+The Serpent sends Tekanter a formal fire-challenge: a scale of his own, still warm, delivered by skink messenger. *He asks whether the Kangaroo's fire is real fire or the performance of fire.* The challenge is also genuine — the Serpent's fire has been wild for three generations and he genuinely does not know what disciplined fire looks like. Tekanter goes south to answer.
 
 ---
 
 ## Capture
 
-The Monitor's Space-element physically separates things — expands the distance between atoms, between breaths, between Image and Song inside Chewbat. She doesn't need to touch him. The spacing-field is enough.
+The Monitor Queen possesses a mastery of cold space — she can fold the distance between two points, a talent she uses to harvest whatever she needs from the Serpent's territory.
+The Monitor's cold mastery physically separates things — stretches the distance between atoms, between breaths, between Image and Song inside Chewbat. She doesn't need to touch him. The spacing-field is enough.
 
-Chewbat **walks north voluntarily** into the Monitor's territory to protect the village from the worst of the expanding field. The Monitor takes him into stillness. He can think. He cannot move.
+Chewbat **walks north voluntarily** into the Monitor's territory to protect the village from the worst of the stretching chill. The Monitor takes him into stillness. He can think. He cannot move.
 
 ---
 
 ## Rescue
 
-Tekanter defeats the Serpent via controlled Circuit — not hotter, but directed. Pattern over raw fire. The Serpent, who has never seen controlled fire, stands aside.
+Tekanter defeats the Serpent via disciplined Circuit — not hotter, but directed. Pattern over raw fire. The Serpent, who has never seen fire with a master, stands aside.
 
-Tekanter enters Monitor territory. His fire extinguishes within thirty paces. He rescues **without fire** — fireless kinetic seismic Circuit: runs the perimeter at intervals that generate ground-vibration at the crystal plain's resonant frequency, cracking it from below. Chewbat sings one low wombat-note into the cracks from inside.
+Tekanter enters Monitor territory. His fire extinguishes within thirty paces. He rescues **without fire** — fireless kinetic seismic Circuit: runs the perimeter at intervals that generate a deep thrum at the crystal plain's resonant pulse, cracking it from below. Chewbat sings one low wombat-note into the cracks from inside.
 
 ---
 
@@ -64,7 +65,7 @@ The Serpent's fire, burning continuously for three generations, **gutters** for 
 
 ## Doctrine
 
-*Suffering is diagnostic, not moral. It reveals what is out of balance and what was never resolved. The fire was real. The grief was real. The war was a misdirection of both — real pain producing inadequate punishment that could never be adequate because nothing could return the forty-three eggs. Ask what is out of balance. Ask what was never said. The diagnosis comes before the treatment.*
+*Suffering is a revelation, not a moral failure. It reveals what is out of balance and what was never resolved. The fire was real. The grief was real. The war was a misdirection of both — real pain producing inadequate punishment that could never be adequate because nothing could return the forty-three eggs. Ask what is out of balance. Ask what was never said. The diagnosis comes before the treatment.*
 
 ---
 
@@ -79,7 +80,7 @@ The Mirror Maze.
 ### Journey to the West — Primary References
 
 **Chapter 55: The Pipa Jing (琵琶精) — the Scorpion Woman**
-A giant scorpion demon who has lived near Thunder Monastery for centuries. She uses a paralysing light from her eyes and a specific sonic attack — the pipa (a Chinese lute), which she plays to generate a devastating vibration. Sun Wukong, despite his power, cannot withstand the attack and is badly injured. He only defeats her by finding her specific weakness: the Mao Ri Guan (a rooster-crowing weapon) that produces the vibration scorpions cannot survive. She is the direct mythological source for the Scorpion Desert's name and atmosphere. The Monitor Queen's Space-element (physical paralysis without contact) inherits the Pipa Jing's paralysing gaze.
+A giant scorpion demon who has lived near Thunder Monastery for centuries. She uses a paralysing light from her eyes and a specific sonic attack — the pipa (a Chinese lute), which she plays to generate a devastating vibration. Sun Wukong, despite his power, cannot withstand the attack and is badly injured. He only defeats her by finding her specific weakness: the Mao Ri Guan (a rooster-crowing weapon) that produces the vibration scorpions cannot survive. She is the direct mythological source for the Scorpion Desert's name and atmosphere. The Monitor Queen's mastery of cold space (physical paralysis without contact) inherits the Pipa Jing's paralysing gaze.
 
 **Chapters 59–61: Princess Iron Fan (芭蕉扇) and the Bull Demon King**
 Two powerful beings with separate elemental domains whose territory Xuanzang must cross. The Flame Mountain (Huoyan Shan) is a fire wasteland created by one of Sun Wukong's earlier actions — a place where fire and damage to the land are connected to an old injury that was never addressed. Princess Iron Fan controls the Banana Fan, which can either fan flames enormously or extinguish them. The Bull Demon King is her estranged husband. They are not fighting each other directly, but their separation and mutual grievance shapes the territory. This structures the King Brown and Monitor Queen: two elemental powers (fire, cold) in an old conflict whose original wound has been forgotten, whose territory is a disaster zone. The Flame Mountain is the Scorpion Desert.

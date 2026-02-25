@@ -8,30 +8,29 @@
 
 ## Village
 
-**Threadsong.** A weaver community whose young people leave at a specific age and don't come back — or come back changed, or simply don't come back. The village is quieter every generation.
+**The Gilded Caves.** A vast, dark network of limestone caverns beneath the roots of the world. The air is cool and smells of damp earth and a strange, metallic sweetness.
 
-**Villager:** An echidna whose son left five years ago rather than accept an assigned obligation-thread. He chose freedom over the community's expectation and hasn't written. She doesn't know if leaving was right or wrong, and the not-knowing is the thing that lives in her.
+**The Echidna Guard.** A weaver community of Echidnas who serve as the architects and maintainers of the great Web. They move with a clicking, deliberate pace, their quills shimmering in the low, golden light of the threads. They do not view the Web as a prison, but as a banquet-hall.
+
+**The Villager:** An elder Echidna whose snout is stained with the residues of a thousand meals. He explains that the Web is the only thing standing between them and the "Great Thirst." The golden threads hum with a frequency that draws the *Sifted Souls*—the tiny, ant-like fragments of spirit that leak from the Salt Pan above. Without the Web to catch them, the Echidnas would starve in the darkness.
 
 ---
 
 ## Monster
 
-**The Red-Back Queen.** She is not what she seems. She presents as a lonely creature who built the Web from need — something that started with one genuine thread of connection and could not stop adding. The Web is beautiful. The story she tells about herself is sad and sympathetic.
+**The Red-Back Queen.** She does not hide behind a facade of loneliness. She is an object of singular, concentrated purpose: **Revenge.** 
 
-This is not the full truth.
+She is the Bunyip's ruby: the insignia of the Royal Order of the Wattle that the Bunyip wore when she was a guardian mount. When the Bunyip ran away with the Windmaster, she shed the ruby at the edge of the waterway.
 
-The Red-Back Queen is the Bunyip's ruby: the insignia of the Royal Order of the Wattle that the Bunyip wore when she was a guardian mount. When the Bunyip ran away with the Windmaster, she shed the ruby at the edge of the waterway. She left it behind.
+The ruby became an object-spirit—centuries of concentrated service given independent form. She followed the troupe from the Salt Pan because she witnessed the destruction of her mistress's world. To her, the troupe are not travellers; they are the desecrators of the Bunyip's scoured sanctity. She wants them scoured in turn. She wants the debt of the Salt Pan paid in their threads.
 
-The ruby became an object-spirit — centuries of concentrated service, the weight of the guardian role, the specific grief of an object abandoned when the one who wore it chose freedom. The Queen gained consciousness over time, and with it: loyalty to the Bunyip, fury at those who disturb the Bunyip's domain, and the memory of what it meant to be a guardian's insignia.
-
-She followed the troupe from the Salt Pan. She watched what they did there — the questions they asked, the door they opened, the divine descent they triggered. She has come to the next world ahead of them.
-
-The Web is her instrument. She did not build it because she was lonely. She built it because she needs to contain the ones who disturbed the Bunyip's perfectly organized grief.
+The Echidnas are her willing subjects. In exchange for the "harvest" of the Sifted Souls (the ants), they give the Queen their labor, their quills, and their absolute devotion. They are the ones who spin the golden doubt that binds the unthreaded.
 
 **Underlings:**
-- *The Docents* — enthusiastic explainers of the Web's purpose and beauty; their job is to make captivity sound like belonging
-- *The Weavers* — add new threads, identify and target the unthreaded; they can sense which wound to pull on
-- *The Bound* — cocooned in golden thread, not unhappy, entirely without choice
+- *The Docents* — enthusiastic explainers of the Web's beauty; their job is to make captivity sound like belonging.
+- *The Whispering Swarms* — ants (Sifted Souls) that crawl through the crevices of the cavern, carrying the Queen's vengeful whispers to the ears of the unwary.
+- *The Weavers* — Echidna artisans who spin the golden doubt, identifying and targeting the unthreaded.
+- *The Bound* — cocooned in golden thread, not unhappy, their souls slowly replaced by the scoured logic of the Queen's vengeance.
 
 ---
 
@@ -43,25 +42,45 @@ A wallaby family is offered debt-relief (their Tally-Debt cleared) in exchange f
 
 ## Capture
 
-The Weavers identify Chewbat as unthreaded — no visible obligation-thread, which makes him anomalous and dangerous to the Web's logic. They also find his specific wound: his teacher **Pellah**, taken by the Censorate, a name Chewbat has never said aloud since it happened.
+The Weavers identify Chewbat as unthreaded — no visible duty-thread, no shadow of obligation, which makes him an anomaly that the Web's logic cannot grasp. He is pure and unadulterated, a living vacancy that the Web seeks to fill. 
 
-While Goapus slips into the groundwater, the Weavers come through a window with Pellah's name in the thread.
+While Goapus slips into the groundwater, the Weavers come through a window with a thread of golden doubt.
 
 ---
 
 ## Rescue
 
-Jeosmi converts Tekanter to a frequency signal — not destroys him, transmutes him to pure kinetic frequency, a controlled transformation that Tekanter's fire makes possible. He travels through the thread-network as a signal, reconstitutes at full mass at the throne-room junction-node. The explosion when he reconstitutes shatters the central Web infrastructure.
+Jeosmi converts Tekanter to a pulse of heat — not destroys him, transmutes him to pure kinetic fire, a controlled transformation that Tekanter's fire makes possible. He travels through the thread-network as a pulse, reconstitutes at full mass at the throne-room junction-node. The explosion when he reconstitutes shatters the central Web.
 
 ---
 
-## Key Emotional Beat
+## Infiltration and Discord
 
-Inside the Web, surrounded by golden obligation, Chewbat says **Pellah's name out loud** for the first time since the Censorate took him. The Queen hears it and understands: that is a real thread — one Chewbat has been carrying without naming. Not fake obligation. Something actual.
+As the troupe enters the dark heart of the cavern, the Queen begins her psychological assault. She does not use force; she uses the **Beautiful Mirage**. She weaves a fantasy so attractive it feels like the resolution of every journey.
 
-When Tekanter returns and hears the name in passing, he registers it and keeps walking. This is exactly right. The name doesn't need a response. It needed to be said.
+To Chewbat, she shows a world where song requires no protection—a stillness so absolute that the very idea of a "protector" like Tekanter feels like a coarse and violent intrusion. To Tekanter, she shows a world where he is no longer an "ancillary" to a silent boy, but a hero of his own kinetic legend, free from the burden of the unthreaded.
 
-**The Queen's wound — revealed:** When the Web collapses, the Queen drops the lonely-creature story. She is not lonely. She is loyal and furious. She built the Web to hold the troupe, to give the Bunyip time to reorder her domain, to punish the ones who asked the question that broke the Salt Pan's stillness.
+The **Sifted Whispers** (the ants) carry these images into their ears. The friction is immediate and abrasive. Chewbat, usually the silent center, turns on Tekanter, his voice a cold thrum of judgment against Tekanter's "purposeless fire."
+
+"You are the weight," Chewbat murmurs, the Queen's golden doubt coloring his words. "You are the thing that keeps the song from being clear."
+
+Tekanter, stunned and feeling the sharp edge of centuries of unthanked service, explodes in a fury of sparks. "Then sing in the dark alone," he snarls. He storms off into the labyrinthine shadows of the limestone caves, leaving the Singer and the weight-bearer behind.
+
+## The King’s Lament
+
+In the deep silence of the lower caverns, Tekanter's fire dims to a smolder. The Queen's whispers find him here, unthreaded and raw. She does not mock him; she offers him a mirror of what he was.
+
+We see the truth of his history: Tekanter was not always a wandering protector. He was the **King of the Kangaroos**, a sovereign of the high plains whose kinetics were so absolute he could shift his very likeness at will. He had everything—the loyalty of the mob, the fire of the sun, and the promise of a bride more beautiful than the first bloom of the wattle.
+
+But a tragedy occurred. A moment of kinetic pride or a failure of the royal thrum caused his fall. He was scoured from the mob, his kingdom lost, and his bride taken by the wind. He became a shapeshifter without a shape, a king without a kingdom, binding himself to the unthreaded Singer as a form of penance.
+
+The Queen appears to him not as a monster, but as a docent of restoration. "I can weave it back," she whispers, her golden threads shimmering with the likeness of his lost mob. "I can give you the kingdom, the form, and the bride who was promised. You need only accept the obligation of the Web. You need only leave the Singer to his own silence."
+
+The Web shimmers with satisfaction. The troupe’s unity is broken.
+
+**The Queen's wound — revealed:** When the Web collapses, the Queen does not weep. Her fury only burns brighter. She does not care about connection or obligation. She cares about the **Debt.**
+
+*You broke her world. You scoured her stillness. Now, I will scour you.*
 
 *You had no right to ask her where he went.*
 
@@ -98,7 +117,7 @@ Seven spider demonesses in Pansī Cave spin golden silk webs that ensnare Xuanza
 The centipede demon who protects the Spider Women — the monster behind the monster. His hundred eyes produce light that specifically blinds Sun Wukong. The Queen's Weavers operate similarly: the visible threat is the web, but the real mechanism is the identification of the specific wound (Pellah) that binds better than any thread.
 
 **The Golden Headband (金箍兒)**
-Given to Sun Wukong by Guanyin — a restraint that works through the mind rather than the body, causing pain when a specific sutra is recited. The web-binding via named wound (Pellah) is the same mechanism: the thread doesn't restrain physically, it binds through something real that the prisoner genuinely carries. The wound is the headband. Chewbat put it on himself by caring about Pellah. The Queen only uses what is already there.
+Given to Sun Wukong by Guanyin — a restraint that works through the mind rather than the body, causing pain when a specific sutra is recited. The web-binding functions similarly: it seeks an internal hook to latch onto. Because Chewbat is pure, the Web finds nothing to grip. His freedom from internal binding (wounds/secrets) is what makes the external binding (the Web) fail once the silence is broken.
 
 ### Other Mythology
 
