@@ -1,182 +1,219 @@
 # Trial 1: The Bunyip of the Crystal Salt Pan
 
 **World:** The Crystal Salt Pan — the World of Abandoned Love
-**The Rescue:** Because the keep moves and the Navigator is captured, Tekanter must find the resonant pulse of the keep itself from the inside. He releases his fire, not as a weapon, but as a expansion of heat that shatters the glass and crystal from within.
-First Thread: Parityāga-Sūtra — *the Diagnostics of Abandonment*
-**Story file:** raw/meta/06-myths/trial-01-the-crystal-salt-pan.md
+**First Thread:** Parityāga-Sūtra — *the Diagnostics of Abandonment*
 
 ---
 
 ## Arrival
 
-The troupe emerges into a world of scoured white. The cold is not a mere absence of heat; it is an active, abrasive force that seeks the life within the bone. As they step onto the glass-plain, the air is thick with a thousand melodic voices — the Choir of the Salt Pan — singing in a harmony that is technically perfect and strangely soulless, an echo of captive spirits bound to the crystal lattice. 
+The plain had once been something else. You could read it still — in the dry channels where water had run, in the white hexagonal plates of crust where the last pools had concentrated and gone, in the quality of the silence, which was not the silence of a place that had never held anything but the silence of a place that had been emptied and had not yet settled into itself.
 
-They feel the wind sharp against their faces as they begin the painstaking search for the Image and Song — the specific thrum that will act as a key to the next world.
+The troupe came into it from the east, where the ground was still only dry. The sky above them was the same white as the ground below, and the horizon was the seam where they met without distinction.
 
-## Village
+The singing reached them before anything else — two hundred voices in formation so precise it had no seams, no individual breath audible, no accident of timbre or emphasis. It was a sound the body registered as something worth opening toward. Chewbat's chest did this, briefly, before some register below thought closed the opening again. The note had not changed. Had not varied by the smallest interval since they had arrived. There was no one breathing inside it.
 
-**The Gourd-Borow.** A cluster of dwellings built in deep, geometrically perfect depressions. The inhabitants are silent, their movements rigid, as if they are listening to a law they cannot disobey.
-
-A frantic, hospitable creature who maintains an immaculate home. She offers her guests warm broth and a place to rest, her eyes constantly darting toward the white haze of the Salt Pan.
-
-**The Daughter:** A returned soul, quiet and scoured. Her skin has the translucence of salt-crust, and her movements are measured with a terrible, mechanical precision.
+Across the flat the crystal formations rose in low, angular clusters, too regular in their spacing to be natural, too specific in their shapes. The troupe moved through them toward the singing and the white that had no far edge.
 
 ---
 
-## Monster
+## The Village
 
-**The Bunyip of the Crystal Salt Pan.**
+At the plain's edge the dwellings had been built into deep depressions in the ground, each one geometrically exact. The inhabitants moved within them with a careful deliberateness, as though following a law that had to be attended to at every step.
 
-She was a guardian animal — a mount — of the Royal Order of the Wattle: nine divine aspects of golden light, each with a guardian animal who bore them through the Heart Worlds. She bore one of the nine. She was, for centuries, exactly what she was supposed to be.
+An elderly bilby named Mallee received the troupe. She had an immaculate home and warm broth and a story she told at the table while her eyes went to the white haze of the plain and came back.
 
-Then she ran.
+The story: there had been a beautiful spirit, a water presence, and when the bilby choir sang to her she had brought abundance. Then a rebel bilby named Mulga had led away eighty percent of the village. The choir fell below its number. The spirit departed. The land dried. And now — she set down her bowl — creatures were being taken in the night.
 
-The Windmaster — mount of another of the nine — had the same idea at the same time. They left together. Away from the Order, away from the Wattle's service, into the gap left by Mirene's distracted consciousness. They were going to live in this world together, free, nobody's mount. They were going to be together forever.
+There was water in the underground well, she said. She would provide it. But she needed the troupe's help. She needed the rebel leader removed and the village restored.
 
-The Windmaster left. Went north. No forwarding address.
-
-The Salt Pan is the most precisely scoured environment in any of the Heart Worlds: geometric salt formations, architectural percussion, a complete numbing of every creature who enters.
-
-She is not in a mood; she is a climate. She operates with a precise, ancient cruelty — a coldness that isn't just the absence of heat, but the active, systematic removal of it. She doesn't just build the Salt Pan; she uses it to flay the messiness out of anything that crosses the boundary.
-
-The Salt Pan is not her tears. It is what remains of the waterway she was guardian of before she ran: she abandoned her post for him, the water evaporated, and the salt stayed. She didn't cause this through grief. She caused it through leaving. And then she was left. And now the salt is all she has, so she has made it into something hard.
-
-**Underlings:**
-- *The Choir* — two hundred animals singing in architectural formation. Not weeping. Not grieving. The Bunyip needs them rigid and she has fashioned them so. Perfect pitch. Cold and precise. They scan the Pan for unhardened hearts.
-- *The Salt-Architects* — extend the Pan's boundaries in geometric increments, build and maintain the formation-patterns
-- *The Bound* — creatures who came to the Bunyip's domain and were scoured, bound, and then emotionally cauterized to ensure they can never feel surprise or longing again. They are not 'happy'; they are simplified. Each one is a living specimen of perfectly managed abandonment.
+She looked at her hands on the table.
 
 ---
 
-## Distraction
+## Tekanter Goes to Find Mulga
 
-Tekanter, sensing a shifting thrum in the crystal foundations, goes out into the storm to investigate the source of the distortion. He believes he is securing the perimeter while the others rest.
+Tekanter went. He crossed the mountains in long bounds and found the lair by tracking the sounds in it and announced himself to the guards in the way he usually announced himself.
 
-## Capture
+The leader bilby, Mulga, came out.
 
-Unbeknownst to the troupe, the Bilby has already struck a bargain with the Bunyip. Desperate to recover her daughter — who was 'filed' into the Choir months ago for a minor deviation in rhythm — she drugs the sustenance she offers. Into the broth, she stirs a dark draught of poppies and sleeping-herbs. 
+Tekanter was prepared for something large. What he found was a bilby no bigger than a boot who met him force for force and showed no surprise at being matched. They fought to a standstill. Then, in the stillness between one blow and the next, Tekanter saw the tattoo on the bilby's neck: the mark of Discernment, the same mark he himself carries under his fur.
 
-As the hearth-fire flickers, the troupe succumbs to a heavy, unnatural sleep. The Bilby, weeping, watches as the Bunyip's underlings carry the drugged and unmarred Chewbat away into the white abyss, delivering him to the Crystal throne in exchange for her child.
+The mark has a meaning that is also a constraint. Those who hold it cannot produce a falsehood without losing their power. The mark cannot be counterfeited. Tekanter knew this.
 
-## Aftermath
+He stopped fighting and listened.
 
-Tekanter returns to find the borow silent and the Singer gone. The betrayal is a scent on the air. In a blind rage, he towers over the cowering Bilby, his fist raised to strike her down. He is stopped only by Goapus, who catches the blow with the fluid strength of a rising tide.
+What Mulga told him: there had been no rebellion. Eighty percent of the village had not gone anywhere of its own choosing. It had been taken — in the night, by shadows — and found later standing in circles on the plain, mouths open, in choir. Mulga's group had been pulling survivors out for months. The survivors came back damaged. Then the rescuers began to disappear.
 
-"Violence will not find the path," Goapus murmurs.
+Mulga had been watching him as he spoke, and Tekanter had been watching Mulga. He knew it was true. He had known from the first sentence.
 
-While Tekanter seethes in the corner, Goapus kneels beside the Bilby, offering her his own ration of water. He consoles her until the shame breaks and she reveals the fate that awaits Chewbat.
+*The village you came from,* Mulga said. *Describe it.*
 
-## The Embalming
+Tekanter described it.
 
-The returned daughter speaks then, her voice a dry rattle. She describes the weeks she spent in the Bunyip's keep: immured in a glass coffin, feeling the weight of the air change as a fresh measure of salt was added each dawn. She recounts the rhythmic, soul-scouring chants that accompanied the salt, a week-long trial that slowly replaces the memory of the wet world with the purity of the scoured desert. By the seventh day, the inner song is extinguished, and the captive becomes a hollow puppet, a perfect note in the Bunyip's choir.
+Mulga looked at him. *There is no village at the plain's edge,* he said. *There hasn't been for six months.*
 
-## Second Capture
+Tekanter ran back the way he had come.
 
-The daughter cannot name the location of Chewbat’s imprisonment — the keep moves with the scouring wind. Goapus, realizing that the water-memory of the land is the only guide, goes out alone into the white abyss. He tracks the ancient, sub-surface riverbeds that have long since been choked with salt.
+---
 
-However, the Bunyip’s law is absolute. As Goapus finds the thrum of the hidden keep, he is discovered by the underlings. Having no fire to defend himself and no land to hide in, he is taken.
+## The Mirage
+
+There was no village. Goapus and Jeosmi lay on the dry riverbed where the borow had appeared to stand. The wall that had opened without breaking and closed again behind it had left no mark on the ground. What had been was not even an impression now.
+
+Chewbat was gone.
+
+Tekanter woke them. There were words spoken — sharply, and then more sharply — and the shapes of a fight, before he walked away from both of them and out onto the plain to find another way.
+
+The outcast bilbies at the plain's edge, survivors from Mulga's camp, told him one thing of use: the entrances to the lairs were ringed with a circle of singing bilbies.
+
+He walked the plain until he found the ring. He called out to the bilbies and they scattered. Beneath where they had stood, a fissure in the salt crust. Cold came up from it, steady and sourceless.
+
+---
+
+## The Garden
+
+He stood at the fissure's edge long enough to see what the plain was.
+
+At its centre, burned into the salt crust and extending outward to the horizon, a formation of five arms — each a trench of darker salt, black-edged, deliberate at a scale that required centuries rather than hands. The five arms divided the plain into five sections. In each section, arranged in concentric arcs, in radial lines, in spirals so precise they could have been drawn: the bodies.
+
+They were not dead. Each one stood in its position with its face lifted to the sky and its mouth open, the Choir's note moving through it. They had been brought here over a long period of time, one by one, and placed. The salt had been working into them from the outside, crystallising the surface first and then advancing inward. The oldest of them had lost their edges to it; they were formations now, indistinguishable from the plain that held them. The newer ones still had features. At the centre of each section, embedded in the crust: a cluster of small glass jars, sealed, filled with something icy blue.
+
+Tekanter looked at it long enough to understand the geometry, then went in.
+
+---
+
+## The Descent
+
+He fought all the way down — wall to wall in the narrow passage, the iron-tipped tail clearing whatever came at him from the dark, his gold eyes on every movement before it resolved. The Salt-Architects who came at him in the descent found themselves working against a body that had spent a very long time learning how bodies could be used in constrained spaces.
+
+Then the black energy came. It did not come from a direction. It arrived from everywhere at once, a thick current of it, and the crystal formed at his wrists and ankles before he had completed his next step. He continued to fight from inside the chains. He fought until the inventory of what there was to fight ran out. Then he was still.
+
+Goapus and Jeosmi had followed at a distance. They saw the black energy take him, and they did not go in. One of them had seen enough of what it could do. They turned back and found Mulga.
+
+---
+
+## What the Rescued Bilby Said
+
+She was at Mulga's camp, one of the survivors, sitting in the careful way of someone who has come back from somewhere and not come back entirely.
+
+She described the glass coffin. The salt in the air above her, falling slowly. The voice — low, working — reciting the names of each thing she remembered, one by one. Not her name. The names of the reaching in her: the places in her that were still turned toward what was absent, the things she was still waiting for. Each name arrived in her like a hook and drew the named thing to the surface where the salt could reach it. The named thing stopped moving.
+
+By the third day, her memories had begun to organise themselves without prompting. Coming forward in order, presenting themselves.
+
+By the fifth day, she had no understanding of why she had resisted.
+
+By the seventh day, there was nothing left in her that wanted anything.
+
+Her body had remained. It stood. It sang. It performed the note that the plain required. The part of her that had direction, that leaned forward into the world — that part was in a jar on a shelf in the dark below the salt.
+
+She could not describe the moment of its leaving. She had been relieved, with precision, of the capacity to form words for it.
+
+---
 
 ## The Ruse
 
-With their navigator lost, Tekanter and Jeosmi realize that force alone cannot breach the Bunyip's shifting fortress. They devise a ruse of likeness and pulse. Jeosmi, being a master of weight and substance, shifts his internal thrum to match the hollowed rhythm of a Bilby. Tekanter, the fire-bearer, compresses his vast heat into the tiny, persistent pulse of a fly, hiding in the tufts of Jeosmi's assumed form.
+Goapus transformed into a bilby. Not an approximation — a true becoming, cellular, complete, down to the specific hollowed rhythm of a creature that had been on the plain's edge long enough to begin its dissolution. Jeosmi rendered himself absent from visibility without being absent from the space, and walked in the shadow of Goapus's new shape.
 
-The infiltration is a trial of patience. They wander into the scoured waste, offering themselves to the wind. For hours, the underlings pass them by — they are looking for specific types of 'correct' geometry. Finally, perceiving Jeosmi's mimicry of a broken spirit, the search-parties sweep them up and carry them into the dark heart of the moving keep.
-
-## The Discovery
-
-Inside the keep, they find Chewbat and Goapus. Goapus is bound in a cage of crystal, but Chewbat is still in the glass coffin.
-
-The Bunyip is furious. Her week-long ordeal has come to nothing. She has measured the salt and recited the chants until her voice is cracked, but the salt will not cling to Chewbat's skin. His purity is so absolute that it offers no purchase for the scoured remains of her grief. He remains unmarred, his inner song unbroken by the abrasive law of the Pan.
-
-Jeosmi endures the Pan's weight but cannot remove Chewbat — his presence is a physical provocation to the Bunyip. Being bound is not the same as being imprisoned. The Salt Pan has simply decided where he belongs.
+The search-parties were looking for correct geometry. Goapus was correct geometry now. They carried him down through the fissure. Jeosmi followed in the space between their steps.
 
 ---
 
-## Rescue
+## The Cave
 
-Tekanter returns early — the task turned out to be simpler than described. The Bunyip did not account for this because she expected to be finished by now. He walks into the Salt Pan's structured silence and his fiery spirit is not in the scroll of the bound. The Choir cannot handle a kangaroo's fire because the Bunyip has not needed to bind one before. There is no place for him.
+Below the plain the cave opened, low-ceilinged and vast, and the blue was everywhere — shelf after shelf of glass jars from floor to ceiling in every direction, the light coming from what was inside them, cold and sourceless, the colour of something that has been alive and is no longer moving. The shelves receded into dark in every direction. At the far wall, a row of glass coffins, each one fitted with a narrow tube that ran to a jar mounted above it. The jars were filling.
 
-The gap in the silence — the uncontainable element — lets Chewbat breathe differently. He finds the edge of his binding. He walks out of it.
+Chewbat was in the third coffin. The salt moved correctly in the air above him. The recitation had been performed correctly. The salt was not adhering.
 
----
+The Bunyip stood at the coffin with her hands moving through the patterns of her craft and her voice working, low and unbroken — naming each thing she could read in him, each tender place, each reach — and finding that each thing she named moved before the salt could take it. Moved back into its own motion, pulled there by something she could not name, because what pulled it had no tender place itself. Was not reaching toward anything. Simply was, completely, in the way that does not give the salt purchase.
 
-## Key Emotional Beat
+She had been at this for three days. Her voice had not rested.
 
-The Bunyip is completing Chewbat's scourging — marking his place, recording his name, giving the precise accounting of what he is — when he says:
+Tekanter was against the wall in his crystal chains. He watched the Bunyip work. He watched the salt fail to adhere. He said nothing.
 
-**"Where did the Windmaster go?"**
-
-She stills. Not shatters. Not weeps. *Stills.*
-
-The Choir holds its note.
-
-She has built the most rigid environment in any Heart World. She has bound every creature## The Revelation
-
-The air in the keep suddenly changes. It is no longer cold; it is void. The scoured world trembles as the **Divine Wattle Spirit** — the ancient embodiment of the Aldar Lemnë — descends in a shower of golden blossoms. She does not strike; she blooms.
-
-The fragrance of Arnam fills the keep, dissolving the salt and shattering the glass coffins. The spirits of the Heart-World descend as one, stripping away the Bunyip’s scoured mask. Under this divine gaze, the Bunyip’s administratve ice melts. She shrinks and softens, her rigid geometry collapsing into a small, cuddly form — a creature of golden fur and quiet breath, her abrasive law replaced by a sudden, overwhelming warmth.
-
-**The Bunyip's wound:** She abandoned her guardian post to run away with the Windmaster. She gave up everything for him, and he left. The Salt Pan was what remained when she abandoned a waterway and the water evaporated: not tears, but a scouring, abrasive remains. Now, subdued by the Wattle Spirit, the grief has been transmuted. She holds the Bilby's daughter no longer; she is herself a child of the golden bloom.
-
-## The Blessing
-
-With the Bunyip transformed and the scoured keep dissolving into a mist of gold and Arnam-scent, the Divine Wattle Spirit turns to the troupe. Her voice is the thrum of a thousand hives, warm and heavy with the promise of rain.
-
-"You have borne the weight where others would have shattered," she murmurs, her gaze lingering on Chewbat’s unmarred spirit and Tekanter’s flickering fire. "The Heart-World remembers its own."
-
-She reaches into the golden bloom and produces a pair of keys — ancient, resonant objects that hum with the frequency of the path ahead. One she gives to Chewbat, the other to Tekanter. With a final breath of Arnam, she blesses their travel, her presence fading until only the soft, warm scent of the wattle remains in the cooling air of the Salt Pan.
-
-The first trial is complete.
+At the centre of the cave floor, alone on the bare salt, sat a single jar: the same shape as all the others, but holding dirty brown water, silted at the bottom, no blue in it. It was the only dark point in the cave.
 
 ---
 
-## The Divine Descent
+## The Chains
 
-Chewbat begins to sing — not deliberately. The question opened something, and the stillness opened something further, and the salt formation around him still carries the residual frequency of the waterway this place once was, and he is a Singer.
+Jeosmi moved to Tekanter, invisible. The crystal chains had been named into existence from the full record of Tekanter's violence — every blow catalogued, every direction of force accounted for. Every angle filed.
 
-The Song comes up through the salt. Not his song — the node's original pulse. The Wattle's spirit, still present in the ground beneath the salt, in the water-memory of the soil that once held a living river.
+Jeosmi untied them from the back.
 
-The Bunyip, who has made herself into a perfect hollow vessel — who has removed everything that might interfere, who has emptied herself of everything except control — becomes a channel.
+They waited. The Bunyip worked at the coffin. The salt fell and did not adhere.
 
-One of the nine aspects of the Royal Order of the Wattle descends through her. She becomes a vessel — a tea cup for something enormous and golden and very old. She cannot stop it because stopping would require something left inside her to push against, and she has scoured everything away.
+Then Goapus, on the cave floor in his bilby form, changed.
 
-The divine presence is brief and specific. It does not punish her. It does not welcome her back into service. It says, through her body, in the voice of the original waterway: *you are still the guardian. The waterway still exists. The water can return.*
+Not into one thing. Into a sequence of things — bilby, then platypus, then bare stone, then thornbush, then bilby again — and the naming system that moved through the cave ran each category, found each one superseded, ran the next. The sound it produced was not screaming but it had something of screaming's quality, a note that required a chest that did not exist to hold it correctly.
 
-Then it is gone.
+The Bunyip turned from the coffin.
 
-The Bunyip is left standing in her perfectly scoured Salt Pan, in a cruel stillness, having been used as a vessel for the thing she ran from, in front of a guest, with the Choir holding its note and no name for what just happened.
+Jeosmi released fire. The coffin opened. Chewbat stood up. Three days of precise and exhaustive work had found no seam in him, and the salt had nothing to show for it.
 
----
-
-## Image and Song
-
-**Image:** During the descent, Chewbat sees the original river beneath the salt — the waterway before the Bunyip abandoned it, living water running through here before it evaporated. He holds the sight of it: its specific colour, the sound of movement in a place of stillness, the true face of a node beneath its surface distortion. He carries this in his chest.
-
-**Song:** The pulse the Wattle descended on — the node's original tone, the spirit of this crossing-point before it became a Salt Pan. When the divine passed through the Bunyip, it produced a tone Chewbat recognizes as the key. He holds it in his throat.
-
-With both, the Salt Pan's crossing-point opens. He walks through it into the next world.
-
-The Choir watches him go. The Bunyip watches him go. She is not moved. She marks him under: *Departed. Disturbed peace. Left a question without an answer. Left through a door that was not meant to open.*
+Tekanter looked at what Jeosmi had done with the chains and took himself up through their geometry in one straight leap, at an angle that had not been filed, and the crystal held him for one second and then shattered. He came down beside the coffin.
 
 ---
 
-## The Ruby
+## The Chase
 
-At the edge of the Salt Pan — not inside, not approaching, watching from the perimeter — there is a presence that is not the Choir. A red-back spider, large, specific, wearing the quality of something that used to be attached to something else.
+They ran up through the fissure and out onto the flat of the plain.
 
-This is the Queen. She was the Bunyip's ruby: the insignia of the Royal Order of the Wattle that the Bunyip wore when she was a guardian mount. When the Bunyip ran, she shed the ruby. Left it behind at the edge of the waterway.
+The Bunyip came behind them, and at the top she shed the working shape she had worn in the cave and showed what she was: large, old, furious with the specific quality of fury that belongs to a system that has just been broken from the outside. She breathed magic and bonds. The circle of bilbies that had appeared to stand at the fissure's edge holding water jars dissolved — the shapes that had been holding the illusion open released it and ran. The four of them fought her in the open salt.
 
-The ruby became an object-spirit. The discarded uniform gained consciousness over time — the centuries of accumulated service, the weight of the role the Bunyip held, the specific grief of an object left behind when the one who wore it chose to be free.
+They were close to having her.
 
-The Queen does not enter the Salt Pan. The Bunyip does not know she is there. But the Queen has watched what happened in the Salt Pan. She knows what these visitors have done. They have disturbed the Bunyip's domain. They have asked questions without categories. They have opened a door that should have stayed closed.
+She dissolved into thick black energy and went back down the hole.
 
-The Queen will deal with them in the next world.
+---
+
+## What Tekanter Remembered
+
+He had spent years, early in his life, as a servant in the company of the nine divine wattle celestials. The black energy she had dissolved into — he had seen it before, on a different creature, in a different colour. It was a binding. The specific cord by which a guardian animal is tethered to its owner. The cord had a signature. He was looking at it.
+
+He looked at the place on the plain's surface where the fissure was.
+
+Then he thought about the notch in the bunyip's ear. He had seen that notch before, on a rabbit, on the rabbit that belonged to one of the nine.
+
+He sent a message.
+
+---
+
+## The Lullaby
+
+The Bunny Celestial came to the fissure alone. She was small. The warmth around her was the warmth of a thing that does not need to announce its nature.
+
+She stood at the opening in the salt and sang.
+
+It was a lullaby — not a command, not a binding, not a working of any kind. A lullaby of the sort that is sung to something small, to call it back to what it is.
+
+The song went down into the fissure.
+
+After a time the growling came up first. Then the bunyip came up, enormous and hideous and unable not to come, and she saw the Bunny Celestial, and the transformation began in her without her consent. It moved through her body from the inside, and she fought it, and the fighting produced sounds that were not hers — or were hers, but from places in her that had not been opened in a very long time — voices of pain that the work had sealed over, sounds that belonged to the years of it, the anger and the effort and the maintenance of all that careful not-looking. They came out in a stream and then they stopped.
+
+What remained was a small dark rabbit, sitting on the salt, looking up.
+
+The Bunny Celestial said nothing for a moment. Then, quietly: *Oh. There you are.*
+
+She sang the lullaby a second time, just for her.
+
+---
+
+## After
+
+The Celestial told the troupe what she knew. One of her own kind's guardian mounts had run — had run with another, and the other had not stayed, and what was left behind had turned in the direction of the only work available to it. She thanked the troupe without ceremony. She was already looking at the rabbit.
+
+Then she turned to Chewbat and gave him the coordinates for the next world. Not to Tekanter, who had fought. To Chewbat, who had simply been in the coffin for three days and given the salt nothing to take.
 
 ---
 
 ## Doctrine
 
-*Control is not freedom. To make everything around you organized and precise and filed is not to have healed the wound — it is to have built the wound into the foundation. The Salt Pan is not grief made landscape; it is fury made governance. The question that cannot be filed — where did he go? — is the one that opens the ground. The answer does not have to be good. It just has to be asked.*
+*The craft requires a seam — the place in a creature where what it is and what it reaches for do not meet. Name the reach. The salt knows where to go. The creature is filed and the body continues and what was left does its work.*
+
+*What cannot be filed is a creature that has no gap between its being and its doing, that reaches for nothing because nothing in it is turned away. The salt lands and finds no hold and falls as ordinary salt.*
+
+*The jar of dirty river water at the centre of the cave had been sitting there for three centuries. It was the only jar in the cave the Bunyip had not processed. It held the last water from the river she had abandoned. She had been unable to name it because naming it would have required naming the thing beneath the work — the question the work had been built to not ask. When the lullaby came down the hole, the question did not need to be answered. It only needed to be present. That was enough.*
 
 ---
 
@@ -188,30 +225,38 @@ The Gilded Web.
 
 ## Source Material
 
-### Journey to the West — Primary References
+### David Malouf — Voice Notes
 
-**The Celestial Bureaucracy (multiple chapters)**
-The JTTW heavenly administration is not corrupt so much as completely process-bound: things are done in the correct order, filed in the correct record, processed through the correct channels. When Sun Wukong arrives demanding the position of Great Sage Equal to Heaven, the celestial officials give him a title that means "empty rank" — they found a category for him rather than denying him, because the bureaucracy prefers categorisation over conflict. Sun Wukong cannot be refused entry to heaven; he can only be given a role so minor it means nothing. The Salt Pan's Choir functions on identical logic: everything that enters must be filed. The crisis is not malice but completeness — the system's need to account for everything within its boundary.
+**The landscape that carries memory**
+Malouf's landscapes are never neutral. They hold what has happened in them — in the quality of the silence, in the shapes of what was once there, in the temperature and weight of the air. The Salt Pan is described as a place of aftermath: emptied, not empty. Its whiteness is not absence but a particular kind of presence, the presence of what has been taken from it.
 
-**Chapters 75–77: Sun Wukong swallowed by the Blue-Haired Lion**
-Sun Wukong is swallowed whole, sealed inside a warm dark space with no visible exit. He reconstitutes violently from inside — grows to full size, tears the demon apart. This is the structural source of Tekanter's rescue: compression → infiltration → kinetic disruption. In Trial 1 the capture is organizational rather than physical, and the rescue is the disruption of the filing system's completeness by an element it cannot categorize.
+**The body that knows first**
+Malouf locates understanding in the body before the mind catches up. Chewbat's chest opening toward the harmony and then something underneath closing it again — this is rendered as physical before it is understood as significant. The body's response is the narrative's instrument.
 
-**Chapter 59–61: Princess Iron Fan and the uncontrollable force**
-The Iron Fan controls a force that has become self-sustaining — Flame Mountain burns without ceasing. The Princess controls the fan but will not deploy it; her control over the force has become her identity. She cannot deploy the fan because using it would mean the force was over, and the force being over means she has nothing left to control. The Bunyip's Salt Pan is the same architecture: a force (the salt, the expansion, the Choir) that she controls because controlling it is the only thing that remains. Stopping would mean being in the stillness. She does not stop.
+**The object that holds history**
+The jar of dirty river water at the cave's centre. Malouf is precise about objects that carry the weight of what their owner cannot carry consciously. The jar is described once, given its specifics — the silted water, the dark, the absence of blue light — and allowed to hold what it holds without explanation.
 
-### Other Mythology
+**The gap in language rendered as presence**
+The survivor who cannot describe the moment the spirit left — who has been relieved of the capacity to form words for it — is rendered in Malouf's register: not as a dramatic revelation but as a simple statement of what is absent and why. The horror lies in the precision of the deprivation.
 
-**Calypso (Homer, Odyssey, Books I and V)**
-The nymph who keeps Odysseus on her island for seven years. She is genuinely kind. She makes the island into something to maintain, something to offer — perfect, enclosed, self-sufficient. Odysseus leaves. The island remains. The Bunyip's Salt Pan is Calypso's island after Odysseus has left: the thing she maintained is still there, still being maintained, still being extended and perfected. The one she maintained it for is gone. She maintains it anyway, because stopping is not in her system, and because stopping is stillness, and stillness is where the question lives.
+**No foreshadowing**
+Events occur without announcement. The singing is heard; the body responds; the note is identified as unchanged. There is no signal that any of this will be significant. The village is visited; the broth is accepted; what happens next happens. Malouf's narration does not prepare the reader for what comes. It only describes, precisely, what is.
 
-**Circe (Homer, Odyssey)**
-The sorceress who transforms sailors into animals, organized and kept — not for food, but for company, for management, for having something to do with her power. The Filed echo Circe's organized inhabitants: given exactly their category, not unhappy, unable to leave. The Bunyip has more precision and less warmth than Circe. The effect is structurally identical.
+### 聊齋志異 (*Liáo Zhāi Zhì Yì*) — Thematic Parallels
 
-**Persephone's return (Greek)**
-When Persephone is in the underworld, Demeter withholds spring. The world becomes cold and still. This is usually read as grief — Demeter mourning her daughter. But it is also fury, imposed order, the refusal to let anything grow because what she needed is not here. The Salt Pan is Demeter's winter with the grief removed: just the fury, just the stillness, just the organized refusal to allow anything to bloom in a space where the one she loved is not.
+**執念成魔 (*Zhí niàn chéng mó*) — The work that becomes the monster**
+In the 聊齋 tradition the supernatural creature has a history — a choice made, a course followed, a long accumulation. The Bunyip is not a demon by nature but by duration. The work she sustained for three centuries was not evil in its origins. It was what was available. The shape it took over time was determined by what it was organised around: the not-asking.
 
-**The Royal Order of the Wattle**
-Nine divine aspects of the Wattle's true spirit — beings of golden light, each with a guardian animal mount. The Wattle is the plant that protects Mirene and heals her body; the Royal Order are the spirit presences that the Wattle's consciousness throws off to guard and extend its reach through the Heart Worlds. The relationship is described the way people describe the spirit beings of Ayahuasca: not the plant itself but its protectors, its aspects, the intelligence behind the intelligence. The guardian animals bore the divine aspects through the Heart Worlds. The Bunyip and the Windmaster deserted together. This is the only desertion in the Order's history.
+**魂魄 (*Hún Pò*) — The dual soul**
+The craft targets the 魂 — the aspect of the creature that leans forward into the world, that wants, that has direction. The 魄 that remains is functional. It stands. It sings. It follows the last instruction it was given. What the Bunyip's processed creatures lack is not life but the part of life that moves toward things. The jars contain that part, icy blue, still faintly moving when directly observed.
 
-**The Object-Spirit (器物成精, Chinese mythology)**
-Objects used for a long time, or objects containing concentrated feeling, gradually gain consciousness. Old brushes become scholars. Worn sandals become wanderers. Discarded ritual objects become spirits who continue the ritual. The ruby was the Bunyip's insignia — worn for centuries, containing the accumulated weight of her service to the Order. When she shed it, the object had enough concentrated history to continue on its own terms. The Red-Back Queen is the ruby's consciousness: the Bunyip's role-identity, discarded, become its own person. She is loyal to the Bunyip because she is the Bunyip's service-self — the part of her that was a guardian, that was dutiful, that took the Order seriously. The most devoted presence in the Bunyip's world. The Bunyip does not know she exists.
+**The binding cord**
+The black energy is a 縛靈索 — a guardian's tether, the cord by which a divine mount is held in relation to its celestial. It has a signature. Tekanter recognises it from his years in the company of the nine. The cord had not been cut; it had been carried away, a binding without its other end. When the Bunny Celestial came, the cord found what it had always been oriented toward.
+
+### Journey to the West
+
+**The chains that filed everything but up (Chapters 75–77)**
+Sun Wukong inside the demon's stomach, reconstituting by doing what the containment had not accounted for. Tekanter's crystal chains are a record — complete, accurate — of every direction he has ever fought. They account for everything his violence has been. They do not account for a kangaroo who decides that the only remaining direction is vertical. The system's completeness is also its limit.
+
+**Princess Iron Fan (Chapters 59–61)**
+The force maintained not because it serves a purpose but because maintaining it is the only way to avoid the stillness in which the question lives. The Iron Fan controls Flame Mountain and cannot put it out, because putting it out would leave her with nothing to control. The Bunyip's garden operates on the same logic. The work is not the point. The work is what stands between her and what she has not said.
