@@ -13,14 +13,12 @@ They came down from the Node onto the salt and stopped.
 
 Goapus was crouching, bill to the ground, the way he always attended to unfamiliar terrain. "Very old. Something in the deep substrate still holds the memory of it." He looked up. "The memory is distressed."
 
-"It's been dry now for many years" Tekanter said.
+"It's been dry now for many years," Tekanter said.
 
 Across the flat, barely audible at this distance, the singing.
 
-
-The choir should be singing at actual song, not a note. however, it was hauntingly beautiful and always changing -> like a fractal the lyrics are not known. they talk about it and was drawn to the singing but decided to go into the village instead
-<<<
-Chewbat turned toward it without deciding to. His chest opened, briefly, toward the sound — the specific, involuntary opening that a harmony of that quality produces in a singer's body, the way light produces a reflex in the eye. Then the part of him that was not his chest closed the opening again, quietly. The note had not changed since they arrived. Had not wavered, not breathed, not shifted one interval. Technically it was perfect. That was precisely what was wrong with it.
+Not a note — a song, full and shifting, the kind that changes before you have finished hearing what it was a moment ago. Hauntingly beautiful in the specific way of things that are almost but not quite recognisable: you could follow a phrase of it and feel that you understood it, and then it would fold into something else, something adjacent, and the understanding would not quite carry. The lyrics — if they were lyrics — were in no language any of them had encountered. They might have been a language. They might have been something with the structure of language without the content, the way a dream has a narrative without continuity. The song did not repeat. It built on itself, each phrase a variation of the one before, opening outward the way a fractal opens — always more of the same pattern, never arriving at an edge.
+Chewbat turned toward it without deciding to. His chest opened, briefly, toward the sound — the specific, involuntary opening that a harmony of that quality produces in a singer's body, the way light produces a reflex in the eye. Then the part of him that was not his chest closed the opening again, quietly.
 
 "Don't follow it," Jeosmi said.
 
@@ -33,15 +31,15 @@ Chewbat turned toward it without deciding to. His chest opened, briefly, toward 
 Tekanter had moved to the edge of one of the dry channels, his gold eyes tracking the horizon. "There's smoke east. Real smoke, not salt haze. Which means something is burning something, which means there's a village." He looked back at them. "Also I am deeply thirsty. Can we."
 
 They went east.
->>>
+
+The singing did not get quieter as they moved away from it. It stayed at the same distance — not louder, not softer, always just at the edge of what could be made out. Not following them. Simply remaining present, the way a smell remains in a room after the source of it is gone.
 
 
----
+
 
 ## II. Mallee
 
-The village sat at the plain's edge in a perfect depressions, each dwelling low and precise, no ornamentation, The inhabitants moved carefully. They watched the troupe arrive.
-
+The village sat at the plain's edge in low depressions, each dwelling precise and unornamented. The inhabitants moved carefully. They watched the troupe arrive.
 An elderly bilby named Mallee met them at the first dwelling. She had warm broth ready — which she did not need to have ready, which meant she had been watching the plain for some time before they arrived.
 
 She told them about the water first. An underground well, still good, but she needed help before she could share it. This she said without apology.
@@ -78,49 +76,45 @@ He was a bilby. The size of a boot. He came without weapons and without hesitati
 
 They fought.
 
-Mulga was matched to Tekanter blow for blow in a way that had no justification in the relative sizes of their bodies. The first strike Tekanter threw was absorbed and returned before he had finished it — not deflected, not dodged, but received and sent back with its own weight added. He adjusted. The second exchange was the same. So was the third. A boot-sized bilby returning a kangaroo's full force squared, with the economy of movement that belongs to someone who has been doing this for a very long time in a very large variety of circumstances.
+Mulga was matched to Tekanter blow for blow in a way that had no justification in the relative sizes of their bodies. The first strike Tekanter threw was absorbed and returned before he had finished it — not deflected, not dodged, but received and sent back with its own weight added. He adjusted. The second exchange was the same. So was the third. A boot-sized bilby returning a kangaroo's full force with an economy of movement that belongs to someone who has been doing this for a very long time in a very large variety of circumstances.
 
-The bilby fights like yoda.
+It lasted six exchanges. The bilby fought with precision rather than power — tracking where the weight was going before it arrived, finding the angles, never opposing force directly. No wasted movement, no announcement, each response arriving before Tekanter had finished the action it was responding to. Tekanter fought with controlled fire and mass, watching for the pattern in the bilby's movement, not finding one. They stopped at the same moment, four paces apart, taking each other's measure. Both slightly winded. Neither damaged.
 
-It lasted six exchanges. The bilby fought with precision rather than power — tracking where the weight was going before it arrived, finding the angles, never opposing force directly. Tekanter fought with controlled fire and mass, watching for the pattern in the bilby's movement, not finding one. They stopped at the same moment, four paces apart, taking each other's measure. Both slightly winded. Neither damaged.
+Tekanter swung his tail. The bilby moved under it, fast, but not quite fast enough — the tail grazed the fur at the back of his neck. In the fraction of a second it took to pass, Tekanter saw the mark: interlocked circles on the skin at the neck's base, old ink, the lines worn smooth where the fur had moved over them for years. He would have known the design from fifty paces in poor light. He carried the same mark himself, pressed into the skin below his collarbone on the morning he took the oath — the cold of the instrument, the elder's hands, the specific words said over him while the mark was made, which he has not repeated to anyone. The mark of the Order of Discerning Eye. Visible now in the stillness between them.
 
-Tekanter swung his tail, it caught the bilby by suprise but he ducke under and the tail grazed his fur. for a split second, Tekanter saw on the bilby's neck, an ancient tattoo - Interlocked circles, old ink, the lines worn smooth where the fur had moved over them for years. He would have known the design from fifty paces in poor light. He carries the same mark himself, pressed into the skin below his collarbone on the morning he took the oath — the cold of the instrument, the elder's hands, the specific words said over him while the mark was made, which he has not repeated to anyone. The mark of Discernment. Visible now in the stillness.
+Tekanter put down his guard, drew back the fur at the inside of his foreleg, and showed Mulga the same mark. The bilby went still in the way of someone recalibrating everything they had just done. Then he put away his weapons and sat down.
 
-His mind flashed back to his training there. It was not founded as a fighting order, though many of its members fight. It was founded as an order standing for nobility and truth. The mark was a living being. when a body honors the mark with true and bravery, the mark glows. otherwise, it dims. The mark was the oath's physical confirmation — the body accepting the constraint, the salt and ink pressed into the skin to hold the agreement in the flesh.
+The Order was not founded as a fighting order, though many of its members fight. It was founded to carry what was witnessed without distortion across difficult ground. The oath was exact: *I will report what I find. I will not report what I did not find.* The mark pressed it into the body so the body could not forget. Lie, and the power the oath had given drained back through the place the lie had passed. Speak falsely enough and you emptied yourself entirely. No one who held the mark chose their words lightly. The order had no politics. Its members were on every side of every divide. He had met eleven of them in his life, before today.
+
+Tekanter's mind flashed back to his training there. It was not founded as a fighting order, though many of its members fight. It was founded as an order standing for nobility and truth. The mark was a living being. when a body honors the mark with true and bravery, the mark glows. otherwise, it dims. The mark was the oath's physical confirmation — the body accepting the constraint, the salt and ink pressed into the skin to hold the agreement in the flesh.
 
 A member who spoke a falsehood felt it immediately: a specific depletion, as though the power that the oath had given drained back out through the place where the lie had passed. Speak falsely enough and you emptied yourself entirely. Members did not do this by accident, they chose their words with the particular care of someone who has felt the cost. The order had no politics. It had members in the service of the nine wattle celestials.
 
-Tekanter put down his guard, pulled his fur back on the inside of his tail and showed the same tattoo to the bilby. The bilby was stunned, immediately put away his weapons and bowed.
-
-The bilies brought a table out and the two of them sat down for tea. they talked about life inside the order, as well as their former teachers.
-
----
+The bilbies brought out a table. They brought tea. The two of them sat across from each other in the cold of the mountain lair and, after a moment, began to talk — about the Order: teachers they had each known, what it had cost to carry true things through difficult ground, the specific conversation of two people who have taken the same oath and found each other unexpectedly in a hard place.
 
 ## IV. The True Account
 
 There was no rebellion.
 
-The village had been taken — in the night, by shadows. black shadows, binding to their bodyies and forcing them to move. The bilbies that were taken were not able to scream. they moved in silence and horror. They were taken underground and then a week later, groups of the bilbies were found arranged in formation on the salt plain, faces to the sky, mouths open, songs coming from their throats but they themselve were frozen. Mulga's group had been pulling survivors out for two months. The rescued came back with less than they had left with. He couldn't say what the less was. It moved differently in their eyes.
+The village had been taken — in the night, by shadows. Black energy, binding around their bodies and moving them. The bilbies taken were not able to scream. They moved in silence and in the specific horror of a body that has been made to move without being asked to. A week later, groups of them were found arranged in formation on the salt plain, faces to the sky, mouths open, sound coming through their throats without any of them choosing to make it. Mulga's group had been pulling survivors out for two months. The rescued came back with less than they had left with. He couldn't say what the less was. It moved differently in their eyes.
 
-"What about the water spirit." Tekanter ask?
+"What about the water spirit," Tekanter asked.
 
-We bilbys do not believe in spirits. we have been intuned with life itself that we are the river, we are the trees, we are the stones. our village has never been in need of a spirit as we commune directly with the land. we ask it for water, we give thanks for rain. 
+Mulga looked at him steadily. "We are bilbies," he said. "We have no spirits between us and the ground. We are attuned to the land directly — not through any presence that mediates on our behalf. The water came because the water came. We asked the ground for what it had. When it had it, we were grateful. That is the whole of it, and no spirit lives in it."
 
 Tekanter interrupted: "The old bilby," he said. "Mallee. The village at the plain's edge. The story about you leading the rebellion."
 
 Mulga looked at him. "There is no village at the plain's edge," he said. "There hasn't been for two months."
 
-Tekanter felt a cold realisation come over him. The guys are in trouble.
+The cold of it arrived before the thought did. They are in trouble I have to leave. Tekanter was already moving before he had finished understanding why.
 
 ---
 
 ## V. The Dry Riverbed
 
-There was no village.
+He rushed the way he had come, following landmarks that he saw on the way to the 
 
-Goapus and Jeosmi lay on the cracked mud of the old riverbed, breathing, coming back from whatever had been in the broth. The depression where the dwelling had stood held only the shape of its foundations in the crust — precise, geometric, already smoothing at the edges as the wind worked on it.
-
-Chewbat was not there.
+Goapus and Jeosmi lay on the cracked mud of the old riverbed. Chewbat was not there.
 
 Tekanter waited while they came back to themselves. He said what needed to be said once Jeosmi's eyes had focused and Goapus had managed to sit up, and there was nearly a fight at the end of it, and then he walked away from the fight because the alternative was hitting Goapus and he was not going to do that.
 
@@ -428,7 +422,7 @@ Then she turned to Chewbat and gave him the coordinates for the next world.
 
 Not Tekanter.
 
-Chewbat took them and said nothing. He thought about three days in the coffin and the salt finding no purchase. About the Bunyip at the glass, working with full precision and full patience, reading each thing in him and speaking it into the air and finding it already in motion before the salt could arrive. He thought about what a seam was — the gap between what a creature is and what it reaches toward, the space where what you have and what you want do not meet — and about the salt's need for that gap.
+Chewbat took them and said nothing. He thought about three days in the coffin and the salt finding no purchase. About the Bunyip at the glass, working with full precision and full patience, speaking each thing she found in him into the air and finding it already in motion before the salt could arrive. He thought about what a seam was — the gap between what a creature is and what it reaches toward, the space where what you have and what you want do not meet — and about the salt's need for that gap.
 
 He thought about the jar on the cave floor. The one dark jar in all that blue. The dirty brown water in it, sitting still in the cave's organised cold, the only thing she had kept rather than processed across three centuries of the most thorough filing he had ever encountered.
 
