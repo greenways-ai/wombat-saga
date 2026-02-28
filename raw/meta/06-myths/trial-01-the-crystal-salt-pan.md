@@ -11,14 +11,15 @@ The plain had once held water. The ground still said so — in the pale cracked 
 
 They came down from the Node onto the salt and stopped.
 
-"River," Goapus said. He was crouching, bill to the ground, the way he always attended to unfamiliar terrain. "Old one. Very old. Something in the deep substrate still holds the memory of it." He looked up. "The memory is distressed."
+Goapus was crouching, bill to the ground, the way he always attended to unfamiliar terrain. "Very old. Something in the deep substrate still holds the memory of it." He looked up. "The memory is distressed."
 
-"Distressed," Tekanter said.
-
-"Rivers have feelings about being dried out. This one has been having this particular feeling for several centuries."
+"It's been dry now for many years" Tekanter said.
 
 Across the flat, barely audible at this distance, the singing.
 
+
+The choir should be singing at actual song, not a note. however, it was hauntingly beautiful and always changing -> like a fractal the lyrics are not known. they talk about it and was drawn to the singing but decided to go into the village instead
+<<<
 Chewbat turned toward it without deciding to. His chest opened, briefly, toward the sound — the specific, involuntary opening that a harmony of that quality produces in a singer's body, the way light produces a reflex in the eye. Then the part of him that was not his chest closed the opening again, quietly. The note had not changed since they arrived. Had not wavered, not breathed, not shifted one interval. Technically it was perfect. That was precisely what was wrong with it.
 
 "Don't follow it," Jeosmi said.
@@ -32,18 +33,18 @@ Chewbat turned toward it without deciding to. His chest opened, briefly, toward 
 Tekanter had moved to the edge of one of the dry channels, his gold eyes tracking the horizon. "There's smoke east. Real smoke, not salt haze. Which means something is burning something, which means there's a village." He looked back at them. "Also I am deeply thirsty. Can we."
 
 They went east.
+>>>
+
 
 ---
 
 ## II. Mallee
 
-The village sat at the plain's edge in geometrically perfect depressions, each dwelling low and precise, no ornamentation, everything arranged with the neatness of people who have decided that order is the only reliable response to circumstances they cannot control. The inhabitants moved carefully. They watched the troupe arrive with the specific expression of people who have learned that watching is safer than engaging.
+The village sat at the plain's edge in a perfect depressions, each dwelling low and precise, no ornamentation, The inhabitants moved carefully. They watched the troupe arrive.
 
 An elderly bilby named Mallee met them at the first dwelling. She had warm broth ready — which she did not need to have ready, which meant she had been watching the plain for some time before they arrived.
 
 She told them about the water first. An underground well, still good, but she needed help before she could share it. This she said without apology.
-
-"We're listening," Chewbat said.
 
 "There was a choir," she said. "Forty voices. They sang to the water spirit — she kept the river full, the rains reliable. When the full choir sang, she answered." She set down her cup. "Two months ago, a bilby named Mulga took most of the village away with him. Into the mountains. Without the choir's full number the spirit stopped answering."
 
@@ -55,23 +56,21 @@ She told them about the water first. An underground well, still good, but she ne
 
 She didn't answer that directly. "Creatures go missing from the village," she said. "In the night. Some come back. The ones who come back are — " She stopped at the word, turned it over. "Quieter."
 
-Tekanter had been standing in the doorway, working the room the way he worked a perimeter. He looked at the careful positions of every object in it. At the daughter sitting in the corner, still as furniture, her eyes tracking movement but nothing else.
+Tekanter had been standing in the doorway, working the room the way he worked a perimeter. He looked at the careful positions of every object in it. At the daughter sitting in the corner, still as furniture.
 
 "What do you need us to do with Mulga?" he said.
 
-"Find him. Remove him as a consideration."
+"Kill him, rescue the bilbies. Save our village"
 
-Tekanter and Goapus exchanged the look they exchanged when the word *consideration* was doing a great deal of work on someone's behalf.
+Tekanter and Goapus exchanged the looks.
 
 "I'll go," Tekanter said.
-
-Chewbat looked at his broth. He did not drink it. Jeosmi, seated beside him, also had not drunk his. Their eyes met briefly over the table.
 
 ---
 
 ## III. The Mountain
 
-Tekanter crossed the range in six leaps and found the lair by the sounds coming out of it — the acoustic signature of a group of bodies that had been living in a space long enough to stop being careful about noise. He announced himself to the two guards at the entrance in the way he usually announced himself to guards, which left them sitting against the rock wall looking thoughtful, and called out for whoever was in charge.
+Tekanter crossed the range in six leaps and found the lair by the sounds coming out of itHe announced himself to the two guards at the entrance in the way he usually announced himself to guards, which left them sitting against the rock wall looking thoughtful, and called out for whoever was in charge.
 
 The leader came out.
 
@@ -81,25 +80,19 @@ They fought.
 
 Mulga was matched to Tekanter blow for blow in a way that had no justification in the relative sizes of their bodies. The first strike Tekanter threw was absorbed and returned before he had finished it — not deflected, not dodged, but received and sent back with its own weight added. He adjusted. The second exchange was the same. So was the third. A boot-sized bilby returning a kangaroo's full force squared, with the economy of movement that belongs to someone who has been doing this for a very long time in a very large variety of circumstances.
 
-Tekanter began to take the fight seriously.
+The bilby fights like yoda.
 
 It lasted six exchanges. The bilby fought with precision rather than power — tracking where the weight was going before it arrived, finding the angles, never opposing force directly. Tekanter fought with controlled fire and mass, watching for the pattern in the bilby's movement, not finding one. They stopped at the same moment, four paces apart, taking each other's measure. Both slightly winded. Neither damaged.
 
-Tekanter saw the tattoo.
+Tekanter swung his tail, it caught the bilby by suprise but he ducke under and the tail grazed his fur. for a split second, Tekanter saw on the bilby's neck, an ancient tattoo - Interlocked circles, old ink, the lines worn smooth where the fur had moved over them for years. He would have known the design from fifty paces in poor light. He carries the same mark himself, pressed into the skin below his collarbone on the morning he took the oath — the cold of the instrument, the elder's hands, the specific words said over him while the mark was made, which he has not repeated to anyone. The mark of Discernment. Visible now in the stillness.
 
-On the bilby's neck, visible now in the stillness: the mark of Discernment. Interlocked circles, old ink, the lines worn smooth where the fur had moved over them for years. He would have known the design from fifty paces in poor light. He carries the same mark himself, pressed into the skin below his collarbone on the morning he took the oath — the cold of the instrument, the elder's hands, the specific words said over him while the mark was made, which he has not repeated to anyone.
+His mind flashed back to his training there. It was not founded as a fighting order, though many of its members fight. It was founded as an order standing for nobility and truth. The mark was a living being. when a body honors the mark with true and bravery, the mark glows. otherwise, it dims. The mark was the oath's physical confirmation — the body accepting the constraint, the salt and ink pressed into the skin to hold the agreement in the flesh.
 
-The Order of the Discerning Eye is old enough that its origins are in a period before the Heart-Worlds took their current forms. It was not founded as a fighting order, though many of its members fight. It was founded as a witnessing order — those who could be trusted to carry truth across the hardest ground without distorting it, who could be sent into situations where the information returned needed to be exactly what was there and nothing added and nothing taken away. The oath was simple: *I will report what I find. I will not report what I did not find. I will not lose one for the other regardless of the cost.* The mark was the oath's physical confirmation — the body accepting the constraint, the salt and ink pressed into the skin to hold the agreement in the flesh.
+A member who spoke a falsehood felt it immediately: a specific depletion, as though the power that the oath had given drained back out through the place where the lie had passed. Speak falsely enough and you emptied yourself entirely. Members did not do this by accident, they chose their words with the particular care of someone who has felt the cost. The order had no politics. It had members in the service of the nine wattle celestials.
 
-The constraint had teeth. A member who spoke a falsehood felt it immediately: a specific depletion, as though the power that the oath had given drained back out through the place where the lie had passed. Speak falsely enough and you emptied yourself entirely. Members did not do this by accident. It happened once, to a new initiate, who recovered and was not asked to leave, but who thereafter chose their words with the particular care of someone who has felt the cost.
+Tekanter put down his guard, pulled his fur back on the inside of his tail and showed the same tattoo to the bilby. The bilby was stunned, immediately put away his weapons and bowed.
 
-The order had no politics. It had members in the service of the nine wattle celestials and members who had never met a celestial. It had members in the Cathedral's records and members the Cathedral had been trying to locate for a decade. It had, apparently, bilbies living in the mountains of the Crystal Salt Pan running rescue operations on a half-dried plain.
-
-Tekanter had met eleven members in his life before this. He had not expected the twelfth to be here.
-
-He lowered his hands.
-
-"Talk," he said.
+The bilies brought a table out and the two of them sat down for tea. they talked about life inside the order, as well as their former teachers.
 
 ---
 
@@ -107,27 +100,17 @@ He lowered his hands.
 
 There was no rebellion.
 
-Eighty percent of the village had not followed anyone anywhere of its own choosing. It had been taken — in the night, by shadows — found afterward arranged in formation on the salt plain, faces to the sky, mouths open, singing. Mulga's group had been pulling survivors out for two months. The rescued came back with less than they had left with. He couldn't say what the less was. It moved differently in their eyes.
+The village had been taken — in the night, by shadows. black shadows, binding to their bodyies and forcing them to move. The bilbies that were taken were not able to scream. they moved in silence and horror. They were taken underground and then a week later, groups of the bilbies were found arranged in formation on the salt plain, faces to the sky, mouths open, songs coming from their throats but they themselve were frozen. Mulga's group had been pulling survivors out for two months. The rescued came back with less than they had left with. He couldn't say what the less was. It moved differently in their eyes.
 
-"The water spirit," Tekanter said. "Captured?"
+"What about the water spirit." Tekanter ask?
 
-"Something has her power or has replaced it. The plain is controlled." He used the word carefully. "Systematically."
+We bilbys do not believe in spirits. we have been intuned with life itself that we are the river, we are the trees, we are the stones. our village has never been in need of a spirit as we commune directly with the land. we ask it for water, we give thanks for rain. 
 
-"You've been watching it."
-
-"Two months. The thing below the plain runs a process. It takes a creature, puts it in a glass box, and over seven days it removes whatever in them is still reaching toward something. By the end the body works but the reaching is gone. It goes into a jar." He looked at the rock. "I've recovered eleven survivors. None of them are right. Three of my own people went in after the first rescues and didn't come back."
-
-"And you've stayed."
-
-"I took an oath."
-
-Tekanter did not say anything to that. He understood it exactly.
-
-"The old bilby," he said. "Mallee. The village at the plain's edge. The story about you leading the rebellion."
+Tekanter interrupted: "The old bilby," he said. "Mallee. The village at the plain's edge. The story about you leading the rebellion."
 
 Mulga looked at him. "There is no village at the plain's edge," he said. "There hasn't been for two months."
 
-Tekanter was running before Mulga finished the sentence.
+Tekanter felt a cold realisation come over him. The guys are in trouble.
 
 ---
 
