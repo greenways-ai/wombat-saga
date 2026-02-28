@@ -11,14 +11,17 @@ The plain had once held water. The ground still said so — in the pale cracked 
 
 They came down from the Node onto the salt and stopped.
 
-Goapus was crouching, bill to the ground, the way he always attended to unfamiliar terrain. "Very old. Something in the deep substrate still holds the memory of it." He looked up. "The memory is distressed."
+The sky above them was the same white as the ground below, and the horizon was the seam where they met without distinction. The light came from everywhere and illuminated nothing — flattened the shadows, cancelled depth, left objects standing in the flat white as if they had been placed.
 
-"It's been dry now for many years," Tekanter said.
+Goapus crouched at the plain's edge, bill pressed to the ground. The bill is a sensing organ — it reads current, temperature, the faint electrical signature of what moves beneath the surface. It does not require water to work. It requires contact. He held it to the salt for a long moment, his whole body still, flat tail heavy on the crust behind him, the dark fur of his face close to the white ground. Then he looked up. His eyes, small and set high, carried what he had found.
+
+"Very old. Something in the deep substrate still holds the memory of it. The memory is distressed."
 
 Across the flat, barely audible at this distance, the singing.
 
 Not a note — a song, full and shifting, the kind that changes before you have finished hearing what it was a moment ago. Hauntingly beautiful in the specific way of things that are almost but not quite recognisable: you could follow a phrase of it and feel that you understood it, and then it would fold into something else, something adjacent, and the understanding would not quite carry. The lyrics — if they were lyrics — were in no language any of them had encountered. They might have been a language. They might have been something with the structure of language without the content, the way a dream has a narrative without continuity. The song did not repeat. It built on itself, each phrase a variation of the one before, opening outward the way a fractal opens — always more of the same pattern, never arriving at an edge.
-Chewbat turned toward it without deciding to. His chest opened, briefly, toward the sound — the specific, involuntary opening that a harmony of that quality produces in a singer's body, the way light produces a reflex in the eye. Then the part of him that was not his chest closed the opening again, quietly.
+
+Chewbat turned toward it without deciding to. His chest opened, briefly, toward the sound — the specific, involuntary opening that a harmony of that quality produces in a singer's body, the way light produces a reflex in the eye. Then the part of him that was not his chest closed the opening again, quietly. He was compact in the way wombats are compact: low-slung, dense, built for endurance rather than speed. His fur was the dark grey-brown of deep country, and he held his weight as singers hold their weight — centred, dropped, the breath available at any moment. His paws settled at his sides.
 
 "Don't follow it," Jeosmi said.
 
@@ -28,19 +31,23 @@ Chewbat turned toward it without deciding to. His chest opened, briefly, toward 
 
 "I was considering not considering it."
 
-Tekanter had moved to the edge of one of the dry channels, his gold eyes tracking the horizon. "There's smoke east. Real smoke, not salt haze. Which means something is burning something, which means there's a village." He looked back at them. "Also I am deeply thirsty. Can we."
+Tekanter had moved to the edge of one of the dry channels, his gold eyes tracking the horizon. The gold was not the warm colour of metal or morning light but something further into the spectrum, the gold of a fire's core, and it moved in his irises when he was attending to something. His tail, iron-tipped, hung behind him with the specific weight of something that had been trained into use. The fire he carried was internal — visible at the eyes when it rose, felt at the skin of whatever he touched when it was running high. He stood at the channel's edge with his back to the singing and his eyes east.
+
+"There's smoke east. Real smoke, not salt haze. Which means something is burning something, which means there's a village." He looked back at them. "Also I am deeply thirsty. Can we."
 
 They went east.
 
 The singing did not get quieter as they moved away from it. It stayed at the same distance — not louder, not softer, always just at the edge of what could be made out. Not following them. Simply remaining present, the way a smell remains in a room after the source of it is gone.
 
-
-
+---
 
 ## II. Mallee
 
-The village sat at the plain's edge in low depressions, each dwelling precise and unornamented. The inhabitants moved carefully. They watched the troupe arrive.
-An elderly bilby named Mallee met them at the first dwelling. She had warm broth ready — which she did not need to have ready, which meant she had been watching the plain for some time before they arrived.
+The village sat at the plain's edge in low depressions, each dwelling built downward into the ground rather than upward from it — walls of pale earth packed smooth, doorways rounded, thresholds worn to a clean concavity by years of careful feet. No ornamentation on the outside. Inside, the walls were marked with careful lines: the choir's accumulated notation, generation over generation, the score of the water-song pressed into the plaster with a tool passed down so many times the marks of the hands that had held it were worked into the wood. Verses older than anyone living, in a script that had not changed in two hundred years.
+
+The inhabitants moved through the lanes with a care that had become habit — the particular unhurriedness of a community that has learned to treat the ground it stands on as if it might go away. They watched the travellers arrive from the edges of doorways and from the tops of the low walls, their faces holding something that was closer to a calculation than to hostility.
+
+An elderly bilby named Mallee met them at the first dwelling. She was small even by bilby standards, her ears long and paper-thin with age, the veins in them visible against the late light. The fur at her muzzle had gone silver and fine. Her movements were exact — she poured the broth without looking at what she was doing, her eyes already on the travellers.
 
 She told them about the water first. An underground well, still good, but she needed help before she could share it. This she said without apology.
 
@@ -54,13 +61,19 @@ She told them about the water first. An underground well, still good, but she ne
 
 She didn't answer that directly. "Creatures go missing from the village," she said. "In the night. Some come back. The ones who come back are — " She stopped at the word, turned it over. "Quieter."
 
-Tekanter had been standing in the doorway, working the room the way he worked a perimeter. He looked at the careful positions of every object in it. At the daughter sitting in the corner, still as furniture.
+"How much quieter," Chewbat said.
 
-"What do you need us to do with Mulga?" he said.
+She looked at him. Then she looked at the daughter in the corner.
 
-"Kill him, rescue the bilbies. Save our village"
+The daughter was sitting with her face to the wall, her spine very straight, her ears up and tracking nothing — tracking nothing in the way that ears track when there is nothing left in them to direct. Her fur was pale at the edges with something that was not dust. She had been sitting in that position, by the marks on the floor around her, for some time. Her mouth was slightly open. The sound that came from it was very quiet, and it was the sound of the plain.
 
-Tekanter and Goapus exchanged the looks.
+No one said anything.
+
+"What do you need us to do with Mulga?" Tekanter said. He had been standing in the doorway, and he had seen enough.
+
+"Remove him," she said. "Bring the others back. Restore the choir's number."
+
+Tekanter and Goapus exchanged a look.
 
 "I'll go," Tekanter said.
 
@@ -68,11 +81,11 @@ Tekanter and Goapus exchanged the looks.
 
 ## III. The Mountain
 
-Tekanter crossed the range in six leaps and found the lair by the sounds coming out of itHe announced himself to the two guards at the entrance in the way he usually announced himself to guards, which left them sitting against the rock wall looking thoughtful, and called out for whoever was in charge.
+The range rose sheer from the plain's eastern edge, red rock gone dark in the cooling air, the ridgelines jagged against the white sky. Tekanter crossed it in long leaps — each one covering ground that would have taken an hour on foot, the fire flaring briefly at the peak of each arc, visible in the gold of his eyes even at distance, the iron-tipped tail trailing behind him in the cold. He found the lair by the sounds coming out of it. He announced himself to the two guards at the entrance in the way he usually announced himself to guards, which left them sitting against the rock wall with their weapons beside them and their eyes on the middle distance, and called out for whoever was in charge.
 
 The leader came out.
 
-He was a bilby. The size of a boot. He came without weapons and without hesitation, and his face had the look of someone who has been waiting for something like this to arrive and is almost relieved that it has.
+He was a bilby. The size of a boot. He came without weapons and without hesitation, and his face had the look of someone who has been waiting for something like this to arrive and is almost relieved that it has. His fur was the dark grey of the mountain rock, worn close to the body. Around his waist he wore a cord of twisted plant fibre from which hung a series of small flat stones, each one marked with a different sign in pale pigment — a record of something, or a calling card. They clicked softly when he moved.
 
 They fought.
 
@@ -82,15 +95,13 @@ It lasted six exchanges. The bilby fought with precision rather than power — t
 
 Tekanter swung his tail. The bilby moved under it, fast, but not quite fast enough — the tail grazed the fur at the back of his neck. In the fraction of a second it took to pass, Tekanter saw the mark: interlocked circles on the skin at the neck's base, old ink, the lines worn smooth where the fur had moved over them for years. He would have known the design from fifty paces in poor light. He carried the same mark himself, pressed into the skin below his collarbone on the morning he took the oath — the cold of the instrument, the elder's hands, the specific words said over him while the mark was made, which he has not repeated to anyone. The mark of the Order of Discerning Eye. Visible now in the stillness between them.
 
-Tekanter put down his guard, drew back the fur at the inside of his foreleg, and showed Mulga the same mark. The bilby went still in the way of someone recalibrating everything they had just done. Then he put away his weapons and sat down.
-
 The Order was not founded as a fighting order, though many of its members fight. It was founded to carry what was witnessed without distortion across difficult ground. The oath was exact: *I will report what I find. I will not report what I did not find.* The mark pressed it into the body so the body could not forget. Lie, and the power the oath had given drained back through the place the lie had passed. Speak falsely enough and you emptied yourself entirely. No one who held the mark chose their words lightly. The order had no politics. Its members were on every side of every divide. He had met eleven of them in his life, before today.
 
-Tekanter's mind flashed back to his training there. It was not founded as a fighting order, though many of its members fight. It was founded as an order standing for nobility and truth. The mark was a living being. when a body honors the mark with true and bravery, the mark glows. otherwise, it dims. The mark was the oath's physical confirmation — the body accepting the constraint, the salt and ink pressed into the skin to hold the agreement in the flesh.
+Tekanter put down his guard, drew back the fur at the inside of his foreleg, and showed Mulga the same mark. The bilby went still in the way of someone recalibrating everything they had just done. Then he put away his weapons and sat down.
 
-A member who spoke a falsehood felt it immediately: a specific depletion, as though the power that the oath had given drained back out through the place where the lie had passed. Speak falsely enough and you emptied yourself entirely. Members did not do this by accident, they chose their words with the particular care of someone who has felt the cost. The order had no politics. It had members in the service of the nine wattle celestials.
+The bilbies brought out a table hewn from red rock and set it in the entrance of the lair where the last of the afternoon light came in at an angle, catching the dust in the air and turning it gold. They brought tea in clay vessels, the glaze cracked and repaired with dark resin that left fine lines across the surface like old scarring. The two of them sat across from each other in the cold of the mountain lair and after a moment began to talk — not about the plain yet, but about the Order: teachers they had each known, what it had cost to carry true things through difficult ground, the specific conversation of two people who have taken the same oath and found each other unexpectedly in a hard place.
 
-The bilbies brought out a table. They brought tea. The two of them sat across from each other in the cold of the mountain lair and, after a moment, began to talk — about the Order: teachers they had each known, what it had cost to carry true things through difficult ground, the specific conversation of two people who have taken the same oath and found each other unexpectedly in a hard place.
+---
 
 ## IV. The True Account
 
@@ -102,19 +113,23 @@ The village had been taken — in the night, by shadows. Black energy, binding a
 
 Mulga looked at him steadily. "We are bilbies," he said. "We have no spirits between us and the ground. We are attuned to the land directly — not through any presence that mediates on our behalf. The water came because the water came. We asked the ground for what it had. When it had it, we were grateful. That is the whole of it, and no spirit lives in it."
 
-Tekanter interrupted: "The old bilby," he said. "Mallee. The village at the plain's edge. The story about you leading the rebellion."
+Tekanter waited.
+
+"The old bilby," he said. "Mallee. The village at the plain's edge. The story about you leading the rebellion."
 
 Mulga looked at him. "There is no village at the plain's edge," he said. "There hasn't been for two months."
 
-The cold of it arrived before the thought did. They are in trouble I have to leave. Tekanter was already moving before he had finished understanding why.
+The cold of it arrived before the thought did — the specific cold that comes when information rearranges everything adjacent to it. Tekanter was already moving before he had finished understanding why.
 
 ---
 
 ## V. The Dry Riverbed
 
-He rushed the way he had come, following landmarks that he saw on the way to the 
+He ran back the way he had come, the plain opening before him in its flat white extent, the dead channels crossing his path, the salt breaking under his feet at every landing, the sky above the same white as the ground below so that he moved through a space that had no top and no bottom, only direction.
 
-Goapus and Jeosmi lay on the cracked mud of the old riverbed. Chewbat was not there.
+There was no village.
+
+Goapus and Jeosmi lay on the cracked mud of the old riverbed, breathing, coming back from whatever had been in the broth. The depression where the dwelling had stood held only the outline of its foundations in the crust — precise edges already smoothing where the wind worked on them. Chewbat was not there.
 
 Tekanter waited while they came back to themselves. He said what needed to be said once Jeosmi's eyes had focused and Goapus had managed to sit up, and there was nearly a fight at the end of it, and then he walked away from the fight because the alternative was hitting Goapus and he was not going to do that.
 
@@ -158,15 +173,15 @@ Nothing in them heard him.
 
 He looked at what he was standing in the middle of.
 
-The formation ran from this point outward to every horizon — five arms burned into the salt, each a trench of darker crust, black-edged, the mark of something that had been working in this place long enough to alter the ground's own chemistry. Five sections. In each section, in concentric arcs, in radial lines, in spirals requiring a patience that bodies do not naturally contain—
+The formation ran from this point outward to every horizon — five arms burned into the salt, each a trench of darker crust, black-edged, deliberate at a scale that required centuries rather than hands. Five sections. In each section, in concentric arcs, in radial lines, in spirals requiring a patience that bodies do not naturally contain —
 
 He stood very still for a moment.
 
 They were not formations.
 
-They were what was left of bodies that had been standing in those positions long enough for the salt to take them. From the outside in, crystallising the surface first and moving inward through the years. The oldest were white and featureless as the plain around them, their outlines dissolved into the crust. The newer ones still held faces. The mouths were open. The sound passing through them had the same quality as the sound passing through the bilbies in the ring — continuous, precise, no one inside choosing it. Two hundred of them. More, further out, older, further along.
+They were what was left of bodies that had been standing in those positions long enough for the salt to take them. From the outside in, crystallising the surface first and moving inward through the years. The oldest were white and featureless as the plain around them, their outlines dissolved into the crust — findable only by the slight mounding where the accumulation was thickest, a few inches of height separating the gathered salt from the flat ground around it. The newer ones still held faces. The mouths were open. At the edges of the mouths, the salt was beginning its work — a faint white thickening along the lips, a stillness in the jaw that was not the stillness of living bodies. The sound passing through them had the same quality as the sound passing through the bilbies in the ring — continuous, precise, no one inside choosing it. Two hundred of them. More, further out, older, further along.
 
-Each section oriented toward a cluster of small sealed glass jars at its centre.
+At the centre of each section, embedded in the crust: a cluster of small sealed glass jars, cold to the touch even in the open air, the blue inside them moving faintly when the light hit at an angle.
 
 At the formation's heart: a fissure in the salt. Cold rising from it, steady.
 
@@ -306,10 +321,6 @@ Tekanter tore the chains apart with one straight leap through the geometry of th
 
 "I was in chains," Tekanter said.
 
-"You're always in chains."
-
-"That is empirically not true."
-
 "Goapus is still a thornbush," Jeosmi said, crossing to the second coffin, working the lock at the frequency that dissolved compressed crystal. "Goapus. You can stop now."
 
 Goapus became Goapus. He sat up in the coffin and surveyed the cave with the expression of someone who has just been every taxonomy in sequence. "That," he said, "was a great deal of information."
@@ -324,7 +335,7 @@ They ran up through the fissure and came out onto the plain in the cold white af
 
 She came out as what she had been in the cave — precise, enormous, controlled — and then she shed that shape and showed what was underneath. What was underneath was ancient and hideous in the specific way of something that has organized itself against grief for three centuries and has just watched the organization come apart. She breathed magic. She breathed bonds. The bilbies who had been standing at the fissure's edge holding the shape of themselves she had given them — they released it all at once and were just bilbies again and they ran.
 
-The troupe spread and fought her in the open salt.
+The travellers spread and fought her in the open salt.
 
 "She's working through us," Jeosmi said, already shifting frequency to stay ahead of whatever she found.
 
@@ -414,13 +425,11 @@ Just for her.
 
 ## XV. After
 
-The Celestial stayed with the rabbit for a while and then came to the troupe.
+The Celestial stayed with the rabbit for a while and then came to the travellers.
 
 One of the nine's guardians had run, three centuries ago — had run with another mount, and the other mount had gone north, and what was left behind had done what it was able to do with the materials available. The Celestial thanked them. She was not performing the gratitude. She was also looking at the rabbit while she expressed it, which Tekanter found reasonable under the circumstances.
 
 Then she turned to Chewbat and gave him the coordinates for the next world.
-
-Not Tekanter.
 
 Chewbat took them and said nothing. He thought about three days in the coffin and the salt finding no purchase. About the Bunyip at the glass, working with full precision and full patience, speaking each thing she found in him into the air and finding it already in motion before the salt could arrive. He thought about what a seam was — the gap between what a creature is and what it reaches toward, the space where what you have and what you want do not meet — and about the salt's need for that gap.
 
@@ -431,8 +440,6 @@ He thought he understood why she had not been able to file it.
 Around them the plain was changing — the garden's geometry releasing, the old formations settling as the tension that had held them came undone. The Choir's sound was breaking into individual voices, each one briefly individual, briefly confused, and then one by one: quiet.
 
 Tekanter came beside him. "The next world," he said.
-
-"The Gilded Web."
 
 Tekanter looked out at the dissolving plain. At the small dark rabbit in the Celestial's warmth at the edge. At the jar of dirty river water that was, somewhere below them in the unlocking dark, still sitting on the cave floor.
 
