@@ -1,8 +1,0 @@
-## Word Count Statistics
-
-### By Book
-
-- **sample-book**: 6748 words
-- **the-jacaranda-prophecy**: 31645 words
-
-### Total: 38691 words
